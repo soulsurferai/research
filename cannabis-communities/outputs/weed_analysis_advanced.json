@@ -1,0 +1,226 @@
+{
+  "subreddit": "weed",
+  "n_documents": 761,
+  "n_topics": 12,
+  "extraction_method": "BM25",
+  "avg_coherence": 0.3885205990666831,
+  "noise_ratio": 0.07095926412614981,
+  "topics": [
+    {
+      "id": 10,
+      "label": "Smoking Culture: High",
+      "size": 138,
+      "coherence": 0.33623120229757797,
+      "words": [
+        "high",
+        "smoke",
+        "smoking",
+        "new",
+        "don",
+        "way",
+        "bong",
+        "tolerance",
+        "long",
+        "rules"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Smoking Culture: Weed",
+      "size": 91,
+      "coherence": 0.25159228512700416,
+      "words": [
+        "smoking",
+        "weed",
+        "smoke",
+        "high",
+        "im",
+        "don",
+        "joint",
+        "use",
+        "way",
+        "little"
+      ]
+    },
+    {
+      "id": 9,
+      "label": "Smoking Culture: High",
+      "size": 80,
+      "coherence": 0.4281010249645324,
+      "words": [
+        "smoking",
+        "high",
+        "feel",
+        "smoke",
+        "new",
+        "help",
+        "thc",
+        "edibles",
+        "im",
+        "use"
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Smoking Culture: New",
+      "size": 62,
+      "coherence": 0.2636639749543935,
+      "words": [
+        "smoking",
+        "new",
+        "smell",
+        "high",
+        "smoke",
+        "im",
+        "weed",
+        "edibles",
+        "usually",
+        "don"
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Smoking Culture: Smoke",
+      "size": 62,
+      "coherence": 0.37663069104136904,
+      "words": [
+        "smoke",
+        "does",
+        "flower",
+        "way",
+        "smoking",
+        "weed",
+        "thc",
+        "im",
+        "hits",
+        "high"
+      ]
+    },
+    {
+      "id": 8,
+      "label": "Smoking Culture: Smoke",
+      "size": 60,
+      "coherence": 0.2164349257200184,
+      "words": [
+        "smoking",
+        "smoke",
+        "feel",
+        "weed",
+        "don",
+        "smell",
+        "use",
+        "try",
+        "high",
+        "carts"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Smoking Culture: High",
+      "size": 46,
+      "coherence": 0.4049593408413106,
+      "words": [
+        "high",
+        "smoking",
+        "smoke",
+        "weed",
+        "tried",
+        "flower",
+        "experience",
+        "maybe",
+        "thc",
+        "feel"
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Smoking Culture: Smoke",
+      "size": 46,
+      "coherence": 0.4825469922838696,
+      "words": [
+        "smoke",
+        "smoking",
+        "bought",
+        "pay",
+        "report",
+        "rules",
+        "regular",
+        "taking",
+        "way",
+        "flower"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "Smoking Culture",
+      "size": 44,
+      "coherence": 0.4540887270289184,
+      "words": [
+        "smoke",
+        "does",
+        "rules",
+        "report",
+        "bad",
+        "little",
+        "recently",
+        "high",
+        "ur",
+        "plug"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Smoking Culture: Smoke",
+      "size": 38,
+      "coherence": 0.579052855924566,
+      "words": [
+        "smoke",
+        "feel",
+        "smoking",
+        "different",
+        "seeing",
+        "high",
+        "work",
+        "worth",
+        "bad",
+        "used"
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Smoking Culture: Joint",
+      "size": 23,
+      "coherence": 0.3909115223018518,
+      "words": [
+        "joint",
+        "high",
+        "work",
+        "way",
+        "trying",
+        "does",
+        "don",
+        "roll",
+        "smoke",
+        "buy"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Smoking Culture: Bud",
+      "size": 17,
+      "coherence": 0.4780336463147864,
+      "words": [
+        "bud",
+        "new",
+        "smoking",
+        "super",
+        "friend",
+        "smoke",
+        "anxiety",
+        "way",
+        "hash",
+        "pack"
+      ]
+    }
+  ]
+}

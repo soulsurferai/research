@@ -1,0 +1,118 @@
+{
+  "subreddit": "trees",
+  "n_documents": 796,
+  "n_topics": 6,
+  "extraction_method": "BM25",
+  "avg_coherence": 0.42893853298569745,
+  "noise_ratio": 0.0,
+  "topics": [
+    {
+      "id": 3,
+      "label": "Smoking Culture: Weed",
+      "size": 205,
+      "coherence": 0.5396958063561188,
+      "words": [
+        "weed",
+        "high",
+        "smoke",
+        "smoking",
+        "feel",
+        "don",
+        "little",
+        "smoked",
+        "use",
+        "maybe"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Smoking Culture",
+      "size": 171,
+      "coherence": 0.28004572444543824,
+      "words": [
+        "smoke",
+        "weed",
+        "bong",
+        "don",
+        "use",
+        "feel",
+        "clean",
+        "help",
+        "best",
+        "water"
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Smoking Culture: Weed",
+      "size": 166,
+      "coherence": 0.4154745238967989,
+      "words": [
+        "weed",
+        "smoke",
+        "high",
+        "don",
+        "smoking",
+        "joint",
+        "feel",
+        "happy",
+        "work",
+        "better"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Smoking Culture: Weed",
+      "size": 122,
+      "coherence": 0.28607046517217816,
+      "words": [
+        "weed",
+        "does",
+        "high",
+        "smoke",
+        "smoking",
+        "little",
+        "don",
+        "flower",
+        "bad",
+        "bought"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Cannabinoid Science: Weed",
+      "size": 109,
+      "coherence": 0.361253027012949,
+      "words": [
+        "weed",
+        "smoke",
+        "use",
+        "high",
+        "thc",
+        "smoking",
+        "help",
+        "work",
+        "does",
+        "vape"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "Cannabinoid Science",
+      "size": 23,
+      "coherence": 0.6910916510307016,
+      "words": [
+        "stuff",
+        "does",
+        "flower",
+        "home",
+        "thc",
+        "fat",
+        "smoking",
+        "test",
+        "tests",
+        "line"
+      ]
+    }
+  ]
+}

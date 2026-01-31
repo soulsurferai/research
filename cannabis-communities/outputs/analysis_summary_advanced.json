@@ -1,0 +1,1142 @@
+{
+  "cannabis": {
+    "subreddit": "cannabis",
+    "n_documents": 402,
+    "n_topics": 6,
+    "extraction_method": "MMR",
+    "avg_coherence": 0.5846936908548669,
+    "noise_ratio": 0.0,
+    "topics": [
+      {
+        "id": 5,
+        "label": "Cannabis Don",
+        "size": 108,
+        "coherence": 0.38641277991748074,
+        "words": [
+          "cannabis",
+          "don",
+          "weed",
+          "use",
+          "alcohol",
+          "marijuana",
+          "effects",
+          "cause",
+          "feel",
+          "smoke"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Political Landscape",
+        "size": 96,
+        "coherence": 0.5615120009869808,
+        "words": [
+          "marijuana",
+          "trump",
+          "cannabis",
+          "biden",
+          "don",
+          "legalization",
+          "president",
+          "state",
+          "actually",
+          "states"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Legalization Movement",
+        "size": 66,
+        "coherence": 0.40405870839173924,
+        "words": [
+          "dea",
+          "weed",
+          "legal",
+          "cannabis",
+          "money",
+          "marijuana",
+          "war",
+          "don",
+          "let",
+          "medical"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Legalization Movement: Cannabis",
+        "size": 63,
+        "coherence": 0.7206412634292458,
+        "words": [
+          "cannabis",
+          "grow",
+          "thc",
+          "legal",
+          "plant",
+          "market",
+          "experience",
+          "weed",
+          "started",
+          "dispensaries"
+        ]
+      },
+      {
+        "id": 1,
+        "label": "Financial Health",
+        "size": 49,
+        "coherence": 0.15922046508361154,
+        "words": [
+          "marijuana",
+          "weed",
+          "cannabis",
+          "government",
+          "money",
+          "drug",
+          "say",
+          "way",
+          "yeah",
+          "medical"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "State Politics",
+        "size": 20,
+        "coherence": 1.2763169273201431,
+        "words": [
+          "texas",
+          "stop",
+          "better",
+          "plant",
+          "pay",
+          "anxiety",
+          "thc",
+          "pissing",
+          "cannabis right",
+          "maybe"
+        ]
+      }
+    ]
+  },
+  "weed": {
+    "subreddit": "weed",
+    "n_documents": 761,
+    "n_topics": 12,
+    "extraction_method": "BM25",
+    "avg_coherence": 0.3885205990666831,
+    "noise_ratio": 0.07095926412614981,
+    "topics": [
+      {
+        "id": 10,
+        "label": "Smoking Culture: High",
+        "size": 138,
+        "coherence": 0.33623120229757797,
+        "words": [
+          "high",
+          "smoke",
+          "smoking",
+          "new",
+          "don",
+          "way",
+          "bong",
+          "tolerance",
+          "long",
+          "rules"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Smoking Culture: Weed",
+        "size": 91,
+        "coherence": 0.25159228512700416,
+        "words": [
+          "smoking",
+          "weed",
+          "smoke",
+          "high",
+          "im",
+          "don",
+          "joint",
+          "use",
+          "way",
+          "little"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "Smoking Culture: High",
+        "size": 80,
+        "coherence": 0.4281010249645324,
+        "words": [
+          "smoking",
+          "high",
+          "feel",
+          "smoke",
+          "new",
+          "help",
+          "thc",
+          "edibles",
+          "im",
+          "use"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Smoking Culture: New",
+        "size": 62,
+        "coherence": 0.2636639749543935,
+        "words": [
+          "smoking",
+          "new",
+          "smell",
+          "high",
+          "smoke",
+          "im",
+          "weed",
+          "edibles",
+          "usually",
+          "don"
+        ]
+      },
+      {
+        "id": 11,
+        "label": "Smoking Culture: Smoke",
+        "size": 62,
+        "coherence": 0.37663069104136904,
+        "words": [
+          "smoke",
+          "does",
+          "flower",
+          "way",
+          "smoking",
+          "weed",
+          "thc",
+          "im",
+          "hits",
+          "high"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Smoking Culture: Smoke",
+        "size": 60,
+        "coherence": 0.2164349257200184,
+        "words": [
+          "smoking",
+          "smoke",
+          "feel",
+          "weed",
+          "don",
+          "smell",
+          "use",
+          "try",
+          "high",
+          "carts"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Smoking Culture: High",
+        "size": 46,
+        "coherence": 0.4049593408413106,
+        "words": [
+          "high",
+          "smoking",
+          "smoke",
+          "weed",
+          "tried",
+          "flower",
+          "experience",
+          "maybe",
+          "thc",
+          "feel"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Smoking Culture: Smoke",
+        "size": 46,
+        "coherence": 0.4825469922838696,
+        "words": [
+          "smoke",
+          "smoking",
+          "bought",
+          "pay",
+          "report",
+          "rules",
+          "regular",
+          "taking",
+          "way",
+          "flower"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "Smoking Culture",
+        "size": 44,
+        "coherence": 0.4540887270289184,
+        "words": [
+          "smoke",
+          "does",
+          "rules",
+          "report",
+          "bad",
+          "little",
+          "recently",
+          "high",
+          "ur",
+          "plug"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Smoking Culture: Smoke",
+        "size": 38,
+        "coherence": 0.579052855924566,
+        "words": [
+          "smoke",
+          "feel",
+          "smoking",
+          "different",
+          "seeing",
+          "high",
+          "work",
+          "worth",
+          "bad",
+          "used"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "Smoking Culture: Joint",
+        "size": 23,
+        "coherence": 0.3909115223018518,
+        "words": [
+          "joint",
+          "high",
+          "work",
+          "way",
+          "trying",
+          "does",
+          "don",
+          "roll",
+          "smoke",
+          "buy"
+        ]
+      },
+      {
+        "id": 1,
+        "label": "Smoking Culture: Bud",
+        "size": 17,
+        "coherence": 0.4780336463147864,
+        "words": [
+          "bud",
+          "new",
+          "smoking",
+          "super",
+          "friend",
+          "smoke",
+          "anxiety",
+          "way",
+          "hash",
+          "pack"
+        ]
+      }
+    ]
+  },
+  "trees": {
+    "subreddit": "trees",
+    "n_documents": 796,
+    "n_topics": 6,
+    "extraction_method": "BM25",
+    "avg_coherence": 0.42893853298569745,
+    "noise_ratio": 0.0,
+    "topics": [
+      {
+        "id": 3,
+        "label": "Smoking Culture: Weed",
+        "size": 205,
+        "coherence": 0.5396958063561188,
+        "words": [
+          "weed",
+          "high",
+          "smoke",
+          "smoking",
+          "feel",
+          "don",
+          "little",
+          "smoked",
+          "use",
+          "maybe"
+        ]
+      },
+      {
+        "id": 1,
+        "label": "Smoking Culture",
+        "size": 171,
+        "coherence": 0.28004572444543824,
+        "words": [
+          "smoke",
+          "weed",
+          "bong",
+          "don",
+          "use",
+          "feel",
+          "clean",
+          "help",
+          "best",
+          "water"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Smoking Culture: Weed",
+        "size": 166,
+        "coherence": 0.4154745238967989,
+        "words": [
+          "weed",
+          "smoke",
+          "high",
+          "don",
+          "smoking",
+          "joint",
+          "feel",
+          "happy",
+          "work",
+          "better"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Smoking Culture: Weed",
+        "size": 122,
+        "coherence": 0.28607046517217816,
+        "words": [
+          "weed",
+          "does",
+          "high",
+          "smoke",
+          "smoking",
+          "little",
+          "don",
+          "flower",
+          "bad",
+          "bought"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Cannabinoid Science: Weed",
+        "size": 109,
+        "coherence": 0.361253027012949,
+        "words": [
+          "weed",
+          "smoke",
+          "use",
+          "high",
+          "thc",
+          "smoking",
+          "help",
+          "work",
+          "does",
+          "vape"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "Cannabinoid Science",
+        "size": 23,
+        "coherence": 0.6910916510307016,
+        "words": [
+          "stuff",
+          "does",
+          "flower",
+          "home",
+          "thc",
+          "fat",
+          "smoking",
+          "test",
+          "tests",
+          "line"
+        ]
+      }
+    ]
+  },
+  "Marijuana": {
+    "subreddit": "Marijuana",
+    "n_documents": 664,
+    "n_topics": 12,
+    "extraction_method": "BM25",
+    "avg_coherence": 0.6996516267624763,
+    "noise_ratio": 0.17319277108433734,
+    "topics": [
+      {
+        "id": 7,
+        "label": "Cannabinoid Science: Marijuana",
+        "size": 128,
+        "coherence": 0.36867704325731315,
+        "words": [
+          "marijuana",
+          "cannabis",
+          "weed",
+          "don",
+          "thc",
+          "legal",
+          "use",
+          "new",
+          "hemp",
+          "smoking"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Smoking Culture: High",
+        "size": 80,
+        "coherence": 0.7448238799856657,
+        "words": [
+          "high",
+          "smoking",
+          "smoke",
+          "smoked",
+          "felt",
+          "happened",
+          "thing",
+          "body",
+          "experience",
+          "friend"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Cannabinoid Science",
+        "size": 60,
+        "coherence": 0.4296635926342616,
+        "words": [
+          "oil",
+          "gummies",
+          "weed",
+          "thc",
+          "use",
+          "better",
+          "tried",
+          "tincture",
+          "smoke",
+          "rso"
+        ]
+      },
+      {
+        "id": 11,
+        "label": "Smoking Culture: Chs",
+        "size": 51,
+        "coherence": 0.39613366934534294,
+        "words": [
+          "chs",
+          "heart",
+          "smoked",
+          "does",
+          "lot",
+          "high",
+          "throw",
+          "don",
+          "help",
+          "thc"
+        ]
+      },
+      {
+        "id": 1,
+        "label": "Smoking Culture",
+        "size": 50,
+        "coherence": 0.2865123986278502,
+        "words": [
+          "vape",
+          "bong",
+          "smoke",
+          "pen",
+          "cart",
+          "don",
+          "does",
+          "high",
+          "weed",
+          "better"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Cannabinoid Science: Indica",
+        "size": 50,
+        "coherence": 0.7784918154333766,
+        "words": [
+          "indica",
+          "strains",
+          "sativa",
+          "thc",
+          "strain",
+          "smoke",
+          "best",
+          "anxiety",
+          "recommendations",
+          "tried"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Smoking Culture: Don",
+        "size": 39,
+        "coherence": 0.3925956087991654,
+        "words": [
+          "don",
+          "high",
+          "weed",
+          "smoked",
+          "try",
+          "break",
+          "week",
+          "thing",
+          "old",
+          "used"
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Advice & Support",
+        "size": 23,
+        "coherence": 0.5154331177999568,
+        "words": [
+          "help",
+          "used",
+          "stop",
+          "indica",
+          "life",
+          "bad",
+          "smoking weed",
+          "week",
+          "paranoid",
+          "high"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "Tolerance & Testing",
+        "size": 22,
+        "coherence": 1.1368277513057388,
+        "words": [
+          "quit",
+          "cold turkey",
+          "cold",
+          "turkey",
+          "test",
+          "sleep",
+          "ago",
+          "anxiety",
+          "weeks",
+          "symptoms"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Room Plastic",
+        "size": 18,
+        "coherence": 0.9397353989443418,
+        "words": [
+          "room",
+          "plastic",
+          "window",
+          "work",
+          "apartment",
+          "real",
+          "cover",
+          "try",
+          "advice",
+          "stop"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Cultivation",
+        "size": 15,
+        "coherence": 0.6449557701769608,
+        "words": [
+          "old",
+          "grow",
+          "best",
+          "grown",
+          "grower",
+          "don",
+          "dead",
+          "new",
+          "weed",
+          "help"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "Graft Gum Graft",
+        "size": 13,
+        "coherence": 1.7619694748397403,
+        "words": [
+          "graft",
+          "gum graft",
+          "gum",
+          "hurts",
+          "hit",
+          "wait",
+          "period",
+          "point",
+          "week",
+          "surgery"
+        ]
+      }
+    ]
+  },
+  "weedstocks": {
+    "subreddit": "weedstocks",
+    "n_documents": 538,
+    "n_topics": 18,
+    "extraction_method": "BM25",
+    "avg_coherence": 0.6481741053728055,
+    "noise_ratio": 0.1412639405204461,
+    "topics": [
+      {
+        "id": 15,
+        "label": "Industry News: Cannabis",
+        "size": 81,
+        "coherence": 0.15656846119099013,
+        "words": [
+          "cannabis",
+          "don",
+          "msos",
+          "stock",
+          "companies",
+          "money",
+          "marijuana",
+          "didn",
+          "thought",
+          "dea"
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Industry News: Market",
+        "size": 76,
+        "coherence": 0.1999404360957041,
+        "words": [
+          "market",
+          "cannabis",
+          "marijuana",
+          "money",
+          "stocks",
+          "trump",
+          "weed",
+          "company",
+          "msos",
+          "medical"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Stock Market: Marijuana",
+        "size": 42,
+        "coherence": 0.3809788151675544,
+        "words": [
+          "marijuana",
+          "don",
+          "green",
+          "senate",
+          "msos",
+          "state",
+          "sure",
+          "cannabis",
+          "long",
+          "market"
+        ]
+      },
+      {
+        "id": 14,
+        "label": "Political Landscape: Cannabis",
+        "size": 33,
+        "coherence": 0.30151388953079844,
+        "words": [
+          "cannabis",
+          "companies",
+          "sell",
+          "biden",
+          "pass",
+          "trump",
+          "state",
+          "market",
+          "doing",
+          "believe"
+        ]
+      },
+      {
+        "id": 16,
+        "label": "Political Landscape: Yeah",
+        "size": 24,
+        "coherence": 0.3204505362448236,
+        "words": [
+          "yeah",
+          "point",
+          "don",
+          "market",
+          "trump",
+          "cannabis",
+          "issue",
+          "works",
+          "money",
+          "sector"
+        ]
+      },
+      {
+        "id": 11,
+        "label": "Industry News: Money",
+        "size": 24,
+        "coherence": 0.47157208682034757,
+        "words": [
+          "money",
+          "marijuana",
+          "taking",
+          "use",
+          "company",
+          "sector",
+          "law",
+          "tomorrow",
+          "dea",
+          "board"
+        ]
+      },
+      {
+        "id": 9,
+        "label": "Federal Rescheduling: Hemp",
+        "size": 23,
+        "coherence": 0.6840598404378191,
+        "words": [
+          "hemp",
+          "medical",
+          "companies",
+          "dea",
+          "right",
+          "patients",
+          "medical cannabis",
+          "product",
+          "company",
+          "market"
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Political Landscape",
+        "size": 23,
+        "coherence": 0.7626850781723571,
+        "words": [
+          "trump",
+          "new",
+          "sales",
+          "marijuana",
+          "says",
+          "haven",
+          "dea",
+          "today",
+          "billion",
+          "aren"
+        ]
+      },
+      {
+        "id": 12,
+        "label": "Industry News: Position",
+        "size": 19,
+        "coherence": 0.8635438360311254,
+        "words": [
+          "position",
+          "new",
+          "doesn",
+          "cash",
+          "company",
+          "village farms",
+          "village",
+          "farms",
+          "state",
+          "open"
+        ]
+      },
+      {
+        "id": 7,
+        "label": "Legalization Movement",
+        "size": 18,
+        "coherence": 0.8483671032310403,
+        "words": [
+          "company",
+          "don",
+          "legal",
+          "worth",
+          "doesn",
+          "legalizing",
+          "sectors",
+          "medical",
+          "state",
+          "voters"
+        ]
+      },
+      {
+        "id": 1,
+        "label": "Stock Market",
+        "size": 15,
+        "coherence": 0.5741261431103969,
+        "words": [
+          "sector",
+          "fl",
+          "election",
+          "cannabis stocks",
+          "stocks",
+          "industry",
+          "support",
+          "taking",
+          "don",
+          "canada"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Industry News",
+        "size": 14,
+        "coherence": 0.7403319723572555,
+        "words": [
+          "cannabis",
+          "chance",
+          "market",
+          "debt",
+          "tilray",
+          "marijuana",
+          "hearing",
+          "judge",
+          "rescheduling",
+          "additional"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Cannabinoid Science",
+        "size": 14,
+        "coherence": 0.7339416688156853,
+        "words": [
+          "new",
+          "sales",
+          "feel",
+          "thc",
+          "pay",
+          "ago",
+          "list",
+          "cole",
+          "current",
+          "company"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "State Politics",
+        "size": 12,
+        "coherence": 0.6460032906965933,
+        "words": [
+          "record",
+          "florida",
+          "trump",
+          "market",
+          "did",
+          "vote",
+          "sndl",
+          "hemp",
+          "company",
+          "harris"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Federal Rescheduling",
+        "size": 12,
+        "coherence": 0.841062806349558,
+        "words": [
+          "dea",
+          "companies",
+          "medical cannabis",
+          "medical",
+          "week",
+          "legalization",
+          "end",
+          "federal",
+          "list",
+          "needs"
+        ]
+      },
+      {
+        "id": 13,
+        "label": "Current Wellness",
+        "size": 11,
+        "coherence": 0.9375213919639043,
+        "words": [
+          "current",
+          "wellness",
+          "government",
+          "gop",
+          "price",
+          "marijuana",
+          "ayr",
+          "cresco",
+          "believe",
+          "run"
+        ]
+      },
+      {
+        "id": 17,
+        "label": "Stock Market: Msos",
+        "size": 11,
+        "coherence": 1.1858914433730385,
+        "words": [
+          "msos",
+          "hiti",
+          "germany",
+          "hemp",
+          "brought",
+          "news",
+          "thc",
+          "fuck",
+          "big",
+          "stocks"
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Cannabinoid Science: Marijuana",
+        "size": 10,
+        "coherence": 1.0185750971215068,
+        "words": [
+          "marijuana",
+          "thc",
+          "hemp",
+          "products",
+          "gti",
+          "msos",
+          "green thumb",
+          "green",
+          "thumb",
+          "new"
+        ]
+      }
+    ]
+  },
+  "weedbiz": {
+    "subreddit": "weedbiz",
+    "n_documents": 1083,
+    "n_topics": 6,
+    "extraction_method": "BM25",
+    "avg_coherence": 0.2723061113129186,
+    "noise_ratio": 0.0,
+    "topics": [
+      {
+        "id": 1,
+        "label": "Retail Operations",
+        "size": 273,
+        "coherence": 0.24210559410365148,
+        "words": [
+          "industry",
+          "business",
+          "new",
+          "help",
+          "don",
+          "work",
+          "market",
+          "dispensary",
+          "state",
+          "high"
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Retail Operations: Cannabis",
+        "size": 265,
+        "coherence": 0.1932176357918733,
+        "words": [
+          "cannabis",
+          "industry",
+          "don",
+          "business",
+          "dispensary",
+          "weed",
+          "work",
+          "market",
+          "state",
+          "new"
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Retail Operations: Weed",
+        "size": 211,
+        "coherence": 0.21790828963484077,
+        "words": [
+          "weed",
+          "industry",
+          "don",
+          "business",
+          "work",
+          "cannabis",
+          "dispensary",
+          "legal",
+          "use",
+          "dispensaries"
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Retail Operations: Work",
+        "size": 199,
+        "coherence": 0.24995969487410644,
+        "words": [
+          "work",
+          "industry",
+          "don",
+          "job",
+          "business",
+          "weed",
+          "cannabis",
+          "new",
+          "market",
+          "company"
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Retail Operations: Weed",
+        "size": 109,
+        "coherence": 0.2599770702552208,
+        "words": [
+          "weed",
+          "cannabis",
+          "business",
+          "product",
+          "work",
+          "industry",
+          "help",
+          "sell",
+          "company",
+          "new"
+        ]
+      },
+      {
+        "id": 0,
+        "label": "Industry News",
+        "size": 26,
+        "coherence": 0.47066838321781873,
+        "words": [
+          "don",
+          "seeds",
+          "say",
+          "start",
+          "cannabis industry",
+          "advice",
+          "industry",
+          "work",
+          "trying",
+          "hear"
+        ]
+      }
+    ]
+  }
+}

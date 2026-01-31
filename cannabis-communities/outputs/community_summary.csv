@@ -1,0 +1,7 @@
+subreddit,documents,topics,avg_coherence,method,primary_focus
+cannabis,402,6,0.585,MMR,See detailed analysis
+weed,761,12,0.389,BM25,See detailed analysis
+trees,796,6,0.429,BM25,See detailed analysis
+Marijuana,664,12,0.7,BM25,See detailed analysis
+weedstocks,538,18,0.648,BM25,See detailed analysis
+weedbiz,1083,6,0.272,BM25,See detailed analysis
