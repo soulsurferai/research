@@ -1,0 +1,1144 @@
+{
+  "movie": "The Watchers",
+  "analysis_date": "2025-10-21T12:57:25.556475",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Watchers",
+      "total_reviews": 344,
+      "rating_distribution": {
+        "1": 34,
+        "2": 15,
+        "3": 25,
+        "4": 34,
+        "5": 48,
+        "6": 86,
+        "7": 63,
+        "8": 26,
+        "9": 5,
+        "10": 8
+      },
+      "avg_rating": 5.247093023255814,
+      "rating_variance": 4.7929944403010385,
+      "rating_segments": {
+        "lovers_8_10": 39,
+        "lovers_pct": 11.3,
+        "mixed_4_7": 231,
+        "mixed_pct": 67.2,
+        "haters_1_3": 74,
+        "haters_pct": 21.5
+      },
+      "gender_breakdown": {
+        "male": 228,
+        "female": 49,
+        "unknown": 67,
+        "coverage_pct": 80.5
+      },
+      "temporal_segments": {
+        "Opening Year": 308,
+        "Year 2": 36
+      },
+      "engagement": {
+        "reviews_with_votes": 333,
+        "engagement_pct": 96.8,
+        "avg_votes_per_review": 16.88081395348837,
+        "avg_helpfulness_ratio": 0.6453216002186449
+      }
+    },
+    "what_resonated": {
+      "movie": "The Watchers",
+      "total_lovers": 39,
+      "lovers_pct_of_all_reviews": 11.3,
+      "gender_segmentation": {
+        "male": 25,
+        "male_pct": 64.1,
+        "female": 3,
+        "female_pct": 7.7,
+        "unknown": 11
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.10101426064096068,
+          "trust": 0.10601877525390968,
+          "fear": 0.07997178111453676,
+          "surprise": 0.0777747938941288,
+          "sadness": 0.0785606286560005,
+          "disgust": 0.045342530213226984,
+          "anger": 0.05629439169215051,
+          "anticipation": 0.1250885870870302
+        },
+        "male_lovers": {
+          "joy": 0.10521747545457506,
+          "trust": 0.11055324917269865,
+          "fear": 0.07661929401375109,
+          "surprise": 0.07447749098687578,
+          "sadness": 0.08129547875292271,
+          "disgust": 0.04217364877059634,
+          "anger": 0.0501238924951775,
+          "anticipation": 0.1278128329152497
+        },
+        "female_lovers": {
+          "joy": 0.09424603174603174,
+          "trust": 0.0788690476190476,
+          "fear": 0.10714285714285714,
+          "surprise": 0.11259920634920634,
+          "sadness": 0.07589285714285714,
+          "disgust": 0.06547619047619047,
+          "anger": 0.11507936507936507,
+          "anticipation": 0.07837301587301587
+        }
+      },
+      "love_statements": {
+        "count": 12,
+        "percentage": 30.8,
+        "quotes": [
+          {
+            "review_id": "imdb_the_watchers_aadilskits_20240823",
+            "reviewer": "aadilskits",
+            "rating": 8,
+            "content": "Its more of a folklore horror but what i loved most about this movie is; 1.",
+            "engagement": 57
+          },
+          {
+            "review_id": "imdb_the_watchers_rrzypzmt_20240901",
+            "reviewer": "rrzypzmt",
+            "rating": 8,
+            "content": "I enjoyed this film.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_watchers_frdnd_41789_20240824",
+            "reviewer": "frdnd-41789",
+            "rating": 9,
+            "content": "It didn't rely on jump scares, and it had a really good mash of folklore and horror.",
+            "engagement": 12
+          },
+          {
+            "review_id": "imdb_the_watchers_maryoraffael_20240629",
+            "reviewer": "maryoraffael",
+            "rating": 10,
+            "content": "I love this movies and ive seen so much worse than this.",
+            "engagement": 12
+          },
+          {
+            "review_id": "imdb_the_watchers_janeneunruh_20240830",
+            "reviewer": "janeneunruh",
+            "rating": 10,
+            "content": "This movie was very good.",
+            "engagement": 9
+          },
+          {
+            "review_id": "imdb_the_watchers_wolfgovaerts_20240702",
+            "reviewer": "wolfgovaerts",
+            "rating": 8,
+            "content": "Dakota Fanning is so so good. ||| The other actors are also good but they didn't give me the same level of intensity as Dakota.",
+            "engagement": 8
+          },
+          {
+            "review_id": "imdb_the_watchers_joshuamercott_20240703",
+            "reviewer": "JoshuaMercott",
+            "rating": 8,
+            "content": "I loved everything about the Fae's backstory and ancient roots, including our once-upon-a-time co-existence with this extraordinary species, and the potential for their 'changeling' natures to adopt the shape of someone living or dead.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_watchers_juicebox07_20240831",
+            "reviewer": "juicebox07",
+            "rating": 8,
+            "content": "I read the book by A. M. Shine first, which I absolutely loved. ||| To say I loved the movie would be an overstatement, and it's not perfect or mind blowing by any means. ||| I appreciated the authenticity.",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_the_watchers_pedrorosrod_20240721",
+            "reviewer": "PedroRosRod",
+            "rating": 8,
+            "content": "The scoreplay was really good. ||| The acting wasn't really good nor bad.",
+            "engagement": 5
+          },
+          {
+            "review_id": "imdb_the_watchers_fgtranime_20240712",
+            "reviewer": "Fgtranime",
+            "rating": 8,
+            "content": "Yes, some lines very cringy, yes, the protagonist killed her mom with defiance yet she still on it on daily basics, yes there is many plot holes (how the house was built, the road to the cursed forest, the reality tv show plot that turned into they just trapped...), but still I enjoyed it and I'm sure many well if they ignored the reviews and hoped on reddit to see the theories and analysis about this movie, been a long time since I enjoyed something people hated.",
+            "engagement": 3
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 71.2248717948718,
+        "avg_grade_level": 7.423076923076923,
+        "avg_first_person_ratio": 2.992165569265612,
+        "avg_exclamations": 0.5897435897435898
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 23,
+        "comparison_pct": 59.0
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Watchers",
+      "total_haters": 74,
+      "haters_pct_of_all_reviews": 21.5,
+      "gender_segmentation": {
+        "male": 53,
+        "male_pct": 71.6,
+        "female": 11,
+        "female_pct": 14.9,
+        "unknown": 10
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.06621942001444113,
+          "disgust": 0.07860582465723931,
+          "sadness": 0.09013897936134527,
+          "fear": 0.09075545158838823
+        },
+        "male_haters": {
+          "anger": 0.06687742910172333,
+          "disgust": 0.07757015448663732,
+          "sadness": 0.0885425089662896,
+          "fear": 0.0937197847377791
+        },
+        "female_haters": {
+          "anger": 0.06844893273628258,
+          "disgust": 0.08442634674705242,
+          "sadness": 0.09686263628776225,
+          "fear": 0.08616780448358119
+        }
+      },
+      "hate_statements": {
+        "count": 11,
+        "percentage": 14.9,
+        "quotes": [
+          {
+            "review_id": "imdb_the_watchers_rmmil_20240607",
+            "reviewer": "rmmil",
+            "rating": 3,
+            "content": "First of all, I'd like to point out that nepotism can be a very bad thing, and this film is an example of that.",
+            "engagement": 157
+          },
+          {
+            "review_id": "imdb_the_watchers_rosecalifornia_20240609",
+            "reviewer": "rosecalifornia",
+            "rating": 1,
+            "content": "When really bad poorly written and executed scripts make it to the big screen - yet, really good scripts, ideas cant even see the light of day. ||| Don't waste your time unless you feel like wasting money and want to be left scratch hing your head as to why continue to burn money up over really bad films and then later pat themselves on the back over these same bad films.",
+            "engagement": 144
+          },
+          {
+            "review_id": "imdb_the_watchers_davidmagowan_32996_20240606",
+            "reviewer": "davidmagowan-32996",
+            "rating": 1,
+            "content": "Awful dialogue and a completely undercooked story wouldn't be so bad if any of the scare scenes worked but they don't and the cast can do little to make it, ironically, even watchable.",
+            "engagement": 44
+          },
+          {
+            "review_id": "imdb_the_watchers_dp_41102_20240609",
+            "reviewer": "dp-41102",
+            "rating": 1,
+            "content": "The writing is so bad at times and the pacing is slow to a crawl.",
+            "engagement": 39
+          },
+          {
+            "review_id": "imdb_the_watchers_whereismscarla_20240720",
+            "reviewer": "whereismscarla",
+            "rating": 3,
+            "content": "I hated this movie and glad I didn't pay for it.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_watchers_teo_49910_20240918",
+            "reviewer": "teo-49910",
+            "rating": 1,
+            "content": "I have never in my 22 years on this planet left a review on something, never ever but this movie was so bad that I had to create an account just to make this review and hopefully save your time. ||| The idea was good but the way the story unfolded was really bad, it seemed like they just started producing the movie with one idea and then got more ideas along the way which they added later on to the storyline but also the time was running out so they just put it all together and created this masterpiece.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_watchers_eldanjuanvicente_20240701",
+            "reviewer": "eldanjuanvicente",
+            "rating": 3,
+            "content": "It's really really bad.. Not only does it look like it was made for children, but it also looks like it was made BY a child! ||| The direction is so bad that even good actors ended looking like amateurs.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_watchers_damorejj_20241013",
+            "reviewer": "damorejj",
+            "rating": 2,
+            "content": "Sadly I was disappointed.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_watchers_arfdawg_1_20240627",
+            "reviewer": "arfdawg-1",
+            "rating": 3,
+            "content": "I was bored through quite a bit because of this.",
+            "engagement": 5
+          },
+          {
+            "review_id": "imdb_the_watchers_manahilasim_20240628",
+            "reviewer": "manahilasim",
+            "rating": 3,
+            "content": "The script was so bad it felt like it was written by a 12yr boy frustrated because of puberty.",
+            "engagement": 5
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 12,
+        "percentage": 16.2,
+        "quotes": [
+          {
+            "review_id": "imdb_the_watchers_amandacallendar_20240615",
+            "reviewer": "amandacallendar",
+            "rating": 1,
+            "content": "This is almost a completely different story than the one I read, unfortunately.",
+            "engagement": 84
+          },
+          {
+            "review_id": "imdb_the_watchers_nerdbox_dave_20240608",
+            "reviewer": "nERDbOX_Dave",
+            "rating": 2,
+            "content": "Unfortunately, that unease eventually curdles into frustration as the film descends into a predictable twist and a blatant attempt to launch a franchise.",
+            "engagement": 34
+          },
+          {
+            "review_id": "imdb_the_watchers_grayslawson_20240629",
+            "reviewer": "grayslawson",
+            "rating": 1,
+            "content": "I wish I could get those 2 hours of my life back.",
+            "engagement": 17
+          },
+          {
+            "review_id": "imdb_the_watchers_jit_23697_20240704",
+            "reviewer": "jit-23697",
+            "rating": 1,
+            "content": "If it's good acting then you want to keep watching it but because I started watching I was made to finish it which is one thing I regret I should have just turned it off.",
+            "engagement": 14
+          },
+          {
+            "review_id": "imdb_the_watchers_jaysmoke_20240707",
+            "reviewer": "jaysmoke",
+            "rating": 1,
+            "content": "Unfortunately The Watcher is one of them.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_watchers_garrety_83991_20240721",
+            "reviewer": "garrety-83991",
+            "rating": 1,
+            "content": "I hope everyone involved is feels horrible for what they did.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_watchers_owenjmiddleton_20240616",
+            "reviewer": "owenjmiddleton",
+            "rating": 3,
+            "content": "When I went to see this film I had high expectations the trailer looked really good I discovered quite quickly that I was to be very disappointed right from the outset the film lacked any real suspense also it was very predictable I admit I watch a lot of movies but I shouldn't be able to guess what characters are gonna end up doing at the 1/3 mark of the film I mean literally I knew which characters were gonna die which characters would escape and which would be the bad guy not signs of a well written movie the jump scares what few there were didn't actually work the attempts at creepiness fell flat and I have given this film a 3 because as a drama it actually manages to do well truly if this was put out as a drama I would have enjoyed it a lot sadly it's meant to be horror so I didn't enjoy it and if you wanna take my advice you'll not see it.",
+            "engagement": 8
+          },
+          {
+            "review_id": "imdb_the_watchers_damorejj_20241013",
+            "reviewer": "damorejj",
+            "rating": 2,
+            "content": "Sadly I was disappointed.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_watchers_longer_sniped_20240906",
+            "reviewer": "longer_sniped",
+            "rating": 2,
+            "content": "I wish I'd known this was a Shyamalan movie beforehand because I would have avoided it.",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_the_watchers_odemilsonljr_20240707",
+            "reviewer": "odemilsonljr",
+            "rating": 3,
+            "content": "Unfortunately, the script and character development is very uneven.",
+            "engagement": 5
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 41,
+        "comparison_pct": 55.4,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 70.37121621621623,
+        "avg_grade_level": 8.417567567567568,
+        "avg_exclamations": 0.32432432432432434,
+        "avg_caps_words": 1.4864864864864864,
+        "reviews_with_questions": 26,
+        "question_pct": 35.1
+      }
+    },
+    "polarization": {
+      "movie": "The Watchers",
+      "polarization_metrics": {
+        "level": "CONSENSUS",
+        "rating_variance": 4.7929944403010385,
+        "rating_std_dev": 2.189290853290407,
+        "middle_ground_pct": 67.2,
+        "lovers_pct": 11.3,
+        "haters_pct": 21.5
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "joy",
+            {
+              "lovers_score": 0.10101426064096068,
+              "haters_score": 0.060571210234075974,
+              "divergence": 0.04044305040688471
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.045342530213226984,
+              "haters_score": 0.07860582465723931,
+              "divergence": 0.033263294444012326
+            }
+          ],
+          [
+            "anticipation",
+            {
+              "lovers_score": 0.1250885870870302,
+              "haters_score": 0.09285519390383642,
+              "divergence": 0.032233393183193765
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.0777747938941288,
+              "haters_score": 0.050101201693599974,
+              "divergence": 0.02767359220052882
+            }
+          ],
+          [
+            "sadness",
+            {
+              "lovers_score": 0.0785606286560005,
+              "haters_score": 0.09013897936134527,
+              "divergence": 0.01157835070534477
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.10101426064096068,
+            "haters_score": 0.060571210234075974,
+            "divergence": 0.04044305040688471
+          },
+          "trust": {
+            "lovers_score": 0.10601877525390968,
+            "haters_score": 0.09582756382863812,
+            "divergence": 0.01019121142527156
+          },
+          "fear": {
+            "lovers_score": 0.07997178111453676,
+            "haters_score": 0.09075545158838823,
+            "divergence": 0.010783670473851467
+          },
+          "surprise": {
+            "lovers_score": 0.0777747938941288,
+            "haters_score": 0.050101201693599974,
+            "divergence": 0.02767359220052882
+          },
+          "sadness": {
+            "lovers_score": 0.0785606286560005,
+            "haters_score": 0.09013897936134527,
+            "divergence": 0.01157835070534477
+          },
+          "disgust": {
+            "lovers_score": 0.045342530213226984,
+            "haters_score": 0.07860582465723931,
+            "divergence": 0.033263294444012326
+          },
+          "anger": {
+            "lovers_score": 0.05629439169215051,
+            "haters_score": 0.06621942001444113,
+            "divergence": 0.00992502832229062
+          },
+          "anticipation": {
+            "lovers_score": 0.1250885870870302,
+            "haters_score": 0.09285519390383642,
+            "divergence": 0.032233393183193765
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 71.2248717948718,
+          "haters": 70.37121621621623,
+          "difference": -0.8536555786555766
+        },
+        "grade_level": {
+          "lovers": 7.423076923076923,
+          "haters": 8.417567567567568,
+          "difference": 0.9944906444906447
+        },
+        "first_person_usage": {
+          "lovers": 2.992165569265612,
+          "haters": 2.6369891953239692,
+          "difference": -0.3551763739416427
+        },
+        "exclamations": {
+          "lovers": 0.5897435897435898,
+          "haters": 0.32432432432432434,
+          "difference": -0.2654192654192654
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 16.23076923076923,
+        "haters_avg_votes": 25.905405405405407,
+        "lovers_vote_polarization": 4.076923076923077,
+        "haters_vote_polarization": 9.472972972972974
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 5.247093023255814,
+        "late_avg_rating": null,
+        "temporal_shift": null,
+        "shift_direction": "stable"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 5.184210526315789,
+        "female_avg_rating": 5.224489795918367,
+        "gender_rating_gap": 0.04027926960257755,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 59.0,
+        "haters_use_comparisons_pct": 55.4,
+        "comparison_gap": 3.5689535689535745
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Watchers",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 7.7,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_watchers_pedroquintaoo_20240607",
+              "reviewer": "pedroquintaoo",
+              "rating": 8,
+              "content": "This may be due to the lack of a social or environmental message, which unfortunately seems necessary for American critics to appreciate a film.",
+              "engagement": 17
+            },
+            {
+              "review_id": "imdb_the_watchers_gelikoptergelikopter_20240906",
+              "reviewer": "gelikoptergelikopter",
+              "rating": 8,
+              "content": "Sadly, \"The Watchers\" theatrical release completely eluded me, and it's no longer playing.",
+              "engagement": 7
+            },
+            {
+              "review_id": "imdb_the_watchers_j0hn22_20241210",
+              "reviewer": "j0hn22",
+              "rating": 8,
+              "content": "Also, the creature's appearance was absolutely terrifying, but I wish they had more screening time.",
+              "engagement": 3
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 12,
+          "percentage": 16.2,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_watchers_amandacallendar_20240615",
+              "reviewer": "amandacallendar",
+              "rating": 1,
+              "content": "This is almost a completely different story than the one I read, unfortunately.",
+              "engagement": 84
+            },
+            {
+              "review_id": "imdb_the_watchers_nerdbox_dave_20240608",
+              "reviewer": "nERDbOX_Dave",
+              "rating": 2,
+              "content": "Unfortunately, that unease eventually curdles into frustration as the film descends into a predictable twist and a blatant attempt to launch a franchise.",
+              "engagement": 34
+            },
+            {
+              "review_id": "imdb_the_watchers_grayslawson_20240629",
+              "reviewer": "grayslawson",
+              "rating": 1,
+              "content": "I wish I could get those 2 hours of my life back.",
+              "engagement": 17
+            },
+            {
+              "review_id": "imdb_the_watchers_jit_23697_20240704",
+              "reviewer": "jit-23697",
+              "rating": 1,
+              "content": "If it's good acting then you want to keep watching it but because I started watching I was made to finish it which is one thing I regret I should have just turned it off.",
+              "engagement": 14
+            },
+            {
+              "review_id": "imdb_the_watchers_jaysmoke_20240707",
+              "reviewer": "jaysmoke",
+              "rating": 1,
+              "content": "Unfortunately The Watcher is one of them.",
+              "engagement": 13
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 15.4,
+          "haters_with_questions_pct": 35.1
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 5.247093023255814,
+          "avg_vader_compound": 0.31430058139534883,
+          "hate_statement_pct": 6.1,
+          "wish_statement_pct": 15.1
+        },
+        "late_reviews": {
+          "avg_rating": null,
+          "avg_vader_compound": null,
+          "hate_statement_pct": null,
+          "wish_statement_pct": null
+        },
+        "rating_shift": null,
+        "interpretation": "unknown"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 59.0,
+        "haters_pct": 55.4,
+        "gap": 3.6000000000000014
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.651823076923077,
+        "haters_vader": -0.2582121621621622,
+        "sentiment_gap": 0.9100352390852391
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 9.0,
+        "disappointed_count": 31,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_watchers_cdjh_81125_20240606",
+            "reviewer": "cdjh-81125",
+            "rating": 5,
+            "content": "There are some very effective scares and genuine scenes of tension, unfortunately it was just never sustained enough to keep my interest.",
+            "engagement": 160
+          },
+          {
+            "review_id": "imdb_the_watchers_classicmoviefriend_20240608",
+            "reviewer": "ClassicMovieFriend",
+            "rating": 5,
+            "content": "I wish the movie had picked a lane.",
+            "engagement": 118
+          },
+          {
+            "review_id": "imdb_the_watchers_amandacallendar_20240615",
+            "reviewer": "amandacallendar",
+            "rating": 1,
+            "content": "This is almost a completely different story than the one I read, unfortunately.",
+            "engagement": 84
+          },
+          {
+            "review_id": "imdb_the_watchers_nerdbox_dave_20240608",
+            "reviewer": "nERDbOX_Dave",
+            "rating": 2,
+            "content": "Unfortunately, that unease eventually curdles into frustration as the film descends into a predictable twist and a blatant attempt to launch a franchise.",
+            "engagement": 34
+          },
+          {
+            "review_id": "imdb_the_watchers_r96sk_20240606",
+            "reviewer": "r96sk",
+            "rating": 5,
+            "content": "'The Watchers' holds some promise with its premise, though unfortunately it never really clicks into gear - in my opinion, at least. ||| Aside from that, this Ishana Night Shyamalan directorial debut underwhelmed me a lot, sadly.",
+            "engagement": 32
+          },
+          {
+            "review_id": "imdb_the_watchers_grayslawson_20240629",
+            "reviewer": "grayslawson",
+            "rating": 1,
+            "content": "I wish I could get those 2 hours of my life back.",
+            "engagement": 17
+          },
+          {
+            "review_id": "imdb_the_watchers_jit_23697_20240704",
+            "reviewer": "jit-23697",
+            "rating": 1,
+            "content": "If it's good acting then you want to keep watching it but because I started watching I was made to finish it which is one thing I regret I should have just turned it off.",
+            "engagement": 14
+          },
+          {
+            "review_id": "imdb_the_watchers_jaysmoke_20240707",
+            "reviewer": "jaysmoke",
+            "rating": 1,
+            "content": "Unfortunately The Watcher is one of them.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_watchers_peter0969_20240606",
+            "reviewer": "peter0969",
+            "rating": 4,
+            "content": "\"The Watchers\" holds a very good concept for a horror movie with some excellent camerawork, tension, and atmospheres but unfortunately washed up with an unreliable narrative and the not-so-good Shyamalan traits.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_watchers_garrety_83991_20240721",
+            "reviewer": "garrety-83991",
+            "rating": 1,
+            "content": "I hope everyone involved is feels horrible for what they did.",
+            "engagement": 10
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Watchers",
+      "overall_risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_score": 2.0,
+        "high_risks": [
+          "PACING_ISSUES"
+        ],
+        "risk_count": 1
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.08591873500499889,
+        "avg_disgust": 0.052382485564881426,
+        "hate_review_pct": 21.5,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "The Watched was written and directed by Ishana Shyamalan, daughter of M. Night Shyamalan; I doubt the film would have ever been made if daddy hadn't produced it. The script is absolutely terrible, full of flaws and lapses of logic....",
+            "engagement": 381,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_rmmil_20240607",
+            "reviewer": "rmmil",
+            "rating": 3,
+            "review_title": "Bizarre, sloppy, and about 4-too many endings",
+            "quote": "I can tell that M. Night's daughter learned everything she did about filmmaking from her Dad, although that's not necessarily a compliment. As with most of M Night's films, I don't really review them per se, I just list a bullet point of the most absurd moments, and I figured why not continue this trend with his daughter?...",
+            "engagement": 157,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "LOW",
+        "haters_reading_ease": 70.37121621621623,
+        "lovers_reading_ease": 71.2248717948718,
+        "complexity_gap": -0.8536555786555766,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "The Watched was written and directed by Ishana Shyamalan, daughter of M. Night Shyamalan; I doubt the film would have ever been made if daddy hadn't produced it. The script is absolutely terrible, full of flaws and lapses of logic....",
+            "engagement": 381,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_rmmil_20240607",
+            "reviewer": "rmmil",
+            "rating": 3,
+            "review_title": "Bizarre, sloppy, and about 4-too many endings",
+            "quote": "I can tell that M. Night's daughter learned everything she did about filmmaking from her Dad, although that's not necessarily a compliment. As with most of M Night's films, I don't really review them per se, I just list a bullet point of the most absurd moments, and I figured why not continue this trend with his daughter?...",
+            "engagement": 157,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 31,
+        "early_negative_pct": 9.0,
+        "early_avg_rating": 5.247093023255814,
+        "total_early_reviews": 344,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "...I thought they had to keep the watchers entertained during the night... Where did Daniel get the huge length of cable needed to connect the camera to the television? And are we expected to believe that the camera came with still functioning batteries? Where did Daniel and Mina get that long length of rope from? If it's possible to successfully hide from the watchers under some branches, why not build such hideouts beyond the points of no return, thus making escape more likely?...",
+            "engagement": 381,
+            "matched_term": "expected"
+          },
+          {
+            "review_id": "imdb_the_watchers_chloehedrick_20240606",
+            "reviewer": "chloehedrick",
+            "rating": 5,
+            "review_title": "Mediocre Adaptation of a Great Horror Novel",
+            "quote": "I have often thought of this novel since consuming the audiobook in a couple days last year. I've recommended it to a lot of fellow horror readers, too. I personally feel that the film adaptation falls incredibly short of what it could have been....",
+            "engagement": 264,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "HIGH",
+        "haters_with_wishes_pct": 16.2,
+        "interpretation": "Pacing issues detected. High percentage of haters expressing wishes (what they wanted but didn't get), suggesting film is too slow or doesn't deliver expected payoff.",
+        "mitigation": "Marketing must emphasize 'slow burn' nature upfront. Don't promise action/scares that aren't delivered. Target patient, atmosphere-focused horror fans. Consider re-edit if in post-production.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "The Watched was written and directed by Ishana Shyamalan, daughter of M. Night Shyamalan; I doubt the film would have ever been made if daddy hadn't produced it. The script is absolutely terrible, full of flaws and lapses of logic....",
+            "engagement": 381,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_rmmil_20240607",
+            "reviewer": "rmmil",
+            "rating": 3,
+            "review_title": "Bizarre, sloppy, and about 4-too many endings",
+            "quote": "I can tell that M. Night's daughter learned everything she did about filmmaking from her Dad, although that's not necessarily a compliment. As with most of M Night's films, I don't really review them per se, I just list a bullet point of the most absurd moments, and I figured why not continue this trend with his daughter?...",
+            "engagement": 157,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "MODERATE",
+        "disappointment_rate": 6.7,
+        "disappointed_count": 23,
+        "top_comparison_films": {},
+        "interpretation": "Moderate expectation issues. Some audiences felt the film didn't match their expectations.",
+        "mitigation": "Review marketing positioning. Ensure genre signals are clear and accurate.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_cdjh_81125_20240606",
+            "reviewer": "cdjh-81125",
+            "rating": 5,
+            "review_title": "A Frustrating Waste of an Intriguing Set Up",
+            "quote": "While Ishana Night Shyamalan absolutely is her own filmmaker, and should her films judged on their own merits, The Watchers reminded me a lot of her fathers works in the ways that I usually find his films frustrating. I'm going to try my best not to keep comparing this to M. Night's movies but in particular The Watchers reminded me a lot of The Village and the issues I have with that film and I think I'd still feel that way with or without the familial connection....",
+            "engagement": 160,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_classicmoviefriend_20240608",
+            "reviewer": "ClassicMovieFriend",
+            "rating": 5,
+            "review_title": "Not worth a sunny afternoon",
+            "quote": "This movie was like waiting for a ride in bad weather, a ride that never arrives. The analogy or meaning of the monsters was unclear: first a parrot talks like humans, then a woman disguises herself, then the characters are actors in a stage play (which is never explained or pays off in any way), and then there was a Frankenstein-type story about bringing back the dead that caused madness and death. I wish the movie had picked a lane....",
+            "engagement": 118,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_nerdbox_dave_20240608",
+            "reviewer": "nERDbOX_Dave",
+            "rating": 2,
+            "review_title": "A Flickering Flame That Fizzles Out",
+            "quote": "\"The Watchers\" starts with all the hallmarks of a classic Shyamalan slow-burn: a moody atmosphere, cryptic characters, and a lingering sense of unease. Unfortunately, that unease eventually curdles into frustration as the film descends into a predictable twist and a blatant attempt to launch a franchise. The initial premise - a group of strangers trapped in a remote location stalked by unseen creatures - holds promise....",
+            "engagement": 34,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.04027926960257755,
+        "male_avg_rating": 5.184210526315789,
+        "female_avg_rating": 5.224489795918367,
+        "gender_preference": "female",
+        "male_count": 228,
+        "female_count": 49,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "The Watched was written and directed by Ishana Shyamalan, daughter of M. Night Shyamalan; I doubt the film would have ever been made if daddy hadn't produced it. The script is absolutely terrible, full of flaws and lapses of logic....",
+            "engagement": 381,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_classicmoviefriend_20240608",
+            "reviewer": "ClassicMovieFriend",
+            "rating": 5,
+            "review_title": "Not worth a sunny afternoon",
+            "quote": "This movie was like waiting for a ride in bad weather, a ride that never arrives. The analogy or meaning of the monsters was unclear: first a parrot talks like humans, then a woman disguises herself, then the characters are actors in a stage play (which is never explained or pays off in any way), and then there was a Frankenstein-type story about bringing back the dead that caused madness and death. I wish the movie had picked a lane....",
+            "engagement": 118,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Watchers",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 13,
+        "percentage": 3.8,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": false,
+        "scalability_note": "WARNING: Small sample - may be too niche",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 8,
+          "female_count": 1,
+          "male_pct": 61.5,
+          "female_pct": 7.7,
+          "gender_coverage": 69.2
+        },
+        "characteristics": {
+          "avg_rating": 8.384615384615385,
+          "avg_reading_grade": 8.823076923076924,
+          "avg_engagement": 19.23076923076923,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 3,
+          "love_pct": 23.1,
+          "exclamations": 6,
+          "exclamation_pct": 46.2,
+          "high_engagement": 3,
+          "high_engagement_pct": 23.1
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "anticipation",
+            "joy",
+            "trust"
+          ],
+          "all_emotions": {
+            "joy": 0.11000693458093942,
+            "trust": 0.09638728222348511,
+            "fear": 0.08886451934815821,
+            "surprise": 0.07009632836636295,
+            "sadness": 0.06861865662613274,
+            "disgust": 0.04366013280044648,
+            "anger": 0.058104053135176824,
+            "anticipation": 0.1304422538093404
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_watchers_jp_91_20240605",
+              "reviewer": "jp_91",
+              "rating": 10,
+              "review_title": "\"The Watchers\" is a great film that plays with horror and fantasy.",
+              "quote": "\"The Watchers\" is the debut feature of Ishana Night Shyamalan, daughter of director M. Night Shyamalan who is one of the film's producers. Ishana herself wrote the script based on the novel of the same name by A....",
+              "engagement": 128,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_watchers_fuaad45_1_20240607",
+              "reviewer": "fuaad45-1",
+              "rating": 9,
+              "review_title": "A Masterful Study of Grief, Trauma & the things that make us who we are",
+              "quote": "Ishana Night delivers a delectable fairy tale rooted in folklore and steeped in mystery, masterfully telling a story that has you leaning in, wanting to know more with every vivid frame that flickers on screen. Essentially a low-budget premise but with a high concept and stakes to match, The Watchers (or The Watched if you're in the UK) is a compelling character study of what makes us who we are. Everyone wears masks but it's the reasons we choose the masks we hide behind that reveal who we truly are....",
+              "engagement": 28,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_watchers_nana1111_20241015",
+              "reviewer": "nana1111",
+              "rating": 8,
+              "review_title": "It's a decent flick",
+              "quote": "...I also read someone else mention what i also heard about many people griping over the \"big reveal \" being predictable.... But this movie ,for me anyways, had a great atmosphere going for it and relatively strong acting through out the course of the movie . But I should I also say I am a sucker for folklore films (so if that ain't your thing def watch something else lol) and also love when a horror movie can incorporate other emotions outside of just your \"standard\" fear .",
+              "engagement": 23,
+              "matched_term": "love"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_watchers_fuaad45_1_20240607",
+              "reviewer": "fuaad45-1",
+              "rating": 9,
+              "review_title": "A Masterful Study of Grief, Trauma & the things that make us who we are",
+              "quote": "Ishana Night delivers a delectable fairy tale rooted in folklore and steeped in mystery, masterfully telling a story that has you leaning in, wanting to know more with every vivid frame that flickers on screen. Essentially a low-budget premise but with a high concept and stakes to match, The Watchers (or The Watched if you're in the UK) is a compelling character study of what makes us who we are. Everyone wears masks but it's the reasons we choose the masks we hide behind that reveal who we truly are....",
+              "engagement": 28,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_watchers_nana1111_20241015",
+              "reviewer": "nana1111",
+              "rating": 8,
+              "review_title": "It's a decent flick",
+              "quote": "Here's another film I just can't understand why it is getting ,at least in such high amount, some much hate. However, it isn't like I can not understand why this movie just won't land for a lot of people and won't be for everyone .1. It isn't really \"scary\" at all 2 ....",
+              "engagement": 23,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_watchers_joshuamercott_20240703",
+              "reviewer": "JoshuaMercott",
+              "rating": 8,
+              "review_title": "Sophisticated Horror Exemplifies Fear & Fascination",
+              "quote": "There's something creepy in these woods... Though that premise has been done to death (genre pun intended), \"The Watchers\" breathed a new kind of life, so to speak, into this slice of horror adapted from A. Shine's novel....",
+              "engagement": 7,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 89,
+        "percentage": 25.9,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 66,
+          "female_count": 10
+        },
+        "characteristics": {
+          "avg_rating": 7.47191011235955,
+          "avg_reading_grade": 7.402247191011235,
+          "avg_engagement": 14.50561797752809,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 74,
+        "percentage": 21.5,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.8783783783783783,
+          "avg_reading_grade": 8.417567567567568,
+          "complexity_barrier": false,
+          "wish_statement_pct": 16.2
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Expected mainstream horror with scares"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_watchers_ba_harrison_20240606",
+            "reviewer": "BA_Harrison",
+            "rating": 1,
+            "review_title": "The Wretched.",
+            "quote": "The Watched was written and directed by Ishana Shyamalan, daughter of M. Night Shyamalan; I doubt the film would have ever been made if daddy hadn't produced it. The script is absolutely terrible, full of flaws and lapses of logic....",
+            "engagement": 381,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_chrisvollmer_20240607",
+            "reviewer": "chrisvollmer",
+            "rating": 2,
+            "review_title": "I wanted to like this...",
+            "quote": "This movie looked promising from the trailers. I know the name \"Shyamalan\" is a gamble, but I didn't realize the potential downside. In the interest of full disclosure, I have not read the book on which the movie is based....",
+            "engagement": 203,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_watchers_rmmil_20240607",
+            "reviewer": "rmmil",
+            "rating": 3,
+            "review_title": "Bizarre, sloppy, and about 4-too many endings",
+            "quote": "I can tell that M. Night's daughter learned everything she did about filmmaking from her Dad, although that's not necessarily a compliment. As with most of M Night's films, I don't really review them per se, I just list a bullet point of the most absurd moments, and I figured why not continue this trend with his daughter?...",
+            "engagement": 157,
+            "matched_term": null
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "accessible",
+        "keywords": [
+          "suspenseful"
+        ],
+        "avoid": [
+          "Promising jump scares or action that isn't delivered"
+        ]
+      }
+    }
+  }
+}

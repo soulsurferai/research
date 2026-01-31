@@ -1,0 +1,945 @@
+{
+  "movie": "The Ritual",
+  "analysis_date": "2025-10-21T12:57:26.184193",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Ritual",
+      "total_reviews": 187,
+      "rating_distribution": {
+        "1": 13,
+        "3": 4,
+        "4": 15,
+        "5": 4,
+        "6": 44,
+        "7": 71,
+        "8": 18,
+        "9": 17,
+        "10": 1
+      },
+      "avg_rating": 6.2727272727272725,
+      "rating_variance": 3.887585532746824,
+      "rating_segments": {
+        "lovers_8_10": 36,
+        "lovers_pct": 19.3,
+        "mixed_4_7": 134,
+        "mixed_pct": 71.7,
+        "haters_1_3": 17,
+        "haters_pct": 9.1
+      },
+      "gender_breakdown": {
+        "male": 118,
+        "female": 31,
+        "unknown": 38,
+        "coverage_pct": 79.7
+      },
+      "temporal_segments": {
+        "Year 2": 79,
+        "Years 2-3": 43,
+        "5+ Years": 28,
+        "Years 4-5": 25,
+        "Opening Year": 12
+      },
+      "engagement": {
+        "reviews_with_votes": 187,
+        "engagement_pct": 100.0,
+        "avg_votes_per_review": 29.97326203208556,
+        "avg_helpfulness_ratio": 0.6661035580539052
+      }
+    },
+    "what_resonated": {
+      "movie": "The Ritual",
+      "total_lovers": 36,
+      "lovers_pct_of_all_reviews": 19.3,
+      "gender_segmentation": {
+        "male": 21,
+        "male_pct": 58.3,
+        "female": 10,
+        "female_pct": 27.8,
+        "unknown": 5
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.08576797355659022,
+          "trust": 0.09746663707626851,
+          "fear": 0.10299383502612641,
+          "surprise": 0.07855097669768059,
+          "sadness": 0.07322244144669063,
+          "disgust": 0.05713077778853832,
+          "anger": 0.0668299084917806,
+          "anticipation": 0.1106979015831682
+        },
+        "male_lovers": {
+          "joy": 0.09331557491312348,
+          "trust": 0.10633931656918963,
+          "fear": 0.10342853288431493,
+          "surprise": 0.08146102426800511,
+          "sadness": 0.07295407157767607,
+          "disgust": 0.06100259246286511,
+          "anger": 0.057764242124855016,
+          "anticipation": 0.09913827743909034
+        },
+        "female_lovers": {
+          "joy": 0.08827257250862725,
+          "trust": 0.1033804463791786,
+          "fear": 0.10166189422477452,
+          "surprise": 0.07584721600238839,
+          "sadness": 0.0715495300000878,
+          "disgust": 0.044949677519910775,
+          "anger": 0.06047660757092803,
+          "anticipation": 0.12769178455081087
+        }
+      },
+      "love_statements": {
+        "count": 9,
+        "percentage": 25.0,
+        "quotes": [
+          {
+            "review_id": "imdb_the_ritual_henri99_20180220",
+            "reviewer": "henri99",
+            "rating": 9,
+            "content": "I really loved this movie.",
+            "engagement": 123
+          },
+          {
+            "review_id": "imdb_the_ritual_sleepin_dragon_20181201",
+            "reviewer": "Sleepin_Dragon",
+            "rating": 9,
+            "content": "I loved the sense of horror, the sense of claustrophobia, that feeling of impending doom, all incredibly well captured.",
+            "engagement": 66
+          },
+          {
+            "review_id": "imdb_the_ritual_lebowskidoo_20180213",
+            "reviewer": "Lebowskidoo",
+            "rating": 9,
+            "content": "I love me a good lost-in-the-woods horror movie, the creepier the better, and The Ritual is very creeptastic, indeed!",
+            "engagement": 23
+          },
+          {
+            "review_id": "imdb_the_ritual_pasqualebaseotto_20180212",
+            "reviewer": "PasqualeBaseotto",
+            "rating": 8,
+            "content": "I loved every minute of this low budget horror/thriller movie.",
+            "engagement": 20
+          },
+          {
+            "review_id": "imdb_the_ritual_analisambau_20230213",
+            "reviewer": "analisambau",
+            "rating": 9,
+            "content": "I hope to see Rafe Spall lead in more horror films if that is a route he would like to take.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_ritual_raj_bhullar_20220617",
+            "reviewer": "raj-bhullar",
+            "rating": 8,
+            "content": "But when you see it completely I was impressed with the monster design.",
+            "engagement": 5
+          },
+          {
+            "review_id": "imdb_the_ritual_bhsdjrf_20220503",
+            "reviewer": "bhsdjrf",
+            "rating": 8,
+            "content": "I love the acting and how it follows a group of regular blokes rather than just teenagers like you'd typically see in this kind of movie.",
+            "engagement": 2
+          },
+          {
+            "review_id": "imdb_the_ritual_vane_yh_20220408",
+            "reviewer": "vane-yh",
+            "rating": 9,
+            "content": "I had my doubts but Well done, very good acting and keeps you tense from start to end!",
+            "engagement": 2
+          },
+          {
+            "review_id": "imdb_the_ritual_josephgeorgesa_20240303",
+            "reviewer": "josephgeorgesa",
+            "rating": 8,
+            "content": "I enjoyed this movie.",
+            "engagement": 2
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 69.1275,
+        "avg_grade_level": 7.827777777777779,
+        "avg_first_person_ratio": 2.9177485977080875,
+        "avg_exclamations": 0.3888888888888889
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 20,
+        "comparison_pct": 55.6
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Ritual",
+      "total_haters": 17,
+      "haters_pct_of_all_reviews": 9.1,
+      "gender_segmentation": {
+        "male": 12,
+        "male_pct": 70.6,
+        "female": 3,
+        "female_pct": 17.6,
+        "unknown": 2
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.08956843016386262,
+          "disgust": 0.10315699239358687,
+          "sadness": 0.08116410208769116,
+          "fear": 0.10493952682431507
+        },
+        "male_haters": {
+          "anger": 0.09343156936281799,
+          "disgust": 0.07766018302606031,
+          "sadness": 0.09384791077036374,
+          "fear": 0.12356150851232695
+        },
+        "female_haters": {
+          "anger": 0.07827260458839404,
+          "disgust": 0.16756635177687804,
+          "sadness": 0.06072874493927124,
+          "fear": 0.06072874493927124
+        }
+      },
+      "hate_statements": {
+        "count": 1,
+        "percentage": 5.9,
+        "quotes": [
+          {
+            "review_id": "imdb_the_ritual_oqawa_20180818",
+            "reviewer": "oqawa",
+            "rating": 1,
+            "content": "The story is very week, the ending as well, the whole movie is unnecessary , I don't know why they've put in the money, time and energy to create such a very bad film with a very bad story",
+            "engagement": 42
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 1,
+        "percentage": 5.9,
+        "quotes": [
+          {
+            "review_id": "imdb_the_ritual_dtunckanat_20181028",
+            "reviewer": "dtunckanat",
+            "rating": 1,
+            "content": "Waste of time, sadly wasted all my night.Nonsense.",
+            "engagement": 28
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 8,
+        "comparison_pct": 47.1,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 78.99529411764705,
+        "avg_grade_level": 5.764705882352941,
+        "avg_exclamations": 0.17647058823529413,
+        "avg_caps_words": 0.5294117647058824,
+        "reviews_with_questions": 7,
+        "question_pct": 41.2
+      }
+    },
+    "polarization": {
+      "movie": "The Ritual",
+      "polarization_metrics": {
+        "level": "CONSENSUS",
+        "rating_variance": 3.887585532746824,
+        "rating_std_dev": 1.9716961055768265,
+        "middle_ground_pct": 71.7,
+        "lovers_pct": 19.3,
+        "haters_pct": 9.1
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "joy",
+            {
+              "lovers_score": 0.08576797355659022,
+              "haters_score": 0.03258471919733315,
+              "divergence": 0.05318325435925707
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.05713077778853832,
+              "haters_score": 0.10315699239358687,
+              "divergence": 0.046026214605048556
+            }
+          ],
+          [
+            "trust",
+            {
+              "lovers_score": 0.09746663707626851,
+              "haters_score": 0.06813674578538335,
+              "divergence": 0.02932989129088516
+            }
+          ],
+          [
+            "anticipation",
+            {
+              "lovers_score": 0.1106979015831682,
+              "haters_score": 0.1368958078945979,
+              "divergence": 0.02619790631142971
+            }
+          ],
+          [
+            "anger",
+            {
+              "lovers_score": 0.0668299084917806,
+              "haters_score": 0.08956843016386262,
+              "divergence": 0.022738521672082027
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.08576797355659022,
+            "haters_score": 0.03258471919733315,
+            "divergence": 0.05318325435925707
+          },
+          "trust": {
+            "lovers_score": 0.09746663707626851,
+            "haters_score": 0.06813674578538335,
+            "divergence": 0.02932989129088516
+          },
+          "fear": {
+            "lovers_score": 0.10299383502612641,
+            "haters_score": 0.10493952682431507,
+            "divergence": 0.0019456917981886535
+          },
+          "surprise": {
+            "lovers_score": 0.07855097669768059,
+            "haters_score": 0.06842044108466434,
+            "divergence": 0.010130535613016245
+          },
+          "sadness": {
+            "lovers_score": 0.07322244144669063,
+            "haters_score": 0.08116410208769116,
+            "divergence": 0.007941660641000534
+          },
+          "disgust": {
+            "lovers_score": 0.05713077778853832,
+            "haters_score": 0.10315699239358687,
+            "divergence": 0.046026214605048556
+          },
+          "anger": {
+            "lovers_score": 0.0668299084917806,
+            "haters_score": 0.08956843016386262,
+            "divergence": 0.022738521672082027
+          },
+          "anticipation": {
+            "lovers_score": 0.1106979015831682,
+            "haters_score": 0.1368958078945979,
+            "divergence": 0.02619790631142971
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 69.1275,
+          "haters": 78.99529411764705,
+          "difference": 9.867794117647051
+        },
+        "grade_level": {
+          "lovers": 7.827777777777779,
+          "haters": 5.764705882352941,
+          "difference": -2.063071895424838
+        },
+        "first_person_usage": {
+          "lovers": 2.9177485977080875,
+          "haters": 3.095038355499652,
+          "difference": 0.17728975779156464
+        },
+        "exclamations": {
+          "lovers": 0.3888888888888889,
+          "haters": 0.17647058823529413,
+          "difference": -0.21241830065359477
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 54.361111111111114,
+        "haters_avg_votes": 45.05882352941177,
+        "lovers_vote_polarization": 29.194444444444443,
+        "haters_vote_polarization": 3.764705882352941
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 6.274725274725275,
+        "late_avg_rating": 7.056603773584905,
+        "temporal_shift": 0.7818784988596308,
+        "shift_direction": "improved"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 6.203389830508475,
+        "female_avg_rating": 6.387096774193548,
+        "gender_rating_gap": 0.18370694368507312,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 55.6,
+        "haters_use_comparisons_pct": 47.1,
+        "comparison_gap": 8.496732026143796
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Ritual",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 8.3,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_ritual_jtindahouse_20180210",
+              "reviewer": "jtindahouse",
+              "rating": 8,
+              "content": "This film was almost destined for greatness, but unfortunately the final 1/4 does let things a slip a bit.",
+              "engagement": 322
+            },
+            {
+              "review_id": "imdb_the_ritual_s_soma_20180206",
+              "reviewer": "S_Soma",
+              "rating": 9,
+              "content": "Unfortunately, what the two men don't know is that the liquor store is currently being robbed and the man who volunteered to accompany the one who wanted to buy a bottle is brutally killed in the course of the robbery. ||| If only it was that easy.",
+              "engagement": 32
+            },
+            {
+              "review_id": "imdb_the_ritual_analisambau_20230213",
+              "reviewer": "analisambau",
+              "rating": 9,
+              "content": "I hope to see Rafe Spall lead in more horror films if that is a route he would like to take.",
+              "engagement": 11
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 1,
+          "percentage": 5.9,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_ritual_dtunckanat_20181028",
+              "reviewer": "dtunckanat",
+              "rating": 1,
+              "content": "Waste of time, sadly wasted all my night.Nonsense.",
+              "engagement": 28
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 13.9,
+          "haters_with_questions_pct": 41.2
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 6.274725274725275,
+          "avg_vader_compound": 0.07221318681318681,
+          "hate_statement_pct": 2.2,
+          "wish_statement_pct": 12.1
+        },
+        "late_reviews": {
+          "avg_rating": 7.056603773584905,
+          "avg_vader_compound": 0.3381735849056604,
+          "hate_statement_pct": 0.0,
+          "wish_statement_pct": 11.3
+        },
+        "rating_shift": 0.7818784988596308,
+        "interpretation": "improved"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 55.6,
+        "haters_pct": 47.1,
+        "gap": 8.5
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.6012666666666668,
+        "haters_vader": -0.33849411764705883,
+        "sentiment_gap": 0.9397607843137257
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 2.1,
+        "disappointed_count": 4,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_ritual_mt_95256_20171014",
+            "reviewer": "mt-95256",
+            "rating": 5,
+            "content": "Sadly, although it may have seemed that way in the trailer, The Ritual is not one of these films. ||| The first night is justifiably strong and creepy, seemingly setting up a fairly scary movie with strong elements of horror – sadly though it just doesn't seem to go this way. ||| If only the final third brought it all together, but instead it's a nonsensical finale, attempting some semblance of a reasonable plot, with just an easy line or two in an effort to explain things. ||| Unfortunately this is referenced so often that the constant flashing back to the scene of the crime loses its potency and starts to become tedious. ||| The constant sinister atmosphere is good, but sadly the horror and scares are missing, with the end feeling like such an unsatisfying mess that it eclipses most of what was good in the beginning.",
+            "engagement": 61
+          },
+          {
+            "review_id": "imdb_the_ritual_dtunckanat_20181028",
+            "reviewer": "dtunckanat",
+            "rating": 1,
+            "content": "Waste of time, sadly wasted all my night.Nonsense.",
+            "engagement": 28
+          },
+          {
+            "review_id": "imdb_the_ritual_niko_oinonen_20190322",
+            "reviewer": "niko-oinonen",
+            "rating": 4,
+            "content": "Well, there is one, but sadly it's kept mostly nothing more than a backdrop.",
+            "engagement": 2
+          },
+          {
+            "review_id": "imdb_the_ritual_amarshoaib_20200811",
+            "reviewer": "amarshoaib",
+            "rating": 4,
+            "content": "Begins with much potential but then sadly fails to live up to expectations.",
+            "engagement": 2
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Ritual",
+      "overall_risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_score": 1.5,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.1096411922329427,
+        "avg_disgust": 0.06656576811598493,
+        "hate_review_pct": 9.1,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "...What does happen in the movie is pretty much the Blair witch with strange ritualistic symbols, the group members having strange behavior or whatever after sleeping in the cabin. A majority of the movie plays out like the Blair Witch except you actually get to see the monster but not too well since it's mostly hidden in darkness. The creature for the duration of the movie is only sound and all you hear are its shrieks and noises while it picks off the group 1 by 1 for whatever reason it's never explained....",
+            "engagement": 105,
+            "matched_term": "dark"
+          },
+          {
+            "review_id": "imdb_the_ritual_padreviews_20171022",
+            "reviewer": "Padreviews",
+            "rating": 3,
+            "review_title": "Showed promised failed to deliver 3/10",
+            "quote": "I really thought I'd like this , it started off well but tailed off mid film and ended poorly . A British film set in the UK and Sweden but filmed in Romania . The mysterious creature was such a let down and unbelievable that it ruined the film , M Knight Shylams ( spelled wrong I know ) The Village it was not ....",
+            "engagement": 85,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_theadvizor_20180818",
+            "reviewer": "theAdvizor",
+            "rating": 1,
+            "review_title": "4 Dummies Go for a Hike",
+            "quote": "When I started typing this review, I felt like this movie was a 4/10. I didn't hate it while I was watching it. Well, that's not true....",
+            "engagement": 82,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "MODERATE",
+        "haters_reading_ease": 78.99529411764705,
+        "lovers_reading_ease": 69.1275,
+        "complexity_gap": 9.867794117647051,
+        "interpretation": "Moderate complexity barrier. Film may be too slow/cerebral for some viewers.",
+        "mitigation": "Marketing should prepare audiences for 'slow burn' pacing. Use critic quotes emphasizing atmosphere over action.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "You can always tell horror movie fans from regular movie watches. We're the ones not giving this raving reviews. The entire time I watched this move I thought it was a work of Eduardo Sánchez one of the minds behind \"The Blair witch Project\"....",
+            "engagement": 105,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_padreviews_20171022",
+            "reviewer": "Padreviews",
+            "rating": 3,
+            "review_title": "Showed promised failed to deliver 3/10",
+            "quote": "I really thought I'd like this , it started off well but tailed off mid film and ended poorly . A British film set in the UK and Sweden but filmed in Romania . The mysterious creature was such a let down and unbelievable that it ruined the film , M Knight Shylams ( spelled wrong I know ) The Village it was not ....",
+            "engagement": 85,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_theadvizor_20180818",
+            "reviewer": "theAdvizor",
+            "rating": 1,
+            "review_title": "4 Dummies Go for a Hike",
+            "quote": "...The plot was fulfilled in 10 minutes. The rest is a huge waste of time.",
+            "engagement": 82,
+            "matched_term": "waste of time"
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "MODERATE",
+        "early_negative_count": 14,
+        "early_negative_pct": 15.4,
+        "early_avg_rating": 6.274725274725275,
+        "total_early_reviews": 91,
+        "interpretation": "Moderate early negative buzz. Some opening audiences felt misled.",
+        "mitigation": "Ensure marketing accurately represents film tone. Screen for target audience first, not general public.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_derekjager_20180206",
+            "reviewer": "derekjager",
+            "rating": 5,
+            "review_title": "Great first hour, but the last 30 mins are so disappointing",
+            "quote": "I love these \"scary woods\" stories and if you haven't seen YELLOW BRICK ROAD, check it out. The first hour of THE RITUAL is excellent--great acting, dialogue, music and an unsettling mood is quickly established. But once we only have two remaining men...the climax slows to a crawl when it should speed up....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_honest_reviews17_20180209",
+            "reviewer": "honest_reviews17",
+            "rating": 4,
+            "review_title": "Starts off well, plot points don't connect, winds up linear and pointless.",
+            "quote": "Warning: complete and total spoilers ahead. This movie starts off well with four guys who decide to go on a hiking trip. After one of them gets killed at the beginning of the movie in a liquor store, it supposedly adds weight to their trip, giving it more meaning....",
+            "engagement": 156,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "...There was nothing the main character could have done except get himself killed also but they seem to run it into the ground that he didn't bother to help his friend and hid instead. 3/10 for this movie. Unoriginal, Characters you don't care about, annoying plot that doesn't explain anything, a monster that's makes as little sense as the rest of the movie and the overall result of me feeling like I wasted my time watching this move.",
+            "engagement": 105,
+            "matched_term": "waste"
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "LOW",
+        "haters_with_wishes_pct": 5.9,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "You can always tell horror movie fans from regular movie watches. We're the ones not giving this raving reviews. The entire time I watched this move I thought it was a work of Eduardo Sánchez one of the minds behind \"The Blair witch Project\"....",
+            "engagement": 105,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_padreviews_20171022",
+            "reviewer": "Padreviews",
+            "rating": 3,
+            "review_title": "Showed promised failed to deliver 3/10",
+            "quote": "I really thought I'd like this , it started off well but tailed off mid film and ended poorly . A British film set in the UK and Sweden but filmed in Romania . The mysterious creature was such a let down and unbelievable that it ruined the film , M Knight Shylams ( spelled wrong I know ) The Village it was not ....",
+            "engagement": 85,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_theadvizor_20180818",
+            "reviewer": "theAdvizor",
+            "rating": 1,
+            "review_title": "4 Dummies Go for a Hike",
+            "quote": "When I started typing this review, I felt like this movie was a 4/10. I didn't hate it while I was watching it. Well, that's not true....",
+            "engagement": 82,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 1.1,
+        "disappointed_count": 2,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_mt_95256_20171014",
+            "reviewer": "mt-95256",
+            "rating": 5,
+            "review_title": "A Good Start, but a Weak End with Too Few Scares",
+            "quote": "October is that predictable month where cinema, TV, videogames – everything – will cash in on Halloween. There's no escaping it – but fortunately if you love some horror then it's not a time that fills you with dread; you actually find yourself looking forward to it! Not that many of these horrors are actually good; many that come out these days are predictable, cheesy and more funny than scary....",
+            "engagement": 61,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_niko_oinonen_20190322",
+            "reviewer": "niko-oinonen",
+            "rating": 4,
+            "review_title": "Idiocy to the point of frustration",
+            "quote": "The Ritual falls into some of the most obvious horror film pitfalls. It makes its characters act in such stupid manners that it feels like their actions have no other meaning than to forcefully keep them in the dark forest where they can be scared. Any other course of action would jeopardize the film itself....",
+            "engagement": 2,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.18370694368507312,
+        "male_avg_rating": 6.203389830508475,
+        "female_avg_rating": 6.387096774193548,
+        "gender_preference": "female",
+        "male_count": 118,
+        "female_count": 31,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_ritual_derekjager_20180206",
+            "reviewer": "derekjager",
+            "rating": 5,
+            "review_title": "Great first hour, but the last 30 mins are so disappointing",
+            "quote": "I love these \"scary woods\" stories and if you haven't seen YELLOW BRICK ROAD, check it out. The first hour of THE RITUAL is excellent--great acting, dialogue, music and an unsettling mood is quickly established. But once we only have two remaining men...the climax slows to a crawl when it should speed up....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_honest_reviews17_20180209",
+            "reviewer": "honest_reviews17",
+            "rating": 4,
+            "review_title": "Starts off well, plot points don't connect, winds up linear and pointless.",
+            "quote": "Warning: complete and total spoilers ahead. This movie starts off well with four guys who decide to go on a hiking trip. After one of them gets killed at the beginning of the movie in a liquor store, it supposedly adds weight to their trip, giving it more meaning....",
+            "engagement": 156,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "You can always tell horror movie fans from regular movie watches. We're the ones not giving this raving reviews. The entire time I watched this move I thought it was a work of Eduardo Sánchez one of the minds behind \"The Blair witch Project\"....",
+            "engagement": 105,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Ritual",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 12,
+        "percentage": 6.4,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": false,
+        "scalability_note": "WARNING: Small sample - may be too niche",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 7,
+          "female_count": 4,
+          "male_pct": 58.3,
+          "female_pct": 33.3,
+          "gender_coverage": 91.7
+        },
+        "characteristics": {
+          "avg_rating": 8.416666666666666,
+          "avg_reading_grade": 9.158333333333333,
+          "avg_engagement": 63.583333333333336,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 3,
+          "love_pct": 25.0,
+          "exclamations": 5,
+          "exclamation_pct": 41.7,
+          "high_engagement": 8,
+          "high_engagement_pct": 66.7
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "fear",
+            "anticipation",
+            "sadness"
+          ],
+          "all_emotions": {
+            "joy": 0.07201749790444997,
+            "trust": 0.06988810402713969,
+            "fear": 0.10716292017905066,
+            "surprise": 0.08221997199027246,
+            "sadness": 0.0911712544399967,
+            "disgust": 0.0650714298645438,
+            "anger": 0.08160632407073476,
+            "anticipation": 0.10511981892690647
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Reddit r/TrueFilm community (active discussers)",
+          "YouTube film essayists (in-depth analysis)",
+          "Film Discord servers",
+          "Shudder subscribers",
+          "Reddit r/horror community",
+          "Horror podcasts (Faculty of Horror, Post Mortem)",
+          "Fangoria / Rue Morgue readers",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "High engagement - these are evangelists who drive word-of-mouth",
+          "Horror enthusiasts - not casual scary movie fans",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_ritual_malherbejo_20180210",
+              "reviewer": "malherbejo",
+              "rating": 8,
+              "review_title": "A breath of fresh air...",
+              "quote": "I don't remember ever reviewing a movie here, but I decided to come at the rescue of this movie... I really enjoyed this movie and I go against the reviews which once more put it in the \"average around 6.0 score\" where so many other scary movies are standing. I consider myself a horror/scary amateur and I have seen many movies of this kind, and since the last 10 years, its getting harder to find some that makes you say \"ok, this was a bit different\".......",
+              "engagement": 338,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_ritual_triggerdon_20180209",
+              "reviewer": "TriggerDon",
+              "rating": 8,
+              "review_title": "A fun Netflix horror flick",
+              "quote": "Netflix has been pumping out movies left and right and this movie hit the mark. Honestly did not expect a horror movie from Netflix to be this entertaining and scary psychologically. Starts out alright, but as soon as we dig deeper in the woods, things start to get out of hand....",
+              "engagement": 127,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_ritual_sleepin_dragon_20181201",
+              "reviewer": "Sleepin_Dragon",
+              "rating": 9,
+              "review_title": "Terrifying, character driven scare fest.",
+              "quote": "...I'm certain many will make comparisons to The Blair Witch, and I definitely see similarities, but this felt like it had much more depth. The beginning was very unusual, very unexpected, the middle was superb, the ending possibly the weakest element. I loved the sense of horror, the sense of claustrophobia, that feeling of impending doom, all incredibly well captured. The acting is superb, Spall, Troughton, Ali, it was nice to see so many actors from famous perform together. The beast itself was superb, absolutely terrifying, not as scary as that witch though....",
+              "engagement": 66,
+              "matched_term": "love"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_ritual_malherbejo_20180210",
+              "reviewer": "malherbejo",
+              "rating": 8,
+              "review_title": "A breath of fresh air...",
+              "quote": "I don't remember ever reviewing a movie here, but I decided to come at the rescue of this movie... I really enjoyed this movie and I go against the reviews which once more put it in the \"average around 6.0 score\" where so many other scary movies are standing. I consider myself a horror/scary amateur and I have seen many movies of this kind, and since the last 10 years, its getting harder to find some that makes you say \"ok, this was a bit different\".......",
+              "engagement": 338,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_ritual_triggerdon_20180209",
+              "reviewer": "TriggerDon",
+              "rating": 8,
+              "review_title": "A fun Netflix horror flick",
+              "quote": "Netflix has been pumping out movies left and right and this movie hit the mark. Honestly did not expect a horror movie from Netflix to be this entertaining and scary psychologically. Starts out alright, but as soon as we dig deeper in the woods, things start to get out of hand....",
+              "engagement": 127,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_ritual_sleepin_dragon_20181201",
+              "reviewer": "Sleepin_Dragon",
+              "rating": 9,
+              "review_title": "Terrifying, character driven scare fest.",
+              "quote": "The Ritual rates as one of the best horrors I will seen for ages, it's atmospheric, scary, boasts great characters and is superbly acted. I'm certain many will make comparisons to The Blair Witch, and I definitely see similarities, but this felt like it had much more depth. The beginning was very unusual, very unexpected, the middle was superb, the ending possibly the weakest element....",
+              "engagement": 66,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 95,
+        "percentage": 50.8,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 57,
+          "female_count": 16
+        },
+        "characteristics": {
+          "avg_rating": 7.4,
+          "avg_reading_grade": 7.952631578947368,
+          "avg_engagement": 30.63157894736842,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 17,
+        "percentage": 9.1,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.4705882352941178,
+          "avg_reading_grade": 5.764705882352941,
+          "complexity_barrier": true,
+          "wish_statement_pct": 5.9
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Film too slow/complex"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_ritual_samanthagiavia_20180221",
+            "reviewer": "samanthagiavia",
+            "rating": 3,
+            "review_title": "Nothing new, predictable, boring and pointless.",
+            "quote": "...There was nothing the main character could have done except get himself killed also but they seem to run it into the ground that he didn't bother to help his friend and hid instead. 3/10 for this movie. Unoriginal, Characters you don't care about, annoying plot that doesn't explain anything, a monster that's makes as little sense as the rest of the movie and the overall result of me feeling like I wasted my time watching this move.",
+            "engagement": 105,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_the_ritual_padreviews_20171022",
+            "reviewer": "Padreviews",
+            "rating": 3,
+            "review_title": "Showed promised failed to deliver 3/10",
+            "quote": "I really thought I'd like this , it started off well but tailed off mid film and ended poorly . A British film set in the UK and Sweden but filmed in Romania . The mysterious creature was such a let down and unbelievable that it ruined the film , M Knight Shylams ( spelled wrong I know ) The Village it was not ....",
+            "engagement": 85,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_ritual_theadvizor_20180818",
+            "reviewer": "theAdvizor",
+            "rating": 1,
+            "review_title": "4 Dummies Go for a Hike",
+            "quote": "...No character development other than the lone survivor is a huge p*%#$. The plot was fulfilled in 10 minutes. The rest is a huge waste of time.",
+            "engagement": 82,
+            "matched_term": "waste"
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror",
+          "suspenseful",
+          "emotional depth"
+        ],
+        "avoid": [
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}

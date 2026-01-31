@@ -1,0 +1,931 @@
+{
+  "movie": "The Wailing",
+  "analysis_date": "2025-10-21T12:57:25.793365",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Wailing",
+      "total_reviews": 191,
+      "rating_distribution": {
+        "2": 1,
+        "3": 3,
+        "4": 4,
+        "5": 10,
+        "6": 33,
+        "7": 44,
+        "8": 22,
+        "9": 38,
+        "10": 36
+      },
+      "avg_rating": 7.649214659685864,
+      "rating_variance": 3.155249379994488,
+      "rating_segments": {
+        "lovers_8_10": 96,
+        "lovers_pct": 50.3,
+        "mixed_4_7": 91,
+        "mixed_pct": 47.6,
+        "haters_1_3": 4,
+        "haters_pct": 2.1
+      },
+      "gender_breakdown": {
+        "male": 140,
+        "female": 20,
+        "unknown": 31,
+        "coverage_pct": 83.8
+      },
+      "temporal_segments": {
+        "Years 4-5": 55,
+        "5+ Years": 52,
+        "Opening Year": 44,
+        "Year 2": 21,
+        "Years 2-3": 19
+      },
+      "engagement": {
+        "reviews_with_votes": 184,
+        "engagement_pct": 96.3,
+        "avg_votes_per_review": 28.43455497382199,
+        "avg_helpfulness_ratio": 0.42490263711243875
+      }
+    },
+    "what_resonated": {
+      "movie": "The Wailing",
+      "total_lovers": 96,
+      "lovers_pct_of_all_reviews": 50.3,
+      "gender_segmentation": {
+        "male": 70,
+        "male_pct": 72.9,
+        "female": 9,
+        "female_pct": 9.4,
+        "unknown": 17
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.07313498190236732,
+          "trust": 0.10002954851124068,
+          "fear": 0.11654970959788592,
+          "surprise": 0.07681774857916185,
+          "sadness": 0.07731593665268739,
+          "disgust": 0.06679479975456085,
+          "anger": 0.07197893967658846,
+          "anticipation": 0.1068419094520407
+        },
+        "male_lovers": {
+          "joy": 0.07116122683437577,
+          "trust": 0.09817528812775847,
+          "fear": 0.11504753653326176,
+          "surprise": 0.081479411018894,
+          "sadness": 0.07875413375927852,
+          "disgust": 0.07141441529672167,
+          "anger": 0.07385213213655388,
+          "anticipation": 0.10587353448896095
+        },
+        "female_lovers": {
+          "joy": 0.07273528825989785,
+          "trust": 0.09825478718372987,
+          "fear": 0.1214330817259934,
+          "surprise": 0.07074527741274902,
+          "sadness": 0.07846142743808894,
+          "disgust": 0.06090891314882341,
+          "anger": 0.07442658578511711,
+          "anticipation": 0.12296433550682045
+        }
+      },
+      "love_statements": {
+        "count": 21,
+        "percentage": 21.9,
+        "quotes": [
+          {
+            "review_id": "imdb_the_wailing_coldman_70099_20160510",
+            "reviewer": "coldman-70099",
+            "rating": 9,
+            "content": "You can find every good perspective of Korean movies.",
+            "engagement": 144
+          },
+          {
+            "review_id": "imdb_the_wailing_aharmas_20160604",
+            "reviewer": "aharmas",
+            "rating": 10,
+            "content": "Gems like these are truly hard to find, and I'm glad we live in an age where we have the opportunity to catch them in specialty cinemas because it would be terrible to see them in the small screen.",
+            "engagement": 59
+          },
+          {
+            "review_id": "imdb_the_wailing_sitenoise_20160919",
+            "reviewer": "sitenoise",
+            "rating": 8,
+            "content": "Kudos to start: The Shaman rituals are wonderful and intense, the music is so good. ||| Kwak Do-Won, like so many of the blubbery Korean actors I enjoy, is great with only a few errors, probably the director's fault.",
+            "engagement": 14
+          },
+          {
+            "review_id": "imdb_the_wailing_wikkid_gamez_20190617",
+            "reviewer": "Wikkid_Gamez",
+            "rating": 9,
+            "content": "I love horror movies, all kinds... ||| But that one hit in particular as that Corso looks like it could be my dogs twin... That aside, I absolutely loved the overall take away left after watching this movie and definitely recommend it to anyone that loves really good, well made horror movies.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_wailing_bear_adam_20170206",
+            "reviewer": "bear_adam",
+            "rating": 10,
+            "content": "I'm glad I didn't review this movie immediately after watching it but waited about a day because the ending will make you side one of two ways obviously and at first I didn't like it.",
+            "engagement": 12
+          },
+          {
+            "review_id": "imdb_the_wailing_khashayar91_20170729",
+            "reviewer": "Khashayar91",
+            "rating": 8,
+            "content": "The actors played very good and Kwak Do-hon nailed it as a father and a policeman.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_wailing_vivekmaru45_20170414",
+            "reviewer": "Vivekmaru45",
+            "rating": 10,
+            "content": "In ending this review, I must say that this film is not a complete film and I hope to see a sequel film in the future.",
+            "engagement": 9
+          },
+          {
+            "review_id": "imdb_the_wailing_jacobmounter_20160924",
+            "reviewer": "jacobmounter",
+            "rating": 9,
+            "content": "The story unfolds quite nicely, and isn't too difficult to follow, although at the beginning I was close to finding another movie because the story seemed a bit plain, I'm glad I stuck with it.",
+            "engagement": 9
+          },
+          {
+            "review_id": "imdb_the_wailing_tarekjousef_20230316",
+            "reviewer": "TarekJousef",
+            "rating": 10,
+            "content": "What else can I say: I LOVE IT SO MUCH.... And I will tell my grandsons about it, certainly.",
+            "engagement": 8
+          },
+          {
+            "review_id": "imdb_the_wailing_rynergee_20230915",
+            "reviewer": "rynergee",
+            "rating": 9,
+            "content": "I even had to pause the movie and say it out loud that \"IT'S SO GOOD THAT IT'S CONFUSING!!!\".",
+            "engagement": 5
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 69.96666666666665,
+        "avg_grade_level": 8.179166666666667,
+        "avg_first_person_ratio": 2.864934475179844,
+        "avg_exclamations": 0.5104166666666666
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 43,
+        "comparison_pct": 44.8
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Wailing",
+      "total_haters": 4,
+      "haters_pct_of_all_reviews": 2.1,
+      "gender_segmentation": {
+        "male": 2,
+        "male_pct": 50.0,
+        "female": 0,
+        "female_pct": 0.0,
+        "unknown": 2
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.09260240681638505,
+          "disgust": 0.11113006178080982,
+          "sadness": 0.1018263402922144,
+          "fear": 0.10187611630017858
+        },
+        "male_haters": {
+          "anger": 0.0954088952654232,
+          "disgust": 0.1345050215208034,
+          "sadness": 0.0903873744619799,
+          "fear": 0.06599713055954085
+        },
+        "female_haters": {}
+      },
+      "hate_statements": {
+        "count": 1,
+        "percentage": 25.0,
+        "quotes": [
+          {
+            "review_id": "imdb_the_wailing_evkalypticz_20200922",
+            "reviewer": "Evkalypticz",
+            "rating": 2,
+            "content": "It's really bad, the acting is aight' but the writing is just awful.. Not the \"posessed\" people are the Problem, the main characters are so badly written the things they do make no sense at all.",
+            "engagement": 29
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 2,
+        "percentage": 50.0,
+        "quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "content": "Doesn't matter how well shot or acted it is, this was a major disappointment for me and it's a shame because I heard so many fantastic things about it, but sadly all it did was make me hate The Wailing more.",
+            "engagement": 113
+          },
+          {
+            "review_id": "imdb_the_wailing_evkalypticz_20200922",
+            "reviewer": "Evkalypticz",
+            "rating": 2,
+            "content": "And the whole scene you just hear drums and loud people it was almost the worst Part of the movie and I wish I ended it there but I watched it till the end and Oh boy..",
+            "engagement": 29
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 1,
+        "comparison_pct": 25.0,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 68.63749999999999,
+        "avg_grade_level": 9.024999999999999,
+        "avg_exclamations": 0.5,
+        "avg_caps_words": 1.75,
+        "reviews_with_questions": 2,
+        "question_pct": 50.0
+      }
+    },
+    "polarization": {
+      "movie": "The Wailing",
+      "polarization_metrics": {
+        "level": "CONSENSUS",
+        "rating_variance": 3.155249379994488,
+        "rating_std_dev": 1.7763021646089632,
+        "middle_ground_pct": 47.6,
+        "lovers_pct": 50.3,
+        "haters_pct": 2.1
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "disgust",
+            {
+              "lovers_score": 0.06679479975456085,
+              "haters_score": 0.11113006178080982,
+              "divergence": 0.044335262026248975
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.07313498190236732,
+              "haters_score": 0.033048341287734574,
+              "divergence": 0.04008664061463275
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.07681774857916185,
+              "haters_score": 0.046839223494275724,
+              "divergence": 0.029978525084886125
+            }
+          ],
+          [
+            "sadness",
+            {
+              "lovers_score": 0.07731593665268739,
+              "haters_score": 0.1018263402922144,
+              "divergence": 0.024510403639527015
+            }
+          ],
+          [
+            "trust",
+            {
+              "lovers_score": 0.10002954851124068,
+              "haters_score": 0.07621072819371648,
+              "divergence": 0.023818820317524206
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.07313498190236732,
+            "haters_score": 0.033048341287734574,
+            "divergence": 0.04008664061463275
+          },
+          "trust": {
+            "lovers_score": 0.10002954851124068,
+            "haters_score": 0.07621072819371648,
+            "divergence": 0.023818820317524206
+          },
+          "fear": {
+            "lovers_score": 0.11654970959788592,
+            "haters_score": 0.10187611630017858,
+            "divergence": 0.014673593297707344
+          },
+          "surprise": {
+            "lovers_score": 0.07681774857916185,
+            "haters_score": 0.046839223494275724,
+            "divergence": 0.029978525084886125
+          },
+          "sadness": {
+            "lovers_score": 0.07731593665268739,
+            "haters_score": 0.1018263402922144,
+            "divergence": 0.024510403639527015
+          },
+          "disgust": {
+            "lovers_score": 0.06679479975456085,
+            "haters_score": 0.11113006178080982,
+            "divergence": 0.044335262026248975
+          },
+          "anger": {
+            "lovers_score": 0.07197893967658846,
+            "haters_score": 0.09260240681638505,
+            "divergence": 0.020623467139796597
+          },
+          "anticipation": {
+            "lovers_score": 0.1068419094520407,
+            "haters_score": 0.08840072614411615,
+            "divergence": 0.018441183307924547
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 69.96666666666665,
+          "haters": 68.63749999999999,
+          "difference": -1.3291666666666657
+        },
+        "grade_level": {
+          "lovers": 8.179166666666667,
+          "haters": 9.024999999999999,
+          "difference": 0.8458333333333314
+        },
+        "first_person_usage": {
+          "lovers": 2.864934475179844,
+          "haters": 2.645782875665233,
+          "difference": -0.21915159951461094
+        },
+        "exclamations": {
+          "lovers": 0.5104166666666666,
+          "haters": 0.5,
+          "difference": -0.01041666666666663
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 28.208333333333332,
+        "haters_avg_votes": 74.0,
+        "lovers_vote_polarization": 8.583333333333334,
+        "haters_vote_polarization": 11.0
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 7.769230769230769,
+        "late_avg_rating": 7.654205607476635,
+        "temporal_shift": -0.1150251617541338,
+        "shift_direction": "declined"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 7.585714285714285,
+        "female_avg_rating": 7.55,
+        "gender_rating_gap": 0.03571428571428559,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 44.8,
+        "haters_use_comparisons_pct": 25.0,
+        "comparison_gap": 19.79166666666667
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Wailing",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 3.1,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_wailing_myc4971_20160912",
+              "reviewer": "myc4971",
+              "rating": 10,
+              "content": "On the other hand, there is one thing I wish everyone who watches this film to feel, regardless of who they are: a condolence for those who disappeared after having fallen as victims of the world.",
+              "engagement": 168
+            },
+            {
+              "review_id": "imdb_the_wailing_coreyjdenford_20161125",
+              "reviewer": "coreyjdenford",
+              "rating": 8,
+              "content": "Until Jong seeks the help of Il-Gwang (Hwang Jong-min) the village shaman, unfortunately the film starts to flag a little during the second act perhaps due to the excessive time spent on the exorcism ritual, but it's essential stuff as this is used for setting up a third and final which leads a finale which is both genuinely shocking and ingeniously inevitable, as this will leave you with an unshakeable sense of dread.",
+              "engagement": 10
+            },
+            {
+              "review_id": "imdb_the_wailing_vivekmaru45_20170414",
+              "reviewer": "Vivekmaru45",
+              "rating": 10,
+              "content": "In ending this review, I must say that this film is not a complete film and I hope to see a sequel film in the future.",
+              "engagement": 9
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 2,
+          "percentage": 50.0,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+              "reviewer": "AdrenalinDragon",
+              "rating": 3,
+              "content": "Doesn't matter how well shot or acted it is, this was a major disappointment for me and it's a shame because I heard so many fantastic things about it, but sadly all it did was make me hate The Wailing more.",
+              "engagement": 113
+            },
+            {
+              "review_id": "imdb_the_wailing_evkalypticz_20200922",
+              "reviewer": "Evkalypticz",
+              "rating": 2,
+              "content": "And the whole scene you just hear drums and loud people it was almost the worst Part of the movie and I wish I ended it there but I watched it till the end and Oh boy..",
+              "engagement": 29
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 20.8,
+          "haters_with_questions_pct": 50.0
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 7.769230769230769,
+          "avg_vader_compound": -0.028249230769230766,
+          "hate_statement_pct": 1.5,
+          "wish_statement_pct": 9.2
+        },
+        "late_reviews": {
+          "avg_rating": 7.654205607476635,
+          "avg_vader_compound": 0.2863523364485982,
+          "hate_statement_pct": 2.8,
+          "wish_statement_pct": 7.5
+        },
+        "rating_shift": -0.1150251617541338,
+        "interpretation": "declined"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 44.8,
+        "haters_pct": 25.0,
+        "gap": 19.799999999999997
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.26047812499999995,
+        "haters_vader": -0.959975,
+        "sentiment_gap": 1.220453125
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 2.1,
+        "disappointed_count": 4,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "content": "Doesn't matter how well shot or acted it is, this was a major disappointment for me and it's a shame because I heard so many fantastic things about it, but sadly all it did was make me hate The Wailing more.",
+            "engagement": 113
+          },
+          {
+            "review_id": "imdb_the_wailing_evkalypticz_20200922",
+            "reviewer": "Evkalypticz",
+            "rating": 2,
+            "content": "And the whole scene you just hear drums and loud people it was almost the worst Part of the movie and I wish I ended it there but I watched it till the end and Oh boy..",
+            "engagement": 29
+          },
+          {
+            "review_id": "imdb_the_wailing_connorwestin_20211027",
+            "reviewer": "connorwestin",
+            "rating": 5,
+            "content": "Personally, I wish I hadn't invested over 2.5 hours to be left with unanswered questions.",
+            "engagement": 16
+          },
+          {
+            "review_id": "imdb_the_wailing_patrickrichardfile_20210201",
+            "reviewer": "patrickrichardfile",
+            "rating": 5,
+            "content": "I regret giving my time to this film.",
+            "engagement": 3
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Wailing",
+      "overall_risk_assessment": {
+        "risk_level": "LOW",
+        "risk_score": 1.0,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.113046475341265,
+        "avg_disgust": 0.06869501366995137,
+        "hate_review_pct": 2.1,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "review_title": "Excruciatingly long for what it is",
+            "quote": "Why is this 2 and a half hours long? It's basically a generic supernatural Horror story with idiotic characters and no good surprises what so ever. Where are the scares?...",
+            "engagement": 113,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_shea765_20170619",
+            "reviewer": "shea765",
+            "rating": 3,
+            "review_title": "The Groaning",
+            "quote": "...(Spoiler alert) A small South Korean hamlet is invaded by demons (who double as Minolta film camera enthusiasts -- where do they develop their rolls?) undertaking a wanton campaign to slaughter the villagers one by one. Who are these photographic fiends? Why do they \"shoot to kill\"?...",
+            "engagement": 107,
+            "matched_term": "graphic"
+          },
+          {
+            "review_id": "imdb_the_wailing_kking_68641_20180701",
+            "reviewer": "kking-68641",
+            "rating": 3,
+            "review_title": "Too ambiguous for my taste.",
+            "quote": "I never saw any real explanation for anything that happened. And I never figured out the purpose or motivation of several of the main characters. There was a shaman who never really accomplished anything, a priest who seemed to have no purpose in the show at all, a Japanese man who is the target of blatant racism (this is apparently his only purpose), and a woman who seems to be important at the end but we have no idea why she's important or who she is....",
+            "engagement": 47,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "LOW",
+        "haters_reading_ease": 68.63749999999999,
+        "lovers_reading_ease": 69.96666666666665,
+        "complexity_gap": -1.3291666666666657,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "review_title": "Excruciatingly long for what it is",
+            "quote": "Why is this 2 and a half hours long? It's basically a generic supernatural Horror story with idiotic characters and no good surprises what so ever. Where are the scares?...",
+            "engagement": 113,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_shea765_20170619",
+            "reviewer": "shea765",
+            "rating": 3,
+            "review_title": "The Groaning",
+            "quote": "10-word review: Vastly overappreciated pseudo-horror film with little continuity or technical accomplishment. Long review: The only wailing you'll remember after watching this film is your own cry of irritation having just spent 2 hours and 36 mins following a trek-to-nowhere that could have been edited down to a mere short. It's a common exaggeration to say that a movie has no plot, but in this case it's hard to argue....",
+            "engagement": 107,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_kking_68641_20180701",
+            "reviewer": "kking-68641",
+            "rating": 3,
+            "review_title": "Too ambiguous for my taste.",
+            "quote": "I never saw any real explanation for anything that happened. And I never figured out the purpose or motivation of several of the main characters. There was a shaman who never really accomplished anything, a priest who seemed to have no purpose in the show at all, a Japanese man who is the target of blatant racism (this is apparently his only purpose), and a woman who seems to be important at the end but we have no idea why she's important or who she is....",
+            "engagement": 47,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 5,
+        "early_negative_pct": 7.7,
+        "early_avg_rating": 7.769230769230769,
+        "total_early_reviews": 65,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_antiraza_20160530",
+            "reviewer": "antiraza",
+            "rating": 5,
+            "review_title": "Underwhelming story and conclusion, genre mish-mash, some good cinematic moments",
+            "quote": "...Anyway, if you wanted to watch this film because you were a fan of The Chaser, go right ahead, just temper your expectations. It doesn't have The Chaser's palpable sense of dread and power. This is not a particularly frightening, emotionally moving or satisfying film, but it's got some good moments that make the experience not a complete waste.",
+            "engagement": 262,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_the_wailing_heath_jeffrey_20160729",
+            "reviewer": "heath-jeffrey",
+            "rating": 4,
+            "review_title": "Impressive build up to...",
+            "quote": "I'm not going to mention any specifics about the plot or characters at all, but I do discuss the general orientation of the ending. Stop reading if you think general might still be spoiling). I so much want to give this movie an 8 or 9 out of 10....",
+            "engagement": 240,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_ensureshake_20160908",
+            "reviewer": "ensureshake",
+            "rating": 4,
+            "review_title": "Screaming Cops",
+            "quote": "Two cops who act like scared high school kids. They run around a lot and scream. After that, I couldn't take anything this movie had serious....",
+            "engagement": 210,
+            "matched_term": null
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "MODERATE",
+        "haters_with_wishes_pct": 50.0,
+        "interpretation": "Moderate pacing concerns. Some viewers wanted more action/payoff.",
+        "mitigation": "Set expectations clearly in marketing. Use critic quotes about 'atmospheric' and 'meditative' qualities.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "review_title": "Excruciatingly long for what it is",
+            "quote": "Why is this 2 and a half hours long? It's basically a generic supernatural Horror story with idiotic characters and no good surprises what so ever. Where are the scares?...",
+            "engagement": 113,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_shea765_20170619",
+            "reviewer": "shea765",
+            "rating": 3,
+            "review_title": "The Groaning",
+            "quote": "10-word review: Vastly overappreciated pseudo-horror film with little continuity or technical accomplishment. Long review: The only wailing you'll remember after watching this film is your own cry of irritation having just spent 2 hours and 36 mins following a trek-to-nowhere that could have been edited down to a mere short. It's a common exaggeration to say that a movie has no plot, but in this case it's hard to argue....",
+            "engagement": 107,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_kking_68641_20180701",
+            "reviewer": "kking-68641",
+            "rating": 3,
+            "review_title": "Too ambiguous for my taste.",
+            "quote": "I never saw any real explanation for anything that happened. And I never figured out the purpose or motivation of several of the main characters. There was a shaman who never really accomplished anything, a priest who seemed to have no purpose in the show at all, a Japanese man who is the target of blatant racism (this is apparently his only purpose), and a woman who seems to be important at the end but we have no idea why she's important or who she is....",
+            "engagement": 47,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 0.5,
+        "disappointed_count": 1,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "review_title": "Excruciatingly long for what it is",
+            "quote": "Why is this 2 and a half hours long? It's basically a generic supernatural Horror story with idiotic characters and no good surprises what so ever. Where are the scares?...",
+            "engagement": 113,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.03571428571428559,
+        "male_avg_rating": 7.585714285714285,
+        "female_avg_rating": 7.55,
+        "gender_preference": "male",
+        "male_count": 140,
+        "female_count": 20,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_wailing_dybae_20201226",
+            "reviewer": "dybae",
+            "rating": 4,
+            "review_title": "Awful",
+            "quote": "Poor plot line and most importantly not scary. Complete waste of time",
+            "engagement": 9,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Wailing",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 36,
+        "percentage": 18.8,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 25,
+          "female_count": 4,
+          "male_pct": 69.4,
+          "female_pct": 11.1,
+          "gender_coverage": 80.6
+        },
+        "characteristics": {
+          "avg_rating": 9.055555555555555,
+          "avg_reading_grade": 9.763888888888888,
+          "avg_engagement": 55.19444444444444,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 11,
+          "love_pct": 30.6,
+          "exclamations": 12,
+          "exclamation_pct": 33.3,
+          "high_engagement": 15,
+          "high_engagement_pct": 41.7
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "fear",
+            "anticipation",
+            "trust"
+          ],
+          "all_emotions": {
+            "joy": 0.07713214265020031,
+            "trust": 0.09841469781651661,
+            "fear": 0.11275622944531778,
+            "surprise": 0.07103862781688403,
+            "sadness": 0.07861103149037492,
+            "disgust": 0.06407356841971257,
+            "anger": 0.07149964435815555,
+            "anticipation": 0.10470575053498787
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Reddit r/TrueFilm community (active discussers)",
+          "YouTube film essayists (in-depth analysis)",
+          "Film Discord servers",
+          "Shudder subscribers",
+          "Reddit r/horror community",
+          "Horror podcasts (Faculty of Horror, Post Mortem)",
+          "Fangoria / Rue Morgue readers",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "High engagement - these are evangelists who drive word-of-mouth",
+          "Horror enthusiasts - not casual scary movie fans",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_wailing_silenteyes__20160914",
+              "reviewer": "SilentEyes_",
+              "rating": 9,
+              "review_title": "Another horror masterpiece from South Korea",
+              "quote": "...They play integral part of horror movies, but when a movie mostly relies on them and is not supported with great story, I am always left displeased. What makes The Wailing so special is that there are almost no jump scares at all in this film. Instead, we, the viewers, are taken through a story rich with mystery, great characters and their struggles, dark atmosphere with well designed and amazingly crafted horror scenes that make your blood run cold. Also, in addition the movie carries a great subtext left for the viewer to question, find evidence and interpret it. You can feel that the director took some time and did some research to give us as much real horror experience as possible....",
+              "engagement": 298,
+              "matched_term": "amazing"
+            },
+            {
+              "review_id": "imdb_the_wailing_a_different_drummer_20161206",
+              "reviewer": "A_Different_Drummer",
+              "rating": 9,
+              "review_title": "Astonishing \"Ambiguous Ending\" Horror",
+              "quote": "SPOILER: Have seen a lot of films, reviewed a lot of films but this extraordinary two and a half hour technically-perfect humanistic horror film from one of the finest writer/directors in the business (auteur of I SAW THE DEVIL) was something of a cipher. The closest analog I can suggest in David Lynch's 2001's Mulholland Drive, yet another technically perfect, humanistic, suspense opus which keeps you captivated for its full length, yet has you walking out of the theatre shaking your head and wondering what exactly you just saw? Both film-makers understand the \"big secret\" of story telling which is, if you can present your story in such a way that the viewer feels he or she is sharing the experience with the protagonist, you can tell any story you like and the viewer will just keep going....",
+              "engagement": 244,
+              "matched_term": "perfect"
+            },
+            {
+              "review_id": "imdb_the_wailing_wcoleparks_20160620",
+              "reviewer": "wcoleparks",
+              "rating": 8,
+              "review_title": "Beware The Wailing! This film will stick with you",
+              "quote": "...When his daughter starts to show signs of the sickness, it gets personal and he must figure out who to trust and who to avoid. The director, Hong-jin Na, struggles to find a good tonal balance. At times pitch perfect and at other times all over the place, the tone struggles to stay consistent. For the first third of the film, it is primarily a funny movie with briefs bursts of depravity and violence. The comedy works well and I found myself laughing a number of times....",
+              "engagement": 235,
+              "matched_term": "perfect"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_wailing_a_different_drummer_20161206",
+              "reviewer": "A_Different_Drummer",
+              "rating": 9,
+              "review_title": "Astonishing \"Ambiguous Ending\" Horror",
+              "quote": "SPOILER: Have seen a lot of films, reviewed a lot of films but this extraordinary two and a half hour technically-perfect humanistic horror film from one of the finest writer/directors in the business (auteur of I SAW THE DEVIL) was something of a cipher. The closest analog I can suggest in David Lynch's 2001's Mulholland Drive, yet another technically perfect, humanistic, suspense opus which keeps you captivated for its full length, yet has you walking out of the theatre shaking your head and wondering what exactly you just saw? Both film-makers understand the \"big secret\" of story telling which is, if you can present your story in such a way that the viewer feels he or she is sharing the experience with the protagonist, you can tell any story you like and the viewer will just keep going....",
+              "engagement": 244,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_wailing_wcoleparks_20160620",
+              "reviewer": "wcoleparks",
+              "rating": 8,
+              "review_title": "Beware The Wailing! This film will stick with you",
+              "quote": "The Wailing opens with a quote from the bible. It is easy to forget this fact while watching most of the film, but at a certain point it becomes clear the purpose that quote served. It is almost like a warning: \"if you are a religious person, this film will scare every part of you.\" This is where The Wailing works so well....",
+              "engagement": 235,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_wailing_jon_barfila_20160710",
+              "reviewer": "jon_barfila",
+              "rating": 9,
+              "review_title": "very few movies have shaken me from deep inside",
+              "quote": "This will be the first review i'm writing, Because i'm enthralled by this piece of art. Gokseong is directed by Hong-jin Na who previously have made very fine movies like yellow sea and chaser. But the setting of this movie is different from those movies, It kind of felt like Memories of Murder in darker tone....",
+              "engagement": 186,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 104,
+        "percentage": 54.5,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 78,
+          "female_count": 9
+        },
+        "characteristics": {
+          "avg_rating": 8.26923076923077,
+          "avg_reading_grade": 8.294230769230769,
+          "avg_engagement": 12.288461538461538,
+          "sophistication_level": "Moderate"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 4,
+        "percentage": 2.1,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 2.75,
+          "avg_reading_grade": 9.024999999999999,
+          "complexity_barrier": false,
+          "wish_statement_pct": 50.0
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Expected mainstream horror with scares"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_wailing_adrenalindragon_20210316",
+            "reviewer": "AdrenalinDragon",
+            "rating": 3,
+            "review_title": "Excruciatingly long for what it is",
+            "quote": "Why is this 2 and a half hours long? It's basically a generic supernatural Horror story with idiotic characters and no good surprises what so ever. Where are the scares?...",
+            "engagement": 113,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_shea765_20170619",
+            "reviewer": "shea765",
+            "rating": 3,
+            "review_title": "The Groaning",
+            "quote": "10-word review: Vastly overappreciated pseudo-horror film with little continuity or technical accomplishment. Long review: The only wailing you'll remember after watching this film is your own cry of irritation having just spent 2 hours and 36 mins following a trek-to-nowhere that could have been edited down to a mere short. It's a common exaggeration to say that a movie has no plot, but in this case it's hard to argue....",
+            "engagement": 107,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_wailing_kking_68641_20180701",
+            "reviewer": "kking-68641",
+            "rating": 3,
+            "review_title": "Too ambiguous for my taste.",
+            "quote": "I never saw any real explanation for anything that happened. And I never figured out the purpose or motivation of several of the main characters. There was a shaman who never really accomplished anything, a priest who seemed to have no purpose in the show at all, a Japanese man who is the target of blatant racism (this is apparently his only purpose), and a woman who seems to be important at the end but we have no idea why she's important or who she is....",
+            "engagement": 47,
+            "matched_term": null
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror",
+          "suspenseful"
+        ],
+        "avoid": [
+          "Promising jump scares or action that isn't delivered"
+        ]
+      }
+    }
+  }
+}

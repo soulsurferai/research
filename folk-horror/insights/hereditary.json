@@ -1,0 +1,924 @@
+{
+  "movie": "Hereditary",
+  "analysis_date": "2025-10-21T12:57:25.954803",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "Hereditary",
+      "total_reviews": 140,
+      "rating_distribution": {
+        "0": 1,
+        "1": 3,
+        "2": 1,
+        "3": 4,
+        "4": 4,
+        "5": 2,
+        "6": 30,
+        "7": 25,
+        "8": 17,
+        "9": 15,
+        "10": 38
+      },
+      "avg_rating": 7.492857142857143,
+      "rating_variance": 5.071891058581706,
+      "rating_segments": {
+        "lovers_8_10": 70,
+        "lovers_pct": 50.0,
+        "mixed_4_7": 61,
+        "mixed_pct": 43.6,
+        "haters_1_3": 9,
+        "haters_pct": 6.4
+      },
+      "gender_breakdown": {
+        "male": 92,
+        "female": 23,
+        "unknown": 25,
+        "coverage_pct": 82.1
+      },
+      "temporal_segments": {
+        "Opening Year": 56,
+        "Years 4-5": 30,
+        "Years 2-3": 27,
+        "Year 2": 17,
+        "5+ Years": 10
+      },
+      "engagement": {
+        "reviews_with_votes": 140,
+        "engagement_pct": 100.0,
+        "avg_votes_per_review": 123.81428571428572,
+        "avg_helpfulness_ratio": 0.6512501203675699
+      }
+    },
+    "what_resonated": {
+      "movie": "Hereditary",
+      "total_lovers": 70,
+      "lovers_pct_of_all_reviews": 50.0,
+      "gender_segmentation": {
+        "male": 47,
+        "male_pct": 67.1,
+        "female": 11,
+        "female_pct": 15.7,
+        "unknown": 12
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.05928364810626107,
+          "trust": 0.0741900042530494,
+          "fear": 0.12273669453291529,
+          "surprise": 0.0790463077255938,
+          "sadness": 0.10985762272312544,
+          "disgust": 0.07579642923030527,
+          "anger": 0.08867779852546571,
+          "anticipation": 0.08979375555633282
+        },
+        "male_lovers": {
+          "joy": 0.056837879319853,
+          "trust": 0.07125320177181946,
+          "fear": 0.12360453553753578,
+          "surprise": 0.07742674568654974,
+          "sadness": 0.11128234095567285,
+          "disgust": 0.07571632161324286,
+          "anger": 0.0869226901041987,
+          "anticipation": 0.08722550586434216
+        },
+        "female_lovers": {
+          "joy": 0.07366194303824798,
+          "trust": 0.09342671525701597,
+          "fear": 0.11077955982658794,
+          "surprise": 0.07902802736089748,
+          "sadness": 0.09833362132830646,
+          "disgust": 0.0731975726586264,
+          "anger": 0.08375159285311151,
+          "anticipation": 0.11304125222111495
+        }
+      },
+      "love_statements": {
+        "count": 11,
+        "percentage": 15.7,
+        "quotes": [
+          {
+            "review_id": "imdb_hereditary_famekingdom_20180609",
+            "reviewer": "famekingdom",
+            "rating": 10,
+            "content": "I had seen the trailer and all of the good press for it, I adore Toni Collete, and I generally enjoy horror films.",
+            "engagement": 501
+          },
+          {
+            "review_id": "imdb_hereditary_umarsonic_20180829",
+            "reviewer": "umarsonic",
+            "rating": 8,
+            "content": "I loved the tension created in this movie and the editing choices were phenomenal and actually unsettled me alot.",
+            "engagement": 365
+          },
+          {
+            "review_id": "imdb_hereditary_ravenns24_20180815",
+            "reviewer": "Ravenns24",
+            "rating": 8,
+            "content": "I am not too hard to please when it comes to horror movies, I enjoy bad horror movies equally as great ones, and when I finally got a chance to see Hereditary I went to see it with an open mind.",
+            "engagement": 289
+          },
+          {
+            "review_id": "imdb_hereditary_thelittlesongbird_20180727",
+            "reviewer": "TheLittleSongbird",
+            "rating": 8,
+            "content": "Otherwise, a very good film that was very nearly excellent.",
+            "engagement": 176
+          },
+          {
+            "review_id": "imdb_hereditary_shivamchowdhary336_20180607",
+            "reviewer": "shivamchowdhary336",
+            "rating": 10,
+            "content": "What I love so much about this film is it takes its time to introduce us to the characters - we get a sense of who the characters are within the first 20 minutes.",
+            "engagement": 176
+          },
+          {
+            "review_id": "imdb_hereditary_mksuchocki_20180608",
+            "reviewer": "mksuchocki",
+            "rating": 10,
+            "content": "There are images that I will probably never be able to get rid of in my head, which is great because I love horror and this is exactly what I could have wanted from a horror movie.",
+            "engagement": 144
+          },
+          {
+            "review_id": "imdb_hereditary_vilen_33179_20180608",
+            "reviewer": "vilen-33179",
+            "rating": 10,
+            "content": "I was impressed, and that happens RARELY.",
+            "engagement": 67
+          },
+          {
+            "review_id": "imdb_hereditary_dingane_20180609",
+            "reviewer": "dingane",
+            "rating": 10,
+            "content": "I love all kinds of horror movies from comedy-horror like Cabin in the Woods to paranoid horror like John Carpenter's The Thing to out-and-out silly horror like Dead Alive to drama horror like Rosemary's Baby.",
+            "engagement": 65
+          },
+          {
+            "review_id": "imdb_hereditary_dave_hillman_20230926",
+            "reviewer": "dave_hillman",
+            "rating": 10,
+            "content": "I love stuff like that.",
+            "engagement": 9
+          },
+          {
+            "review_id": "imdb_hereditary_filmowl12_20230427",
+            "reviewer": "filmowl12",
+            "rating": 10,
+            "content": "I just recently learned that the director, Ari Aster, also did Midsommar (which I loved) and Beau is Afraid, a film I very much want to see!",
+            "engagement": 9
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 71.84442857142858,
+        "avg_grade_level": 7.524285714285715,
+        "avg_first_person_ratio": 3.454824213580881,
+        "avg_exclamations": 0.3142857142857143
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 33,
+        "comparison_pct": 47.1
+      }
+    },
+    "what_didnt_work": {
+      "movie": "Hereditary",
+      "total_haters": 9,
+      "haters_pct_of_all_reviews": 6.4,
+      "gender_segmentation": {
+        "male": 7,
+        "male_pct": 77.8,
+        "female": 2,
+        "female_pct": 22.2,
+        "unknown": 0
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.05673724423724423,
+          "disgust": 0.10630226255226255,
+          "sadness": 0.09623825248825248,
+          "fear": 0.08337958337958337
+        },
+        "male_haters": {
+          "anger": 0.061958874458874456,
+          "disgust": 0.10213744588744589,
+          "sadness": 0.10646645021645021,
+          "fear": 0.09307359307359307
+        },
+        "female_haters": {
+          "anger": 0.03846153846153845,
+          "disgust": 0.12087912087912084,
+          "sadness": 0.0604395604395604,
+          "fear": 0.04945054945054945
+        }
+      },
+      "hate_statements": {
+        "count": 1,
+        "percentage": 11.1,
+        "quotes": [
+          {
+            "review_id": "imdb_hereditary_lycangeist_20210512",
+            "reviewer": "Lycangeist",
+            "rating": 3,
+            "content": "A couple of scenes were enjoyable, but on the whole i was bored to tears.",
+            "engagement": 19
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 1,
+        "percentage": 11.1,
+        "quotes": [
+          {
+            "review_id": "imdb_hereditary_samadabbasi_20210825",
+            "reviewer": "samadabbasi",
+            "rating": 1,
+            "content": "Man I regret my decision and one of the worst movies I have ever seen and I have seen a lot.",
+            "engagement": 87
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 4,
+        "comparison_pct": 44.4,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 75.24000000000001,
+        "avg_grade_level": 6.9111111111111105,
+        "avg_exclamations": 0.1111111111111111,
+        "avg_caps_words": 0.2222222222222222,
+        "reviews_with_questions": 1,
+        "question_pct": 11.1
+      }
+    },
+    "polarization": {
+      "movie": "Hereditary",
+      "polarization_metrics": {
+        "level": "CONSENSUS",
+        "rating_variance": 5.071891058581706,
+        "rating_std_dev": 2.252085934990427,
+        "middle_ground_pct": 43.6,
+        "lovers_pct": 50.0,
+        "haters_pct": 6.4
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "fear",
+            {
+              "lovers_score": 0.12273669453291529,
+              "haters_score": 0.08337958337958337,
+              "divergence": 0.03935711115333192
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.0790463077255938,
+              "haters_score": 0.046129796129796126,
+              "divergence": 0.03291651159579768
+            }
+          ],
+          [
+            "anger",
+            {
+              "lovers_score": 0.08867779852546571,
+              "haters_score": 0.05673724423724423,
+              "divergence": 0.031940554288221484
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.07579642923030527,
+              "haters_score": 0.10630226255226255,
+              "divergence": 0.030505833321957276
+            }
+          ],
+          [
+            "anticipation",
+            {
+              "lovers_score": 0.08979375555633282,
+              "haters_score": 0.10492747992747992,
+              "divergence": 0.0151337243711471
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.05928364810626107,
+            "haters_score": 0.06648559773559772,
+            "divergence": 0.0072019496293366445
+          },
+          "trust": {
+            "lovers_score": 0.0741900042530494,
+            "haters_score": 0.08122317497317495,
+            "divergence": 0.007033170720125548
+          },
+          "fear": {
+            "lovers_score": 0.12273669453291529,
+            "haters_score": 0.08337958337958337,
+            "divergence": 0.03935711115333192
+          },
+          "surprise": {
+            "lovers_score": 0.0790463077255938,
+            "haters_score": 0.046129796129796126,
+            "divergence": 0.03291651159579768
+          },
+          "sadness": {
+            "lovers_score": 0.10985762272312544,
+            "haters_score": 0.09623825248825248,
+            "divergence": 0.01361937023487296
+          },
+          "disgust": {
+            "lovers_score": 0.07579642923030527,
+            "haters_score": 0.10630226255226255,
+            "divergence": 0.030505833321957276
+          },
+          "anger": {
+            "lovers_score": 0.08867779852546571,
+            "haters_score": 0.05673724423724423,
+            "divergence": 0.031940554288221484
+          },
+          "anticipation": {
+            "lovers_score": 0.08979375555633282,
+            "haters_score": 0.10492747992747992,
+            "divergence": 0.0151337243711471
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 71.84442857142858,
+          "haters": 75.24000000000001,
+          "difference": 3.3955714285714294
+        },
+        "grade_level": {
+          "lovers": 7.524285714285715,
+          "haters": 6.9111111111111105,
+          "difference": -0.6131746031746044
+        },
+        "first_person_usage": {
+          "lovers": 3.454824213580881,
+          "haters": 5.166876752508731,
+          "difference": 1.7120525389278503
+        },
+        "exclamations": {
+          "lovers": 0.3142857142857143,
+          "haters": 0.1111111111111111,
+          "difference": -0.20317460317460317
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 161.84285714285716,
+        "haters_avg_votes": 167.77777777777777,
+        "lovers_vote_polarization": 47.357142857142854,
+        "haters_vote_polarization": 60.44444444444444
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 7.438356164383562,
+        "late_avg_rating": 8.275,
+        "temporal_shift": 0.8366438356164387,
+        "shift_direction": "improved"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 7.445652173913044,
+        "female_avg_rating": 7.521739130434782,
+        "gender_rating_gap": 0.07608695652173836,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 47.1,
+        "haters_use_comparisons_pct": 44.4,
+        "comparison_gap": 2.698412698412696
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "Hereditary",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 2,
+          "percentage": 2.9,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_hereditary_davesoutee_20230208",
+              "reviewer": "davesoutee",
+              "rating": 10,
+              "content": "This film deserved a Best Picture nomination, but sadly this genre is always overlooked.",
+              "engagement": 19
+            },
+            {
+              "review_id": "imdb_hereditary_ingmarbeldman_753_927212_20230211",
+              "reviewer": "ingmarbeldman-753-927212",
+              "rating": 10,
+              "content": "If only, that I am hightly disturbed, but do not know exactly why.",
+              "engagement": 16
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 1,
+          "percentage": 11.1,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_hereditary_samadabbasi_20210825",
+              "reviewer": "samadabbasi",
+              "rating": 1,
+              "content": "Man I regret my decision and one of the worst movies I have ever seen and I have seen a lot.",
+              "engagement": 87
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 10.0,
+          "haters_with_questions_pct": 11.1
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 7.438356164383562,
+          "avg_vader_compound": -0.050205479452054794,
+          "hate_statement_pct": 4.1,
+          "wish_statement_pct": 9.6
+        },
+        "late_reviews": {
+          "avg_rating": 8.275,
+          "avg_vader_compound": -0.33613750000000003,
+          "hate_statement_pct": 0.0,
+          "wish_statement_pct": 7.5
+        },
+        "rating_shift": 0.8366438356164387,
+        "interpretation": "improved"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 47.1,
+        "haters_pct": 44.4,
+        "gap": 2.700000000000003
+      },
+      "sentiment_polarity": {
+        "lovers_vader": -0.2689571428571429,
+        "haters_vader": -0.37723333333333336,
+        "sentiment_gap": 0.10827619047619047
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 1.4,
+        "disappointed_count": 2,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_hereditary_bsamad_50088_20191123",
+            "reviewer": "bsamad-50088",
+            "rating": 4,
+            "content": "Before watching this movie , i was getting my hopes up to see a real interesting horror movie with some enjoyable story , unfortunately, this movie was boring , at the fist 30 min i thought that the events weren't that interesting because they were just setting up the story for the later but as the movies carries on nothing change until this very stupid twist at the end !",
+            "engagement": 125
+          },
+          {
+            "review_id": "imdb_hereditary_samadabbasi_20210825",
+            "reviewer": "samadabbasi",
+            "rating": 1,
+            "content": "Man I regret my decision and one of the worst movies I have ever seen and I have seen a lot.",
+            "engagement": 87
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "Hereditary",
+      "overall_risk_assessment": {
+        "risk_level": "LOW",
+        "risk_score": 1.0,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.10854519113383058,
+        "avg_disgust": 0.07305075760118486,
+        "hate_review_pct": 6.4,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_rtbradford_20201024",
+            "reviewer": "rtbradford",
+            "rating": 3,
+            "review_title": "What?",
+            "quote": "Sorry, but I thought this film was absolutely awful. The storyline made no sense. It was as if there were two movies: a well made drama about a family dealing with significant unresolved issues and 20 minutes of silly, non-sensical horror grafted onto the end....",
+            "engagement": 706,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_grimreaperrr_20200211",
+            "reviewer": "grimreaperrr",
+            "rating": 2,
+            "review_title": "This is way over hyped",
+            "quote": "What on earth did I just watch? This is not scary at all and is complete nonsense. I only gave it a two for the acting otherwise I'd give it a one....",
+            "engagement": 236,
+            "matched_term": "scary"
+          },
+          {
+            "review_id": "imdb_hereditary_gallagherkellie_20210611",
+            "reviewer": "gallagherkellie",
+            "rating": 3,
+            "review_title": "Wtf did I just watch",
+            "quote": "Ok it's a slow burn which you think is fine because surely they are leading up to something big. Toni Collette is amazing. The actors playing Peter doesn't speak much but does a great job....",
+            "engagement": 147,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "LOW",
+        "haters_reading_ease": 75.24000000000001,
+        "lovers_reading_ease": 71.84442857142858,
+        "complexity_gap": 3.3955714285714294,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_rtbradford_20201024",
+            "reviewer": "rtbradford",
+            "rating": 3,
+            "review_title": "What?",
+            "quote": "Sorry, but I thought this film was absolutely awful. The storyline made no sense. It was as if there were two movies: a well made drama about a family dealing with significant unresolved issues and 20 minutes of silly, non-sensical horror grafted onto the end....",
+            "engagement": 706,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_grimreaperrr_20200211",
+            "reviewer": "grimreaperrr",
+            "rating": 2,
+            "review_title": "This is way over hyped",
+            "quote": "What on earth did I just watch? This is not scary at all and is complete nonsense. I only gave it a two for the acting otherwise I'd give it a one....",
+            "engagement": 236,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_gallagherkellie_20210611",
+            "reviewer": "gallagherkellie",
+            "rating": 3,
+            "review_title": "Wtf did I just watch",
+            "quote": "Ok it's a slow burn which you think is fine because surely they are leading up to something big. Toni Collette is amazing....",
+            "engagement": 147,
+            "matched_term": "slow"
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 6,
+        "early_negative_pct": 8.2,
+        "early_avg_rating": 7.438356164383562,
+        "total_early_reviews": 73,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_pjtaylor_96_138044_20180620",
+            "reviewer": "Pjtaylor-96-138044",
+            "rating": 5,
+            "review_title": "The more I think about it, the less I like it.",
+            "quote": "The first two thirds of 'Hereditary (2018)' are essentially a drama that deal with poignant themes of grief and the accompanying guilt using a horror genre language, which is an interesting move that allows for a unique expression of the severity of these emotions. It is these moments that are the most effective as they tap into a universal fear and experience in a really realistic way that isn't necessarily used to frighten but is used to create emotional attachment to the characters and may perhaps illicit a genuine emotional response. Yet, I can't easily name another movie that falls apart so heavily thanks solely due to its ending, which intends to 'pull the rug out' from under its audience - and does so successfully - but comes at the cost of logic, investment and, most importantly, scariness....",
+            "engagement": 338,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_bsamad_50088_20191123",
+            "reviewer": "bsamad-50088",
+            "rating": 4,
+            "review_title": "huge disappointment!!",
+            "quote": "Before watching this movie , i was getting my hopes up to see a real interesting horror movie with some enjoyable story , unfortunately, this movie was boring , at the fist 30 min i thought that the events weren't that interesting because they were just setting up the story for the later but as the movies carries on nothing change until this very stupid twist at the end !! first of all there are some things i need to point out , like how the hell the mom let her daughter go to a party with her brother and surely she knows there will be alcohol and everyone will be smoking there and how his brother just approved and not even tried to argue with his mom , this looked stupid to be honest ! the boy after the accident in which he caused his sister to die , he never got any medical assistance or anything , just resumed his life like nothing happened !!...",
+            "engagement": 125,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_hereditary_rodriguez_alfonso_20190701",
+            "reviewer": "rodriguez-alfonso",
+            "rating": 1,
+            "review_title": "Incredibly boring, dull, monotonous, no fear or terror or horror at all, just boredom",
+            "quote": "If you do like me and read some 'big' critics before embarking on a film, you can end up reading things like this: \"a sensationally scary debut feature by Ari Aster, is unhappy in ways that Tolstoy could never have dreamed\", or \"this horror flick can be so shocking and dismaying, so genuinely upsetting in spasms and spurts, yet at the same time so madly entertaining\" Do not be fooled fellow imdbians, with more than two full hours, this film has you yawning for more than 60 full minutes before something happens. You will not know how to seat yourself trying to watch this horribly monotonous and tedious film. Escape from it like the plague, you have been warned.",
+            "engagement": 100,
+            "matched_term": null
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "MODERATE",
+        "haters_with_wishes_pct": 11.1,
+        "interpretation": "Moderate pacing concerns. Some viewers wanted more action/payoff.",
+        "mitigation": "Set expectations clearly in marketing. Use critic quotes about 'atmospheric' and 'meditative' qualities.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_rtbradford_20201024",
+            "reviewer": "rtbradford",
+            "rating": 3,
+            "review_title": "What?",
+            "quote": "Sorry, but I thought this film was absolutely awful. The storyline made no sense. It was as if there were two movies: a well made drama about a family dealing with significant unresolved issues and 20 minutes of silly, non-sensical horror grafted onto the end....",
+            "engagement": 706,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_grimreaperrr_20200211",
+            "reviewer": "grimreaperrr",
+            "rating": 2,
+            "review_title": "This is way over hyped",
+            "quote": "What on earth did I just watch? This is not scary at all and is complete nonsense. I only gave it a two for the acting otherwise I'd give it a one....",
+            "engagement": 236,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_gallagherkellie_20210611",
+            "reviewer": "gallagherkellie",
+            "rating": 3,
+            "review_title": "Wtf did I just watch",
+            "quote": "Ok it's a slow burn which you think is fine because surely they are leading up to something big. Toni Collette is amazing. The actors playing Peter doesn't speak much but does a great job....",
+            "engagement": 147,
+            "matched_term": "slow"
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 0.7,
+        "disappointed_count": 1,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_bsamad_50088_20191123",
+            "reviewer": "bsamad-50088",
+            "rating": 4,
+            "review_title": "huge disappointment!!",
+            "quote": "...the boy after the accident in which he caused his sister to die , he never got any medical assistance or anything , just resumed his life like nothing happened !! the movies is extremely boring and lifeless , despite the good acting but you feel there is no connection between characters , it was like repeating the same similar scenes over and over ,\" the wife and her husband in bedroom and probably she can't sleep , the boy either in his bed or just shwoing him at school always distracted and not paying attention to the professor , the father has no importance in this movie and so on repeating the same thing for 2 hours !! i just fel disappointed and not what i expected",
+            "engagement": 125,
+            "matched_term": "expected"
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.07608695652173836,
+        "male_avg_rating": 7.445652173913044,
+        "female_avg_rating": 7.521739130434782,
+        "gender_preference": "female",
+        "male_count": 92,
+        "female_count": 23,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_hereditary_rtbradford_20201024",
+            "reviewer": "rtbradford",
+            "rating": 3,
+            "review_title": "What?",
+            "quote": "Sorry, but I thought this film was absolutely awful. The storyline made no sense. It was as if there were two movies: a well made drama about a family dealing with significant unresolved issues and 20 minutes of silly, non-sensical horror grafted onto the end....",
+            "engagement": 706,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_grimreaperrr_20200211",
+            "reviewer": "grimreaperrr",
+            "rating": 2,
+            "review_title": "This is way over hyped",
+            "quote": "What on earth did I just watch? This is not scary at all and is complete nonsense. I only gave it a two for the acting otherwise I'd give it a one....",
+            "engagement": 236,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_bsamad_50088_20191123",
+            "reviewer": "bsamad-50088",
+            "rating": 4,
+            "review_title": "huge disappointment!!",
+            "quote": "Before watching this movie , i was getting my hopes up to see a real interesting horror movie with some enjoyable story , unfortunately, this movie was boring , at the fist 30 min i thought that the events weren't that interesting because they were just setting up the story for the later but as the movies carries on nothing change until this very stupid twist at the end !! first of all there are some things i need to point out , like how the hell the mom let her daughter go to a party with her brother and surely she knows there will be alcohol and everyone will be smoking there and how his brother just approved and not even tried to argue with his mom , this looked stupid to be honest ! the boy after the accident in which he caused his sister to die , he never got any medical assistance or anything , just resumed his life like nothing happened !!...",
+            "engagement": 125,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "Hereditary",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 32,
+        "percentage": 22.9,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 22,
+          "female_count": 3,
+          "male_pct": 68.8,
+          "female_pct": 9.4,
+          "gender_coverage": 78.1
+        },
+        "characteristics": {
+          "avg_rating": 9.1875,
+          "avg_reading_grade": 9.928125000000001,
+          "avg_engagement": 177.5,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 6,
+          "love_pct": 18.8,
+          "exclamations": 2,
+          "exclamation_pct": 6.2,
+          "high_engagement": 29,
+          "high_engagement_pct": 90.6
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "fear",
+            "sadness",
+            "anger"
+          ],
+          "all_emotions": {
+            "joy": 0.05179534744186526,
+            "trust": 0.068014881222376,
+            "fear": 0.1154780278923899,
+            "surprise": 0.07921308151617704,
+            "sadness": 0.11084458358439801,
+            "disgust": 0.08298486158329126,
+            "anger": 0.0902253940284487,
+            "anticipation": 0.06885874158182634
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Reddit r/TrueFilm community (active discussers)",
+          "YouTube film essayists (in-depth analysis)",
+          "Film Discord servers",
+          "Shudder subscribers",
+          "Reddit r/horror community",
+          "Horror podcasts (Faculty of Horror, Post Mortem)",
+          "Fangoria / Rue Morgue readers",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "High engagement - these are evangelists who drive word-of-mouth",
+          "Horror enthusiasts - not casual scary movie fans",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_hereditary_neener3707_20180607",
+              "reviewer": "neener3707",
+              "rating": 10,
+              "review_title": "Hellish, Terrifying, Perfect",
+              "quote": "...I'm a horror veteran, and rarely actually jump or feel tense, but this film made me feel like a horror virgin again, actually frightening me like no other Hollywood film can. The acting was also superb all around and only adds to the horror being presented on screen. Each character was unique and added their own style to this modern horror masterpiece. I saw many people in the theater jumping and looking away, some being grown men. A couple people even left, and I can't imagine its because they felt it was a bad film, because it was not....",
+              "engagement": 695,
+              "matched_term": "masterpiece"
+            },
+            {
+              "review_id": "imdb_hereditary_akwsixers10_20180609",
+              "reviewer": "akwsixers10",
+              "rating": 9,
+              "review_title": "A new horror classic, tense and terrifying",
+              "quote": "...I feel the term slow burn has a negative connotation associated with it and prefer to call this movie tense. It doesn't really on jump scares that plague a lot of modern horror and chooses tension and imagery to scare the audience with slow camera panning and fantastic cinematography, a nervous score, and great performances. Toni Collette gives and incredible performance as a manic mother who is mourning the loss of a parent. The supporting cast is fantastic as well and they all have a time to shine at some point in the movie. The movie is also challenging in its themes with relationships between parents and their children always in the forefront....",
+              "engagement": 644,
+              "matched_term": "incredible"
+            },
+            {
+              "review_id": "imdb_hereditary_famekingdom_20180609",
+              "reviewer": "famekingdom",
+              "rating": 10,
+              "review_title": "A gut-wrenching nightmare that's not for everyone",
+              "quote": "...There is a gleam of light at the end of the tunnel, but it isn't what you think. This is the first film in a while to keep me on my toes throughout its runtime, even if its plot isn't groundbreaking. The amazing performances, sublime cinematography, and outrageously outstanding sound design makes this film a real treat for anyone with a special affection for the medium. I've seen many compare this to The Exorcist and Rosemary's Baby, and I agree mostly with those comparisons. However, I also see this film as a distant relation to the original 1976 Carrie....",
+              "engagement": 501,
+              "matched_term": "amazing"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_hereditary_neener3707_20180607",
+              "reviewer": "neener3707",
+              "rating": 10,
+              "review_title": "Hellish, Terrifying, Perfect",
+              "quote": "I don't even know where to begin with this one. When I heard that it was being made by some of the same people who worked on The Witch (which some people didn't like, but I liked it), I had high hope for this film, and boy was I not disappointed. Such a breath of fresh air for the genre in a time where Hollywood has prostituted it and released nothing but garbage....",
+              "engagement": 695,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_hereditary_akwsixers10_20180609",
+              "reviewer": "akwsixers10",
+              "rating": 9,
+              "review_title": "A new horror classic, tense and terrifying",
+              "quote": "I rarely write reviews for films on here with the exception of two cases: when a movie is really bad or when a movie needs defending from a vocal minority that trash it. First, I'll review the film like I would any other and then I'm going to try and reason why audiences are reacting negatively to the film. I'm not sure if Hereditary is the greatest horror film ever but I certainly felt like I was watching my generation's Exorcist or Rosemary's Baby....",
+              "engagement": 644,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_hereditary_famekingdom_20180609",
+              "reviewer": "famekingdom",
+              "rating": 10,
+              "review_title": "A gut-wrenching nightmare that's not for everyone",
+              "quote": "I really didn't know what to expect going in to see this film. I had seen the trailer and all of the good press for it, I adore Toni Collete, and I generally enjoy horror films. I left the theater with a pit in my stomach and came back the next day to see it again; this is a film that rewards multiple viewings....",
+              "engagement": 501,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 63,
+        "percentage": 45.0,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 42,
+          "female_count": 13
+        },
+        "characteristics": {
+          "avg_rating": 8.444444444444445,
+          "avg_reading_grade": 6.355555555555555,
+          "avg_engagement": 131.20634920634922,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 9,
+        "percentage": 6.4,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.8888888888888888,
+          "avg_reading_grade": 6.9111111111111105,
+          "complexity_barrier": true,
+          "wish_statement_pct": 11.1
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Expected mainstream horror with scares"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_hereditary_rtbradford_20201024",
+            "reviewer": "rtbradford",
+            "rating": 3,
+            "review_title": "What?",
+            "quote": "Sorry, but I thought this film was absolutely awful. The storyline made no sense. It was as if there were two movies: a well made drama about a family dealing with significant unresolved issues and 20 minutes of silly, non-sensical horror grafted onto the end....",
+            "engagement": 706,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_grimreaperrr_20200211",
+            "reviewer": "grimreaperrr",
+            "rating": 2,
+            "review_title": "This is way over hyped",
+            "quote": "What on earth did I just watch? This is not scary at all and is complete nonsense. I only gave it a two for the acting otherwise I'd give it a one....",
+            "engagement": 236,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_hereditary_gallagherkellie_20210611",
+            "reviewer": "gallagherkellie",
+            "rating": 3,
+            "review_title": "Wtf did I just watch",
+            "quote": "Ok it's a slow burn which you think is fine because surely they are leading up to something big. Toni Collette is amazing. The actors playing Peter doesn't speak much but does a great job....",
+            "engagement": 147,
+            "matched_term": "slow"
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror",
+          "emotional depth"
+        ],
+        "avoid": [
+          "Promising jump scares or action that isn't delivered",
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}
