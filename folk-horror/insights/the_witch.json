@@ -1,0 +1,1170 @@
+{
+  "movie": "The Witch",
+  "analysis_date": "2025-10-21T12:57:24.287747",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Witch",
+      "total_reviews": 1113,
+      "rating_distribution": {
+        "1": 170,
+        "2": 39,
+        "3": 39,
+        "4": 21,
+        "5": 23,
+        "6": 78,
+        "7": 164,
+        "8": 221,
+        "9": 182,
+        "10": 176
+      },
+      "avg_rating": 6.600179694519317,
+      "rating_variance": 9.382266154731221,
+      "rating_segments": {
+        "lovers_8_10": 579,
+        "lovers_pct": 52.0,
+        "mixed_4_7": 286,
+        "mixed_pct": 25.7,
+        "haters_1_3": 248,
+        "haters_pct": 22.3
+      },
+      "gender_breakdown": {
+        "male": 749,
+        "female": 140,
+        "unknown": 224,
+        "coverage_pct": 79.9
+      },
+      "temporal_segments": {
+        "Year 2": 392,
+        "5+ Years": 321,
+        "Years 4-5": 232,
+        "Years 2-3": 167,
+        "Opening Year": 1
+      },
+      "engagement": {
+        "reviews_with_votes": 1092,
+        "engagement_pct": 98.1,
+        "avg_votes_per_review": 25.883198562443845,
+        "avg_helpfulness_ratio": 0.45391555425772967
+      }
+    },
+    "what_resonated": {
+      "movie": "The Witch",
+      "total_lovers": 579,
+      "lovers_pct_of_all_reviews": 52.0,
+      "gender_segmentation": {
+        "male": 403,
+        "male_pct": 69.6,
+        "female": 60,
+        "female_pct": 10.4,
+        "unknown": 116
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.06926990574936663,
+          "trust": 0.0738435819603092,
+          "fear": 0.09938697674242186,
+          "surprise": 0.06613598443825962,
+          "sadness": 0.08176323946427447,
+          "disgust": 0.062253291766261806,
+          "anger": 0.07642380351989767,
+          "anticipation": 0.08826203405430995
+        },
+        "male_lovers": {
+          "joy": 0.06890179531048425,
+          "trust": 0.07322306072641191,
+          "fear": 0.10287088690680017,
+          "surprise": 0.06472418944194551,
+          "sadness": 0.08391552493225032,
+          "disgust": 0.06278171811078301,
+          "anger": 0.07797521214943479,
+          "anticipation": 0.0842775819460392
+        },
+        "female_lovers": {
+          "joy": 0.07687113662650415,
+          "trust": 0.07180277355137234,
+          "fear": 0.09518015415564968,
+          "surprise": 0.0591492915129063,
+          "sadness": 0.08198295203927768,
+          "disgust": 0.06439664404008316,
+          "anger": 0.07737941508681681,
+          "anticipation": 0.08473458443198426
+        }
+      },
+      "love_statements": {
+        "count": 110,
+        "percentage": 19.0,
+        "quotes": [
+          {
+            "review_id": "imdb_the_witch_imdb_57311_20160613",
+            "reviewer": "imdb-57311",
+            "rating": 8,
+            "content": "I am happy to see that she is not shown as a crazy woman jumping around eating toads.",
+            "engagement": 491
+          },
+          {
+            "review_id": "imdb_the_witch_rd_pires_20160217",
+            "reviewer": "rd_pires",
+            "rating": 8,
+            "content": "Overall, I enjoyed \"The Witch\" and its originality.",
+            "engagement": 414
+          },
+          {
+            "review_id": "imdb_the_witch_sleepin_dragon_20180321",
+            "reviewer": "Sleepin_Dragon",
+            "rating": 8,
+            "content": "Very good performance from the cast, Ralph Inseson and Kate Dickie in particular.",
+            "engagement": 182
+          },
+          {
+            "review_id": "imdb_the_witch_coffinvideo1983_20190817",
+            "reviewer": "CoffinVideo1983",
+            "rating": 8,
+            "content": "I loved so much about it. ||| I loved the plot, the timing, the acting... basically everything about the film.",
+            "engagement": 100
+          },
+          {
+            "review_id": "imdb_the_witch_ksiambones_20201106",
+            "reviewer": "ksiambones",
+            "rating": 10,
+            "content": "I absolutely love horror movies and if Freddy Kruger or Jason is your only idea of horror, this movie isn't for you.",
+            "engagement": 60
+          },
+          {
+            "review_id": "imdb_the_witch_tedstixonakamaximummadness_20161028",
+            "reviewer": "TedStixonAKAMaximumMadness",
+            "rating": 10,
+            "content": "I love the \"Saw\" movies more than most. ||| I adore it and embrace it and celebrate it.",
+            "engagement": 60
+          },
+          {
+            "review_id": "imdb_the_witch_genti27_20160913",
+            "reviewer": "Genti27",
+            "rating": 10,
+            "content": "I loved this film and I would recommend any horror and movie fan in general who just wants to see a masterpiece, to watch it now.",
+            "engagement": 49
+          },
+          {
+            "review_id": "imdb_the_witch_heatherbeck_57270_20160919",
+            "reviewer": "heatherbeck-57270",
+            "rating": 10,
+            "content": "Such a fantastic work of art that I am happy to own and watch again and again.",
+            "engagement": 46
+          },
+          {
+            "review_id": "imdb_the_witch_quinoa1984_20160218",
+            "reviewer": "Quinoa1984",
+            "rating": 10,
+            "content": "But I love that a film that goes for being all about simply scaring you by its brooding imagery, period dialog and actors who you won't know unless you have every cast member of Game of Thrones memorized (hint, it's the parents), gets to be seen by so many people.",
+            "engagement": 43
+          },
+          {
+            "review_id": "imdb_the_witch_deimos_remus_20160219",
+            "reviewer": "Deimos-remus",
+            "rating": 10,
+            "content": "To cap it off, this is the kind of Horror film I'm always waiting for, especially considering the droves of wanton garbage that flood the theaters week after week, and after looking forward to the film for nearly a year and a half, I'm glad to say that it delivered on all fronts.",
+            "engagement": 30
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 63.744110535405866,
+        "avg_grade_level": 8.617616580310882,
+        "avg_first_person_ratio": 2.225471555456079,
+        "avg_exclamations": 0.32469775474956825
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 210,
+        "comparison_pct": 36.3
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Witch",
+      "total_haters": 248,
+      "haters_pct_of_all_reviews": 22.3,
+      "gender_segmentation": {
+        "male": 154,
+        "male_pct": 62.1,
+        "female": 46,
+        "female_pct": 18.5,
+        "unknown": 48
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.06896811333445561,
+          "disgust": 0.077063280392767,
+          "sadness": 0.0742088799577621,
+          "fear": 0.08168777179870772
+        },
+        "male_haters": {
+          "anger": 0.06677677801062083,
+          "disgust": 0.07475440367600417,
+          "sadness": 0.07549018474486165,
+          "fear": 0.08039569140910209
+        },
+        "female_haters": {
+          "anger": 0.07400704802899657,
+          "disgust": 0.09559839717578378,
+          "sadness": 0.07325519644322225,
+          "fear": 0.08732273605856718
+        }
+      },
+      "hate_statements": {
+        "count": 17,
+        "percentage": 6.9,
+        "quotes": [
+          {
+            "review_id": "imdb_the_witch_billsharper_20160311",
+            "reviewer": "billsharper",
+            "rating": 1,
+            "content": "I wanted to leave so bad but I already paid my money and the food was really good.",
+            "engagement": 97
+          },
+          {
+            "review_id": "imdb_the_witch_sakshikaushik24_20160527",
+            "reviewer": "sakshikaushik24",
+            "rating": 1,
+            "content": "I have seen really really bad movies but now the list is updated; and none can beat this one...",
+            "engagement": 82
+          },
+          {
+            "review_id": "imdb_the_witch_jacobjohntaylor1_20160229",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "content": "This could have been a good movie if it was not so badly written.",
+            "engagement": 77
+          },
+          {
+            "review_id": "imdb_the_witch_thecrustyorange_20160218",
+            "reviewer": "TheCrustyOrange",
+            "rating": 1,
+            "content": "1 star from me since I was bored out of my mind after being so hyped up to actually see a decent HORROR film in theaters.",
+            "engagement": 70
+          },
+          {
+            "review_id": "imdb_the_witch_kittsplaypalace_20160310",
+            "reviewer": "kittsplaypalace",
+            "rating": 1,
+            "content": "I honestly believe the good reviews were people who were paid to write them, or paid off critics, I bet they gave out gold and diamonds in the review bags, maybe some hard cash too, threw one heck of a review party because the movie I saw was awful I'd give it a -2 stars because honestly if you turned off all the sound ignored the dialogue and fast forwarded thru the violence and the really bad ending, you *might* have a beautiful and sad sense of what it was like to be a pilgrim in the 17th century.",
+            "engagement": 59
+          },
+          {
+            "review_id": "imdb_the_witch_youthprabhu_20160415",
+            "reviewer": "youthprabhu",
+            "rating": 1,
+            "content": "Iam really disappointed .I hate to write negative reviews basically.",
+            "engagement": 58
+          },
+          {
+            "review_id": "imdb_the_witch_geraldgould_20160227",
+            "reviewer": "geraldgould",
+            "rating": 1,
+            "content": "I hate to see people waste their hard earned money on this movie.",
+            "engagement": 49
+          },
+          {
+            "review_id": "imdb_the_witch_jere_zabala_20181107",
+            "reviewer": "jere_zabala",
+            "rating": 1,
+            "content": "IT WAS JUST A REALLY BAD DRAMA MOVIE, 1/10, It's not a horror movie, it has no genre actually, I can't give it 0 but I would give it that score if I could, 100% BAD.Waste of time.",
+            "engagement": 39
+          },
+          {
+            "review_id": "imdb_the_witch_joy_da_vision_20160318",
+            "reviewer": "joy_da_vision",
+            "rating": 1,
+            "content": "The beginning of the movie was also bad.",
+            "engagement": 35
+          },
+          {
+            "review_id": "imdb_the_witch_rorobashar_20160219",
+            "reviewer": "rorobashar",
+            "rating": 1,
+            "content": "The movie have a good start, but then the movie turns into a long and boring actions...to the people who are going to see the movie u actually just gonna waste your time and money on something hard to describe as a movie, does not worth a CENT,the end of the movie is so bad that u gonna scratch your head,their accent was OMG u won't understand what they're saying....the movie is just AWFUL 👺",
+            "engagement": 32
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 21,
+        "percentage": 8.5,
+        "quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "content": "Unfortunately, I found myself hoping for that up until the very end.",
+            "engagement": 1043
+          },
+          {
+            "review_id": "imdb_the_witch_ba_harrison_20180728",
+            "reviewer": "BA_Harrison",
+            "rating": 2,
+            "content": "I wished to take my leave soon after the start, though I continued perchance matters improved.",
+            "engagement": 448
+          },
+          {
+            "review_id": "imdb_the_witch_maxvent_20151009",
+            "reviewer": "maxvent",
+            "rating": 3,
+            "content": "And that's exactly what you get, what I regret the most is that I love movies involving witchcraft, but this one is a truly forgettable one.",
+            "engagement": 158
+          },
+          {
+            "review_id": "imdb_the_witch_tmentus_20160514",
+            "reviewer": "tmentus",
+            "rating": 1,
+            "content": "I hope that by writing this I can save just 1 person from loosing 1 hour and 20 minutes of their life and hard earned money.",
+            "engagement": 149
+          },
+          {
+            "review_id": "imdb_the_witch_rubellan_20160221",
+            "reviewer": "rubellan",
+            "rating": 1,
+            "content": "What made it worse was that I decided to treat a couple of friends of mine on a Saturday night to what we were all excited to see, but unfortunately I lost $34 and a couple hours of life that could have been better spent doing something more entertaining or interesting, like lancing a boil.",
+            "engagement": 120
+          },
+          {
+            "review_id": "imdb_the_witch_aminre4_20160313",
+            "reviewer": "aminre4",
+            "rating": 1,
+            "content": "Also, I did not quite get what the goat's or the rabbit's role in the film, they just appear and disappear and the goat stood once which I was expecting it at that moment to transform to the real witch so we get to hear what she has to say, but unfortunately, it didn't happen and it only attacked the man and killed him, very simple and straightforward. ||| There was nothing to like about this film unfortunately and it is just a waste of time I must say. ||| I hope I have been fair in my judgement regarding this movie as I feel I am only telling the truth about how disappointed I am.",
+            "engagement": 70
+          },
+          {
+            "review_id": "imdb_the_witch_zachmcalary_20160228",
+            "reviewer": "zachmcalary",
+            "rating": 2,
+            "content": "By the end, I was surprised this film made it to theatres and I wished I would had left with the other audience members who walked out half way through.",
+            "engagement": 46
+          },
+          {
+            "review_id": "imdb_the_witch_jimokjr_20160217",
+            "reviewer": "Jimokjr",
+            "rating": 2,
+            "content": "This unfortunately ends the positives for this film.",
+            "engagement": 36
+          },
+          {
+            "review_id": "imdb_the_witch_shotas321_20170723",
+            "reviewer": "shotas321",
+            "rating": 1,
+            "content": "I hope everyone will enjoy this Christian piece of turd and I will see you next time on dragon ball z.",
+            "engagement": 33
+          },
+          {
+            "review_id": "imdb_the_witch_nicolespadaccini_20160529",
+            "reviewer": "nicolespadaccini",
+            "rating": 1,
+            "content": "I wish I can get back the hour and 33 minutes of my life I wasted.",
+            "engagement": 24
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 74,
+        "comparison_pct": 29.8,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 75.33741935483872,
+        "avg_grade_level": 5.924596774193549,
+        "avg_exclamations": 0.6814516129032258,
+        "avg_caps_words": 1.0120967741935485,
+        "reviews_with_questions": 45,
+        "question_pct": 18.1
+      }
+    },
+    "polarization": {
+      "movie": "The Witch",
+      "polarization_metrics": {
+        "level": "HIGHLY_POLARIZING",
+        "rating_variance": 9.382266154731221,
+        "rating_std_dev": 3.0630485067545408,
+        "middle_ground_pct": 25.7,
+        "lovers_pct": 52.0,
+        "haters_pct": 22.3
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "fear",
+            {
+              "lovers_score": 0.09938697674242186,
+              "haters_score": 0.08168777179870772,
+              "divergence": 0.017699204943714145
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.062253291766261806,
+              "haters_score": 0.077063280392767,
+              "divergence": 0.014809988626505191
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.06613598443825962,
+              "haters_score": 0.05360250506656556,
+              "divergence": 0.012533479371694058
+            }
+          ],
+          [
+            "trust",
+            {
+              "lovers_score": 0.0738435819603092,
+              "haters_score": 0.06348591959369379,
+              "divergence": 0.010357662366615408
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.06926990574936663,
+              "haters_score": 0.06059869264920578,
+              "divergence": 0.008671213100160849
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.06926990574936663,
+            "haters_score": 0.06059869264920578,
+            "divergence": 0.008671213100160849
+          },
+          "trust": {
+            "lovers_score": 0.0738435819603092,
+            "haters_score": 0.06348591959369379,
+            "divergence": 0.010357662366615408
+          },
+          "fear": {
+            "lovers_score": 0.09938697674242186,
+            "haters_score": 0.08168777179870772,
+            "divergence": 0.017699204943714145
+          },
+          "surprise": {
+            "lovers_score": 0.06613598443825962,
+            "haters_score": 0.05360250506656556,
+            "divergence": 0.012533479371694058
+          },
+          "sadness": {
+            "lovers_score": 0.08176323946427447,
+            "haters_score": 0.0742088799577621,
+            "divergence": 0.00755435950651237
+          },
+          "disgust": {
+            "lovers_score": 0.062253291766261806,
+            "haters_score": 0.077063280392767,
+            "divergence": 0.014809988626505191
+          },
+          "anger": {
+            "lovers_score": 0.07642380351989767,
+            "haters_score": 0.06896811333445561,
+            "divergence": 0.0074556901854420515
+          },
+          "anticipation": {
+            "lovers_score": 0.08826203405430995,
+            "haters_score": 0.09649515944481439,
+            "divergence": 0.008233125390504442
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 63.744110535405866,
+          "haters": 75.33741935483872,
+          "difference": 11.593308819432849
+        },
+        "grade_level": {
+          "lovers": 8.617616580310882,
+          "haters": 5.924596774193549,
+          "difference": -2.6930198061173334
+        },
+        "first_person_usage": {
+          "lovers": 2.225471555456079,
+          "haters": 3.124872554671719,
+          "difference": 0.89940099921564
+        },
+        "exclamations": {
+          "lovers": 0.32469775474956825,
+          "haters": 0.6814516129032258,
+          "difference": 0.3567538581536575
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 17.018998272884282,
+        "haters_avg_votes": 58.096774193548384,
+        "lovers_vote_polarization": 4.335060449050086,
+        "haters_vote_polarization": 7.451612903225806
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 5.603053435114504,
+        "late_avg_rating": 7.359855334538879,
+        "temporal_shift": 1.7568018994243753,
+        "shift_direction": "improved"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 6.718291054739653,
+        "female_avg_rating": 5.707142857142857,
+        "gender_rating_gap": 1.0111481975967953,
+        "gap_significance": "significant"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 36.3,
+        "haters_use_comparisons_pct": 29.8,
+        "comparison_gap": 6.430720374394117
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Witch",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 32,
+          "percentage": 5.5,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_witch_imdb_57311_20160613",
+              "reviewer": "imdb-57311",
+              "rating": 8,
+              "content": "On the other side, I wished there would have been a deeper insight into the witches thoughts.",
+              "engagement": 491
+            },
+            {
+              "review_id": "imdb_the_witch_rd_pires_20160217",
+              "reviewer": "rd_pires",
+              "rating": 8,
+              "content": "Sadly, it is this second side which keeps me from giving the film a better score, and that ultimately hurts the film in the very final scene.",
+              "engagement": 414
+            },
+            {
+              "review_id": "imdb_the_witch_miguelneto_74936_20160709",
+              "reviewer": "miguelneto-74936",
+              "rating": 8,
+              "content": "Sometimes it's good to know that there is horror film that does not hold only scares, The Witch is a different horror movie, unfortunately people too lazy to movies like that, that fear has to scare every 5 seconds, it is sad to see this film with just 6.8 on average IMDb, right now talking about the film, face we already note the impeccable photography, director fits very well the time of film photography and costumes, the cast is unknown to much of the audience (including me), plus the performances are great, especially the beautiful Anya Taylor-Joy, which is an excellent performance, the direction is great, just think in the end he leaves the movie dragged, has very tense moments, has a moment that left me horrified, the soundtrack is great, combines a lot with the film, Tbe Witch is one of my horror films of this century, the cast is excellent, the direction is great, even if the film is drawn at the end, and even being short, the pace can be a problem for some, it is sad to see this great movie be so criticized by people who want to horror movies to receive only scares.",
+              "engagement": 21
+            },
+            {
+              "review_id": "imdb_the_witch_aarong_90388_20160520",
+              "reviewer": "aarong-90388",
+              "rating": 10,
+              "content": "It was a near-perfect incarnation of a specific horror theme that, unfortunately, no longer really resonates with most people.",
+              "engagement": 20
+            },
+            {
+              "review_id": "imdb_the_witch_nitzanhavoc_20180624",
+              "reviewer": "nitzanhavoc",
+              "rating": 9,
+              "content": "Often when reviewing Horror films (my favorite genre) I discuss the acute necessity of lowered expectations if one hopes to enjoy, as sadly this undervalued genre lacks the investment (professional, financial and creative) it so rightfully deserves.",
+              "engagement": 20
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 21,
+          "percentage": 8.5,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_witch_lexilima_20160601",
+              "reviewer": "lexilima",
+              "rating": 1,
+              "content": "Unfortunately, I found myself hoping for that up until the very end.",
+              "engagement": 1043
+            },
+            {
+              "review_id": "imdb_the_witch_ba_harrison_20180728",
+              "reviewer": "BA_Harrison",
+              "rating": 2,
+              "content": "I wished to take my leave soon after the start, though I continued perchance matters improved.",
+              "engagement": 448
+            },
+            {
+              "review_id": "imdb_the_witch_maxvent_20151009",
+              "reviewer": "maxvent",
+              "rating": 3,
+              "content": "And that's exactly what you get, what I regret the most is that I love movies involving witchcraft, but this one is a truly forgettable one.",
+              "engagement": 158
+            },
+            {
+              "review_id": "imdb_the_witch_tmentus_20160514",
+              "reviewer": "tmentus",
+              "rating": 1,
+              "content": "I hope that by writing this I can save just 1 person from loosing 1 hour and 20 minutes of their life and hard earned money.",
+              "engagement": 149
+            },
+            {
+              "review_id": "imdb_the_witch_rubellan_20160221",
+              "reviewer": "rubellan",
+              "rating": 1,
+              "content": "What made it worse was that I decided to treat a couple of friends of mine on a Saturday night to what we were all excited to see, but unfortunately I lost $34 and a couple hours of life that could have been better spent doing something more entertaining or interesting, like lancing a boil.",
+              "engagement": 120
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 10.7,
+          "haters_with_questions_pct": 18.1
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 5.603053435114504,
+          "avg_vader_compound": -0.20874554707379137,
+          "hate_statement_pct": 5.1,
+          "wish_statement_pct": 8.7
+        },
+        "late_reviews": {
+          "avg_rating": 7.359855334538879,
+          "avg_vader_compound": 0.10106329113924051,
+          "hate_statement_pct": 2.0,
+          "wish_statement_pct": 5.1
+        },
+        "rating_shift": 1.7568018994243753,
+        "interpretation": "improved"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 36.3,
+        "haters_pct": 29.8,
+        "gap": 6.4999999999999964
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.08341226252158894,
+        "haters_vader": -0.2820778225806451,
+        "sentiment_gap": 0.3654900851022341
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 2.3,
+        "disappointed_count": 26,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "content": "Unfortunately, I found myself hoping for that up until the very end.",
+            "engagement": 1043
+          },
+          {
+            "review_id": "imdb_the_witch_ba_harrison_20180728",
+            "reviewer": "BA_Harrison",
+            "rating": 2,
+            "content": "I wished to take my leave soon after the start, though I continued perchance matters improved.",
+            "engagement": 448
+          },
+          {
+            "review_id": "imdb_the_witch_just_a_girl_14_20210418",
+            "reviewer": "Just-A-Girl-14",
+            "rating": 5,
+            "content": "Unfortunately that's where the good ends.",
+            "engagement": 249
+          },
+          {
+            "review_id": "imdb_the_witch_maxvent_20151009",
+            "reviewer": "maxvent",
+            "rating": 3,
+            "content": "And that's exactly what you get, what I regret the most is that I love movies involving witchcraft, but this one is a truly forgettable one.",
+            "engagement": 158
+          },
+          {
+            "review_id": "imdb_the_witch_tmentus_20160514",
+            "reviewer": "tmentus",
+            "rating": 1,
+            "content": "I hope that by writing this I can save just 1 person from loosing 1 hour and 20 minutes of their life and hard earned money.",
+            "engagement": 149
+          },
+          {
+            "review_id": "imdb_the_witch_rubellan_20160221",
+            "reviewer": "rubellan",
+            "rating": 1,
+            "content": "What made it worse was that I decided to treat a couple of friends of mine on a Saturday night to what we were all excited to see, but unfortunately I lost $34 and a couple hours of life that could have been better spent doing something more entertaining or interesting, like lancing a boil.",
+            "engagement": 120
+          },
+          {
+            "review_id": "imdb_the_witch_aminre4_20160313",
+            "reviewer": "aminre4",
+            "rating": 1,
+            "content": "Also, I did not quite get what the goat's or the rabbit's role in the film, they just appear and disappear and the goat stood once which I was expecting it at that moment to transform to the real witch so we get to hear what she has to say, but unfortunately, it didn't happen and it only attacked the man and killed him, very simple and straightforward. ||| There was nothing to like about this film unfortunately and it is just a waste of time I must say. ||| I hope I have been fair in my judgement regarding this movie as I feel I am only telling the truth about how disappointed I am.",
+            "engagement": 70
+          },
+          {
+            "review_id": "imdb_the_witch_zachmcalary_20160228",
+            "reviewer": "zachmcalary",
+            "rating": 2,
+            "content": "By the end, I was surprised this film made it to theatres and I wished I would had left with the other audience members who walked out half way through.",
+            "engagement": 46
+          },
+          {
+            "review_id": "imdb_the_witch_jimokjr_20160217",
+            "reviewer": "Jimokjr",
+            "rating": 2,
+            "content": "This unfortunately ends the positives for this film.",
+            "engagement": 36
+          },
+          {
+            "review_id": "imdb_the_witch_shotas321_20170723",
+            "reviewer": "shotas321",
+            "rating": 1,
+            "content": "I hope everyone will enjoy this Christian piece of turd and I will see you next time on dragon ball z.",
+            "engagement": 33
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Witch",
+      "overall_risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_score": 2.5,
+        "high_risks": [
+          "COMPLEXITY_BARRIER"
+        ],
+        "risk_count": 1
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.09324527936936296,
+        "avg_disgust": 0.06381895183113807,
+        "hate_review_pct": 22.3,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "...Yet when it is confirmed that they had been talking to the devil via a farm animal, the directors/writers still somehow maintained their characters as innocent children. The sporadic intense sequences seemed more tragic than spooky. And the ending was completely insane....",
+            "engagement": 1043,
+            "matched_term": "intense"
+          },
+          {
+            "review_id": "imdb_the_witch_sebruse_20160220",
+            "reviewer": "sebruse",
+            "rating": 1,
+            "review_title": "",
+            "quote": "A con job by A24; SPOILERS!",
+            "engagement": 726,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rbaldy4_20160605",
+            "reviewer": "rbaldy4",
+            "rating": 1,
+            "review_title": "The 1 hour and 33 minuets lost forever!!",
+            "quote": "What shall I saith to thee!! First I barely understood what they were saying. The beginning had some potential, was the daughter a witch?...",
+            "engagement": 548,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "HIGH",
+        "haters_reading_ease": 75.33741935483872,
+        "lovers_reading_ease": 63.744110535405866,
+        "complexity_gap": 11.593308819432849,
+        "interpretation": "Significant complexity barrier detected. Haters write much simpler reviews than lovers, suggesting film is 'too arthouse' for general audiences.",
+        "mitigation": "Position as arthouse/festival film. Target film critics and serious horror fans. Consider platform release (streaming/VOD) rather than wide theatrical. Emphasize auteur credentials.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "...I love plots involving history pieces as well as the possible paranormal. But as I started watching this movie, I found myself praying that there was just a slow build. Unfortunately, I found myself hoping for that up until the very end....",
+            "engagement": 1043,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_the_witch_sebruse_20160220",
+            "reviewer": "sebruse",
+            "rating": 1,
+            "review_title": "",
+            "quote": "A con job by A24; SPOILERS!",
+            "engagement": 726,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rbaldy4_20160605",
+            "reviewer": "rbaldy4",
+            "rating": 1,
+            "review_title": "The 1 hour and 33 minuets lost forever!!",
+            "quote": "What shall I saith to thee!! First I barely understood what they were saying. The beginning had some potential, was the daughter a witch?...",
+            "engagement": 548,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "MODERATE",
+        "early_negative_count": 107,
+        "early_negative_pct": 27.2,
+        "early_avg_rating": 5.603053435114504,
+        "total_early_reviews": 393,
+        "interpretation": "Moderate early negative buzz. Some opening audiences felt misled.",
+        "mitigation": "Ensure marketing accurately represents film tone. Screen for target audience first, not general public.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "...And the ending was completely insane. A girl watches her whole family get murdered and is scared half to death then instantly decides that she wants to join a coven of naked floating women? I was extremely disappointed in this film and even more in the misleading reviews on this site. I even double checked to make sure that I had watched the same film as those reviewing. So now I am just wondering if I can have those 2 hours of my life back...?",
+            "engagement": 1043,
+            "matched_term": "disappointed"
+          },
+          {
+            "review_id": "imdb_the_witch_sebruse_20160220",
+            "reviewer": "sebruse",
+            "rating": 1,
+            "review_title": "",
+            "quote": "A con job by A24; SPOILERS!",
+            "engagement": 726,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rbaldy4_20160605",
+            "reviewer": "rbaldy4",
+            "rating": 1,
+            "review_title": "The 1 hour and 33 minuets lost forever!!",
+            "quote": "...WRONG in every sense of the word. Those who gave it positive reviews were taking the same acid that the producer, director and writer took. I have so wasted an hour and half of my life, that I can NEVER get back. IF you decide to watch this after reading my warning, watch it at your own risk.",
+            "engagement": 548,
+            "matched_term": "waste"
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "LOW",
+        "haters_with_wishes_pct": 8.5,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "After reading the reviews here and hearing about the surprising success of this film, I was eager to watch it. I love plots involving history pieces as well as the possible paranormal. But as I started watching this movie, I found myself praying that there was just a slow build. Unfortunately, I found myself hoping for that up until the very end. The characters were annoying at best....",
+            "engagement": 1043,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_the_witch_sebruse_20160220",
+            "reviewer": "sebruse",
+            "rating": 1,
+            "review_title": "",
+            "quote": "A con job by A24; SPOILERS!",
+            "engagement": 726,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rbaldy4_20160605",
+            "reviewer": "rbaldy4",
+            "rating": 1,
+            "review_title": "The 1 hour and 33 minuets lost forever!!",
+            "quote": "What shall I saith to thee!! First I barely understood what they were saying. The beginning had some potential, was the daughter a witch?...",
+            "engagement": 548,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 1.1,
+        "disappointed_count": 12,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "...And the ending was completely insane. A girl watches her whole family get murdered and is scared half to death then instantly decides that she wants to join a coven of naked floating women? I was extremely disappointed in this film and even more in the misleading reviews on this site. I even double checked to make sure that I had watched the same film as those reviewing. So now I am just wondering if I can have those 2 hours of my life back...?",
+            "engagement": 1043,
+            "matched_term": "disappointed"
+          },
+          {
+            "review_id": "imdb_the_witch_just_a_girl_14_20210418",
+            "reviewer": "Just-A-Girl-14",
+            "rating": 5,
+            "review_title": "Missed opportunity",
+            "quote": "The good: Visually speaking the movie is done really well. The cinematography is really good. There's a very dark creepy atmosphere....",
+            "engagement": 249,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rubellan_20160221",
+            "reviewer": "rubellan",
+            "rating": 1,
+            "review_title": "One of THE WORST and misleading movies EVER!!!",
+            "quote": "Like most other reviews here, I was lured to this movie by an intriguing trailer and high IMDb reviews. Well, there's goes IMDb review credibility. The movie had nothing to do with horror, and barely had anything to do with a witch, but was little more than an old world family religious drama....",
+            "engagement": 120,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "MODERATE",
+        "gender_gap": 1.0111481975967953,
+        "male_avg_rating": 6.718291054739653,
+        "female_avg_rating": 5.707142857142857,
+        "gender_preference": "male",
+        "male_count": 749,
+        "female_count": 140,
+        "interpretation": "Moderate gender gap. Male audiences prefer it somewhat.",
+        "mitigation": "Consider gender-specific marketing angles for different platforms.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_witch_emilyms_36094_20160505",
+            "reviewer": "emilyms-36094",
+            "rating": 2,
+            "review_title": "",
+            "quote": "Boring, boring boring",
+            "engagement": 420,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_just_a_girl_14_20210418",
+            "reviewer": "Just-A-Girl-14",
+            "rating": 5,
+            "review_title": "Missed opportunity",
+            "quote": "The good: Visually speaking the movie is done really well. The cinematography is really good. There's a very dark creepy atmosphere....",
+            "engagement": 249,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_kimkautz_20160509",
+            "reviewer": "kimkautz",
+            "rating": 1,
+            "review_title": "",
+            "quote": "Such a waste...",
+            "engagement": 176,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Witch",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 68,
+        "percentage": 6.1,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 45,
+          "female_count": 7,
+          "male_pct": 66.2,
+          "female_pct": 10.3,
+          "gender_coverage": 76.5
+        },
+        "characteristics": {
+          "avg_rating": 9.147058823529411,
+          "avg_reading_grade": 11.780882352941179,
+          "avg_engagement": 31.808823529411764,
+          "sophistication_level": "High"
+        },
+        "passion_indicators": {
+          "love_statements": 26,
+          "love_pct": 38.2,
+          "exclamations": 23,
+          "exclamation_pct": 33.8,
+          "high_engagement": 17,
+          "high_engagement_pct": 25.0
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "fear",
+            "sadness",
+            "anger"
+          ],
+          "all_emotions": {
+            "joy": 0.0746139269179822,
+            "trust": 0.08425793044235981,
+            "fear": 0.11496507648433146,
+            "surprise": 0.06437817761351676,
+            "sadness": 0.09522517077984104,
+            "disgust": 0.07320569297168089,
+            "anger": 0.09238443216574926,
+            "anticipation": 0.0845894454201836
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "Film festival audiences (Sundance, Fantastic Fest, SXSW)",
+          "Letterboxd power users (500+ reviews, arthouse focus)",
+          "Film Twitter influencers (critics, essayists)",
+          "Criterion Channel subscribers",
+          "Shudder subscribers",
+          "Reddit r/horror community",
+          "Horror podcasts (Faculty of Horror, Post Mortem)",
+          "Fangoria / Rue Morgue readers",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "High sophistication - position as arthouse/festival film",
+          "Horror enthusiasts - not casual scary movie fans",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_witch_drownsoda90_20160218",
+              "reviewer": "drownsoda90",
+              "rating": 9,
+              "review_title": "Calvinist terrors abound in this fraught \"folk tale\"",
+              "quote": "\"The Witch\" charts a family of Calvinist dissenters in colonial America who are exiled from their community and homestead at the edge of an ominous forest. When the infant child of the family disappears inexplicably, a chain of increasingly bizarre events lead to claims of witchcraft and sorcery that implode the family. Based on the plot summary, much about \"The Witch\" seems fairly predictable, and that's because it is....",
+              "engagement": 380,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_witch_brchthethird_20160513",
+              "reviewer": "brchthethird",
+              "rating": 10,
+              "review_title": "An unnerving, surreal descent into religious paranoia",
+              "quote": "...Horror films don't normally have an effect on me, much less scare me, but this one was unnerving in a very palpable way. It's about a Puritan family who are banished from their village for an unspecified religious offense, and subsequently move to a location bordering a forest. While there, repeated misfortune and isolation create the perfect storm of religious paranoia over whether one or more of them are possessed by the devil. What THE WITCH masterfully does is to create this tense atmosphere and maintain it over nearly the entire length of the film. Whether it be odd/surreal imagery, slow and deliberate camera-work, or an eerie score reminiscent of Ligeti's \"Atmospheres\" (used in Kubrick's 2001: A SPACE ODYSSEY), all of it is used to brilliant effect and should be capable of rattling even the most seasoned viewer, especially if they have a religious background/upbringing (as I did)....",
+              "engagement": 301,
+              "matched_term": "perfect"
+            },
+            {
+              "review_id": "imdb_the_witch_tomsuthblack_20160515",
+              "reviewer": "tomsuthblack",
+              "rating": 10,
+              "review_title": "How to drive people insane with guilt and fear? (A detailed manual)",
+              "quote": "((Disclaimer: Contains all sorts of spoilers)) Ever wondered where all those wretched creatures who lived solitary lives centuries ago at the edge of towns or deep in the woods came from? All the lonely (and dangerously insane) people known as witches and wizards, were nothing but the stray teenagers, or the stray housewives, driven totally insane by the accumulating sensations of guilt and fear encouraged by the morbid interpretations of the \"Gospel of Love\" which were common only a few centuries ago. Or so claims this wonderful marvel of psychoanalysis. social criticism, and cinematic excellence....",
+              "engagement": 292,
+              "matched_term": "love"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_witch_drownsoda90_20160218",
+              "reviewer": "drownsoda90",
+              "rating": 9,
+              "review_title": "Calvinist terrors abound in this fraught \"folk tale\"",
+              "quote": "\"The Witch\" charts a family of Calvinist dissenters in colonial America who are exiled from their community and homestead at the edge of an ominous forest. When the infant child of the family disappears inexplicably, a chain of increasingly bizarre events lead to claims of witchcraft and sorcery that implode the family. Based on the plot summary, much about \"The Witch\" seems fairly predictable, and that's because it is....",
+              "engagement": 380,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_witch_brchthethird_20160513",
+              "reviewer": "brchthethird",
+              "rating": 10,
+              "review_title": "An unnerving, surreal descent into religious paranoia",
+              "quote": "THE WITCH is, in a word, unsettling. Horror films don't normally have an effect on me, much less scare me, but this one was unnerving in a very palpable way. It's about a Puritan family who are banished from their village for an unspecified religious offense, and subsequently move to a location bordering a forest....",
+              "engagement": 301,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_witch_tomsuthblack_20160515",
+              "reviewer": "tomsuthblack",
+              "rating": 10,
+              "review_title": "How to drive people insane with guilt and fear? (A detailed manual)",
+              "quote": "((Disclaimer: Contains all sorts of spoilers)) Ever wondered where all those wretched creatures who lived solitary lives centuries ago at the edge of towns or deep in the woods came from? All the lonely (and dangerously insane) people known as witches and wizards, were nothing but the stray teenagers, or the stray housewives, driven totally insane by the accumulating sensations of guilt and fear encouraged by the morbid interpretations of the \"Gospel of Love\" which were common only a few centuries ago. Or so claims this wonderful marvel of psychoanalysis....",
+              "engagement": 292,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 675,
+        "percentage": 60.6,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 479,
+          "female_count": 66
+        },
+        "characteristics": {
+          "avg_rating": 8.432592592592593,
+          "avg_reading_grade": 8.252296296296297,
+          "avg_engagement": 14.219259259259259,
+          "sophistication_level": "Moderate"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 248,
+        "percentage": 22.3,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.471774193548387,
+          "avg_reading_grade": 5.924596774193549,
+          "complexity_barrier": true,
+          "wish_statement_pct": 8.5
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Film too slow/complex"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_witch_lexilima_20160601",
+            "reviewer": "lexilima",
+            "rating": 1,
+            "review_title": "Amazingly awful",
+            "quote": "After reading the reviews here and hearing about the surprising success of this film, I was eager to watch it. I love plots involving history pieces as well as the possible paranormal. But as I started watching this movie, I found myself praying that there was just a slow build. Unfortunately, I found myself hoping for that up until the very end. The characters were annoying at best....",
+            "engagement": 1043,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_the_witch_sebruse_20160220",
+            "reviewer": "sebruse",
+            "rating": 1,
+            "review_title": "",
+            "quote": "A con job by A24; SPOILERS!",
+            "engagement": 726,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_witch_rbaldy4_20160605",
+            "reviewer": "rbaldy4",
+            "rating": 1,
+            "review_title": "The 1 hour and 33 minuets lost forever!!",
+            "quote": "...WRONG in every sense of the word. Those who gave it positive reviews were taking the same acid that the producer, director and writer took. I have so wasted an hour and half of my life, that I can NEVER get back. IF you decide to watch this after reading my warning, watch it at your own risk.",
+            "engagement": 548,
+            "matched_term": "waste"
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror",
+          "emotional depth"
+        ],
+        "avoid": [
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}

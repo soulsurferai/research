@@ -1,0 +1,1134 @@
+{
+  "movie": "The Endless",
+  "analysis_date": "2025-10-21T12:57:25.109594",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Endless",
+      "total_reviews": 376,
+      "rating_distribution": {
+        "1": 27,
+        "2": 22,
+        "3": 21,
+        "4": 23,
+        "5": 24,
+        "6": 36,
+        "7": 63,
+        "8": 95,
+        "9": 35,
+        "10": 30
+      },
+      "avg_rating": 6.324468085106383,
+      "rating_variance": 6.747773049645395,
+      "rating_segments": {
+        "lovers_8_10": 160,
+        "lovers_pct": 42.6,
+        "mixed_4_7": 146,
+        "mixed_pct": 38.8,
+        "haters_1_3": 70,
+        "haters_pct": 18.6
+      },
+      "gender_breakdown": {
+        "male": 245,
+        "female": 57,
+        "unknown": 74,
+        "coverage_pct": 80.3
+      },
+      "temporal_segments": {
+        "Years 2-3": 136,
+        "Year 2": 127,
+        "Years 4-5": 68,
+        "5+ Years": 41,
+        "Opening Year": 4
+      },
+      "engagement": {
+        "reviews_with_votes": 324,
+        "engagement_pct": 86.2,
+        "avg_votes_per_review": 18.819148936170212,
+        "avg_helpfulness_ratio": 0.5189487761950541
+      }
+    },
+    "what_resonated": {
+      "movie": "The Endless",
+      "total_lovers": 160,
+      "lovers_pct_of_all_reviews": 42.6,
+      "gender_segmentation": {
+        "male": 107,
+        "male_pct": 66.9,
+        "female": 24,
+        "female_pct": 15.0,
+        "unknown": 29
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.09771292697838632,
+          "trust": 0.13503286221167995,
+          "fear": 0.07836991699593841,
+          "surprise": 0.07820083766046934,
+          "sadness": 0.04651792054423355,
+          "disgust": 0.036506909061035354,
+          "anger": 0.04652655247702008,
+          "anticipation": 0.1401327346064024
+        },
+        "male_lovers": {
+          "joy": 0.10460544743194636,
+          "trust": 0.142966191343585,
+          "fear": 0.07486145812227075,
+          "surprise": 0.07565456409931709,
+          "sadness": 0.039210680919586564,
+          "disgust": 0.035156130870421236,
+          "anger": 0.042380960682025674,
+          "anticipation": 0.14228194424086515
+        },
+        "female_lovers": {
+          "joy": 0.07902574609266179,
+          "trust": 0.1325687891202029,
+          "fear": 0.07804255334399209,
+          "surprise": 0.0725087450344301,
+          "sadness": 0.055458535202925575,
+          "disgust": 0.043552930617596096,
+          "anger": 0.06792139200220629,
+          "anticipation": 0.10768555708606313
+        }
+      },
+      "love_statements": {
+        "count": 42,
+        "percentage": 26.2,
+        "quotes": [
+          {
+            "review_id": "imdb_the_endless_piratefemme_144_400028_20190223",
+            "reviewer": "piratefemme-144-400028",
+            "rating": 9,
+            "content": "I'm not a horror fan, but a huge thriller buff and I appreciate tension, build, mystery, more tension, some nail biting, tossing in questioning of reality, and deeper meaning layered into the context.",
+            "engagement": 105
+          },
+          {
+            "review_id": "imdb_the_endless_paulclaassen_20180708",
+            "reviewer": "paulclaassen",
+            "rating": 8,
+            "content": "I enjoyed the fact that the visuals never took over the screen.",
+            "engagement": 38
+          },
+          {
+            "review_id": "imdb_the_endless_slimecity_38663_20180623",
+            "reviewer": "slimecity-38663",
+            "rating": 10,
+            "content": "Very good SFX too.",
+            "engagement": 29
+          },
+          {
+            "review_id": "imdb_the_endless_rambowski_20180704",
+            "reviewer": "rambowski",
+            "rating": 9,
+            "content": "Although I was a bit uncertain to watch a 'low budget' film, and there are many that are badly written and also visually unpleasant, I enjoyed that one a lot.",
+            "engagement": 18
+          },
+          {
+            "review_id": "imdb_the_endless_saiken_30341_20180626",
+            "reviewer": "saiken-30341",
+            "rating": 8,
+            "content": "So, that said, this is a really good and somewhat thought provoking low-budget science fiction piece with a cute girl.",
+            "engagement": 17
+          },
+          {
+            "review_id": "imdb_the_endless_matthewssilverhammer_20181107",
+            "reviewer": "matthewssilverhammer",
+            "rating": 9,
+            "content": "I love any movie that reveals its secrets as methodically as The Endless, a superb sci-fi / horror / comedy indie that uses its tiny budget to great effect.",
+            "engagement": 14
+          },
+          {
+            "review_id": "imdb_the_endless_freya13_20181005",
+            "reviewer": "Freya13",
+            "rating": 10,
+            "content": "I loved the acting and the characters.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_endless_ejonconrad_20181027",
+            "reviewer": "ejonconrad",
+            "rating": 8,
+            "content": "Still, all and all, a very good movie that once again proves you don't need to spend $200 million to entertain people.",
+            "engagement": 12
+          },
+          {
+            "review_id": "imdb_the_endless_rm851222_20180928",
+            "reviewer": "RM851222",
+            "rating": 8,
+            "content": "Also movie making was very good - they used every thick in the book to make this movie look like that without big budget.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_endless_lizshotter_19401_20181217",
+            "reviewer": "lizshotter-19401",
+            "rating": 8,
+            "content": "I hope they maintain their high level of integrity and continue to do their own thing.",
+            "engagement": 9
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 71.96793749999999,
+        "avg_grade_level": 7.330625,
+        "avg_first_person_ratio": 2.9863180841857786,
+        "avg_exclamations": 0.4875
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 55,
+        "comparison_pct": 34.4
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Endless",
+      "total_haters": 70,
+      "haters_pct_of_all_reviews": 18.6,
+      "gender_segmentation": {
+        "male": 44,
+        "male_pct": 62.9,
+        "female": 16,
+        "female_pct": 22.9,
+        "unknown": 10
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.07537693216898152,
+          "disgust": 0.08754961735071072,
+          "sadness": 0.09230830021694697,
+          "fear": 0.07929976194781183
+        },
+        "male_haters": {
+          "anger": 0.08635295412677689,
+          "disgust": 0.09012028207914698,
+          "sadness": 0.10054217567571327,
+          "fear": 0.09105664960616701
+        },
+        "female_haters": {
+          "anger": 0.04262362033582362,
+          "disgust": 0.06525155993196496,
+          "sadness": 0.07112361316921428,
+          "fear": 0.0717696692187146
+        }
+      },
+      "hate_statements": {
+        "count": 6,
+        "percentage": 8.6,
+        "quotes": [
+          {
+            "review_id": "imdb_the_endless_fullaudiot_20180829",
+            "reviewer": "fullaudiot",
+            "rating": 1,
+            "content": "I saw 1000+ movies in my life, i remember only a handful of them as very very bad, this one is in my top 3 list.",
+            "engagement": 36
+          },
+          {
+            "review_id": "imdb_the_endless_deadsoonx_20210112",
+            "reviewer": "Deadsoonx",
+            "rating": 2,
+            "content": "One guy was so bad he somehow managed to make walking fast on the side of the road look so fake and bad I almost turned it off right then and there.",
+            "engagement": 21
+          },
+          {
+            "review_id": "imdb_the_endless_congect_20201003",
+            "reviewer": "congect",
+            "rating": 1,
+            "content": "Yes, the acting is decent; but even amazing acting can't save a bad story, and this movie has a very bad story. ||| I can't describe why I disliked this movie so much without going through the entire plot, but I thought it was terrible.",
+            "engagement": 19
+          },
+          {
+            "review_id": "imdb_the_endless_bqhygnykzy_20211125",
+            "reviewer": "bqhygnykzy",
+            "rating": 1,
+            "content": "I was bored even though I fast-forwarded my way through most of it.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_endless_taaneekaa_20220705",
+            "reviewer": "Taaneekaa",
+            "rating": 3,
+            "content": "When I say bad, like really bad.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_endless_falleneye_20220913",
+            "reviewer": "FallenEye",
+            "rating": 3,
+            "content": "This movie is so bad, that without knowing at all who directed it, exacerbated by the fact that I wasn't even familiar with any of the cast and crew in this movie or their works while watching it, I was able to immediately recognize and wager that the two leads were also the writers and directors of this movie, precisely because The Endless gave off an amateur feel, instead of a \"on a budget\" feel.",
+            "engagement": 6
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 10,
+        "percentage": 14.3,
+        "quotes": [
+          {
+            "review_id": "imdb_the_endless_elliotjeory_20180706",
+            "reviewer": "elliotjeory",
+            "rating": 3,
+            "content": "Not worth the time unfortunately.",
+            "engagement": 53
+          },
+          {
+            "review_id": "imdb_the_endless_fullaudiot_20180829",
+            "reviewer": "fullaudiot",
+            "rating": 1,
+            "content": "Possibly the 1 Liter Faxe Beer from Denmark i drunk hold me in my armchair and i was to lazy to watch another movie, later i regret this.",
+            "engagement": 36
+          },
+          {
+            "review_id": "imdb_the_endless_congect_20201003",
+            "reviewer": "congect",
+            "rating": 1,
+            "content": "The only sci-fi element I felt intriguing (the fact that everyone was in their own time loop AND aware of it) sadly played part in an otherwise completely unwatchable move.",
+            "engagement": 19
+          },
+          {
+            "review_id": "imdb_the_endless_danielscissorhands_20191005",
+            "reviewer": "danielscissorhands",
+            "rating": 2,
+            "content": "I wish I did, it felt like I was stuck in a loop of sub-par film making, and laughably bad acting.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_endless_greggman_20210223",
+            "reviewer": "greggman",
+            "rating": 3,
+            "content": "I hope these guys will make another movie.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_endless_falleneye_20220913",
+            "reviewer": "FallenEye",
+            "rating": 3,
+            "content": "This movie is just meagre and wobbly, and unfortunately, I was simply just glad when it finally ended, again.",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_the_endless_luca_685_20250524",
+            "reviewer": "Luca-685",
+            "rating": 2,
+            "content": "Besides that there is a vague idea of a plot but sadly it was wasted with no real developments.",
+            "engagement": 3
+          },
+          {
+            "review_id": "imdb_the_endless_mikecoopey_20240804",
+            "reviewer": "mikecoopey",
+            "rating": 3,
+            "content": "In support of low budget indie filmmakers, I was reluctant to leave a review, but this was sadly one of the rare times I couldn't shake the \"I want my two hours back\" cliché.",
+            "engagement": 3
+          },
+          {
+            "review_id": "imdb_the_endless_gwest_58160_20181014",
+            "reviewer": "gwest-58160",
+            "rating": 3,
+            "content": "I hope Justin Benson spends a bit more time on the writing side of his next project.",
+            "engagement": 3
+          },
+          {
+            "review_id": "imdb_the_endless_rossonera_669_229576_20190624",
+            "reviewer": "rossonera-669-229576",
+            "rating": 3,
+            "content": "Unfortunately it was nothing like that.",
+            "engagement": 2
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 25,
+        "comparison_pct": 35.7,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 78.52585714285715,
+        "avg_grade_level": 6.029999999999999,
+        "avg_exclamations": 0.32857142857142857,
+        "avg_caps_words": 0.6142857142857143,
+        "reviews_with_questions": 12,
+        "question_pct": 17.1
+      }
+    },
+    "polarization": {
+      "movie": "The Endless",
+      "polarization_metrics": {
+        "level": "MODERATELY_POLARIZING",
+        "rating_variance": 6.747773049645395,
+        "rating_std_dev": 2.597647599203055,
+        "middle_ground_pct": 38.8,
+        "lovers_pct": 42.6,
+        "haters_pct": 18.6
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "trust",
+            {
+              "lovers_score": 0.13503286221167995,
+              "haters_score": 0.06628777234394871,
+              "divergence": 0.06874508986773124
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.09771292697838632,
+              "haters_score": 0.04091508548760262,
+              "divergence": 0.0567978414907837
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.036506909061035354,
+              "haters_score": 0.08754961735071072,
+              "divergence": 0.051042708289675366
+            }
+          ],
+          [
+            "sadness",
+            {
+              "lovers_score": 0.04651792054423355,
+              "haters_score": 0.09230830021694697,
+              "divergence": 0.04579037967271342
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.07820083766046934,
+              "haters_score": 0.03968224090715881,
+              "divergence": 0.038518596753310534
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.09771292697838632,
+            "haters_score": 0.04091508548760262,
+            "divergence": 0.0567978414907837
+          },
+          "trust": {
+            "lovers_score": 0.13503286221167995,
+            "haters_score": 0.06628777234394871,
+            "divergence": 0.06874508986773124
+          },
+          "fear": {
+            "lovers_score": 0.07836991699593841,
+            "haters_score": 0.07929976194781183,
+            "divergence": 0.0009298449518734125
+          },
+          "surprise": {
+            "lovers_score": 0.07820083766046934,
+            "haters_score": 0.03968224090715881,
+            "divergence": 0.038518596753310534
+          },
+          "sadness": {
+            "lovers_score": 0.04651792054423355,
+            "haters_score": 0.09230830021694697,
+            "divergence": 0.04579037967271342
+          },
+          "disgust": {
+            "lovers_score": 0.036506909061035354,
+            "haters_score": 0.08754961735071072,
+            "divergence": 0.051042708289675366
+          },
+          "anger": {
+            "lovers_score": 0.04652655247702008,
+            "haters_score": 0.07537693216898152,
+            "divergence": 0.028850379691961435
+          },
+          "anticipation": {
+            "lovers_score": 0.1401327346064024,
+            "haters_score": 0.12090347161253957,
+            "divergence": 0.019229262993862836
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 71.96793749999999,
+          "haters": 78.52585714285715,
+          "difference": 6.557919642857158
+        },
+        "grade_level": {
+          "lovers": 7.330625,
+          "haters": 6.029999999999999,
+          "difference": -1.300625000000001
+        },
+        "first_person_usage": {
+          "lovers": 2.9863180841857786,
+          "haters": 4.6383163675912655,
+          "difference": 1.651998283405487
+        },
+        "exclamations": {
+          "lovers": 0.4875,
+          "haters": 0.32857142857142857,
+          "difference": -0.15892857142857142
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 15.225,
+        "haters_avg_votes": 26.928571428571427,
+        "lovers_vote_polarization": 5.95,
+        "haters_vote_polarization": 5.5285714285714285
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 6.343511450381679,
+        "late_avg_rating": 6.587155963302752,
+        "temporal_shift": 0.24364451292107336,
+        "shift_direction": "improved"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 6.346938775510204,
+        "female_avg_rating": 6.052631578947368,
+        "gender_rating_gap": 0.2943071965628361,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 34.4,
+        "haters_use_comparisons_pct": 35.7,
+        "comparison_gap": 1.3392857142857153
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Endless",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 12,
+          "percentage": 7.5,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_endless_planktonrules_20171025",
+              "reviewer": "planktonrules",
+              "rating": 8,
+              "content": "Unfortunately, their lives have sucked since and not Aaron is growing wistful and wants to return to this cult for at least a visit.",
+              "engagement": 339
+            },
+            {
+              "review_id": "imdb_the_endless_justice_for_allro_20180708",
+              "reviewer": "justice_for_allro",
+              "rating": 10,
+              "content": "Needless to say, that I would have preferred to see this first and then the loop inside Resolution, it would have explained the framework better (but I will rewatch Resolution asap).",
+              "engagement": 28
+            },
+            {
+              "review_id": "imdb_the_endless_wokchefjosh_20180927",
+              "reviewer": "wokchefjosh",
+              "rating": 9,
+              "content": "Now, put it with Resolution (an underappreciated movie that sadly isn't as well known as it should be), and the movie takes on wings.",
+              "engagement": 26
+            },
+            {
+              "review_id": "imdb_the_endless_lizshotter_19401_20181217",
+              "reviewer": "lizshotter-19401",
+              "rating": 8,
+              "content": "I hope they maintain their high level of integrity and continue to do their own thing.",
+              "engagement": 9
+            },
+            {
+              "review_id": "imdb_the_endless_80shorror_20181103",
+              "reviewer": "80sHorror",
+              "rating": 10,
+              "content": "I hope this writer/director gives us more.",
+              "engagement": 8
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 10,
+          "percentage": 14.3,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_endless_elliotjeory_20180706",
+              "reviewer": "elliotjeory",
+              "rating": 3,
+              "content": "Not worth the time unfortunately.",
+              "engagement": 53
+            },
+            {
+              "review_id": "imdb_the_endless_fullaudiot_20180829",
+              "reviewer": "fullaudiot",
+              "rating": 1,
+              "content": "Possibly the 1 Liter Faxe Beer from Denmark i drunk hold me in my armchair and i was to lazy to watch another movie, later i regret this.",
+              "engagement": 36
+            },
+            {
+              "review_id": "imdb_the_endless_congect_20201003",
+              "reviewer": "congect",
+              "rating": 1,
+              "content": "The only sci-fi element I felt intriguing (the fact that everyone was in their own time loop AND aware of it) sadly played part in an otherwise completely unwatchable move.",
+              "engagement": 19
+            },
+            {
+              "review_id": "imdb_the_endless_danielscissorhands_20191005",
+              "reviewer": "danielscissorhands",
+              "rating": 2,
+              "content": "I wish I did, it felt like I was stuck in a loop of sub-par film making, and laughably bad acting.",
+              "engagement": 10
+            },
+            {
+              "review_id": "imdb_the_endless_greggman_20210223",
+              "reviewer": "greggman",
+              "rating": 3,
+              "content": "I hope these guys will make another movie.",
+              "engagement": 10
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 15.0,
+          "haters_with_questions_pct": 17.1
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 6.343511450381679,
+          "avg_vader_compound": 0.41103740458015275,
+          "hate_statement_pct": 1.5,
+          "wish_statement_pct": 10.7
+        },
+        "late_reviews": {
+          "avg_rating": 6.587155963302752,
+          "avg_vader_compound": 0.454443119266055,
+          "hate_statement_pct": 5.5,
+          "wish_statement_pct": 10.1
+        },
+        "rating_shift": 0.24364451292107336,
+        "interpretation": "improved"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 34.4,
+        "haters_pct": 35.7,
+        "gap": -1.3000000000000043
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.7396231249999999,
+        "haters_vader": -0.3094157142857143,
+        "sentiment_gap": 1.0490388392857142
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 4.0,
+        "disappointed_count": 15,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_endless_otte1_20180718",
+            "reviewer": "Otte1",
+            "rating": 4,
+            "content": "Unfortunately I'm a logical thinker, who prefers movies that makes sense or at least let me know what's going on.",
+            "engagement": 103
+          },
+          {
+            "review_id": "imdb_the_endless_elliotjeory_20180706",
+            "reviewer": "elliotjeory",
+            "rating": 3,
+            "content": "Not worth the time unfortunately.",
+            "engagement": 53
+          },
+          {
+            "review_id": "imdb_the_endless_fullaudiot_20180829",
+            "reviewer": "fullaudiot",
+            "rating": 1,
+            "content": "Possibly the 1 Liter Faxe Beer from Denmark i drunk hold me in my armchair and i was to lazy to watch another movie, later i regret this.",
+            "engagement": 36
+          },
+          {
+            "review_id": "imdb_the_endless_congect_20201003",
+            "reviewer": "congect",
+            "rating": 1,
+            "content": "The only sci-fi element I felt intriguing (the fact that everyone was in their own time loop AND aware of it) sadly played part in an otherwise completely unwatchable move.",
+            "engagement": 19
+          },
+          {
+            "review_id": "imdb_the_endless_danielscissorhands_20191005",
+            "reviewer": "danielscissorhands",
+            "rating": 2,
+            "content": "I wish I did, it felt like I was stuck in a loop of sub-par film making, and laughably bad acting.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_endless_greggman_20210223",
+            "reviewer": "greggman",
+            "rating": 3,
+            "content": "I hope these guys will make another movie.",
+            "engagement": 10
+          },
+          {
+            "review_id": "imdb_the_endless_moodorf_20190203",
+            "reviewer": "moodorf",
+            "rating": 4,
+            "content": "I've watched enough movies that had a similar pacing, tone and feel to this movie and I regretted finishing them because they went nowhere.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_endless_soumikbanerjee1996_20221130",
+            "reviewer": "SoumikBanerjee1996",
+            "rating": 4,
+            "content": "I can admire their earnest efforts, but sadly that'a the best I can do here.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_the_endless_falleneye_20220913",
+            "reviewer": "FallenEye",
+            "rating": 3,
+            "content": "This movie is just meagre and wobbly, and unfortunately, I was simply just glad when it finally ended, again.",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_the_endless_luca_685_20250524",
+            "reviewer": "Luca-685",
+            "rating": 2,
+            "content": "Besides that there is a vague idea of a plot but sadly it was wasted with no real developments.",
+            "engagement": 3
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Endless",
+      "overall_risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_score": 1.5,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "LOW",
+        "avg_fear": 0.08615723434218386,
+        "avg_disgust": 0.0517159174862981,
+        "hate_review_pct": 18.6,
+        "intensity_score": 0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_phenomynouss_20181020",
+            "reviewer": "phenomynouss",
+            "rating": 1,
+            "review_title": "80 minutes of nothing, 30 minutes of plot",
+            "quote": "I feel it is not really appropriate for people to review films where they essentially got bored and their attention wandered off. sometimes some people are just not wired to like some films. the problem here is while I did in fact lose interest in this film, I continued to force myself to stay on to it....",
+            "engagement": 209,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_bobbylebay_20190717",
+            "reviewer": "bobbylebay",
+            "rating": 1,
+            "review_title": "Absolutely completely bored ENDLESSLY",
+            "quote": "If you have trouble sleeping, just wind this puppy up at bedtime. It will put you down in 5 minutes. ...tried to watch it three different times....",
+            "engagement": 125,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_smileymcgrouchpantsjresqiii_20180508",
+            "reviewer": "SmileyMcGrouchpantsJrEsqIII",
+            "rating": 2,
+            "review_title": "Blah. Meh ... ? Bleh!",
+            "quote": "To the \"The Endless\" makers: ---------------------------------------- (1.) Don't be bros, 'cause nobody'll know what you're talking about, when you try to express yourself to other people; (2.) Don't write AND direct the movie together; (3.) Don't *play* the two leads; (4.) Don't have them be REAL, biological bro's in the plotline. Also, to just go \"weird space/time conjunction stuff is happening ... dude!\" is not enough....",
+            "engagement": 117,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "MODERATE",
+        "haters_reading_ease": 78.52585714285715,
+        "lovers_reading_ease": 71.96793749999999,
+        "complexity_gap": 6.557919642857158,
+        "interpretation": "Moderate complexity barrier. Film may be too slow/cerebral for some viewers.",
+        "mitigation": "Marketing should prepare audiences for 'slow burn' pacing. Use critic quotes emphasizing atmosphere over action.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_phenomynouss_20181020",
+            "reviewer": "phenomynouss",
+            "rating": 1,
+            "review_title": "80 minutes of nothing, 30 minutes of plot",
+            "quote": "I feel it is not really appropriate for people to review films where they essentially got bored and their attention wandered off. sometimes some people are just not wired to like some films. the problem here is while I did in fact lose interest in this film, I continued to force myself to stay on to it....",
+            "engagement": 209,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_bobbylebay_20190717",
+            "reviewer": "bobbylebay",
+            "rating": 1,
+            "review_title": "Absolutely completely bored ENDLESSLY",
+            "quote": "If you have trouble sleeping, just wind this puppy up at bedtime. It will put you down in 5 minutes. ...tried to watch it three different times....",
+            "engagement": 125,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_smileymcgrouchpantsjresqiii_20180508",
+            "reviewer": "SmileyMcGrouchpantsJrEsqIII",
+            "rating": 2,
+            "review_title": "Blah. Meh ... ? Bleh!",
+            "quote": "To the \"The Endless\" makers: ---------------------------------------- (1.) Don't be bros, 'cause nobody'll know what you're talking about, when you try to express yourself to other people; (2.) Don't write AND direct the movie together; (3.) Don't *play* the two leads; (4.) Don't have them be REAL, biological bro's in the plotline. Also, to just go \"weird space/time conjunction stuff is happening ... dude!\" is not enough....",
+            "engagement": 117,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "MODERATE",
+        "early_negative_count": 24,
+        "early_negative_pct": 18.3,
+        "early_avg_rating": 6.343511450381679,
+        "total_early_reviews": 131,
+        "interpretation": "Moderate early negative buzz. Some opening audiences felt misled.",
+        "mitigation": "Ensure marketing accurately represents film tone. Screen for target audience first, not general public.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_m_exchange_20180422",
+            "reviewer": "M_Exchange",
+            "rating": 5,
+            "review_title": "Ranges from brilliant to ridiculous to horrible",
+            "quote": "It ranges from brilliant to ridiculous to horrible-- sometimes during the course of two scenes. I understand the limitations of working with a low budget, and they did a fairly good job of just making a coherent story. I've seen many low budget features and shorts that weren't even coherent, let alone good....",
+            "engagement": 255,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_phenomynouss_20181020",
+            "reviewer": "phenomynouss",
+            "rating": 1,
+            "review_title": "80 minutes of nothing, 30 minutes of plot",
+            "quote": "...they could easily be replaced by any random duo, even Laurel and Hardy, and have absolutely nothing meaningful change in any way. By the time genuinely interesting head-spinning stuff starts happening, it's too late. The film has already wasted all its time and instead just taunts us with some genuinely intriguing and compelling imagery, like the fractured remnants of a far superior film that ran out of money 30 minutes in and had to be filled in with cheap, hastily written nothingness.",
+            "engagement": 209,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_the_endless_smileymcgrouchpantsjresqiii_20180508",
+            "reviewer": "SmileyMcGrouchpantsJrEsqIII",
+            "rating": 2,
+            "review_title": "Blah. Meh ... ? Bleh!",
+            "quote": "To the \"The Endless\" makers: ---------------------------------------- (1.) Don't be bros, 'cause nobody'll know what you're talking about, when you try to express yourself to other people; (2.) Don't write AND direct the movie together; (3.) Don't *play* the two leads; (4.) Don't have them be REAL, biological bro's in the plotline. Also, to just go \"weird space/time conjunction stuff is happening ... dude!\" is not enough....",
+            "engagement": 117,
+            "matched_term": null
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "MODERATE",
+        "haters_with_wishes_pct": 14.3,
+        "interpretation": "Moderate pacing concerns. Some viewers wanted more action/payoff.",
+        "mitigation": "Set expectations clearly in marketing. Use critic quotes about 'atmospheric' and 'meditative' qualities.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_phenomynouss_20181020",
+            "reviewer": "phenomynouss",
+            "rating": 1,
+            "review_title": "80 minutes of nothing, 30 minutes of plot",
+            "quote": "I feel it is not really appropriate for people to review films where they essentially got bored and their attention wandered off. sometimes some people are just not wired to like some films. the problem here is while I did in fact lose interest in this film, I continued to force myself to stay on to it....",
+            "engagement": 209,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_bobbylebay_20190717",
+            "reviewer": "bobbylebay",
+            "rating": 1,
+            "review_title": "Absolutely completely bored ENDLESSLY",
+            "quote": "If you have trouble sleeping, just wind this puppy up at bedtime. It will put you down in 5 minutes. ...tried to watch it three different times....",
+            "engagement": 125,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_smileymcgrouchpantsjresqiii_20180508",
+            "reviewer": "SmileyMcGrouchpantsJrEsqIII",
+            "rating": 2,
+            "review_title": "Blah. Meh ... ? Bleh!",
+            "quote": "To the \"The Endless\" makers: ---------------------------------------- (1.) Don't be bros, 'cause nobody'll know what you're talking about, when you try to express yourself to other people; (2.) Don't write AND direct the movie together; (3.) Don't *play* the two leads; (4.) Don't have them be REAL, biological bro's in the plotline. Also, to just go \"weird space/time conjunction stuff is happening ... dude!\" is not enough....",
+            "engagement": 117,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 1.6,
+        "disappointed_count": 6,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_fullaudiot_20180829",
+            "reviewer": "fullaudiot",
+            "rating": 1,
+            "review_title": "One of the worst Movies ever",
+            "quote": "I wonder what got me the power to watch this movie to the end. I saw 1000+ movies in my life, i remember only a handful of them as very very bad, this one is in my top 3 list. Boring from start to end, no storyline, no action, no suspense, no thrills, nothing really nothing worth watching this thing....",
+            "engagement": 36,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_danielscissorhands_20191005",
+            "reviewer": "danielscissorhands",
+            "rating": 2,
+            "review_title": "The Endless seems endless",
+            "quote": "The Endless is the type of movie that unintelligent people seem to think is intelligent. But, alas, it is crap. It has a few good moments and ideas, but they are few and far between....",
+            "engagement": 10,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_falleneye_20220913",
+            "reviewer": "FallenEye",
+            "rating": 3,
+            "review_title": "Endlessly Happy it Ended.",
+            "quote": "I'm rather perplexed, without judgement of any kind however, at the glowing reviews this movie has received, which without question made me wonder if there is something I missed. Consequently I went back for an attempt at a second watch, and I sincerely realized that I didn't miss anything at all, especially considering what painful a watch the first and attempted repeat was, much like a loop needing to be escaped. The Endless is a very good idea, however executed in one of the poorest ways I've ever seen sad to say....",
+            "engagement": 6,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.2943071965628361,
+        "male_avg_rating": 6.346938775510204,
+        "female_avg_rating": 6.052631578947368,
+        "gender_preference": "male",
+        "male_count": 245,
+        "female_count": 57,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_endless_sueelaine_20180626",
+            "reviewer": "sueelaine",
+            "rating": 2,
+            "review_title": "Not a total waste",
+            "quote": "It has its mild strengths but wow tooo many weaknesses. I had a hard time staying tuned.",
+            "engagement": 58,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_interarmaenimsilentleges_20200507",
+            "reviewer": "InterArmaEnimSilentLeges",
+            "rating": 1,
+            "review_title": "It's ironic...",
+            "quote": "It's ironic that they named their movie The Endless, because that's exactly what this movie feels like. It contains endless time loops and boy howdy that's exactly how the viewer feels! It has no story, just some events that lead nowhere....",
+            "engagement": 46,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_shirleyb_29148_20180722",
+            "reviewer": "shirleyb-29148",
+            "rating": 2,
+            "review_title": "Terrible movie",
+            "quote": "Boring and lifeless. Nothing exciting for the plot. I wasted about 2 hours that I can't get back....",
+            "engagement": 42,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Endless",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 40,
+        "percentage": 10.6,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 29,
+          "female_count": 4,
+          "male_pct": 72.5,
+          "female_pct": 10.0,
+          "gender_coverage": 82.5
+        },
+        "characteristics": {
+          "avg_rating": 8.825,
+          "avg_reading_grade": 9.415000000000001,
+          "avg_engagement": 25.55,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 21,
+          "love_pct": 52.5,
+          "exclamations": 9,
+          "exclamation_pct": 22.5,
+          "high_engagement": 15,
+          "high_engagement_pct": 37.5
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "trust",
+            "anticipation",
+            "joy"
+          ],
+          "all_emotions": {
+            "joy": 0.11536142527726914,
+            "trust": 0.1592315131499132,
+            "fear": 0.05930382034387377,
+            "surprise": 0.08074485053229744,
+            "sadness": 0.043553572727831676,
+            "disgust": 0.03848474984477679,
+            "anger": 0.04285721710227985,
+            "anticipation": 0.11558168325565413
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_endless_ryan_tosatto_20180627",
+              "reviewer": "Ryan-tosatto",
+              "rating": 9,
+              "review_title": "Masterful sci-fi thriller allegory of a gnostic reality. Not for the shallow movie goer.",
+              "quote": "Seen by itself The Endless might not make a whole lot of sense. It is a companion piece to the filmmaker duo's first feature film Resolution and must make much more sense if seen together: Resolution then The Endless. Under the surface Is a gnostic view of reality in which the demiurge (who considers himself God) rules over its subjects with time and space, keeping us all in an Endless loop of birth life death rebirth et al, unless you are able to break free from the time loop prison....",
+              "engagement": 265,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_endless_piratefemme_144_400028_20190223",
+              "reviewer": "piratefemme-144-400028",
+              "rating": 9,
+              "review_title": "Well written Sci-Fi Thriller for those who like to think.",
+              "quote": "Nicely paced reveals without actually giving any end-game full answers. Was really pleased with this. I'm not a horror fan, but a huge thriller buff and I appreciate tension, build, mystery, more tension, some nail biting, tossing in questioning of reality, and deeper meaning layered into the context....",
+              "engagement": 105,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_endless_aaroncsm_169_107280_20180707",
+              "reviewer": "aaroncsm-169-107280",
+              "rating": 9,
+              "review_title": "Following these two dudes since the release of Resolution was a nice deal.",
+              "quote": "I'd really just like to advise any potential viewers to look for Resolution first, before watching this. Ain't often that I feel taken aback by worldbuilding, but this here really feels special.",
+              "engagement": 92,
+              "matched_term": null
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_endless_aaroncsm_169_107280_20180707",
+              "reviewer": "aaroncsm-169-107280",
+              "rating": 9,
+              "review_title": "Following these two dudes since the release of Resolution was a nice deal.",
+              "quote": "I'd really just like to advise any potential viewers to look for Resolution first, before watching this. Ain't often that I feel taken aback by worldbuilding, but this here really feels special.",
+              "engagement": 92,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_endless_howard.schumann_20180508",
+              "reviewer": "howard.schumann",
+              "rating": 8,
+              "review_title": "The Gods Must be Crazy",
+              "quote": "Ignoring Thomas Wolfe's observation that \"You can't go home again,\" brothers Justin (Justin Benson, \"Dementia\") and Aaron Smith (Aaron Moorhead, \"Contracted: Phase II\"), as an expression of completion, return to a California cult from which they had escaped ten years ago. Written and directed by Benson and Moorhead, The Endless is a low-budget psychological drama that juggles elements of horror and science fiction, unfolding in a world where reality is malleable and where past, present, and future exist simultaneously. Opening with a quote from legendary fantasy/horror writer H.P....",
+              "engagement": 68,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_endless_js_66130_20180509",
+              "reviewer": "js-66130",
+              "rating": 8,
+              "review_title": "WHAT'S UP?",
+              "quote": "Grown but down on their mundane life brothers, decide to revisit their childhood UFO death cult for some closure. Bad idea right? Well, not if you're making a movie, then it is an absolutely kickass, brilliant idea....",
+              "engagement": 51,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 183,
+        "percentage": 48.7,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 118,
+          "female_count": 26
+        },
+        "characteristics": {
+          "avg_rating": 7.994535519125683,
+          "avg_reading_grade": 7.104371584699453,
+          "avg_engagement": 14.46448087431694,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 70,
+        "percentage": 18.6,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.9142857142857144,
+          "avg_reading_grade": 6.029999999999999,
+          "complexity_barrier": true,
+          "wish_statement_pct": 14.3
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Expected mainstream horror with scares"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_endless_phenomynouss_20181020",
+            "reviewer": "phenomynouss",
+            "rating": 1,
+            "review_title": "80 minutes of nothing, 30 minutes of plot",
+            "quote": "...they could easily be replaced by any random duo, even Laurel and Hardy, and have absolutely nothing meaningful change in any way. By the time genuinely interesting head-spinning stuff starts happening, it's too late. The film has already wasted all its time and instead just taunts us with some genuinely intriguing and compelling imagery, like the fractured remnants of a far superior film that ran out of money 30 minutes in and had to be filled in with cheap, hastily written nothingness.",
+            "engagement": 209,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_the_endless_bobbylebay_20190717",
+            "reviewer": "bobbylebay",
+            "rating": 1,
+            "review_title": "Absolutely completely bored ENDLESSLY",
+            "quote": "If you have trouble sleeping, just wind this puppy up at bedtime. It will put you down in 5 minutes. ...tried to watch it three different times....",
+            "engagement": 125,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_endless_smileymcgrouchpantsjresqiii_20180508",
+            "reviewer": "SmileyMcGrouchpantsJrEsqIII",
+            "rating": 2,
+            "review_title": "Blah. Meh ... ? Bleh!",
+            "quote": "To the \"The Endless\" makers: ---------------------------------------- (1.) Don't be bros, 'cause nobody'll know what you're talking about, when you try to express yourself to other people; (2.) Don't write AND direct the movie together; (3.) Don't *play* the two leads; (4.) Don't have them be REAL, biological bro's in the plotline. Also, to just go \"weird space/time conjunction stuff is happening ... dude!\" is not enough....",
+            "engagement": 117,
+            "matched_term": null
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "suspenseful"
+        ],
+        "avoid": [
+          "Promising jump scares or action that isn't delivered",
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}

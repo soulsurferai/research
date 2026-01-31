@@ -1,0 +1,986 @@
+{
+  "movie": "Midsommar",
+  "analysis_date": "2025-10-21T12:57:24.069494",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "Midsommar",
+      "total_reviews": 182,
+      "rating_distribution": {
+        "1": 29,
+        "2": 1,
+        "3": 2,
+        "4": 3,
+        "5": 1,
+        "6": 26,
+        "7": 48,
+        "8": 26,
+        "9": 26,
+        "10": 20
+      },
+      "avg_rating": 6.527472527472527,
+      "rating_variance": 7.88598142189302,
+      "rating_segments": {
+        "lovers_8_10": 72,
+        "lovers_pct": 39.6,
+        "mixed_4_7": 78,
+        "mixed_pct": 42.9,
+        "haters_1_3": 32,
+        "haters_pct": 17.6
+      },
+      "gender_breakdown": {
+        "male": 115,
+        "female": 38,
+        "unknown": 29,
+        "coverage_pct": 84.1
+      },
+      "temporal_segments": {
+        "Opening Year": 75,
+        "Year 2": 61,
+        "Years 2-3": 23,
+        "Years 4-5": 21,
+        "5+ Years": 2
+      },
+      "engagement": {
+        "reviews_with_votes": 182,
+        "engagement_pct": 100.0,
+        "avg_votes_per_review": 126.21978021978022,
+        "avg_helpfulness_ratio": 0.6041777982453799
+      }
+    },
+    "what_resonated": {
+      "movie": "Midsommar",
+      "total_lovers": 72,
+      "lovers_pct_of_all_reviews": 39.6,
+      "gender_segmentation": {
+        "male": 47,
+        "male_pct": 65.3,
+        "female": 17,
+        "female_pct": 23.6,
+        "unknown": 8
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.09183622701224552,
+          "trust": 0.08405635914819728,
+          "fear": 0.10337663424461435,
+          "surprise": 0.07685418100558622,
+          "sadness": 0.07971836906811285,
+          "disgust": 0.05710725598801736,
+          "anger": 0.06944030501892354,
+          "anticipation": 0.10672255991952631
+        },
+        "male_lovers": {
+          "joy": 0.09182260011816618,
+          "trust": 0.08566101975282525,
+          "fear": 0.10439731612908232,
+          "surprise": 0.07583284927011925,
+          "sadness": 0.0788038117852329,
+          "disgust": 0.056984275024083215,
+          "anger": 0.06720477763142543,
+          "anticipation": 0.11129163094767831
+        },
+        "female_lovers": {
+          "joy": 0.0913549647737852,
+          "trust": 0.07705884957149715,
+          "fear": 0.10368857096969186,
+          "surprise": 0.08085548975660341,
+          "sadness": 0.0791268780384147,
+          "disgust": 0.055562868634857175,
+          "anger": 0.07600893543446569,
+          "anticipation": 0.09818280584860377
+        }
+      },
+      "love_statements": {
+        "count": 20,
+        "percentage": 27.8,
+        "quotes": [
+          {
+            "review_id": "imdb_midsommar_saccool_20201002",
+            "reviewer": "saccool",
+            "rating": 9,
+            "content": "I appreciate art and the more subtle horror/thriller films but this one had no surprises, no mystery.",
+            "engagement": 557
+          },
+          {
+            "review_id": "imdb_midsommar_cgearheart_20190702",
+            "reviewer": "cgearheart",
+            "rating": 8,
+            "content": "Also, the ambiguity and the look on who was really good or evil was amazing.",
+            "engagement": 533
+          },
+          {
+            "review_id": "imdb_midsommar_grantpaulsen_20190702",
+            "reviewer": "grantpaulsen",
+            "rating": 8,
+            "content": "I didn't hate it, I loved the cinematography, shot composition, and Florence Pugh's performance was pretty fantastic. ||| Some of the other actors were good and some others were not so good. ||| I love Ari Aster and his direction, and I loved his previous film Hereditary, which makes this one even more disappointing.",
+            "engagement": 433
+          },
+          {
+            "review_id": "imdb_midsommar_sleepin_dragon_20190812",
+            "reviewer": "Sleepin_Dragon",
+            "rating": 8,
+            "content": "Very good.",
+            "engagement": 341
+          },
+          {
+            "review_id": "imdb_midsommar_faristuta_20190704",
+            "reviewer": "Faristuta",
+            "rating": 8,
+            "content": "I love this film despite some flaws because it's very innovative.",
+            "engagement": 236
+          },
+          {
+            "review_id": "imdb_midsommar_cory_j_adams_20200103",
+            "reviewer": "cory_j_adams",
+            "rating": 9,
+            "content": "This is awards-worthy work from this cinematographer, and I hope he gets the recognition he deserves. ||| The supporting players are also very good, with Will Poulter in particular being a standout for providing much needed comic relief (making this film actually surprisingly hilarious at times).",
+            "engagement": 70
+          },
+          {
+            "review_id": "imdb_midsommar_dmr140_20191118",
+            "reviewer": "dmr140",
+            "rating": 9,
+            "content": "The acting, directing, music, writing, location, it's all really good.",
+            "engagement": 69
+          },
+          {
+            "review_id": "imdb_midsommar_niels2765_20200208",
+            "reviewer": "niels2765",
+            "rating": 10,
+            "content": "But just what makes this film so good? ||| I loved the use of natural light, and the cinematography again is jaw-droppingly gorgeous. ||| I loved watching this film a second time. ||| I slowly watched everything go to crap, and I loved it.",
+            "engagement": 37
+          },
+          {
+            "review_id": "imdb_midsommar_gretchenstoltz_20190926",
+            "reviewer": "gretchenstoltz",
+            "rating": 10,
+            "content": "I love this movie.",
+            "engagement": 30
+          },
+          {
+            "review_id": "imdb_midsommar_deekshagk_20200204",
+            "reviewer": "deekshagk",
+            "rating": 9,
+            "content": "I loved this movie, it takes time to appreciate it since from the second you watch it all you can do is think about it and the more you think about it, read others opinions (not the ones who didnt give it time to get to them) the more you have an opinion of the film and the more you start understanding it; it all leads to you just loving the experience and emotions that you felt .",
+            "engagement": 26
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 70.38916666666667,
+        "avg_grade_level": 7.612499999999999,
+        "avg_first_person_ratio": 3.082109655377466,
+        "avg_exclamations": 0.3611111111111111
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 39,
+        "comparison_pct": 54.2
+      }
+    },
+    "what_didnt_work": {
+      "movie": "Midsommar",
+      "total_haters": 32,
+      "haters_pct_of_all_reviews": 17.6,
+      "gender_segmentation": {
+        "male": 15,
+        "male_pct": 46.9,
+        "female": 11,
+        "female_pct": 34.4,
+        "unknown": 6
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.07674277524836767,
+          "disgust": 0.08659901103830658,
+          "sadness": 0.08228018554318178,
+          "fear": 0.10878738129804556
+        },
+        "male_haters": {
+          "anger": 0.074398095733202,
+          "disgust": 0.09963825029052967,
+          "sadness": 0.07907014851382427,
+          "fear": 0.11615331249524703
+        },
+        "female_haters": {
+          "anger": 0.075312212924029,
+          "disgust": 0.055402298277272256,
+          "sadness": 0.08661745992721649,
+          "fear": 0.12575816112325366
+        }
+      },
+      "hate_statements": {
+        "count": 2,
+        "percentage": 6.2,
+        "quotes": [
+          {
+            "review_id": "imdb_midsommar_view_and_review_20190702",
+            "reviewer": "view_and_review",
+            "rating": 1,
+            "content": "I hate to say it, there was no gold... nor silver, nor copper, or any precious metal.",
+            "engagement": 578
+          },
+          {
+            "review_id": "imdb_midsommar_anna_bella_86_20201008",
+            "reviewer": "anna_bella_86",
+            "rating": 1,
+            "content": "I hated it, crashed skulls, burning people, all tragedy and wilderness.",
+            "engagement": 69
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 3,
+        "percentage": 9.4,
+        "quotes": [
+          {
+            "review_id": "imdb_midsommar_view_and_review_20190702",
+            "reviewer": "view_and_review",
+            "rating": 1,
+            "content": "Unfortunately, Midsommar was about what I thought it'd be about.",
+            "engagement": 578
+          },
+          {
+            "review_id": "imdb_midsommar_iqra_amir_20201127",
+            "reviewer": "iqra_amir",
+            "rating": 1,
+            "content": "I don't write reviews but this movie is so strange and I wish someone warned me.",
+            "engagement": 62
+          },
+          {
+            "review_id": "imdb_midsommar_charymuradovich_20220131",
+            "reviewer": "charymuradovich",
+            "rating": 1,
+            "content": "I wish I could give credit to the production designer but putting the tune for sacrifice on the sacrificial character's costume isn't clever, it's tacky.",
+            "engagement": 45
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 9,
+        "comparison_pct": 28.1,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 80.323125,
+        "avg_grade_level": 5.643750000000001,
+        "avg_exclamations": 0.40625,
+        "avg_caps_words": 0.375,
+        "reviews_with_questions": 5,
+        "question_pct": 15.6
+      }
+    },
+    "polarization": {
+      "movie": "Midsommar",
+      "polarization_metrics": {
+        "level": "MODERATELY_POLARIZING",
+        "rating_variance": 7.88598142189302,
+        "rating_std_dev": 2.8081989640858818,
+        "middle_ground_pct": 42.9,
+        "lovers_pct": 39.6,
+        "haters_pct": 17.6
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "joy",
+            {
+              "lovers_score": 0.09183622701224552,
+              "haters_score": 0.047968492264928886,
+              "divergence": 0.04386773474731663
+            }
+          ],
+          [
+            "anticipation",
+            {
+              "lovers_score": 0.10672255991952631,
+              "haters_score": 0.1364754740272542,
+              "divergence": 0.0297529141077279
+            }
+          ],
+          [
+            "disgust",
+            {
+              "lovers_score": 0.05710725598801736,
+              "haters_score": 0.08659901103830658,
+              "divergence": 0.029491755050289226
+            }
+          ],
+          [
+            "trust",
+            {
+              "lovers_score": 0.08405635914819728,
+              "haters_score": 0.05911125335639372,
+              "divergence": 0.024945105791803562
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.07685418100558622,
+              "haters_score": 0.05487269114267586,
+              "divergence": 0.02198148986291036
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.09183622701224552,
+            "haters_score": 0.047968492264928886,
+            "divergence": 0.04386773474731663
+          },
+          "trust": {
+            "lovers_score": 0.08405635914819728,
+            "haters_score": 0.05911125335639372,
+            "divergence": 0.024945105791803562
+          },
+          "fear": {
+            "lovers_score": 0.10337663424461435,
+            "haters_score": 0.10878738129804556,
+            "divergence": 0.005410747053431211
+          },
+          "surprise": {
+            "lovers_score": 0.07685418100558622,
+            "haters_score": 0.05487269114267586,
+            "divergence": 0.02198148986291036
+          },
+          "sadness": {
+            "lovers_score": 0.07971836906811285,
+            "haters_score": 0.08228018554318178,
+            "divergence": 0.002561816475068937
+          },
+          "disgust": {
+            "lovers_score": 0.05710725598801736,
+            "haters_score": 0.08659901103830658,
+            "divergence": 0.029491755050289226
+          },
+          "anger": {
+            "lovers_score": 0.06944030501892354,
+            "haters_score": 0.07674277524836767,
+            "divergence": 0.007302470229444136
+          },
+          "anticipation": {
+            "lovers_score": 0.10672255991952631,
+            "haters_score": 0.1364754740272542,
+            "divergence": 0.0297529141077279
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 70.38916666666667,
+          "haters": 80.323125,
+          "difference": 9.933958333333337
+        },
+        "grade_level": {
+          "lovers": 7.612499999999999,
+          "haters": 5.643750000000001,
+          "difference": -1.9687499999999982
+        },
+        "first_person_usage": {
+          "lovers": 3.082109655377466,
+          "haters": 3.6867299485931486,
+          "difference": 0.6046202932156826
+        },
+        "exclamations": {
+          "lovers": 0.3611111111111111,
+          "haters": 0.40625,
+          "difference": 0.045138888888888895
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 140.19444444444446,
+        "haters_avg_votes": 260.46875,
+        "lovers_vote_polarization": 22.86111111111111,
+        "haters_vote_polarization": 96.09375
+      },
+      "temporal_polarization": {
+        "early_avg_rating": 6.8161764705882355,
+        "late_avg_rating": 7.521739130434782,
+        "temporal_shift": 0.7055626598465468,
+        "shift_direction": "improved"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 6.791304347826087,
+        "female_avg_rating": 6.0,
+        "gender_rating_gap": 0.7913043478260873,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 54.2,
+        "haters_use_comparisons_pct": 28.1,
+        "comparison_gap": 26.041666666666664
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "Midsommar",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 4.2,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_midsommar_grantpaulsen_20190702",
+              "reviewer": "grantpaulsen",
+              "rating": 8,
+              "content": "This was one of my most anticipated films of the year and I wish I could've liked it more.",
+              "engagement": 433
+            },
+            {
+              "review_id": "imdb_midsommar_cory_j_adams_20200103",
+              "reviewer": "cory_j_adams",
+              "rating": 9,
+              "content": "This is awards-worthy work from this cinematographer, and I hope he gets the recognition he deserves.",
+              "engagement": 70
+            },
+            {
+              "review_id": "imdb_midsommar_drhoads_93743_20200525",
+              "reviewer": "drhoads-93743",
+              "rating": 8,
+              "content": "I'm sorry if you disagree.",
+              "engagement": 14
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 3,
+          "percentage": 9.4,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_midsommar_view_and_review_20190702",
+              "reviewer": "view_and_review",
+              "rating": 1,
+              "content": "Unfortunately, Midsommar was about what I thought it'd be about.",
+              "engagement": 578
+            },
+            {
+              "review_id": "imdb_midsommar_iqra_amir_20201127",
+              "reviewer": "iqra_amir",
+              "rating": 1,
+              "content": "I don't write reviews but this movie is so strange and I wish someone warned me.",
+              "engagement": 62
+            },
+            {
+              "review_id": "imdb_midsommar_charymuradovich_20220131",
+              "reviewer": "charymuradovich",
+              "rating": 1,
+              "content": "I wish I could give credit to the production designer but putting the tune for sacrifice on the sacrificial character's costume isn't clever, it's tacky.",
+              "engagement": 45
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 18.1,
+          "haters_with_questions_pct": 15.6
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": 6.8161764705882355,
+          "avg_vader_compound": 0.2089426470588235,
+          "hate_statement_pct": 2.9,
+          "wish_statement_pct": 11.8
+        },
+        "late_reviews": {
+          "avg_rating": 7.521739130434782,
+          "avg_vader_compound": 0.4399608695652173,
+          "hate_statement_pct": 0.0,
+          "wish_statement_pct": 8.7
+        },
+        "rating_shift": 0.7055626598465468,
+        "interpretation": "improved"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 54.2,
+        "haters_pct": 28.1,
+        "gap": 26.1
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.36992777777777774,
+        "haters_vader": -0.4596875,
+        "sentiment_gap": 0.8296152777777778
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 2.2,
+        "disappointed_count": 4,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_midsommar_view_and_review_20190702",
+            "reviewer": "view_and_review",
+            "rating": 1,
+            "content": "Unfortunately, Midsommar was about what I thought it'd be about.",
+            "engagement": 578
+          },
+          {
+            "review_id": "imdb_midsommar_leofwine_draca_20200314",
+            "reviewer": "Leofwine_draca",
+            "rating": 5,
+            "content": "Sadly, I didn't get it.",
+            "engagement": 499
+          },
+          {
+            "review_id": "imdb_midsommar_iqra_amir_20201127",
+            "reviewer": "iqra_amir",
+            "rating": 1,
+            "content": "I don't write reviews but this movie is so strange and I wish someone warned me.",
+            "engagement": 62
+          },
+          {
+            "review_id": "imdb_midsommar_charymuradovich_20220131",
+            "reviewer": "charymuradovich",
+            "rating": 1,
+            "content": "I wish I could give credit to the production designer but putting the tune for sacrifice on the sacrificial character's costume isn't clever, it's tacky.",
+            "engagement": 45
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "Midsommar",
+      "overall_risk_assessment": {
+        "risk_level": "LOW",
+        "risk_score": 1.0,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.10121727239831575,
+        "avg_disgust": 0.0639182855272657,
+        "hate_review_pct": 17.6,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "...It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat. The theater burst into loud laughter at several points because the film becomes so absurd....",
+            "engagement": 1429,
+            "matched_term": "disturbing"
+          },
+          {
+            "review_id": "imdb_midsommar_mosobe305_20191013",
+            "reviewer": "mosobe305",
+            "rating": 1,
+            "review_title": "Why is this rated so high on IMDB?? 2.3 hours of wasted life.",
+            "quote": "2.3 hours of my life I will never get back. One of the stupidest, longest movies with no point. Seriously, I am so upset I had to write a review on how a movie can waste so much of my time....",
+            "engagement": 1429,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_danedk_20190702",
+            "reviewer": "danedk",
+            "rating": 1,
+            "review_title": "Watch \"The Wicker Man\" from 1973 instead...",
+            "quote": "...I recommend you watch \"The Wicker Man\" from 1973, Alejandro Jodorowsky's \"The Holy Mountain\" and Sergei Parajanov's \"The Color of Pomegranates\" before you watch this watered down, pretentious murk in order to get a sense of how movies can truly be mind-altering. The \"story\" is essentially every cliché of the slasher genre mashed together: a group of young people naively go into the wilderness (Sweden, very scary place lol) and encounter messed up stuff. They each die one by one and, SPOILER ALERT, there is a \"final girl\" who survives in the end....",
+            "engagement": 824,
+            "matched_term": "scary"
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "MODERATE",
+        "haters_reading_ease": 80.323125,
+        "lovers_reading_ease": 70.38916666666667,
+        "complexity_gap": 9.933958333333337,
+        "interpretation": "Moderate complexity barrier. Film may be too slow/cerebral for some viewers.",
+        "mitigation": "Marketing should prepare audiences for 'slow burn' pacing. Use critic quotes emphasizing atmosphere over action.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "This film can't be saved even by the undeniable cinematography. It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat....",
+            "engagement": 1429,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_midsommar_mosobe305_20191013",
+            "reviewer": "mosobe305",
+            "rating": 1,
+            "review_title": "Why is this rated so high on IMDB?? 2.3 hours of wasted life.",
+            "quote": "2.3 hours of my life I will never get back. One of the stupidest, longest movies with no point. Seriously, I am so upset I had to write a review on how a movie can waste so much of my time....",
+            "engagement": 1429,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_danedk_20190702",
+            "reviewer": "danedk",
+            "rating": 1,
+            "review_title": "Watch \"The Wicker Man\" from 1973 instead...",
+            "quote": "I suspect that reviewers who believe this movie to be the weirdest, most deranged and tripped-out film they've ever seen have not watched many movies. I recommend you watch \"The Wicker Man\" from 1973, Alejandro Jodorowsky's \"The Holy Mountain\" and Sergei Parajanov's \"The Color of Pomegranates\" before you watch this watered down, pretentious murk in order to get a sense of how movies can truly be mind-altering. The \"story\" is essentially every cliché of the slasher genre mashed together: a group of young people naively go into the wilderness (Sweden, very scary place lol) and encounter messed up stuff....",
+            "engagement": 824,
+            "matched_term": "pretentious"
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 20,
+        "early_negative_pct": 14.7,
+        "early_avg_rating": 6.8161764705882355,
+        "total_early_reviews": 136,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "This film can't be saved even by the undeniable cinematography. It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat....",
+            "engagement": 1429,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_mosobe305_20191013",
+            "reviewer": "mosobe305",
+            "rating": 1,
+            "review_title": "Why is this rated so high on IMDB?? 2.3 hours of wasted life.",
+            "quote": "2.3 hours of my life I will never get back. One of the stupidest, longest movies with no point. Seriously, I am so upset I had to write a review on how a movie can waste so much of my time. I watched it because initially it had a high review and I trusted IMDB reviews to be somewhat accurate. Seems like this site much be tainted with fake reviews....",
+            "engagement": 1429,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_midsommar_danedk_20190702",
+            "reviewer": "danedk",
+            "rating": 1,
+            "review_title": "Watch \"The Wicker Man\" from 1973 instead...",
+            "quote": "I suspect that reviewers who believe this movie to be the weirdest, most deranged and tripped-out film they've ever seen have not watched many movies. I recommend you watch \"The Wicker Man\" from 1973, Alejandro Jodorowsky's \"The Holy Mountain\" and Sergei Parajanov's \"The Color of Pomegranates\" before you watch this watered down, pretentious murk in order to get a sense of how movies can truly be mind-altering. The \"story\" is essentially every cliché of the slasher genre mashed together: a group of young people naively go into the wilderness (Sweden, very scary place lol) and encounter messed up stuff....",
+            "engagement": 824,
+            "matched_term": null
+          }
+        ]
+      },
+      "pacing_risk": {
+        "risk_level": "LOW",
+        "haters_with_wishes_pct": 9.4,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "This film can't be saved even by the undeniable cinematography. It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat. The theater burst into loud laughter at several points because the film becomes so absurd....",
+            "engagement": 1429,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_midsommar_mosobe305_20191013",
+            "reviewer": "mosobe305",
+            "rating": 1,
+            "review_title": "Why is this rated so high on IMDB?? 2.3 hours of wasted life.",
+            "quote": "2.3 hours of my life I will never get back. One of the stupidest, longest movies with no point. Seriously, I am so upset I had to write a review on how a movie can waste so much of my time....",
+            "engagement": 1429,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_danedk_20190702",
+            "reviewer": "danedk",
+            "rating": 1,
+            "review_title": "Watch \"The Wicker Man\" from 1973 instead...",
+            "quote": "I suspect that reviewers who believe this movie to be the weirdest, most deranged and tripped-out film they've ever seen have not watched many movies. I recommend you watch \"The Wicker Man\" from 1973, Alejandro Jodorowsky's \"The Holy Mountain\" and Sergei Parajanov's \"The Color of Pomegranates\" before you watch this watered down, pretentious murk in order to get a sense of how movies can truly be mind-altering. The \"story\" is essentially every cliché of the slasher genre mashed together: a group of young people naively go into the wilderness (Sweden, very scary place lol) and encounter messed up stuff....",
+            "engagement": 824,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 1.1,
+        "disappointed_count": 2,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_leofwine_draca_20200314",
+            "reviewer": "Leofwine_draca",
+            "rating": 5,
+            "review_title": "Meandering is right",
+            "quote": "MIDSOMMAR is the latest film from arthouse director Ari Aster, whose HEREDITARY wowed audiences a few years ago. While I liked that film I didn't love it, but I do love folk horror and THE WICKER MAN so I expected a lot from this one. Sadly, I didn't get it. MIDSOMMAR is a real mixed bag of a movie, with a decent first half....",
+            "engagement": 499,
+            "matched_term": "expected"
+          },
+          {
+            "review_id": "imdb_midsommar_charymuradovich_20220131",
+            "reviewer": "charymuradovich",
+            "rating": 1,
+            "review_title": "Unbereable, absurd nonsense from start to end..",
+            "quote": "...The people killing themselves of their own volition? The off screen disappearances? I was disgusted by the depravity of this film and entirely disappointed in it's lack of any statement about the views or choices of the characters or situation. It was a movie with plot points and then it ended. Worst movie!!",
+            "engagement": 45,
+            "matched_term": "disappointed"
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.7913043478260873,
+        "male_avg_rating": 6.791304347826087,
+        "female_avg_rating": 6.0,
+        "gender_preference": "male",
+        "male_count": 115,
+        "female_count": 38,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "This film can't be saved even by the undeniable cinematography. It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat....",
+            "engagement": 1429,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_hannah_simerly_20190709",
+            "reviewer": "hannah-simerly",
+            "rating": 1,
+            "review_title": "Atrocious",
+            "quote": "The only thing scary about this movie is the 2.5 hours of slow torture I sat through",
+            "engagement": 783,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_midsommar_alina_ch_20220121",
+            "reviewer": "alina_ch",
+            "rating": 1,
+            "review_title": "A very long and bad trip",
+            "quote": "Didn't expect anything from this movie, but it failed to delivery even the slightest bit. The characters are unrelatable and unsympathetic, so you don't really care if they live or not. The singing, dancing, moaning really puts you off the suspense path, so the movie doesn't even feel scary, just a bit disturbing and popping the question \"why the hell am I wasting my time on this?\"",
+            "engagement": 80,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "Midsommar",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 31,
+        "percentage": 17.0,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 18,
+          "female_count": 9,
+          "male_pct": 58.1,
+          "female_pct": 29.0,
+          "gender_coverage": 87.1
+        },
+        "characteristics": {
+          "avg_rating": 8.838709677419354,
+          "avg_reading_grade": 9.396774193548385,
+          "avg_engagement": 142.80645161290323,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 7,
+          "love_pct": 22.6,
+          "exclamations": 8,
+          "exclamation_pct": 25.8,
+          "high_engagement": 20,
+          "high_engagement_pct": 64.5
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "trust",
+            "fear",
+            "joy"
+          ],
+          "all_emotions": {
+            "joy": 0.09004819327653331,
+            "trust": 0.0932577935434315,
+            "fear": 0.09319651039158947,
+            "surprise": 0.07534937745728056,
+            "sadness": 0.07425532402814819,
+            "disgust": 0.055640766876863014,
+            "anger": 0.07385893606243198,
+            "anticipation": 0.08985108619947574
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Reddit r/TrueFilm community (active discussers)",
+          "YouTube film essayists (in-depth analysis)",
+          "Film Discord servers",
+          "Shudder subscribers",
+          "Reddit r/horror community",
+          "Horror podcasts (Faculty of Horror, Post Mortem)",
+          "Fangoria / Rue Morgue readers",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "High engagement - these are evangelists who drive word-of-mouth",
+          "Horror enthusiasts - not casual scary movie fans",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_midsommar_lepidopterous__20190709",
+              "reviewer": "Lepidopterous_",
+              "rating": 9,
+              "review_title": "An Operatic Catharsis On Emotional Dependency",
+              "quote": "...Do you feel held?\" One of the most universal and innately human desires is a sense of belonging. The human brain is not meant to be alone; we are evolved to be a part of something. Belonging fundamentally allows us to form our own sense of identity, establish social connections through community, and provides us with love, attention, security, and purpose. Perhaps more importantly, a lack of belonging is when we begin to lose sense of ourselves and who we are. This loss of touch with who we are when the world around us suddenly disappears......",
+              "engagement": 1334,
+              "matched_term": "love"
+            },
+            {
+              "review_id": "imdb_midsommar_felixisajerk_20190716",
+              "reviewer": "FelixisaJerk",
+              "rating": 8,
+              "review_title": "Probably going to kill Sweden's tourism industry.",
+              "quote": "Midsommar Century 16 Theater Watched 7/16/19 Horror is my favorite genre to see done right, because it's so rarely done right. Director and writer Ari Aster had something very special with his first film Hereditary. Perhaps the film most recommended to me in the last few years....",
+              "engagement": 708,
+              "matched_term": "favorite"
+            },
+            {
+              "review_id": "imdb_midsommar_danielnunez_81518_20190702",
+              "reviewer": "danielnunez-81518",
+              "rating": 9,
+              "review_title": "Ari Aster back at it again",
+              "quote": "I believe that even after just his second feature Ari Aster's name will be synonymous with bizarre/polarizing/dreadful cinema; his name might even become an adjective/verb or a categorization for film altogether (Lynchian, for instance). This movie kind of left about the same impression Hereditary left me with after the first view. After my first viewing of Hereditary I felt that it was just good, after a few more viewings and analyses, I now consider it a genius take on trauma and grief....",
+              "engagement": 464,
+              "matched_term": null
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_midsommar_lepidopterous__20190709",
+              "reviewer": "Lepidopterous_",
+              "rating": 9,
+              "review_title": "An Operatic Catharsis On Emotional Dependency",
+              "quote": "\"I have always felt held. By a family... a real family....",
+              "engagement": 1334,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_midsommar_felixisajerk_20190716",
+              "reviewer": "FelixisaJerk",
+              "rating": 8,
+              "review_title": "Probably going to kill Sweden's tourism industry.",
+              "quote": "Midsommar Century 16 Theater Watched 7/16/19 Horror is my favorite genre to see done right, because it's so rarely done right. Director and writer Ari Aster had something very special with his first film Hereditary. Perhaps the film most recommended to me in the last few years....",
+              "engagement": 708,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_midsommar_danielnunez_81518_20190702",
+              "reviewer": "danielnunez-81518",
+              "rating": 9,
+              "review_title": "Ari Aster back at it again",
+              "quote": "I believe that even after just his second feature Ari Aster's name will be synonymous with bizarre/polarizing/dreadful cinema; his name might even become an adjective/verb or a categorization for film altogether (Lynchian, for instance). This movie kind of left about the same impression Hereditary left me with after the first view. After my first viewing of Hereditary I felt that it was just good, after a few more viewings and analyses, I now consider it a genius take on trauma and grief....",
+              "engagement": 464,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 89,
+        "percentage": 48.9,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 65,
+          "female_count": 12
+        },
+        "characteristics": {
+          "avg_rating": 7.910112359550562,
+          "avg_reading_grade": 7.804494382022471,
+          "avg_engagement": 84.0561797752809,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 32,
+        "percentage": 17.6,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.15625,
+          "avg_reading_grade": 5.643750000000001,
+          "complexity_barrier": true,
+          "wish_statement_pct": 9.4
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Film too slow/complex"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_midsommar_sarahbokc_20190726",
+            "reviewer": "sarahbokc",
+            "rating": 1,
+            "review_title": "Cinematography can't save the narrative",
+            "quote": "This film can't be saved even by the undeniable cinematography. It's unbearably slow, the violence is gratuitous, and it epically fails to be a horror movie on any level. Midsommar tries to be psychologically terrifying/disturbing, but misses the mark because the characters are hollow, and flat. The theater burst into loud laughter at several points because the film becomes so absurd....",
+            "engagement": 1429,
+            "matched_term": "slow"
+          },
+          {
+            "review_id": "imdb_midsommar_mosobe305_20191013",
+            "reviewer": "mosobe305",
+            "rating": 1,
+            "review_title": "Why is this rated so high on IMDB?? 2.3 hours of wasted life.",
+            "quote": "2.3 hours of my life I will never get back. One of the stupidest, longest movies with no point. Seriously, I am so upset I had to write a review on how a movie can waste so much of my time. I watched it because initially it had a high review and I trusted IMDB reviews to be somewhat accurate. Seems like this site much be tainted with fake reviews....",
+            "engagement": 1429,
+            "matched_term": "waste"
+          },
+          {
+            "review_id": "imdb_midsommar_danedk_20190702",
+            "reviewer": "danedk",
+            "rating": 1,
+            "review_title": "Watch \"The Wicker Man\" from 1973 instead...",
+            "quote": "I suspect that reviewers who believe this movie to be the weirdest, most deranged and tripped-out film they've ever seen have not watched many movies. I recommend you watch \"The Wicker Man\" from 1973, Alejandro Jodorowsky's \"The Holy Mountain\" and Sergei Parajanov's \"The Color of Pomegranates\" before you watch this watered down, pretentious murk in order to get a sense of how movies can truly be mind-altering. The \"story\" is essentially every cliché of the slasher genre mashed together: a group of young people naively go into the wilderness (Sweden, very scary place lol) and encounter messed up stuff. They each die one by one and, SPOILER ALERT, there is a \"final girl\" who survives in the end....",
+            "engagement": 824,
+            "matched_term": "pretentious"
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror"
+        ],
+        "avoid": [
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}

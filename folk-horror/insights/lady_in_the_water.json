@@ -1,0 +1,1103 @@
+{
+  "movie": "Lady In The Water",
+  "analysis_date": "2025-10-21T12:57:24.809043",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "Lady In The Water",
+      "total_reviews": 318,
+      "rating_distribution": {
+        "1": 72,
+        "2": 16,
+        "3": 11,
+        "4": 22,
+        "5": 6,
+        "6": 47,
+        "7": 81,
+        "8": 20,
+        "9": 17,
+        "10": 26
+      },
+      "avg_rating": 5.273584905660377,
+      "rating_variance": 8.868132849235153,
+      "rating_segments": {
+        "lovers_8_10": 63,
+        "lovers_pct": 19.8,
+        "mixed_4_7": 156,
+        "mixed_pct": 49.1,
+        "haters_1_3": 99,
+        "haters_pct": 31.1
+      },
+      "gender_breakdown": {
+        "male": 216,
+        "female": 41,
+        "unknown": 61,
+        "coverage_pct": 80.8
+      },
+      "temporal_segments": {},
+      "engagement": {
+        "reviews_with_votes": 312,
+        "engagement_pct": 98.1,
+        "avg_votes_per_review": 34.09748427672956,
+        "avg_helpfulness_ratio": 0.5395691366629157
+      }
+    },
+    "what_resonated": {
+      "movie": "Lady In The Water",
+      "total_lovers": 63,
+      "lovers_pct_of_all_reviews": 19.8,
+      "gender_segmentation": {
+        "male": 41,
+        "male_pct": 65.1,
+        "female": 13,
+        "female_pct": 20.6,
+        "unknown": 9
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.11250321628647027,
+          "trust": 0.1162786362959219,
+          "fear": 0.05631948981965709,
+          "surprise": 0.08298237338250783,
+          "sadness": 0.05987440272729008,
+          "disgust": 0.032352763189662695,
+          "anger": 0.04404302420042688,
+          "anticipation": 0.12616826555853386
+        },
+        "male_lovers": {
+          "joy": 0.11560526426605273,
+          "trust": 0.10856056571281776,
+          "fear": 0.056932351606524136,
+          "surprise": 0.08309645011668325,
+          "sadness": 0.058068022569324855,
+          "disgust": 0.031291972940421034,
+          "anger": 0.04531165341223714,
+          "anticipation": 0.12561101644040146
+        },
+        "female_lovers": {
+          "joy": 0.10240092506993657,
+          "trust": 0.12350508945787729,
+          "fear": 0.06257776130819456,
+          "surprise": 0.07996729329666885,
+          "sadness": 0.06429506924198473,
+          "disgust": 0.037578974491122456,
+          "anger": 0.04818536761296694,
+          "anticipation": 0.139583442446147
+        }
+      },
+      "love_statements": {
+        "count": 29,
+        "percentage": 46.0,
+        "quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_the_scandal_cha_20060721",
+            "reviewer": "the_scandal_cha",
+            "rating": 8,
+            "content": "I hope to see him in bigger roles, in films not his own.",
+            "engagement": 900
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_carl_cx_20060720",
+            "reviewer": "carl_cx",
+            "rating": 10,
+            "content": "While SIGNS had always been my favorite, I love how he blended moving stories, with thriller aspects. ||| I love how he brought some many diverse people together: a critic who sees no originality in the world, a crossword puzzle genius, a stumped writer and his comedic sister, an old woman who has a thing with animals, and a man locked away in his solitude.",
+            "engagement": 695
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_glen_88_20060720",
+            "reviewer": "glen-88",
+            "rating": 8,
+            "content": "The theme of \"finding your purpose\" definitely is poignant in this day and age, I love all the self reflexive humor as far as story structure goes too.",
+            "engagement": 295
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_ava71_20060724",
+            "reviewer": "ava71",
+            "rating": 8,
+            "content": "but don't just sit in the theater waiting to be surprised, your just wasting your time and missing the point of a really good movie.",
+            "engagement": 283
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_xideric_20060717",
+            "reviewer": "Xideric",
+            "rating": 8,
+            "content": "I enjoyed Unbreakable and Signs quite a bit, I thought both were excellent, I thought Sixth Sense was pretty intense and I liked it just a bit less than the other two, and Village is on the bottom of my list as I did enjoy it, but it was his most predictable work to date. ||| LITW would fit in on par with Signs, as the more I think about this movie, the more I reflect upon it, the more I realize how much I love it. ||| ;) Anyway, the mood of the film was perfect, I enjoyed every single character in the movie, it was as if I could have watched a separate film about the lives of the other characters and been enthralled in those movies, they all had such a past to them.",
+            "engagement": 226
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_wahoowill01_20060722",
+            "reviewer": "wahoowill01",
+            "rating": 8,
+            "content": "I loved him as Bob Zmuda, Andy Kaufman's best friend, in Man on the Moon, and of course in his lead part of wine connoisseur Miles in Sideways. ||| As long as the plot lines and characters remain interesting, I enjoy going into a M. Night Shyamalan movie knowing that it will be done in his signature style.",
+            "engagement": 150
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_dick_steel_20060727",
+            "reviewer": "DICK STEEL",
+            "rating": 10,
+            "content": "I love it. ||| I loved the pace, the control, and the development of how the plot unfolded. ||| I love the superb acting by the main leads of Paul Giamatti, who's fast becoming one of my favourite character actors, and in here, provided his character Cleveland Heep with much emotional baggage, pain and that almost natural stammer when nervous, and Bryce Dallas Howard, her Lady in the Water, name Story, is so beautiful, yet so enchantingly vulnerable. ||| I love the special effects, done no less by Industrial Light and Magic.",
+            "engagement": 65
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_nikhilvarma89_20060719",
+            "reviewer": "nikhilvarma89",
+            "rating": 8,
+            "content": "The acting as usual was very good, shyamalan is able to get the most out of his actors.",
+            "engagement": 64
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_cherold_20070702",
+            "reviewer": "cherold",
+            "rating": 8,
+            "content": "I enjoy the movie's optimism about people even if I don't share in it, and I like the way he spreads his typical revelations throughout instead of sticking them all at the end.",
+            "engagement": 60
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_spartacus72_20060719",
+            "reviewer": "Spartacus72",
+            "rating": 10,
+            "content": "I enjoy having to think a little bit at the movies.",
+            "engagement": 40
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 72.63349206349206,
+        "avg_grade_level": 7.676190476190476,
+        "avg_first_person_ratio": 2.9244768515583854,
+        "avg_exclamations": 0.5873015873015873
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 46,
+        "comparison_pct": 73.0
+      }
+    },
+    "what_didnt_work": {
+      "movie": "Lady In The Water",
+      "total_haters": 99,
+      "haters_pct_of_all_reviews": 31.1,
+      "gender_segmentation": {
+        "male": 70,
+        "male_pct": 70.7,
+        "female": 7,
+        "female_pct": 7.1,
+        "unknown": 22
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.06464764207241037,
+          "disgust": 0.0763393610404304,
+          "sadness": 0.0724348876761633,
+          "fear": 0.0843572836358575
+        },
+        "male_haters": {
+          "anger": 0.06781768659698131,
+          "disgust": 0.07778261745250652,
+          "sadness": 0.0762725569819102,
+          "fear": 0.08880471126944796
+        },
+        "female_haters": {
+          "anger": 0.06486066046047828,
+          "disgust": 0.09303200269038746,
+          "sadness": 0.0741470748939052,
+          "fear": 0.09897681715546014
+        }
+      },
+      "hate_statements": {
+        "count": 8,
+        "percentage": 8.1,
+        "quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "content": "And as much as I hate to agree with Disney, they were absolutely right.",
+            "engagement": 263
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_pwr66569_20060717",
+            "reviewer": "pwr66569",
+            "rating": 1,
+            "content": "But I really hated this movie.",
+            "engagement": 49
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_markymark70_20090622",
+            "reviewer": "markymark70",
+            "rating": 1,
+            "content": "To say I was disappointed is to say the Pope is Catholic.",
+            "engagement": 21
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_alohahnl_20070903",
+            "reviewer": "AlohaHNL",
+            "rating": 1,
+            "content": "Really really bad directing and the most unbelievable non-existent plot ever.",
+            "engagement": 8
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_winter_light_1_20060813",
+            "reviewer": "winter_light-1",
+            "rating": 1,
+            "content": "Anyway to sum this vaguely literate rant up, this film is so bad that at least four people died during the film and I only managed to survive the screening by chewing my own leg off.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_kevine_4_20060730",
+            "reviewer": "kevine-4",
+            "rating": 1,
+            "content": "It was so bad that it was almost good as a comedy.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_favri_20131118",
+            "reviewer": "Favri",
+            "rating": 1,
+            "content": "Why is this film so bad? ||| It's that the rest of this film is so bad that it crushes his good work.",
+            "engagement": 5
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_escapen2flixtion_20190524",
+            "reviewer": "escapeN2flixtion",
+            "rating": 1,
+            "content": "While his later movies, like The Happening or Devil, were still bad, they were at least so bad they were funny.",
+            "engagement": 2
+          }
+        ]
+      },
+      "wish_statements": {
+        "count": 21,
+        "percentage": 21.2,
+        "quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_wozza10_20060825",
+            "reviewer": "wozza10",
+            "rating": 1,
+            "content": "sadly he doesn't seem to have read draft 2 to realise that the layers justifying how rubbish everything is are even worsely executed meaning the script is two layers of $h1t on top of each other. ||| There's a moment when the character finds out what his fate will be, a scene which an actor of quality would have been able to wrench your heart with, but a moment where Night actually looks like he's realised the film he's made could destroy his career (although I hope not)!",
+            "engagement": 153
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_oroscos2003_20060721",
+            "reviewer": "oroscos2003",
+            "rating": 1,
+            "content": "I'm sorry but I'm just missing the \"Oscar\" material feeling from this movie.",
+            "engagement": 140
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_brianwolters_20060723",
+            "reviewer": "brianwolters",
+            "rating": 2,
+            "content": "Lady in the Water is his first folly and I hope he will recover and wow us with his next film.",
+            "engagement": 99
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_killanugz_20060729",
+            "reviewer": "killanugz",
+            "rating": 1,
+            "content": "I wish I could let myself believe a bed time story from somebody in order to try to save some strange woman whom we never find out why she needs to be saved. ||| I hope it never will!",
+            "engagement": 69
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_kcboiz_20060718",
+            "reviewer": "kcboiz",
+            "rating": 1,
+            "content": "Now, I wish I could take back my 3 hours wasted at the sneak preview last night!",
+            "engagement": 38
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_jeu3_20060721",
+            "reviewer": "jeu3",
+            "rating": 1,
+            "content": "Sadly, what I enjoy most in Shyamalan's work seems to be purposefully removed.",
+            "engagement": 30
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_theo_robertson_20090611",
+            "reviewer": "Theo Robertson",
+            "rating": 3,
+            "content": "Unfortunately since then Shymalan seems to have believed his own hype about being the new Spielberg and has become the new Alan Smithee",
+            "engagement": 28
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_ptb_8_20060906",
+            "reviewer": "ptb-8",
+            "rating": 1,
+            "content": "It is a failure on every level... a self reverential and referential indulgence by our writing directing acting auteur that I hope he donates his fees to charity.",
+            "engagement": 15
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_xtracrispi_20060729",
+            "reviewer": "XtraCrispi",
+            "rating": 1,
+            "content": "I wish he wouldn't put himself in his own movies.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_arctic_angel_20060726",
+            "reviewer": "Arctic_angel",
+            "rating": 1,
+            "content": "Shyamalan has obviously lost whatever \"touch\" I ever thought he had and I'm sorry I wasted my money and time.",
+            "engagement": 12
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 63,
+        "comparison_pct": 63.6,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 72.18343434343434,
+        "avg_grade_level": 7.661616161616161,
+        "avg_exclamations": 1.0707070707070707,
+        "avg_caps_words": 1.2727272727272727,
+        "reviews_with_questions": 41,
+        "question_pct": 41.4
+      }
+    },
+    "polarization": {
+      "movie": "Lady In The Water",
+      "polarization_metrics": {
+        "level": "MODERATELY_POLARIZING",
+        "rating_variance": 8.868132849235153,
+        "rating_std_dev": 2.9779410419340326,
+        "middle_ground_pct": 49.1,
+        "lovers_pct": 19.8,
+        "haters_pct": 31.1
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "disgust",
+            {
+              "lovers_score": 0.032352763189662695,
+              "haters_score": 0.0763393610404304,
+              "divergence": 0.04398659785076771
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.11250321628647027,
+              "haters_score": 0.06976007863119846,
+              "divergence": 0.04274313765527181
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.08298237338250783,
+              "haters_score": 0.05066694450408691,
+              "divergence": 0.03231542887842092
+            }
+          ],
+          [
+            "fear",
+            {
+              "lovers_score": 0.05631948981965709,
+              "haters_score": 0.0843572836358575,
+              "divergence": 0.028037793816200404
+            }
+          ],
+          [
+            "anger",
+            {
+              "lovers_score": 0.04404302420042688,
+              "haters_score": 0.06464764207241037,
+              "divergence": 0.020604617871983498
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.11250321628647027,
+            "haters_score": 0.06976007863119846,
+            "divergence": 0.04274313765527181
+          },
+          "trust": {
+            "lovers_score": 0.1162786362959219,
+            "haters_score": 0.09825060102189179,
+            "divergence": 0.018028035274030116
+          },
+          "fear": {
+            "lovers_score": 0.05631948981965709,
+            "haters_score": 0.0843572836358575,
+            "divergence": 0.028037793816200404
+          },
+          "surprise": {
+            "lovers_score": 0.08298237338250783,
+            "haters_score": 0.05066694450408691,
+            "divergence": 0.03231542887842092
+          },
+          "sadness": {
+            "lovers_score": 0.05987440272729008,
+            "haters_score": 0.0724348876761633,
+            "divergence": 0.012560484948873213
+          },
+          "disgust": {
+            "lovers_score": 0.032352763189662695,
+            "haters_score": 0.0763393610404304,
+            "divergence": 0.04398659785076771
+          },
+          "anger": {
+            "lovers_score": 0.04404302420042688,
+            "haters_score": 0.06464764207241037,
+            "divergence": 0.020604617871983498
+          },
+          "anticipation": {
+            "lovers_score": 0.12616826555853386,
+            "haters_score": 0.10823396603572105,
+            "divergence": 0.017934299522812808
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 72.63349206349206,
+          "haters": 72.18343434343434,
+          "difference": -0.45005772005771405
+        },
+        "grade_level": {
+          "lovers": 7.676190476190476,
+          "haters": 7.661616161616161,
+          "difference": -0.014574314574314684
+        },
+        "first_person_usage": {
+          "lovers": 2.9244768515583854,
+          "haters": 3.0708147935957393,
+          "difference": 0.14633794203735384
+        },
+        "exclamations": {
+          "lovers": 0.5873015873015873,
+          "haters": 1.0707070707070707,
+          "difference": 0.4834054834054834
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 104.22222222222223,
+        "haters_avg_votes": 31.86868686868687,
+        "lovers_vote_polarization": 22.88888888888889,
+        "haters_vote_polarization": 3.4444444444444446
+      },
+      "temporal_polarization": {
+        "early_avg_rating": null,
+        "late_avg_rating": null,
+        "temporal_shift": null,
+        "shift_direction": "stable"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 5.236111111111111,
+        "female_avg_rating": 6.097560975609756,
+        "gender_rating_gap": 0.8614498644986455,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 73.0,
+        "haters_use_comparisons_pct": 63.6,
+        "comparison_gap": 9.37950937950938
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "Lady In The Water",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 4.8,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_lady_in_the_water_the_scandal_cha_20060721",
+              "reviewer": "the_scandal_cha",
+              "rating": 8,
+              "content": "I hope to see him in bigger roles, in films not his own.",
+              "engagement": 900
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_shaan_the_brown_guy_20060718",
+              "reviewer": "shaan_the_brown_guy",
+              "rating": 9,
+              "content": "Unfortunately, many critics gave this movie a bad review, even though it deserved a good one.",
+              "engagement": 31
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_veli_airikkala_20061205",
+              "reviewer": "veli-airikkala",
+              "rating": 9,
+              "content": "Im really sad lady in the water didn't pay off and i hope that doesn't discourage Shyamalan and wouldn't stop him from making another movie like this.",
+              "engagement": 2
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 21,
+          "percentage": 21.2,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_lady_in_the_water_wozza10_20060825",
+              "reviewer": "wozza10",
+              "rating": 1,
+              "content": "sadly he doesn't seem to have read draft 2 to realise that the layers justifying how rubbish everything is are even worsely executed meaning the script is two layers of $h1t on top of each other. ||| There's a moment when the character finds out what his fate will be, a scene which an actor of quality would have been able to wrench your heart with, but a moment where Night actually looks like he's realised the film he's made could destroy his career (although I hope not)!",
+              "engagement": 153
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_oroscos2003_20060721",
+              "reviewer": "oroscos2003",
+              "rating": 1,
+              "content": "I'm sorry but I'm just missing the \"Oscar\" material feeling from this movie.",
+              "engagement": 140
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_brianwolters_20060723",
+              "reviewer": "brianwolters",
+              "rating": 2,
+              "content": "Lady in the Water is his first folly and I hope he will recover and wow us with his next film.",
+              "engagement": 99
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_killanugz_20060729",
+              "reviewer": "killanugz",
+              "rating": 1,
+              "content": "I wish I could let myself believe a bed time story from somebody in order to try to save some strange woman whom we never find out why she needs to be saved. ||| I hope it never will!",
+              "engagement": 69
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_kcboiz_20060718",
+              "reviewer": "kcboiz",
+              "rating": 1,
+              "content": "Now, I wish I could take back my 3 hours wasted at the sneak preview last night!",
+              "engagement": 38
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 25.4,
+          "haters_with_questions_pct": 41.4
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": null,
+          "avg_vader_compound": null,
+          "hate_statement_pct": null,
+          "wish_statement_pct": null
+        },
+        "late_reviews": {
+          "avg_rating": null,
+          "avg_vader_compound": null,
+          "hate_statement_pct": null,
+          "wish_statement_pct": null
+        },
+        "rating_shift": null,
+        "interpretation": "unknown"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 73.0,
+        "haters_pct": 63.6,
+        "gap": 9.399999999999999
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.8654476190476191,
+        "haters_vader": 0.0068666666666666555,
+        "sentiment_gap": 0.8585809523809524
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 8.8,
+        "disappointed_count": 28,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_wozza10_20060825",
+            "reviewer": "wozza10",
+            "rating": 1,
+            "content": "sadly he doesn't seem to have read draft 2 to realise that the layers justifying how rubbish everything is are even worsely executed meaning the script is two layers of $h1t on top of each other. ||| There's a moment when the character finds out what his fate will be, a scene which an actor of quality would have been able to wrench your heart with, but a moment where Night actually looks like he's realised the film he's made could destroy his career (although I hope not)!",
+            "engagement": 153
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_oroscos2003_20060721",
+            "reviewer": "oroscos2003",
+            "rating": 1,
+            "content": "I'm sorry but I'm just missing the \"Oscar\" material feeling from this movie.",
+            "engagement": 140
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_brianwolters_20060723",
+            "reviewer": "brianwolters",
+            "rating": 2,
+            "content": "Lady in the Water is his first folly and I hope he will recover and wow us with his next film.",
+            "engagement": 99
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_killanugz_20060729",
+            "reviewer": "killanugz",
+            "rating": 1,
+            "content": "I wish I could let myself believe a bed time story from somebody in order to try to save some strange woman whom we never find out why she needs to be saved. ||| I hope it never will!",
+            "engagement": 69
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_kcboiz_20060718",
+            "reviewer": "kcboiz",
+            "rating": 1,
+            "content": "Now, I wish I could take back my 3 hours wasted at the sneak preview last night!",
+            "engagement": 38
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_jeu3_20060721",
+            "reviewer": "jeu3",
+            "rating": 1,
+            "content": "Sadly, what I enjoy most in Shyamalan's work seems to be purposefully removed.",
+            "engagement": 30
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_theo_robertson_20090611",
+            "reviewer": "Theo Robertson",
+            "rating": 3,
+            "content": "Unfortunately since then Shymalan seems to have believed his own hype about being the new Spielberg and has become the new Alan Smithee",
+            "engagement": 28
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_hiddenvoice_20060717",
+            "reviewer": "HiddenVoice",
+            "rating": 4,
+            "content": "Still,there is something to watch here.For one thing is watching Shyamalan act.I'm sorry folks,but I think you should stay away from this Shyamalan-obsessed-with-water film.",
+            "engagement": 28
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_buddy_51_20060809",
+            "reviewer": "Buddy-51",
+            "rating": 4,
+            "content": "Unfortunately, this creature, who calls herself Story (Bryce Dallas Howard, who played a similar emissary-to-a-strange-world role in \"The Village\"), has also inadvertently brought with her a menacing wolf-like monster which threatens to destroy her before she can make it successfully back to her own world. ||| Unfortunately, the film's visual style is every bit as incoherent as the storyline.",
+            "engagement": 20
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_ptb_8_20060906",
+            "reviewer": "ptb-8",
+            "rating": 1,
+            "content": "It is a failure on every level... a self reverential and referential indulgence by our writing directing acting auteur that I hope he donates his fees to charity.",
+            "engagement": 15
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "Lady In The Water",
+      "overall_risk_assessment": {
+        "risk_level": "MODERATE",
+        "risk_score": 1.5,
+        "high_risks": [
+          "PACING_ISSUES"
+        ],
+        "risk_count": 1
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.06947821393624737,
+        "avg_disgust": 0.051399878433225445,
+        "hate_review_pct": 31.1,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_strikefire83_20060723",
+            "reviewer": "strikefire83",
+            "rating": 1,
+            "review_title": "Pedantic, contrived exercise in tedium and boredom",
+            "quote": "As someone who loved The Sixth Sense and Signs, and who liked Unbreakable, I've got to say it's disappointing where Shyamalan seems to be taking his movies. Lady in the Water has none of those attributes. For one thing, it's boring, something none of his other movies were....",
+            "engagement": 402,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "review_title": "M. Night Shyamalan makes his \"8 1/2\"",
+            "quote": "It's hard being M. Night Shyamalan. Year after year, his works of uncompromised genius are poorly received by theatergoers and film critics alike....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_blashco_20060721",
+            "reviewer": "blashco",
+            "rating": 1,
+            "review_title": "horrible",
+            "quote": "Hey, I just saw the movie titled in the subject, here is my review. The SIxth Sense marked the debut of M. Night's fame and popularity....",
+            "engagement": 245,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "LOW",
+        "haters_reading_ease": 72.18343434343434,
+        "lovers_reading_ease": 72.63349206349206,
+        "complexity_gap": -0.45005772005771405,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_strikefire83_20060723",
+            "reviewer": "strikefire83",
+            "rating": 1,
+            "review_title": "Pedantic, contrived exercise in tedium and boredom",
+            "quote": "...Lady in the Water has none of those attributes. For one thing, it's boring, something none of his other movies were. Here we have a sloppily unstructured mess of a film filled to the brim with incoherent bedtime story \"mythology\" that changes from one minute to the next, so even if you try and follow the world of the story your efforts will only be met with frustration....",
+            "engagement": 402,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "review_title": "M. Night Shyamalan makes his \"8 1/2\"",
+            "quote": "It's hard being M. Night Shyamalan. Year after year, his works of uncompromised genius are poorly received by theatergoers and film critics alike....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_blashco_20060721",
+            "reviewer": "blashco",
+            "rating": 1,
+            "review_title": "horrible",
+            "quote": "Hey, I just saw the movie titled in the subject, here is my review. The SIxth Sense marked the debut of M. Night's fame and popularity....",
+            "engagement": 245,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 0,
+        "early_negative_pct": null,
+        "early_avg_rating": null,
+        "total_early_reviews": 0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": []
+      },
+      "pacing_risk": {
+        "risk_level": "HIGH",
+        "haters_with_wishes_pct": 21.2,
+        "interpretation": "Pacing issues detected. High percentage of haters expressing wishes (what they wanted but didn't get), suggesting film is too slow or doesn't deliver expected payoff.",
+        "mitigation": "Marketing must emphasize 'slow burn' nature upfront. Don't promise action/scares that aren't delivered. Target patient, atmosphere-focused horror fans. Consider re-edit if in post-production.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_strikefire83_20060723",
+            "reviewer": "strikefire83",
+            "rating": 1,
+            "review_title": "Pedantic, contrived exercise in tedium and boredom",
+            "quote": "As someone who loved The Sixth Sense and Signs, and who liked Unbreakable, I've got to say it's disappointing where Shyamalan seems to be taking his movies. Lady in the Water has none of those attributes. For one thing, it's boring, something none of his other movies were. Here we have a sloppily unstructured mess of a film filled to the brim with incoherent bedtime story \"mythology\" that changes from one minute to the next, so even if you try and follow the world of the story your efforts will only be met with frustration. The film's flaws are many, and as others have and will point them out with much more dexterity than me, I'll simply list the films greatest foibles....",
+            "engagement": 402,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "review_title": "M. Night Shyamalan makes his \"8 1/2\"",
+            "quote": "It's hard being M. Night Shyamalan. Year after year, his works of uncompromised genius are poorly received by theatergoers and film critics alike....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_blashco_20060721",
+            "reviewer": "blashco",
+            "rating": 1,
+            "review_title": "horrible",
+            "quote": "Hey, I just saw the movie titled in the subject, here is my review. The SIxth Sense marked the debut of M. Night's fame and popularity....",
+            "engagement": 245,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 4.7,
+        "disappointed_count": 15,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_wozza10_20060825",
+            "reviewer": "wozza10",
+            "rating": 1,
+            "review_title": "The audacity of the man",
+            "quote": "M Night Shyamalaan is an excellent film-maker. OK, the twist in The Village was obvious after minutes, but it was a film that did not deserve some of the lashings it received. But 'Lady In The Water' is a different story....",
+            "engagement": 153,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_brianwolters_20060723",
+            "reviewer": "brianwolters",
+            "rating": 2,
+            "review_title": "Shyamalan's Folly",
+            "quote": "I would first like to say that I am a huge M. Night Shyamalan fan. I didn't see Sixth Sense until it was on DVD and once I did, I was hooked....",
+            "engagement": 99,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_killanugz_20060729",
+            "reviewer": "killanugz",
+            "rating": 1,
+            "review_title": "No sir, I didn't like it!",
+            "quote": "This is my first time reviewing a movie, but I thought I had too because there is no way I can get the couple hours of my life back I wasted watching this movie. To me, the rest of my party, and apparently the entire audience, there was no point to this movie. I thought the general idea was good, but there was absolutely no plot to it....",
+            "engagement": 69,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.8614498644986455,
+        "male_avg_rating": 5.236111111111111,
+        "female_avg_rating": 6.097560975609756,
+        "gender_preference": "female",
+        "male_count": 216,
+        "female_count": 41,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_lady_in_the_water_strikefire83_20060723",
+            "reviewer": "strikefire83",
+            "rating": 1,
+            "review_title": "Pedantic, contrived exercise in tedium and boredom",
+            "quote": "As someone who loved The Sixth Sense and Signs, and who liked Unbreakable, I've got to say it's disappointing where Shyamalan seems to be taking his movies. Lady in the Water has none of those attributes. For one thing, it's boring, something none of his other movies were....",
+            "engagement": 402,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "review_title": "M. Night Shyamalan makes his \"8 1/2\"",
+            "quote": "It's hard being M. Night Shyamalan. Year after year, his works of uncompromised genius are poorly received by theatergoers and film critics alike....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_blashco_20060721",
+            "reviewer": "blashco",
+            "rating": 1,
+            "review_title": "horrible",
+            "quote": "Hey, I just saw the movie titled in the subject, here is my review. The SIxth Sense marked the debut of M. Night's fame and popularity....",
+            "engagement": 245,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "Lady In The Water",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 35,
+        "percentage": 11.0,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 26,
+          "female_count": 5,
+          "male_pct": 74.3,
+          "female_pct": 14.3,
+          "gender_coverage": 88.6
+        },
+        "characteristics": {
+          "avg_rating": 9.0,
+          "avg_reading_grade": 9.271428571428572,
+          "avg_engagement": 84.51428571428572,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 18,
+          "love_pct": 51.4,
+          "exclamations": 9,
+          "exclamation_pct": 25.7,
+          "high_engagement": 24,
+          "high_engagement_pct": 68.6
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "anticipation",
+            "trust",
+            "joy"
+          ],
+          "all_emotions": {
+            "joy": 0.11034236572411872,
+            "trust": 0.11611272480327635,
+            "fear": 0.054452012954411086,
+            "surprise": 0.08621536701184083,
+            "sadness": 0.05800638435803047,
+            "disgust": 0.03192538953576312,
+            "anger": 0.0498048262942948,
+            "anticipation": 0.12594416360610836
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Reddit r/TrueFilm community (active discussers)",
+          "YouTube film essayists (in-depth analysis)",
+          "Film Discord servers",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "High engagement - these are evangelists who drive word-of-mouth",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_lady_in_the_water_brrrian40_20060719",
+              "reviewer": "brrrian40",
+              "rating": 10,
+              "review_title": "Imagination = GOOD!",
+              "quote": "...It is so refreshing to see so much imagination back into the theatres! Lady in the Water is so different from any other movie choice out today and I think it is bold and creative of M Knight to bring his creativity to the big screen. Also, the concept of the entire movie taking place in one apartment complex is brilliant. Many different types of people are brought together by the \"Cove\" and of course by the mystical Lady. Paul Giamatti can add another classic into his resume as he works his way into being one of the best present day screen actors....",
+              "engagement": 537,
+              "matched_term": "brilliant"
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_truehorror29_20060717",
+              "reviewer": "TrueHorror29",
+              "rating": 8,
+              "review_title": "A good little original movie",
+              "quote": "This movie will surely earn its detractors due to its slow story telling. Todays audiences become bored the second something does not explode or die. This film isn't going to be a broad hit but instead it feels like a curious little independent film with big studio backing....",
+              "engagement": 447,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_glen_88_20060720",
+              "reviewer": "glen-88",
+              "rating": 8,
+              "review_title": "An unexpected fairy's tale.",
+              "quote": "...While it does have supernatural elements, its much more of, well, I guess a fairy tale. It's got some great scares but overall it will be enjoyed more if you know ahead of time your not going to be sitting on the edge of your seat. The theme of \"finding your purpose\" definitely is poignant in this day and age, I love all the self reflexive humor as far as story structure goes too. SFX were decent, not awe inspiring but good for what was required. The film is really about the characters though and their arcs....",
+              "engagement": 295,
+              "matched_term": "love"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_lady_in_the_water_brrrian40_20060719",
+              "reviewer": "brrrian40",
+              "rating": 10,
+              "review_title": "Imagination = GOOD!",
+              "quote": "Lady in the Water brings M Night back to the American pop culture spotlight, where he belongs! It is so refreshing to see so much imagination back into the theatres! Lady in the Water is so different from any other movie choice out today and I think it is bold and creative of M Knight to bring his creativity to the big screen....",
+              "engagement": 537,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_truehorror29_20060717",
+              "reviewer": "TrueHorror29",
+              "rating": 8,
+              "review_title": "A good little original movie",
+              "quote": "This movie will surely earn its detractors due to its slow story telling. Todays audiences become bored the second something does not explode or die. This film isn't going to be a broad hit but instead it feels like a curious little independent film with big studio backing....",
+              "engagement": 447,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_lady_in_the_water_theblackfedora_20060722",
+              "reviewer": "theblackfedora",
+              "rating": 10,
+              "review_title": "A story about Stories.",
+              "quote": "The lest said about the plot of the film the better. Not because it's bad because it's an imaginative one, and you should really go in having no idea what you're in store for. That's part of the point of the movie....",
+              "engagement": 193,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 109,
+        "percentage": 34.3,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 70,
+          "female_count": 17
+        },
+        "characteristics": {
+          "avg_rating": 7.568807339449541,
+          "avg_reading_grade": 7.24862385321101,
+          "avg_engagement": 36.25688073394495,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 99,
+        "percentage": 31.1,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.3838383838383839,
+          "avg_reading_grade": 7.661616161616161,
+          "complexity_barrier": false,
+          "wish_statement_pct": 21.2
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Expected mainstream horror with scares"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_lady_in_the_water_strikefire83_20060723",
+            "reviewer": "strikefire83",
+            "rating": 1,
+            "review_title": "Pedantic, contrived exercise in tedium and boredom",
+            "quote": "As someone who loved The Sixth Sense and Signs, and who liked Unbreakable, I've got to say it's disappointing where Shyamalan seems to be taking his movies. Lady in the Water has none of those attributes. For one thing, it's boring, something none of his other movies were. Here we have a sloppily unstructured mess of a film filled to the brim with incoherent bedtime story \"mythology\" that changes from one minute to the next, so even if you try and follow the world of the story your efforts will only be met with frustration. The film's flaws are many, and as others have and will point them out with much more dexterity than me, I'll simply list the films greatest foibles....",
+            "engagement": 402,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_medalforbenny515_20060721",
+            "reviewer": "medalforbenny515",
+            "rating": 2,
+            "review_title": "M. Night Shyamalan makes his \"8 1/2\"",
+            "quote": "It's hard being M. Night Shyamalan. Year after year, his works of uncompromised genius are poorly received by theatergoers and film critics alike....",
+            "engagement": 263,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_lady_in_the_water_blashco_20060721",
+            "reviewer": "blashco",
+            "rating": 1,
+            "review_title": "horrible",
+            "quote": "Hey, I just saw the movie titled in the subject, here is my review. The SIxth Sense marked the debut of M. Night's fame and popularity....",
+            "engagement": 245,
+            "matched_term": null
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "suspenseful"
+        ],
+        "avoid": [
+          "Promising jump scares or action that isn't delivered"
+        ]
+      }
+    }
+  }
+}

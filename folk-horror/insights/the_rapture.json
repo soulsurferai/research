@@ -1,0 +1,864 @@
+{
+  "movie": "The Rapture",
+  "analysis_date": "2025-10-21T12:57:23.508190",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "The Rapture",
+      "total_reviews": 90,
+      "rating_distribution": {
+        "1": 13,
+        "2": 4,
+        "3": 3,
+        "4": 7,
+        "5": 6,
+        "6": 6,
+        "7": 12,
+        "8": 6,
+        "9": 9,
+        "10": 24
+      },
+      "avg_rating": 6.411111111111111,
+      "rating_variance": 10.51448189762796,
+      "rating_segments": {
+        "lovers_8_10": 39,
+        "lovers_pct": 43.3,
+        "mixed_4_7": 31,
+        "mixed_pct": 34.4,
+        "haters_1_3": 20,
+        "haters_pct": 22.2
+      },
+      "gender_breakdown": {
+        "male": 55,
+        "female": 12,
+        "unknown": 23,
+        "coverage_pct": 74.4
+      },
+      "temporal_segments": {
+        "5+ Years": 90
+      },
+      "engagement": {
+        "reviews_with_votes": 89,
+        "engagement_pct": 98.9,
+        "avg_votes_per_review": 12.444444444444445,
+        "avg_helpfulness_ratio": 0.453418313574069
+      }
+    },
+    "what_resonated": {
+      "movie": "The Rapture",
+      "total_lovers": 39,
+      "lovers_pct_of_all_reviews": 43.3,
+      "gender_segmentation": {
+        "male": 24,
+        "male_pct": 61.5,
+        "female": 5,
+        "female_pct": 12.8,
+        "unknown": 10
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.08999802027934871,
+          "trust": 0.15228190311548254,
+          "fear": 0.057054469923749775,
+          "surprise": 0.03640775293650121,
+          "sadness": 0.06892468874681167,
+          "disgust": 0.03839065431767112,
+          "anger": 0.05533772138463195,
+          "anticipation": 0.10527298726815008
+        },
+        "male_lovers": {
+          "joy": 0.08472336076590122,
+          "trust": 0.14295430996719596,
+          "fear": 0.058412511759029756,
+          "surprise": 0.03821809867658084,
+          "sadness": 0.08438210266900971,
+          "disgust": 0.0433600671246534,
+          "anger": 0.0589087165159606,
+          "anticipation": 0.11137232754684884
+        },
+        "female_lovers": {
+          "joy": 0.10608831404147198,
+          "trust": 0.13869230535633845,
+          "fear": 0.07836791865532267,
+          "surprise": 0.05399743393781724,
+          "sadness": 0.07621746238213571,
+          "disgust": 0.03887825629241972,
+          "anger": 0.06790398777197978,
+          "anticipation": 0.1139406313423997
+        }
+      },
+      "love_statements": {
+        "count": 4,
+        "percentage": 10.3,
+        "quotes": [
+          {
+            "review_id": "imdb_the_rapture_kinglet_20050208",
+            "reviewer": "kinglet",
+            "rating": 9,
+            "content": "I only made an effort to see it because Roger Ebert paid it some special attention in his review, and I'm glad I did.",
+            "engagement": 80
+          },
+          {
+            "review_id": "imdb_the_rapture_kirasjeri_19990730",
+            "reviewer": "Kirasjeri",
+            "rating": 8,
+            "content": "It is unfortunate that there are those who post reviews who seem to simplify this very good movie to backup their own apparent anti-religious feelings.",
+            "engagement": 13
+          },
+          {
+            "review_id": "imdb_the_rapture_michelleatx_20040613",
+            "reviewer": "MichelleATX",
+            "rating": 8,
+            "content": "Yeah, the acting isn't the best, but I loved the storyline in this.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_rapture_witster18_20071214",
+            "reviewer": "witster18",
+            "rating": 8,
+            "content": "I love this one....a definite out-of-print, no DVD collection piece.",
+            "engagement": 4
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 68.34358974358975,
+        "avg_grade_level": 8.26923076923077,
+        "avg_first_person_ratio": 1.8480779890233976,
+        "avg_exclamations": 1.0
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 16,
+        "comparison_pct": 41.0
+      }
+    },
+    "what_didnt_work": {
+      "movie": "The Rapture",
+      "total_haters": 20,
+      "haters_pct_of_all_reviews": 22.2,
+      "gender_segmentation": {
+        "male": 7,
+        "male_pct": 35.0,
+        "female": 4,
+        "female_pct": 20.0,
+        "unknown": 9
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.07798189596669788,
+          "disgust": 0.06877376322376458,
+          "sadness": 0.08082325739032122,
+          "fear": 0.0773571684528789
+        },
+        "male_haters": {
+          "anger": 0.07953605133498187,
+          "disgust": 0.044375572241376386,
+          "sadness": 0.0715253394727303,
+          "fear": 0.07579344211094666
+        },
+        "female_haters": {
+          "anger": 0.03230251071647273,
+          "disgust": 0.026867728107777072,
+          "sadness": 0.10567207593386402,
+          "fear": 0.04971252636592498
+        }
+      },
+      "hate_statements": {
+        "count": 0,
+        "percentage": 0.0,
+        "quotes": []
+      },
+      "wish_statements": {
+        "count": 1,
+        "percentage": 5.0,
+        "quotes": [
+          {
+            "review_id": "imdb_the_rapture_pastoredward_1_20070102",
+            "reviewer": "pastoredward-1",
+            "rating": 1,
+            "content": "I do appreciate the message that God will accept anyone who repents, but I wish there had been more example of Christians who are not demented.",
+            "engagement": 25
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 8,
+        "comparison_pct": 40.0,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 65.22899999999998,
+        "avg_grade_level": 8.99,
+        "avg_exclamations": 0.4,
+        "avg_caps_words": 0.4,
+        "reviews_with_questions": 7,
+        "question_pct": 35.0
+      }
+    },
+    "polarization": {
+      "movie": "The Rapture",
+      "polarization_metrics": {
+        "level": "MODERATELY_POLARIZING",
+        "rating_variance": 10.51448189762796,
+        "rating_std_dev": 3.242604184544879,
+        "middle_ground_pct": 34.4,
+        "lovers_pct": 43.3,
+        "haters_pct": 22.2
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "disgust",
+            {
+              "lovers_score": 0.03839065431767112,
+              "haters_score": 0.06877376322376458,
+              "divergence": 0.030383108906093456
+            }
+          ],
+          [
+            "trust",
+            {
+              "lovers_score": 0.15228190311548254,
+              "haters_score": 0.12531505413084632,
+              "divergence": 0.02696684898463622
+            }
+          ],
+          [
+            "anger",
+            {
+              "lovers_score": 0.05533772138463195,
+              "haters_score": 0.07798189596669788,
+              "divergence": 0.022644174582065933
+            }
+          ],
+          [
+            "fear",
+            {
+              "lovers_score": 0.057054469923749775,
+              "haters_score": 0.0773571684528789,
+              "divergence": 0.02030269852912913
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.08999802027934871,
+              "haters_score": 0.07335305872550119,
+              "divergence": 0.016644961553847523
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.08999802027934871,
+            "haters_score": 0.07335305872550119,
+            "divergence": 0.016644961553847523
+          },
+          "trust": {
+            "lovers_score": 0.15228190311548254,
+            "haters_score": 0.12531505413084632,
+            "divergence": 0.02696684898463622
+          },
+          "fear": {
+            "lovers_score": 0.057054469923749775,
+            "haters_score": 0.0773571684528789,
+            "divergence": 0.02030269852912913
+          },
+          "surprise": {
+            "lovers_score": 0.03640775293650121,
+            "haters_score": 0.03513608833175203,
+            "divergence": 0.00127166460474918
+          },
+          "sadness": {
+            "lovers_score": 0.06892468874681167,
+            "haters_score": 0.08082325739032122,
+            "divergence": 0.01189856864350955
+          },
+          "disgust": {
+            "lovers_score": 0.03839065431767112,
+            "haters_score": 0.06877376322376458,
+            "divergence": 0.030383108906093456
+          },
+          "anger": {
+            "lovers_score": 0.05533772138463195,
+            "haters_score": 0.07798189596669788,
+            "divergence": 0.022644174582065933
+          },
+          "anticipation": {
+            "lovers_score": 0.10527298726815008,
+            "haters_score": 0.09718596320214959,
+            "divergence": 0.008087024066000495
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 68.34358974358975,
+          "haters": 65.22899999999998,
+          "difference": -3.114589743589761
+        },
+        "grade_level": {
+          "lovers": 8.26923076923077,
+          "haters": 8.99,
+          "difference": 0.7207692307692302
+        },
+        "first_person_usage": {
+          "lovers": 1.8480779890233976,
+          "haters": 2.05912477287455,
+          "difference": 0.21104678385115228
+        },
+        "exclamations": {
+          "lovers": 1.0,
+          "haters": 0.4,
+          "difference": -0.6
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 12.102564102564102,
+        "haters_avg_votes": 20.45,
+        "lovers_vote_polarization": 5.17948717948718,
+        "haters_vote_polarization": 4.45
+      },
+      "temporal_polarization": {
+        "early_avg_rating": null,
+        "late_avg_rating": 6.411111111111111,
+        "temporal_shift": null,
+        "shift_direction": "stable"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 6.909090909090909,
+        "female_avg_rating": 5.666666666666667,
+        "gender_rating_gap": 1.2424242424242422,
+        "gap_significance": "significant"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 41.0,
+        "haters_use_comparisons_pct": 40.0,
+        "comparison_gap": 1.025641025641022
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "The Rapture",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 3,
+          "percentage": 7.7,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_rapture_hippiedj_20001225",
+              "reviewer": "hippiedj",
+              "rating": 10,
+              "content": "The Current DVD cover unfortunately makes it look like a religious family film...a big mistake.",
+              "engagement": 38
+            },
+            {
+              "review_id": "imdb_the_rapture_michelleatx_20040613",
+              "reviewer": "MichelleATX",
+              "rating": 8,
+              "content": "I wish this film was available on DVD.",
+              "engagement": 11
+            },
+            {
+              "review_id": "imdb_the_rapture_mlraymond_20061201",
+              "reviewer": "mlraymond",
+              "rating": 9,
+              "content": "Too strange for a lot of people, but definitely worth seeing, if only for Rodgers' remarkable performance.",
+              "engagement": 4
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 1,
+          "percentage": 5.0,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_the_rapture_pastoredward_1_20070102",
+              "reviewer": "pastoredward-1",
+              "rating": 1,
+              "content": "I do appreciate the message that God will accept anyone who repents, but I wish there had been more example of Christians who are not demented.",
+              "engagement": 25
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 35.9,
+          "haters_with_questions_pct": 35.0
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": null,
+          "avg_vader_compound": null,
+          "hate_statement_pct": null,
+          "wish_statement_pct": null
+        },
+        "late_reviews": {
+          "avg_rating": 6.411111111111111,
+          "avg_vader_compound": 0.28633555555555557,
+          "hate_statement_pct": 0.0,
+          "wish_statement_pct": 11.1
+        },
+        "rating_shift": null,
+        "interpretation": "unknown"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 41.0,
+        "haters_pct": 40.0,
+        "gap": 1.0
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.47018205128205126,
+        "haters_vader": 0.046525000000000004,
+        "sentiment_gap": 0.4236570512820513
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 5.6,
+        "disappointed_count": 5,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_the_rapture_pastoredward_1_20070102",
+            "reviewer": "pastoredward-1",
+            "rating": 1,
+            "content": "I do appreciate the message that God will accept anyone who repents, but I wish there had been more example of Christians who are not demented.",
+            "engagement": 25
+          },
+          {
+            "review_id": "imdb_the_rapture_wolfie_8_19990123",
+            "reviewer": "wolfie-8",
+            "rating": 5,
+            "content": "Unfortunately, his acting is annoyingly stiff and dead-pan. ||| Unfortunately, the film doesn't get any better from there on.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_the_rapture_benign_man_20051225",
+            "reviewer": "benign_man",
+            "rating": 5,
+            "content": "But there can be no proper moral conclusions because sadly the film just prior to this point is damaged by the theological error I mentioned earlier.God loves us you see,and isn't looking for reasons to damn us to hell.He sent His only Son to die on the cross for us for our salvation.He would never therefore test us to the point where we would break and lose our soul.Only to the point that we would understand some things and be saved.And here lies the error of this interesting film. ||| The belief of whether one should endure God's test or accept it,comes from deep,real faith.And we must have faith on Him who suffered for our sake.The film has interesting performances,is well made,but unfortunately,it is flawed.",
+            "engagement": 5
+          },
+          {
+            "review_id": "imdb_the_rapture_jboothmillard_20180427",
+            "reviewer": "jboothmillard",
+            "rating": 5,
+            "content": "I found this movie listed in the book 1001 Movies You Must See Before You Die, I liked the sound of the title, and when I read more about it the plot sounded interesting, so I hoped it would be a deserved book entry, the directorial debut of writer Michael Tolkin (The Player, Deep Impact).",
+            "engagement": 4
+          },
+          {
+            "review_id": "imdb_the_rapture_galvestonsteve_20230719",
+            "reviewer": "galvestonsteve",
+            "rating": 4,
+            "content": "I wish the director had made more of an effort to show that these supposedly \"saved\" individuals were extremely dangerous religious lunatics who might be living next to you and I.",
+            "engagement": 2
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "The Rapture",
+      "overall_risk_assessment": {
+        "risk_level": "LOW",
+        "risk_score": 1.0,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "MODERATE",
+        "avg_fear": 0.06736571001429881,
+        "avg_disgust": 0.04835557240133876,
+        "hate_review_pct": 22.2,
+        "intensity_score": 1,
+        "interpretation": "Moderate intensity that may polarize. Some audiences will find it too much.",
+        "mitigation": "Clear genre positioning in marketing. Avoid misleading trailers that suggest lighter tone.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_rapture_sftblr1_20060818",
+            "reviewer": "sftblr1",
+            "rating": 1,
+            "review_title": "Are you kidding me",
+            "quote": "I don't know how anyone could possibly think this was a good movie. The acting was terrible, the plot was worse than the acting and the subject was a joke. People are as over zealous about their beliefs as the title character, but to make a \"B\" movie about it is ludicrous....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_tamin8r_20060409",
+            "reviewer": "tamin8r",
+            "rating": 1,
+            "review_title": "A Very Bad Movie",
+            "quote": "...It's fun to see talented actors we recognize reading stilted, embarrassing dialogue, but you can't really take any of it seriously, can you? And Rogers' wild-eyed yet vacuous character is disturbingly hilarious, but sensitive and moving??",
+            "engagement": 39,
+            "matched_term": "disturbing"
+          },
+          {
+            "review_id": "imdb_the_rapture_david.richmond_20010211",
+            "reviewer": "david.richmond",
+            "rating": 1,
+            "review_title": "Unredeemable",
+            "quote": "I think the unintended moral of this film may be, don't blame GOD for making stupid choices based upon erroneous assumptions. Otherwise, The Rapture is so confused in its depiction of Christianity as to render it's \"message\" irrelevent and greatly overpraised. Anyone who thinks this movie somehow makes an \"important\" statement about so-called Christian Fundamentalism has apparently never heard of a straw man argument....",
+            "engagement": 35,
+            "matched_term": null
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "LOW",
+        "haters_reading_ease": 65.22899999999998,
+        "lovers_reading_ease": 68.34358974358975,
+        "complexity_gap": -3.114589743589761,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_rapture_sftblr1_20060818",
+            "reviewer": "sftblr1",
+            "rating": 1,
+            "review_title": "Are you kidding me",
+            "quote": "I don't know how anyone could possibly think this was a good movie. The acting was terrible, the plot was worse than the acting and the subject was a joke. People are as over zealous about their beliefs as the title character, but to make a \"B\" movie about it is ludicrous....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_tamin8r_20060409",
+            "reviewer": "tamin8r",
+            "rating": 1,
+            "review_title": "A Very Bad Movie",
+            "quote": "I cannot believe what I am reading here. I could never have expected such an amount of serious exposition for such a rotten film. I honestly thought that religious folks would find it insulting....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_david.richmond_20010211",
+            "reviewer": "david.richmond",
+            "rating": 1,
+            "review_title": "Unredeemable",
+            "quote": "I think the unintended moral of this film may be, don't blame GOD for making stupid choices based upon erroneous assumptions. Otherwise, The Rapture is so confused in its depiction of Christianity as to render it's \"message\" irrelevent and greatly overpraised. Anyone who thinks this movie somehow makes an \"important\" statement about so-called Christian Fundamentalism has apparently never heard of a straw man argument....",
+            "engagement": 35,
+            "matched_term": null
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 0,
+        "early_negative_pct": null,
+        "early_avg_rating": null,
+        "total_early_reviews": 0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": []
+      },
+      "pacing_risk": {
+        "risk_level": "LOW",
+        "haters_with_wishes_pct": 5.0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_rapture_sftblr1_20060818",
+            "reviewer": "sftblr1",
+            "rating": 1,
+            "review_title": "Are you kidding me",
+            "quote": "I don't know how anyone could possibly think this was a good movie. The acting was terrible, the plot was worse than the acting and the subject was a joke. People are as over zealous about their beliefs as the title character, but to make a \"B\" movie about it is ludicrous....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_tamin8r_20060409",
+            "reviewer": "tamin8r",
+            "rating": 1,
+            "review_title": "A Very Bad Movie",
+            "quote": "I cannot believe what I am reading here. I could never have expected such an amount of serious exposition for such a rotten film. I honestly thought that religious folks would find it insulting....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_david.richmond_20010211",
+            "reviewer": "david.richmond",
+            "rating": 1,
+            "review_title": "Unredeemable",
+            "quote": "I think the unintended moral of this film may be, don't blame GOD for making stupid choices based upon erroneous assumptions. Otherwise, The Rapture is so confused in its depiction of Christianity as to render it's \"message\" irrelevent and greatly overpraised. Anyone who thinks this movie somehow makes an \"important\" statement about so-called Christian Fundamentalism has apparently never heard of a straw man argument....",
+            "engagement": 35,
+            "matched_term": null
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 2.2,
+        "disappointed_count": 2,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_rapture_jboothmillard_20180427",
+            "reviewer": "jboothmillard",
+            "rating": 5,
+            "review_title": "The Rapture",
+            "quote": "I found this movie listed in the book 1001 Movies You Must See Before You Die, I liked the sound of the title, and when I read more about it the plot sounded interesting, so I hoped it would be a deserved book entry, the directorial debut of writer Michael Tolkin (The Player, Deep Impact). Basically in Los Angeles, Sharon (Mimi Rogers) is a young woman who works a very boring job as a telephone operator, in her spare time she cruises bars and engages in swinging, along with her boyfriend Randy (David Duchovny). One day, Sharon has a knock on the door from a pair of evangelists, she lets them in, they preach God to her and warn her that the Rapture is coming....",
+            "engagement": 4,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_galvestonsteve_20230719",
+            "reviewer": "galvestonsteve",
+            "rating": 4,
+            "review_title": "Good luck with this one.",
+            "quote": "I truly wish I hadn't seen this film. I kept waiting for some sort of resolution that might make sense of what I was seeing, but it never happened. The director did a very poor job of telling his story, although the actors were fine (for the most part)....",
+            "engagement": 2,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "MODERATE",
+        "gender_gap": 1.2424242424242422,
+        "male_avg_rating": 6.909090909090909,
+        "female_avg_rating": 5.666666666666667,
+        "gender_preference": "male",
+        "male_count": 55,
+        "female_count": 12,
+        "interpretation": "Moderate gender gap. Male audiences prefer it somewhat.",
+        "mitigation": "Consider gender-specific marketing angles for different platforms.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_the_rapture_grace333_20061004",
+            "reviewer": "Grace333",
+            "rating": 1,
+            "review_title": "Don't waste your time watching this movie",
+            "quote": "This is a horrible movie, not only because it is a dark movie about God written like a horror flick, but also because it does not in the end portray the truth about God and the truth about His free gift of salvation (Romans 6:23, Colossians 2:14, 1st Corinthians 15:1-6, John 1:12, Ephesians 2:8-9). In the ending where Sharon and the Sheriff got to choose whether or not they want to go to Heaven or Hell just by saying they love God is simply not true at all. The only way that anyone can be saved and get to Heaven is to choose to believe in Christ and have faith alone in Him alone (Acts 16:31, John 3:15-18)....",
+            "engagement": 33,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_kimberly_ann_20080322",
+            "reviewer": "kimberly_ann",
+            "rating": 2,
+            "review_title": "",
+            "quote": "It had all the potential, but ultimately a disappointing",
+            "engagement": 28,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_maisannes_20020713",
+            "reviewer": "maisannes",
+            "rating": 3,
+            "review_title": "Read a book instead",
+            "quote": "Michael Tolkin should have written a book instead. Ever better, you should read a book instead of watching this movie. What's next: a dramatization of Hume's Dialogues Concerning Natural Religion?...",
+            "engagement": 15,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "The Rapture",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 13,
+        "percentage": 14.4,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": false,
+        "scalability_note": "WARNING: Small sample - may be too niche",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 7,
+          "female_count": 4,
+          "male_pct": 53.8,
+          "female_pct": 30.8,
+          "gender_coverage": 84.6
+        },
+        "characteristics": {
+          "avg_rating": 9.23076923076923,
+          "avg_reading_grade": 9.315384615384614,
+          "avg_engagement": 23.615384615384617,
+          "sophistication_level": "Moderate"
+        },
+        "passion_indicators": {
+          "love_statements": 3,
+          "love_pct": 23.1,
+          "exclamations": 9,
+          "exclamation_pct": 69.2,
+          "high_engagement": 4,
+          "high_engagement_pct": 30.8
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "trust",
+            "anticipation",
+            "sadness"
+          ],
+          "all_emotions": {
+            "joy": 0.08673763983365856,
+            "trust": 0.1491298056891395,
+            "fear": 0.06520138532375862,
+            "surprise": 0.044657907403560446,
+            "sadness": 0.09751484513760698,
+            "disgust": 0.03597670408622032,
+            "anger": 0.061426930834949836,
+            "anticipation": 0.12499056136880256
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "A24/Neon social media followers",
+          "Letterboxd users rating similar films 7+",
+          "Film podcast listeners (The Big Picture, Blank Check)",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "Moderate sophistication - indie film audience",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_the_rapture_kinglet_20050208",
+              "reviewer": "kinglet",
+              "rating": 9,
+              "review_title": "The pride of perfect conviction",
+              "quote": "...The sin of pride born of absolute certainty is Mimi Rogers real co-star. Rogers is so effective here because her zealotry is low-key. She is soft spoken and serene, a lovely woman. Only gradually do we see how deep rooted is her need to understand God in her own way and how convinced she is that she's doing it absolutely the right way. Movies never, ever take a certain type of religious conversion all the way to such a logical conclusion....",
+              "engagement": 80,
+              "matched_term": "love"
+            },
+            {
+              "review_id": "imdb_the_rapture_mombasa_pete_20061224",
+              "reviewer": "mombasa_pete",
+              "rating": 10,
+              "review_title": "You people need to understand this film better.",
+              "quote": "The final scenes which show the end of the world and the apocalypse and the passing of all the biblical prophecies (the four horsemen, the trumpets etc) are NOT hallucinatory. They are supposed to be real not inside the main character's head. Look at the way they are depicted, she is in a police station, and the people around her react to these things, another woman prisoner begins singing \"hark the herald angel\", the bars fall magically off the cell doors, the TV that is on starts showing the 4 horsemen and angelic figures, and we hear the sound of the trumpet and see everyone: the sheriffs, the prisoners reacting to this....",
+              "engagement": 60,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_rapture_kbnewton_20000623",
+              "reviewer": "kbnewton",
+              "rating": 8,
+              "review_title": "Complicated and uncompromising -- possibly Mimi Rogers' finest performance.",
+              "quote": "A haunting movie -- one that lingers in the mind (and the heart) for a long time afterwards. Mimi Rogers turns in a stunning performance as a woman trapped in a cycle of dull work and duller play, whose life is transformed twice -- first by a religious conversion, and then by coming face to face with the literal meaning of that conversion. She is incandescent in her belief, and in the movie's final scenes, takes on the epic proportions of a Job or King Lear....",
+              "engagement": 54,
+              "matched_term": null
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_the_rapture_hippiedj_20001225",
+              "reviewer": "hippiedj",
+              "rating": 10,
+              "review_title": "A very important film, tense and extremely original",
+              "quote": "Before my praises for The Rapture, first a scolding at New Line Cinema. SHAME, SHAME, SHAME on you for marketing the home video of this very important film as if it were a soft-core sex romp. The original artwork for the film captured its essence very well (the soundtrack on CD has the original artwork), but the VHS video box cover on the front shows Mimi Rogers looking like she had the biggest...well, you know...sexual thrill of her life....",
+              "engagement": 38,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_rapture_paulbenjamin_20040529",
+              "reviewer": "paulbenjamin",
+              "rating": 10,
+              "review_title": "One-of-a-kind film with an unforgettable ending...",
+              "quote": "Of all topics touched on in modern film, religious faith and spiritual experience is rarely examined. Those rare instances where it is, it is usually handled in a dogmatic way, either to promote a particular brand of religion (i.e. the Billy Graham evangelistic movies or Mel Gibson's brutal Passion of the Christ) or sometimes to ridicule or parody it (The Life of Brian, But I'm a Cheerleader!, or more recently, Saved!) Michael Tolkin's complex, enigmatic story takes it seriously; but at the same time, raises important and intelligent questions that every person who has seriously considered or questioned their religious belief must at one point or another examine......",
+              "engagement": 13,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_the_rapture_kirasjeri_19990730",
+              "reviewer": "Kirasjeri",
+              "rating": 8,
+              "review_title": "A complex and excellent film",
+              "quote": "It is unfortunate that there are those who post reviews who seem to simplify this very good movie to backup their own apparent anti-religious feelings. It is more complex than that, and centers around a lost libertine of a woman who finds a Fundamentalist faith (still a minority of the Christian world) - but then through her OWN excess of tempermant and emotion takes drastic actions and loses her faith. IT WAS HER OWN DOING....",
+              "engagement": 13,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 38,
+        "percentage": 42.2,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 29,
+          "female_count": 1
+        },
+        "characteristics": {
+          "avg_rating": 8.763157894736842,
+          "avg_reading_grade": 7.597368421052631,
+          "avg_engagement": 6.105263157894737,
+          "sophistication_level": "Standard"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 20,
+        "percentage": 22.2,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.5,
+          "avg_reading_grade": 8.99,
+          "complexity_barrier": false,
+          "wish_statement_pct": 5.0
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Film too slow/complex"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_the_rapture_sftblr1_20060818",
+            "reviewer": "sftblr1",
+            "rating": 1,
+            "review_title": "Are you kidding me",
+            "quote": "I don't know how anyone could possibly think this was a good movie. The acting was terrible, the plot was worse than the acting and the subject was a joke. People are as over zealous about their beliefs as the title character, but to make a \"B\" movie about it is ludicrous....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_tamin8r_20060409",
+            "reviewer": "tamin8r",
+            "rating": 1,
+            "review_title": "A Very Bad Movie",
+            "quote": "I cannot believe what I am reading here. I could never have expected such an amount of serious exposition for such a rotten film. I honestly thought that religious folks would find it insulting....",
+            "engagement": 39,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_the_rapture_david.richmond_20010211",
+            "reviewer": "david.richmond",
+            "rating": 1,
+            "review_title": "Unredeemable",
+            "quote": "I think the unintended moral of this film may be, don't blame GOD for making stupid choices based upon erroneous assumptions. Otherwise, The Rapture is so confused in its depiction of Christianity as to render it's \"message\" irrelevent and greatly overpraised. Anyone who thinks this movie somehow makes an \"important\" statement about so-called Christian Fundamentalism has apparently never heard of a straw man argument....",
+            "engagement": 35,
+            "matched_term": null
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "suspenseful",
+          "emotional depth"
+        ],
+        "avoid": []
+      }
+    }
+  }
+}

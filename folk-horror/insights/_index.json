@@ -1,0 +1,46 @@
+{
+  "export_date": "2025-10-21T12:57:23.480869",
+  "total_movies": 10,
+  "movies": {
+    "The Rapture": {
+      "status": "success",
+      "filepath": "the_rapture.json"
+    },
+    "Midsommar": {
+      "status": "success",
+      "filepath": "midsommar.json"
+    },
+    "The Witch": {
+      "status": "success",
+      "filepath": "the_witch.json"
+    },
+    "Angel Heart": {
+      "status": "success",
+      "filepath": "angel_heart.json"
+    },
+    "Lady In The Water": {
+      "status": "success",
+      "filepath": "lady_in_the_water.json"
+    },
+    "The Endless": {
+      "status": "success",
+      "filepath": "the_endless.json"
+    },
+    "The Watchers": {
+      "status": "success",
+      "filepath": "the_watchers.json"
+    },
+    "The Wailing": {
+      "status": "success",
+      "filepath": "the_wailing.json"
+    },
+    "Hereditary": {
+      "status": "success",
+      "filepath": "hereditary.json"
+    },
+    "The Ritual": {
+      "status": "success",
+      "filepath": "the_ritual.json"
+    }
+  }
+}

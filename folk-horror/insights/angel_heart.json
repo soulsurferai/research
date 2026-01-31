@@ -1,0 +1,913 @@
+{
+  "movie": "Angel Heart",
+  "analysis_date": "2025-10-21T12:57:24.530131",
+  "modules": {
+    "audience_breakdown": {
+      "movie": "Angel Heart",
+      "total_reviews": 281,
+      "rating_distribution": {
+        "1": 6,
+        "2": 2,
+        "3": 4,
+        "4": 10,
+        "5": 14,
+        "6": 24,
+        "7": 30,
+        "8": 61,
+        "9": 55,
+        "10": 75
+      },
+      "avg_rating": 7.896797153024911,
+      "rating_variance": 4.392882562277571,
+      "rating_segments": {
+        "lovers_8_10": 191,
+        "lovers_pct": 68.0,
+        "mixed_4_7": 78,
+        "mixed_pct": 27.8,
+        "haters_1_3": 12,
+        "haters_pct": 4.3
+      },
+      "gender_breakdown": {
+        "male": 188,
+        "female": 33,
+        "unknown": 60,
+        "coverage_pct": 78.6
+      },
+      "temporal_segments": {
+        "5+ Years": 281
+      },
+      "engagement": {
+        "reviews_with_votes": 262,
+        "engagement_pct": 93.2,
+        "avg_votes_per_review": 13.067615658362989,
+        "avg_helpfulness_ratio": 0.49777313193640954
+      }
+    },
+    "what_resonated": {
+      "movie": "Angel Heart",
+      "total_lovers": 191,
+      "lovers_pct_of_all_reviews": 68.0,
+      "gender_segmentation": {
+        "male": 126,
+        "male_pct": 66.0,
+        "female": 21,
+        "female_pct": 11.0,
+        "unknown": 44
+      },
+      "emotion_profiles": {
+        "all_lovers": {
+          "joy": 0.09083871074660581,
+          "trust": 0.09937329267543518,
+          "fear": 0.09712044259268464,
+          "surprise": 0.06666540079378033,
+          "sadness": 0.07743826425131778,
+          "disgust": 0.051351933024033104,
+          "anger": 0.05785828169224724,
+          "anticipation": 0.11752736523405584
+        },
+        "male_lovers": {
+          "joy": 0.08918272180621926,
+          "trust": 0.09830717340101004,
+          "fear": 0.09832847621446084,
+          "surprise": 0.06838917899312262,
+          "sadness": 0.07477270055478755,
+          "disgust": 0.0530531339937006,
+          "anger": 0.05713126374428643,
+          "anticipation": 0.11863418754044142
+        },
+        "female_lovers": {
+          "joy": 0.10316187485625103,
+          "trust": 0.09641897817447084,
+          "fear": 0.08818238041982537,
+          "surprise": 0.0594232218545735,
+          "sadness": 0.0880308144238514,
+          "disgust": 0.04083077793264622,
+          "anger": 0.04823233457057871,
+          "anticipation": 0.10079103059894964
+        }
+      },
+      "love_statements": {
+        "count": 35,
+        "percentage": 18.3,
+        "quotes": [
+          {
+            "review_id": "imdb_angel_heart_coventry_20040731",
+            "reviewer": "Coventry",
+            "rating": 8,
+            "content": "All in one, Angel Heart is a very good film that'll be appreciated by thriller fans and the admirer of slightly more intelligent horror.",
+            "engagement": 91
+          },
+          {
+            "review_id": "imdb_angel_heart_luke_346_20071206",
+            "reviewer": "luke-346",
+            "rating": 8,
+            "content": "I'm glad I caught this because what was seen by many as a poor film in 1987 can only be seen as great film in 2007.",
+            "engagement": 86
+          },
+          {
+            "review_id": "imdb_angel_heart_ccthemovieman_1_20070120",
+            "reviewer": "ccthemovieman-1",
+            "rating": 8,
+            "content": "There is very good cinematography and camera-work in here, made even better by the special edition DVD transfer. ||| There are no really good-guy characters in this film. ||| Overall, a sleazy but very intriguing story, with great atmosphere, that I enjoy watching every five years or so.",
+            "engagement": 70
+          },
+          {
+            "review_id": "imdb_angel_heart_markmartin2305_20090320",
+            "reviewer": "markmartin2305",
+            "rating": 10,
+            "content": "So many fine reviews of this film and so good to see that the appreciation of what makes it great, runs so deep.",
+            "engagement": 27
+          },
+          {
+            "review_id": "imdb_angel_heart_ianlouisiana_20081010",
+            "reviewer": "ianlouisiana",
+            "rating": 9,
+            "content": "Mr Rourke is so good that one can only speculate that had his career not hit the bumpers early on,Mr Bruce Willis might not have cornered the market in the dirty vest and glistening torso segment.",
+            "engagement": 11
+          },
+          {
+            "review_id": "imdb_angel_heart_stallone_9_20080922",
+            "reviewer": "stallone-9",
+            "rating": 10,
+            "content": "Recently I re-watched Angel Heart and now I appreciate this absolute masterpiece more than ever.Rarely can a movie \"scare you to your very soul\" but this film is an exception.There's not a single bad actor and the story is quite intense and interesting.For this film alone Mickey Rourke should be considered one of the greatest actors of his generation because the performance he delivers here is outstanding.You can feel every line and every mimic he does.By the end of the film he already establishes himself as a professional who expertly portrays his character's torment and fear.Robert De Niro is of course superb as ever and with a chilling performance expertly portrays a man with a very dark secret.The plot is beyond interesting and the viewer is grabbed from the start and is sucked into the story almost becoming a part of it.As the film keeps going the questions become more and more till everything comes into place in the shocking and absolutely surprising finale which will surely shock and scare you to the extreme.Overall this is truly one of the greatest films I've ever had the pleasure of seeing and I absolutely advise everyone to watch it and experience the terror.",
+            "engagement": 8
+          },
+          {
+            "review_id": "imdb_angel_heart_g_bodyl_20140512",
+            "reviewer": "g-bodyl",
+            "rating": 9,
+            "content": "The acting is really good. ||| Mickey Rourke, who makes a living playing such unclean rag-tag characters, is really good as the private detective, Harry Angel. ||| Robert De Niro, who gets top billing, but does not have many lines, but he still is very good.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_angel_heart_padawandoug_20030226",
+            "reviewer": "padawandoug",
+            "rating": 10,
+            "content": "First of all, it is great, and I hope you reading this will side with the large number of positive reviews and see this movie. ||| Perhaps not as \"great\" as \"Angel Heart,\" but still really good)!",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_angel_heart_lechuguilla_20130629",
+            "reviewer": "Lechuguilla",
+            "rating": 8,
+            "content": "In the role of Harry Angel, former boxer Mickey Rourke gives a really good performance, physical and spontaneous.",
+            "engagement": 6
+          },
+          {
+            "review_id": "imdb_angel_heart_spacemonkey_fg_20050302",
+            "reviewer": "spacemonkey_fg",
+            "rating": 10,
+            "content": "I was impressed by the look and feel of the movie which is one of its strongest assets. ||| As you can see I absolutely loved the visual aspect of this film. ||| Basically, this movie took me by surprise and I enjoyed every second of it.",
+            "engagement": 5
+          }
+        ]
+      },
+      "writing_style": {
+        "profile": "emotional/personal",
+        "avg_reading_ease": 68.70324607329843,
+        "avg_grade_level": 8.487958115183245,
+        "avg_first_person_ratio": 1.9554517407373717,
+        "avg_exclamations": 0.6282722513089005
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 91,
+        "comparison_pct": 47.6
+      }
+    },
+    "what_didnt_work": {
+      "movie": "Angel Heart",
+      "total_haters": 12,
+      "haters_pct_of_all_reviews": 4.3,
+      "gender_segmentation": {
+        "male": 8,
+        "male_pct": 66.7,
+        "female": 0,
+        "female_pct": 0.0,
+        "unknown": 4
+      },
+      "emotion_profiles": {
+        "all_haters": {
+          "anger": 0.06549055637774676,
+          "disgust": 0.09662215375353916,
+          "sadness": 0.09696377066346105,
+          "fear": 0.08420097424934882
+        },
+        "male_haters": {
+          "anger": 0.06300517980471539,
+          "disgust": 0.1052783542566824,
+          "sadness": 0.09361415416368975,
+          "fear": 0.0812980273080892
+        },
+        "female_haters": {}
+      },
+      "hate_statements": {
+        "count": 0,
+        "percentage": 0.0,
+        "quotes": []
+      },
+      "wish_statements": {
+        "count": 1,
+        "percentage": 8.3,
+        "quotes": [
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "content": "Unfortunately, it's all uninspired and looks like a gumbo soup.",
+            "engagement": 77
+          }
+        ]
+      },
+      "comparisons": {
+        "reviews_with_comparisons": 6,
+        "comparison_pct": 50.0,
+        "mentioned_movies": {}
+      },
+      "writing_indicators": {
+        "avg_reading_ease": 75.63,
+        "avg_grade_level": 6.699999999999999,
+        "avg_exclamations": 0.25,
+        "avg_caps_words": 0.25,
+        "reviews_with_questions": 6,
+        "question_pct": 50.0
+      }
+    },
+    "polarization": {
+      "movie": "Angel Heart",
+      "polarization_metrics": {
+        "level": "CONSENSUS",
+        "rating_variance": 4.392882562277571,
+        "rating_std_dev": 2.095920457049258,
+        "middle_ground_pct": 27.8,
+        "lovers_pct": 68.0,
+        "haters_pct": 4.3
+      },
+      "emotion_divergence": {
+        "top_5_divergent": [
+          [
+            "disgust",
+            {
+              "lovers_score": 0.051351933024033104,
+              "haters_score": 0.09662215375353916,
+              "divergence": 0.04527022072950606
+            }
+          ],
+          [
+            "anticipation",
+            {
+              "lovers_score": 0.11752736523405584,
+              "haters_score": 0.08847975306856885,
+              "divergence": 0.029047612165486986
+            }
+          ],
+          [
+            "joy",
+            {
+              "lovers_score": 0.09083871074660581,
+              "haters_score": 0.061799631289762846,
+              "divergence": 0.02903907945684296
+            }
+          ],
+          [
+            "sadness",
+            {
+              "lovers_score": 0.07743826425131778,
+              "haters_score": 0.09696377066346105,
+              "divergence": 0.019525506412143276
+            }
+          ],
+          [
+            "surprise",
+            {
+              "lovers_score": 0.06666540079378033,
+              "haters_score": 0.05137810471692048,
+              "divergence": 0.01528729607685985
+            }
+          ]
+        ],
+        "all_emotions": {
+          "joy": {
+            "lovers_score": 0.09083871074660581,
+            "haters_score": 0.061799631289762846,
+            "divergence": 0.02903907945684296
+          },
+          "trust": {
+            "lovers_score": 0.09937329267543518,
+            "haters_score": 0.08597302551249918,
+            "divergence": 0.013400267162936005
+          },
+          "fear": {
+            "lovers_score": 0.09712044259268464,
+            "haters_score": 0.08420097424934882,
+            "divergence": 0.012919468343335822
+          },
+          "surprise": {
+            "lovers_score": 0.06666540079378033,
+            "haters_score": 0.05137810471692048,
+            "divergence": 0.01528729607685985
+          },
+          "sadness": {
+            "lovers_score": 0.07743826425131778,
+            "haters_score": 0.09696377066346105,
+            "divergence": 0.019525506412143276
+          },
+          "disgust": {
+            "lovers_score": 0.051351933024033104,
+            "haters_score": 0.09662215375353916,
+            "divergence": 0.04527022072950606
+          },
+          "anger": {
+            "lovers_score": 0.05785828169224724,
+            "haters_score": 0.06549055637774676,
+            "divergence": 0.007632274685499513
+          },
+          "anticipation": {
+            "lovers_score": 0.11752736523405584,
+            "haters_score": 0.08847975306856885,
+            "divergence": 0.029047612165486986
+          }
+        }
+      },
+      "writing_style_differences": {
+        "reading_ease": {
+          "lovers": 68.70324607329843,
+          "haters": 75.63,
+          "difference": 6.926753926701565
+        },
+        "grade_level": {
+          "lovers": 8.487958115183245,
+          "haters": 6.699999999999999,
+          "difference": -1.7879581151832458
+        },
+        "first_person_usage": {
+          "lovers": 1.9554517407373717,
+          "haters": 3.724861873326008,
+          "difference": 1.7694101325886364
+        },
+        "exclamations": {
+          "lovers": 0.6282722513089005,
+          "haters": 0.25,
+          "difference": -0.3782722513089005
+        }
+      },
+      "engagement_patterns": {
+        "lovers_avg_votes": 12.6282722513089,
+        "haters_avg_votes": 45.083333333333336,
+        "lovers_vote_polarization": 6.869109947643979,
+        "haters_vote_polarization": 8.75
+      },
+      "temporal_polarization": {
+        "early_avg_rating": null,
+        "late_avg_rating": 7.896797153024911,
+        "temporal_shift": null,
+        "shift_direction": "stable"
+      },
+      "gender_polarization": {
+        "male_avg_rating": 7.888297872340425,
+        "female_avg_rating": 7.909090909090909,
+        "gender_rating_gap": 0.02079303675048383,
+        "gap_significance": "minimal"
+      },
+      "theme_contradictions": {
+        "lovers_use_comparisons_pct": 47.6,
+        "haters_use_comparisons_pct": 50.0,
+        "comparison_gap": 2.356020942408378
+      }
+    },
+    "marketing_disconnect": {
+      "movie": "Angel Heart",
+      "comparison_films": {
+        "all_mentions": {},
+        "top_5": {},
+        "total_unique_films": 0,
+        "total_mentions": 0
+      },
+      "expectation_mismatch": {
+        "lovers_with_wishes": {
+          "count": 7,
+          "percentage": 3.7,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_angel_heart_the_void_20040729",
+              "reviewer": "The_Void",
+              "rating": 9,
+              "content": "Angel Heart features a stand out performance from Mickey Rourke; a man that made a few good movies in the 80's, and then somewhat and unfortunately disappeared from our screens (although he did have a great little part in 2003's best movie; Once Upon a Time in Mexico).",
+              "engagement": 7
+            },
+            {
+              "review_id": "imdb_angel_heart_padawandoug_20030226",
+              "reviewer": "padawandoug",
+              "rating": 10,
+              "content": "First of all, it is great, and I hope you reading this will side with the large number of positive reviews and see this movie.",
+              "engagement": 6
+            },
+            {
+              "review_id": "imdb_angel_heart_chmollo_20220522",
+              "reviewer": "chmollo",
+              "rating": 8,
+              "content": "Unfortunately in the case of this film it is compelling viewing, so it's not like you want to just get up and walk away. ||| So in a way I wish I'd never seen this film, which is well constructed noir outing with Mickey Rourke in his most convincing role and Deniro also at his best.",
+              "engagement": 6
+            },
+            {
+              "review_id": "imdb_angel_heart_i_ailurophile_20230925",
+              "reviewer": "I_Ailurophile",
+              "rating": 9,
+              "content": "I don't think it's perfect, but overall I love 'Angel Heart,' and I'm sorry it took me so long to get around to it.",
+              "engagement": 3
+            },
+            {
+              "review_id": "imdb_angel_heart_lagriff05_20070616",
+              "reviewer": "lagriff05",
+              "rating": 9,
+              "content": "And sadly, it doesn't completely make sense, even after you understand it.",
+              "engagement": 3
+            }
+          ]
+        },
+        "haters_with_wishes": {
+          "count": 1,
+          "percentage": 8.3,
+          "sample_quotes": [
+            {
+              "review_id": "imdb_angel_heart_philantrop_20050525",
+              "reviewer": "Philantrop",
+              "rating": 1,
+              "content": "Unfortunately, it's all uninspired and looks like a gumbo soup.",
+              "engagement": 77
+            }
+          ]
+        },
+        "confusion_indicators": {
+          "lovers_with_questions_pct": 18.8,
+          "haters_with_questions_pct": 50.0
+        }
+      },
+      "temporal_sentiment": {
+        "early_reviews": {
+          "avg_rating": null,
+          "avg_vader_compound": null,
+          "hate_statement_pct": null,
+          "wish_statement_pct": null
+        },
+        "late_reviews": {
+          "avg_rating": 7.896797153024911,
+          "avg_vader_compound": 0.5354167259786476,
+          "hate_statement_pct": 1.4,
+          "wish_statement_pct": 5.3
+        },
+        "rating_shift": null,
+        "interpretation": "unknown"
+      },
+      "comparison_patterns": {
+        "lovers_pct": 47.6,
+        "haters_pct": 50.0,
+        "gap": -2.3999999999999986
+      },
+      "sentiment_polarity": {
+        "lovers_vader": 0.612730890052356,
+        "haters_vader": -0.3393,
+        "sentiment_gap": 0.952030890052356
+      },
+      "marketing_theme_analysis": {
+        "status": "No marketing themes provided",
+        "note": "Analysis limited to audience discussion patterns"
+      },
+      "disappointment_indicators": {
+        "disappointed_reviewer_pct": 1.4,
+        "disappointed_count": 4,
+        "sample_disappointment_quotes": [
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "content": "Unfortunately, it's all uninspired and looks like a gumbo soup.",
+            "engagement": 77
+          },
+          {
+            "review_id": "imdb_angel_heart_moviesleuth2_20090603",
+            "reviewer": "moviesleuth2",
+            "rating": 5,
+            "content": "Unfortunately, it is none of those things. ||| Unfortunately, Parker is unable to keep the audience very involved, and that's a big problem.",
+            "engagement": 7
+          },
+          {
+            "review_id": "imdb_angel_heart_med_jasta_20210811",
+            "reviewer": "Med-Jasta",
+            "rating": 5,
+            "content": "I was hoping this would be the case but unfortunately it wasn't.",
+            "engagement": 3
+          },
+          {
+            "review_id": "imdb_angel_heart_ftalker_20250309",
+            "reviewer": "ftalker",
+            "rating": 4,
+            "content": "This is an overlong thriller with, unfortunately, no red herrings to distract us from the rather obvious twist-ending.",
+            "engagement": 3
+          }
+        ]
+      }
+    },
+    "risk_factors": {
+      "movie": "Angel Heart",
+      "overall_risk_assessment": {
+        "risk_level": "LOW",
+        "risk_score": 0.5,
+        "high_risks": [],
+        "risk_count": 0
+      },
+      "intensity_risk": {
+        "risk_level": "LOW",
+        "avg_fear": 0.09188728962215448,
+        "avg_disgust": 0.052625706431855844,
+        "hate_review_pct": 4.3,
+        "intensity_score": 0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_angel_heart_jacobjohntaylor1_20190305",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "review_title": "Awful movie.",
+            "quote": "...It has an awful ending. It is not scary. If I want to see something scary I will see The Exorcist or The Shinning....",
+            "engagement": 78,
+            "matched_term": "scary"
+          },
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "...So straight to the point: This movie sounds interesting and has an acceptable concept. Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set. Its only fault is: It's boring and way more ambitious than what it delivers in the end....",
+            "engagement": 77,
+            "matched_term": "dark"
+          },
+          {
+            "review_id": "imdb_angel_heart_quitwastingmytime_20210807",
+            "reviewer": "quitwastingmytime",
+            "rating": 1,
+            "review_title": "Dull, With Zero Horror or Suspense",
+            "quote": "The most boring \"horror\" movie you will ever see. Nothing scary. No sense of dread....",
+            "engagement": 59,
+            "matched_term": "scary"
+          }
+        ]
+      },
+      "complexity_risk": {
+        "risk_level": "MODERATE",
+        "haters_reading_ease": 75.63,
+        "lovers_reading_ease": 68.70324607329843,
+        "complexity_gap": 6.926753926701565,
+        "interpretation": "Moderate complexity barrier. Film may be too slow/cerebral for some viewers.",
+        "mitigation": "Marketing should prepare audiences for 'slow burn' pacing. Use critic quotes emphasizing atmosphere over action.",
+        "sample_quotes": [
+          {
+            "review_id": "imdb_angel_heart_jacobjohntaylor1_20190305",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "review_title": "Awful movie.",
+            "quote": "Why do people like this movie. It is awful. It has an awful story....",
+            "engagement": 78,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "...Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set. Its only fault is: It's boring and way more ambitious than what it delivers in the end. (Spoilers ahead) The age-old subject of a man selling his soul to the devil and then trying to cheat his way out of the deal may still be appealing but it only works if the cheater is at least a bit likable....",
+            "engagement": 77,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_angel_heart_quitwastingmytime_20210807",
+            "reviewer": "quitwastingmytime",
+            "rating": 1,
+            "review_title": "Dull, With Zero Horror or Suspense",
+            "quote": "The most boring \"horror\" movie you will ever see. Nothing scary....",
+            "engagement": 59,
+            "matched_term": "boring"
+          }
+        ]
+      },
+      "early_buzz_risk": {
+        "risk_level": "LOW",
+        "early_negative_count": 0,
+        "early_negative_pct": null,
+        "early_avg_rating": null,
+        "total_early_reviews": 0,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": []
+      },
+      "pacing_risk": {
+        "risk_level": "LOW",
+        "haters_with_wishes_pct": 8.3,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_angel_heart_jacobjohntaylor1_20190305",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "review_title": "Awful movie.",
+            "quote": "Why do people like this movie. It is awful. It has an awful story....",
+            "engagement": 78,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "...So straight to the point: This movie sounds interesting and has an acceptable concept. Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set. Its only fault is: It's boring and way more ambitious than what it delivers in the end. (Spoilers ahead) The age-old subject of a man selling his soul to the devil and then trying to cheat his way out of the deal may still be appealing but it only works if the cheater is at least a bit likable. Harry Angel (the obvious pun is annoying either) isn't....",
+            "engagement": 77,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_angel_heart_quitwastingmytime_20210807",
+            "reviewer": "quitwastingmytime",
+            "rating": 1,
+            "review_title": "Dull, With Zero Horror or Suspense",
+            "quote": "The most boring \"horror\" movie you will ever see. Nothing scary. No sense of dread....",
+            "engagement": 59,
+            "matched_term": "boring"
+          }
+        ]
+      },
+      "expectation_risk": {
+        "risk_level": "LOW",
+        "disappointment_rate": 0.7,
+        "disappointed_count": 2,
+        "top_comparison_films": {},
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "As so often, the plot has been laid out often enough. So straight to the point: This movie sounds interesting and has an acceptable concept. Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set....",
+            "engagement": 77,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_moviesleuth2_20090603",
+            "reviewer": "moviesleuth2",
+            "rating": 5,
+            "review_title": "Bizarre",
+            "quote": "At the end of the movie, I was thinking: What the hell did I just see? \"Angel Heart\" is that kind of a movie. It doesn't make much sense until you look back on it....",
+            "engagement": 7,
+            "matched_term": null
+          }
+        ]
+      },
+      "gender_risk": {
+        "risk_level": "LOW",
+        "gender_gap": 0.02079303675048383,
+        "male_avg_rating": 7.888297872340425,
+        "female_avg_rating": 7.909090909090909,
+        "gender_preference": "female",
+        "male_count": 188,
+        "female_count": 33,
+        "interpretation": null,
+        "mitigation": null,
+        "sample_quotes": [
+          {
+            "review_id": "imdb_angel_heart_jacobjohntaylor1_20190305",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "review_title": "Awful movie.",
+            "quote": "Why do people like this movie. It is awful. It has an awful story....",
+            "engagement": 78,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "As so often, the plot has been laid out often enough. So straight to the point: This movie sounds interesting and has an acceptable concept. Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set....",
+            "engagement": 77,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_quitwastingmytime_20210807",
+            "reviewer": "quitwastingmytime",
+            "rating": 1,
+            "review_title": "Dull, With Zero Horror or Suspense",
+            "quote": "The most boring \"horror\" movie you will ever see. Nothing scary. No sense of dread....",
+            "engagement": 59,
+            "matched_term": null
+          }
+        ]
+      }
+    },
+    "target_audience": {
+      "movie": "Angel Heart",
+      "primary_audience": {
+        "tier": "PRIMARY - Core Target",
+        "size": 50,
+        "percentage": 17.8,
+        "criteria": "Passionate + Understanding + Scalable",
+        "is_scalable": true,
+        "scalability_note": "Sufficient size for viable audience",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 30,
+          "female_count": 5,
+          "male_pct": 60.0,
+          "female_pct": 10.0,
+          "gender_coverage": 70.0
+        },
+        "characteristics": {
+          "avg_rating": 9.1,
+          "avg_reading_grade": 10.437999999999999,
+          "avg_engagement": 31.22,
+          "sophistication_level": "High"
+        },
+        "passion_indicators": {
+          "love_statements": 14,
+          "love_pct": 28.0,
+          "exclamations": 20,
+          "exclamation_pct": 40.0,
+          "high_engagement": 16,
+          "high_engagement_pct": 32.0
+        },
+        "psychographics": {
+          "top_3_emotions": [
+            "anticipation",
+            "trust",
+            "fear"
+          ],
+          "all_emotions": {
+            "joy": 0.09226214229665079,
+            "trust": 0.10454315607925453,
+            "fear": 0.09415519940107422,
+            "surprise": 0.06455767073726669,
+            "sadness": 0.07806705108092835,
+            "disgust": 0.051217371521499834,
+            "anger": 0.06413534208261519,
+            "anticipation": 0.1118208331845112
+          },
+          "comparison_films": {},
+          "top_5_comparisons": {}
+        },
+        "reach_strategy": [
+          "Film festival audiences (Sundance, Fantastic Fest, SXSW)",
+          "Letterboxd power users (500+ reviews, arthouse focus)",
+          "Film Twitter influencers (critics, essayists)",
+          "Criterion Channel subscribers",
+          "Position as \"elevated horror\" / \"slow burn\" to set expectations",
+          "Platform release strategy: Limited theatrical → VOD/Streaming",
+          "Target: Specialty theaters in major metro areas (LA, NYC, Austin, Portland)"
+        ],
+        "strategic_notes": [
+          "High sophistication - position as arthouse/festival film",
+          "CRITICAL: Marketing must emphasize arthouse nature to avoid complexity barrier",
+          "Male-skewing audience - consider male-focused horror communities"
+        ],
+        "sample_quotes": {
+          "passion": [
+            {
+              "review_id": "imdb_angel_heart_jcanettis_20041221",
+              "reviewer": "jcanettis",
+              "rating": 10,
+              "review_title": "Alan Parker's Masterpiece",
+              "quote": "\"Angel Heart\" deserves to be considered Alan Parker's masterpiece. The direction is truly amazing, as Parker drives us deeply through a meticulously prepared dark atmosphere, full of allegories and secret hints. In \"Angel Heart\", we watch Mickey Rourke in his finest acting hour, who plays Harry Angel, a private investigator hired by the mysterious Louis Cyphre, depicted by the great Robert De Niro....",
+              "engagement": 190,
+              "matched_term": "masterpiece"
+            },
+            {
+              "review_id": "imdb_angel_heart_oggz_20050223",
+              "reviewer": "Oggz",
+              "rating": 9,
+              "review_title": "Love it or hate it - it looks stunning - very memorable",
+              "quote": "I'm not in the least surprised that other reviewers either love this or hate it to bits - I also bet that it's the younger users to whom the nature of the visual narrative of the film - the way it's all told to us, the viewer - may seem a bit dated. And to a point, they're right - \"Angel Heart\" is totally an eighties film, a film of the decade in which the movie world was discovering a new visual language in video and playfully indulged in experimenting with its new toy. It was literally speaking to a generation straight out of MTV classrooms and workshops and is in that sense very similar to stuff like \"Betty Blue\"....",
+              "engagement": 139,
+              "matched_term": "love"
+            },
+            {
+              "review_id": "imdb_angel_heart_movieaddict2016_20040901",
+              "reviewer": "MovieAddict2016",
+              "rating": 9,
+              "review_title": "",
+              "quote": "Entertaining, thought-provoking/smart, well-acted and brilliantly photographed and directed -- what more could you ask for? Angel Heart is a winding psychological thriller that -- in 1987 -- was far ahead of its time. So far that audiences didn't `get it' and the film bombed at the box office....",
+              "engagement": 134,
+              "matched_term": "brilliant"
+            }
+          ],
+          "sophistication": [
+            {
+              "review_id": "imdb_angel_heart_oggz_20050223",
+              "reviewer": "Oggz",
+              "rating": 9,
+              "review_title": "Love it or hate it - it looks stunning - very memorable",
+              "quote": "I'm not in the least surprised that other reviewers either love this or hate it to bits - I also bet that it's the younger users to whom the nature of the visual narrative of the film - the way it's all told to us, the viewer - may seem a bit dated. And to a point, they're right - \"Angel Heart\" is totally an eighties film, a film of the decade in which the movie world was discovering a new visual language in video and playfully indulged in experimenting with its new toy. It was literally speaking to a generation straight out of MTV classrooms and workshops and is in that sense very similar to stuff like \"Betty Blue\"....",
+              "engagement": 139,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_angel_heart_movieaddict2016_20040901",
+              "reviewer": "MovieAddict2016",
+              "rating": 9,
+              "review_title": "",
+              "quote": "Entertaining, thought-provoking/smart, well-acted and brilliantly photographed and directed -- what more could you ask for? Angel Heart is a winding psychological thriller that -- in 1987 -- was far ahead of its time. So far that audiences didn't `get it' and the film bombed at the box office....",
+              "engagement": 134,
+              "matched_term": null
+            },
+            {
+              "review_id": "imdb_angel_heart_dee.reid_20011214",
+              "reviewer": "dee.reid",
+              "rating": 10,
+              "review_title": "One of the creepiest thrillers ever made",
+              "quote": "Harry Angel(Mickey Rourke) is a sleazy private detective in 1955 New York. One day, Harry is approached by a mysterious lawyer named Louis Cyphre(Robert De Niro). Louis also has unusually long fingernails and needs help in searching for a former client of his who disappeared mysteriously without ever paying him back....",
+              "engagement": 101,
+              "matched_term": null
+            }
+          ]
+        }
+      },
+      "secondary_audience": {
+        "tier": "SECONDARY - Broader Appeal",
+        "size": 171,
+        "percentage": 60.9,
+        "criteria": "Positive (7-8 rating) or lovers not meeting primary criteria",
+        "demographics": {
+          "gender_skew": "male",
+          "male_count": 119,
+          "female_count": 20
+        },
+        "characteristics": {
+          "avg_rating": 8.701754385964913,
+          "avg_reading_grade": 8.05497076023392,
+          "avg_engagement": 5.812865497076023,
+          "sophistication_level": "Moderate"
+        },
+        "reach_strategy": [
+          "Broader horror platforms (Shudder, genre streaming)",
+          "Social media (targeted ads to horror fans)",
+          "VOD platforms (Amazon, iTunes horror categories)",
+          "Genre festivals and conventions"
+        ],
+        "messaging_notes": "More accessible positioning than primary audience - emphasize entertainment value alongside artistic merit"
+      },
+      "tertiary_avoid": {
+        "tier": "TERTIARY - Avoid Marketing To",
+        "size": 12,
+        "percentage": 4.3,
+        "warning": "⚠️  DO NOT market to this segment - wrong expectations, will generate negative word-of-mouth",
+        "characteristics": {
+          "avg_rating": 1.8333333333333333,
+          "avg_reading_grade": 6.699999999999999,
+          "complexity_barrier": true,
+          "wish_statement_pct": 8.3
+        },
+        "wrong_expectations": {
+          "expected_films": {},
+          "top_complaints": "Film too slow/complex"
+        },
+        "sample_warnings": [
+          {
+            "review_id": "imdb_angel_heart_jacobjohntaylor1_20190305",
+            "reviewer": "jacobjohntaylor1",
+            "rating": 1,
+            "review_title": "Awful movie.",
+            "quote": "Why do people like this movie. It is awful. It has an awful story....",
+            "engagement": 78,
+            "matched_term": null
+          },
+          {
+            "review_id": "imdb_angel_heart_philantrop_20050525",
+            "reviewer": "Philantrop",
+            "rating": 1,
+            "review_title": "Much ado about nothing...",
+            "quote": "...So straight to the point: This movie sounds interesting and has an acceptable concept. Technically, it's well done; good acting (Rourke, De Niro, Bonet), dark atmosphere, a convincing set. Its only fault is: It's boring and way more ambitious than what it delivers in the end. (Spoilers ahead) The age-old subject of a man selling his soul to the devil and then trying to cheat his way out of the deal may still be appealing but it only works if the cheater is at least a bit likable. Harry Angel (the obvious pun is annoying either) isn't....",
+            "engagement": 77,
+            "matched_term": "boring"
+          },
+          {
+            "review_id": "imdb_angel_heart_quitwastingmytime_20210807",
+            "reviewer": "quitwastingmytime",
+            "rating": 1,
+            "review_title": "Dull, With Zero Horror or Suspense",
+            "quote": "The most boring \"horror\" movie you will ever see. Nothing scary. No sense of dread....",
+            "engagement": 59,
+            "matched_term": "boring"
+          }
+        ]
+      },
+      "messaging_recommendations": {
+        "tone": "sophisticated",
+        "keywords": [
+          "atmospheric horror",
+          "suspenseful"
+        ],
+        "avoid": [
+          "Marketing to mainstream horror audiences expecting conventional scares"
+        ]
+      }
+    }
+  }
+}

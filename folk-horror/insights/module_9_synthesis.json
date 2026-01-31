@@ -1,0 +1,44 @@
+{
+  "report_date": "2025-10-21T13:18:13.950536",
+  "total_movies_analyzed": 10,
+  "total_reviews_analyzed": 3222,
+  "key_findings": {
+    "success_factors": {
+      "high_performers": 3,
+      "avg_lover_percentage": 56.1,
+      "interpretation": "High-performing folk horror films maintain 50%+ lover rate despite polarization"
+    },
+    "audience_profile": {
+      "total_engaged_viewers": 3222,
+      "lover_rate": "41.7%",
+      "hater_rate": "18.2%",
+      "gender_skew": "male",
+      "male_percentage": "66.6%",
+      "female_percentage": "13.8%",
+      "top_emotions": [
+        "anticipation",
+        "trust",
+        "fear"
+      ]
+    },
+    "polarization_insights": {
+      "highly_polarizing_count": 1,
+      "consensus_count": 5,
+      "films_that_improved": 1,
+      "interpretation": "Folk horror is inherently polarizing - 50% of films are HIGHLY_POLARIZING"
+    },
+    "risk_factors": {
+      "most_common_risk": "PACING_ISSUES",
+      "risk_frequency": {
+        "COMPLEXITY_BARRIER": 1,
+        "PACING_ISSUES": 2
+      },
+      "interpretation": "Complexity barrier is the primary risk - arthouse positioning is critical"
+    },
+    "marketing_recommendations": {
+      "festival_first": 1,
+      "platform_release_candidates": 3,
+      "key_insight": "Films that improved over time needed better initial positioning"
+    }
+  }
+}
