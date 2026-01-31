@@ -1,0 +1,195 @@
+{
+  "label": "MECHANIC",
+  "entities": [
+    {
+      "canonical": "Tab-targeting",
+      "aliases": [
+        "tab target",
+        "tab targeting",
+        "lock-on combat"
+      ]
+    },
+    {
+      "canonical": "Action Combat",
+      "aliases": [
+        "real-time combat",
+        "action-oriented",
+        "hack and slash",
+        "hitbox based"
+      ]
+    },
+    {
+      "canonical": "Turn-based",
+      "aliases": [
+        "turn based",
+        "tactical combat",
+        "turn-based strategy"
+      ]
+    },
+    {
+      "canonical": "Parry",
+      "aliases": [
+        "parrying",
+        "perfect block",
+        "deflect",
+        "timed block"
+      ]
+    },
+    {
+      "canonical": "Dodge",
+      "aliases": [
+        "dodge roll",
+        "rolling",
+        "i-frames",
+        "invincibility frames"
+      ]
+    },
+    {
+      "canonical": "Stealth",
+      "aliases": [
+        "sneaking",
+        "stealth mechanics",
+        "hidden",
+        "crouch walking"
+      ]
+    },
+    {
+      "canonical": "Skill Tree",
+      "aliases": [
+        "talent tree",
+        "skill points",
+        "abilities",
+        "perk tree"
+      ]
+    },
+    {
+      "canonical": "Min-maxing",
+      "aliases": [
+        "min/max",
+        "minmaxing",
+        "optimizing build",
+        "stat weights"
+      ]
+    },
+    {
+      "canonical": "Level Scaling",
+      "aliases": [
+        "enemy scaling",
+        "level syncing",
+        "autoleveling",
+        "oblivion scaling"
+      ]
+    },
+    {
+      "canonical": "Endgame",
+      "aliases": [
+        "end-game",
+        "raids",
+        "mythic+",
+        "end game loops"
+      ]
+    },
+    {
+      "canonical": "Respec",
+      "aliases": [
+        "reset skills",
+        "respecialization",
+        "change build"
+      ]
+    },
+    {
+      "canonical": "Character Creation",
+      "aliases": [
+        "char create",
+        "custom character",
+        "sliders",
+        "character customization"
+      ]
+    },
+    {
+      "canonical": "Microtransactions",
+      "aliases": [
+        "mtx",
+        "micro-transactions",
+        "cash shop",
+        "premium currency"
+      ]
+    },
+    {
+      "canonical": "Loot Boxes",
+      "aliases": [
+        "lootbox",
+        "gacha",
+        "rng packs",
+        "loot crates"
+      ]
+    },
+    {
+      "canonical": "Battle Pass",
+      "aliases": [
+        "season pass",
+        "premium pass",
+        "fomo"
+      ]
+    },
+    {
+      "canonical": "Pay-to-Win",
+      "aliases": [
+        "p2w",
+        "pay 2 win",
+        "buying power"
+      ]
+    },
+    {
+      "canonical": "Subscription",
+      "aliases": [
+        "sub fee",
+        "monthly sub",
+        "subscription model"
+      ]
+    },
+    {
+      "canonical": "Open World",
+      "aliases": [
+        "sandbox",
+        "free roam",
+        "seamless world",
+        "exploration"
+      ]
+    },
+    {
+      "canonical": "Fast Travel",
+      "aliases": [
+        "teleport",
+        "waypoints",
+        "porting"
+      ]
+    },
+    {
+      "canonical": "Mounts",
+      "aliases": [
+        "horse riding",
+        "mounted combat",
+        "mount system"
+      ]
+    },
+    {
+      "canonical": "Housing",
+      "aliases": [
+        "player housing",
+        "decorating",
+        "homestead",
+        "base building"
+      ]
+    },
+    {
+      "canonical": "Crafting",
+      "aliases": [
+        "blacksmithing",
+        "alchemy",
+        "craft system",
+        "crafting professions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "label": "AESTHETIC",
+  "entities": [
+    {
+      "canonical": "Grimdark",
+      "aliases": [
+        "dark fantasy",
+        "gritty",
+        "bleak",
+        "hopeless"
+      ]
+    },
+    {
+      "canonical": "Cozy",
+      "aliases": [
+        "wholesome",
+        "comfy",
+        "relaxing",
+        "chill",
+        "low stakes"
+      ]
+    },
+    {
+      "canonical": "High Fantasy",
+      "aliases": [
+        "epic fantasy",
+        "magical",
+        "ethereal",
+        "tolkienesque"
+      ]
+    },
+    {
+      "canonical": "Low Fantasy",
+      "aliases": [
+        "grounded",
+        "realistic",
+        "historical",
+        "muddy"
+      ]
+    },
+    {
+      "canonical": "Nostalgic",
+      "aliases": [
+        "old school",
+        "classic feel",
+        "retro",
+        "childhood"
+      ]
+    },
+    {
+      "canonical": "Photorealistic",
+      "aliases": [
+        "realistic graphics",
+        "next-gen graphics",
+        "hyper-realistic",
+        "UE5"
+      ]
+    },
+    {
+      "canonical": "Stylized",
+      "aliases": [
+        "artistic",
+        "cel-shaded",
+        "cartoonish",
+        "painterly",
+        "hand drawn"
+      ]
+    },
+    {
+      "canonical": "Pixel Art",
+      "aliases": [
+        "retro graphics",
+        "8-bit",
+        "16-bit",
+        "pixel graphics"
+      ]
+    },
+    {
+      "canonical": "Generic",
+      "aliases": [
+        "mobile game look",
+        "generic fantasy",
+        "soulless art",
+        "asset flip"
+      ]
+    }
+  ]
+}

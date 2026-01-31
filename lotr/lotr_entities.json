@@ -1,0 +1,221 @@
+{
+  "characters": {
+    "divine": [
+      {"canonical": "Eru Ilúvatar", "aliases": ["Eru", "Iluvatar", "The One"]}
+    ],
+    "fellowship": [
+      {"canonical": "Frodo Baggins", "aliases": ["Frodo", "Mr. Frodo", "Ringbearer"]},
+      {"canonical": "Samwise Gamgee", "aliases": ["Sam", "Samwise", "Sam Gamgee"]},
+      {"canonical": "Gandalf", "aliases": ["Gandalf the Grey", "Gandalf the White", "Mithrandir", "Grey Pilgrim", "Stormcrow", "Grand Elf"]},
+      {"canonical": "Aragorn", "aliases": ["Strider", "Elessar", "Isildur's Heir", "Dunadan", "Ranger"]},
+      {"canonical": "Legolas", "aliases": ["Legolas Greenleaf"]},
+      {"canonical": "Gimli", "aliases": ["Gimli son of Gloin"]},
+      {"canonical": "Boromir", "aliases": ["Boromir of Gondor", "Son of Denethor"]},
+      {"canonical": "Meriadoc Brandybuck", "aliases": ["Merry", "Merry Brandybuck"]},
+      {"canonical": "Peregrin Took", "aliases": ["Pippin", "Pip", "Peregrin"]}
+    ],
+    "villains": [
+      {"canonical": "Sauron", "aliases": ["Dark Lord", "Lord of Mordor", "Necromancer", "Annatar", "Lord of the Rings", "Halbrand"]},
+      {"canonical": "Saruman", "aliases": ["Saruman the White", "Saruman of Many Colors", "Sharkey"]},
+      {"canonical": "Gollum", "aliases": ["Sméagol", "Smeagol", "Stinker", "Precious"]},
+      {"canonical": "Witch-king of Angmar", "aliases": ["Witch King", "Witch-king", "Lord of the Nazgûl", "Lord of the Nazgul"]},
+      {"canonical": "Morgoth", "aliases": ["Melkor", "Dark Enemy", "Black Foe"]},
+      {"canonical": "Shelob", "aliases": []},
+      {"canonical": "Balrog", "aliases": ["Durin's Bane", "Balrog of Morgoth", "Balrogs"]},
+      {"canonical": "Mouth of Sauron", "aliases": ["The Mouth"]},
+      {"canonical": "Grima Wormtongue", "aliases": ["Wormtongue", "Grima"]},
+      {"canonical": "Ar-Pharazôn", "aliases": ["Pharazon", "Ar-Pharazon", "Pharazôn", "The Golden"]}
+    ],
+    "elves": [
+      {"canonical": "Elrond", "aliases": ["Lord Elrond", "Elrond Half-elven", "Elrond Halfelven"]},
+      {"canonical": "Galadriel", "aliases": ["Lady Galadriel", "Lady of Light", "Lady of Lorien"]},
+      {"canonical": "Arwen", "aliases": ["Arwen Evenstar", "Arwen Undomiel"]},
+      {"canonical": "Celeborn", "aliases": ["Lord Celeborn"]},
+      {"canonical": "Thranduil", "aliases": ["Elvenking", "King of the Woodland Realm"]},
+      {"canonical": "Gil-galad", "aliases": ["High King Gil-galad", "Gil Galad", "Gil-Galad"]},
+      {"canonical": "Glorfindel", "aliases": []},
+      {"canonical": "Haldir", "aliases": ["Haldir of Lorien"]},
+      {"canonical": "Fëanor", "aliases": ["Feanor", "Curufinwe"]},
+      {"canonical": "Fingolfin", "aliases": []},
+      {"canonical": "Lúthien", "aliases": ["Luthien", "Luthien Tinuviel", "Tinuviel"]},
+      {"canonical": "Celebrimbor", "aliases": ["Lord of Eregion"]},
+      {"canonical": "Círdan", "aliases": ["Cirdan", "Círdan the Shipwright", "Shipwright"]},
+      {"canonical": "Finrod Felagund", "aliases": ["Finrod", "Felagund", "King of Nargothrond"]}
+    ],
+    "men": [
+      {"canonical": "Théoden", "aliases": ["Theoden", "Theoden King", "King of Rohan", "Lord of the Mark"]},
+      {"canonical": "Éowyn", "aliases": ["Eowyn", "Shieldmaiden of Rohan", "White Lady of Rohan"]},
+      {"canonical": "Éomer", "aliases": ["Eomer", "Eomer King", "Third Marshal"]},
+      {"canonical": "Faramir", "aliases": ["Captain of Gondor", "Prince of Ithilien"]},
+      {"canonical": "Denethor", "aliases": ["Denethor II", "Steward of Gondor", "Lord of Minas Tirith"]},
+      {"canonical": "Isildur", "aliases": []},
+      {"canonical": "Elendil", "aliases": ["Elendil the Tall"]},
+      {"canonical": "Beren", "aliases": ["Beren Erchamion", "Beren One-hand"]},
+      {"canonical": "Túrin Turambar", "aliases": ["Turin", "Turambar", "Neithan", "Mormegil"]},
+      {"canonical": "Tar-Míriel", "aliases": ["Miriel", "Ar-Zimraphel"]}
+    ],
+    "dwarves": [
+      {"canonical": "Thorin Oakenshield", "aliases": ["Thorin", "Thorin II"]},
+      {"canonical": "Balin", "aliases": ["Lord of Moria"]},
+      {"canonical": "Dwalin", "aliases": []},
+      {"canonical": "Durin", "aliases": ["Durin the Deathless", "Durin I", "Durin III", "Durin IV"]},
+      {"canonical": "Glóin", "aliases": ["Gloin"]}
+    ],
+    "hobbits": [
+      {"canonical": "Bilbo Baggins", "aliases": ["Bilbo", "Mr. Bilbo", "Burglar"]},
+      {"canonical": "Rosie Cotton", "aliases": ["Rosie"]},
+      {"canonical": "Old Gaffer", "aliases": ["Hamfast Gamgee", "Gaffer Gamgee"]},
+      {"canonical": "Lobelia Sackville-Baggins", "aliases": ["Lobelia"]}
+    ],
+    "wizards": [
+      {"canonical": "Radagast", "aliases": ["Radagast the Brown"]},
+      {"canonical": "Blue Wizards", "aliases": ["Alatar", "Pallando", "Ithryn Luin", "Blue Wizard"]}
+    ],
+    "other": [
+      {"canonical": "Tom Bombadil", "aliases": ["Tom", "Bombadil", "Iarwain Ben-adar"]},
+      {"canonical": "Goldberry", "aliases": ["River-daughter"]},
+      {"canonical": "Treebeard", "aliases": ["Fangorn", "Eldest"]},
+      {"canonical": "Quickbeam", "aliases": ["Bregalad"]},
+      {"canonical": "Smaug", "aliases": ["Smaug the Golden", "Smaug the Terrible"]},
+      {"canonical": "Beorn", "aliases": ["Skin-changer"]},
+      {"canonical": "Ungoliant", "aliases": []}
+    ],
+    "rings_of_power_show": [
+      {"canonical": "Adar", "aliases": ["Lord Father"]}
+    ],
+    "real_people": [
+      {"canonical": "J.R.R. Tolkien", "aliases": ["Tolkien", "JRR Tolkien"]},
+      {"canonical": "Christopher Tolkien", "aliases": []},
+      {"canonical": "Peter Jackson", "aliases": ["Jackson", "PJ"]},
+      {"canonical": "Charlie Vickers", "aliases": []},
+      {"canonical": "Elijah Wood", "aliases": []},
+      {"canonical": "Ian McKellen", "aliases": []}
+    ]
+  },
+  "locations": {
+    "regions": [
+      {"canonical": "Middle-earth", "aliases": ["Middle Earth", "Middleearth"]},
+      {"canonical": "The Shire", "aliases": ["Shire", "Hobbiton", "Bag End", "Bagend"]},
+      {"canonical": "Mordor", "aliases": ["Land of Shadow", "Black Land"]},
+      {"canonical": "Gondor", "aliases": ["South Kingdom", "Stoningland"]},
+      {"canonical": "Rohan", "aliases": ["Riddermark", "Mark", "Land of the Horse-lords"]},
+      {"canonical": "Arnor", "aliases": ["North Kingdom"]},
+      {"canonical": "Eriador", "aliases": []},
+      {"canonical": "Rhovanion", "aliases": ["Wilderland"]},
+      {"canonical": "Harad", "aliases": ["Haradwaith", "Southlands"]},
+      {"canonical": "Rhûn", "aliases": ["Rhun", "East", "Easterling lands"]},
+      {"canonical": "Númenor", "aliases": ["Numenor", "Westernesse", "Atlantis of Middle-earth"]},
+      {"canonical": "Valinor", "aliases": ["Undying Lands", "Blessed Realm", "Aman"]},
+      {"canonical": "Beleriand", "aliases": []},
+      {"canonical": "Arda", "aliases": ["The World"]}
+    ],
+    "cities_and_fortresses": [
+      {"canonical": "Minas Tirith", "aliases": ["White City", "City of Kings", "Mundburg"]},
+      {"canonical": "Minas Morgul", "aliases": ["Minas Ithil", "Tower of the Moon", "Dead City"]},
+      {"canonical": "Osgiliath", "aliases": []},
+      {"canonical": "Edoras", "aliases": ["Golden Hall"]},
+      {"canonical": "Helm's Deep", "aliases": ["Helms Deep", "Hornburg", "Aglarond"]},
+      {"canonical": "Isengard", "aliases": ["Orthanc", "Ring of Isengard"]},
+      {"canonical": "Barad-dûr", "aliases": ["Barad-dur", "Barad dur", "Barad Dur", "Dark Tower"]},
+      {"canonical": "Rivendell", "aliases": ["Imladris", "Last Homely House"]},
+      {"canonical": "Lothlórien", "aliases": ["Lothlorien", "Lorien", "Golden Wood", "Caras Galadhon"]},
+      {"canonical": "Mirkwood", "aliases": ["Greenwood the Great", "Taur-nu-Fuin"]},
+      {"canonical": "Erebor", "aliases": ["Lonely Mountain", "Kingdom Under the Mountain"]},
+      {"canonical": "Khazad-dûm", "aliases": ["Khazad-dum", "Moria", "Mines of Moria", "Dwarrowdelf"]},
+      {"canonical": "Dol Guldur", "aliases": ["Hill of Sorcery", "Guldur"]},
+      {"canonical": "Cirith Ungol", "aliases": ["Pass of the Spider", "Ungol"]},
+      {"canonical": "Black Gate", "aliases": ["Morannon"]},
+      {"canonical": "Bree", "aliases": ["Prancing Pony"]},
+      {"canonical": "Grey Havens", "aliases": ["Mithlond"]},
+      {"canonical": "Weathertop", "aliases": ["Amon Sûl", "Amon Sul"]},
+      {"canonical": "Eregion", "aliases": ["Hollin"]}
+    ],
+    "geographic_features": [
+      {"canonical": "Mount Doom", "aliases": ["Orodruin", "Amon Amarth", "Mountain of Fire", "Mt Doom", "Mt. Doom"]},
+      {"canonical": "Misty Mountains", "aliases": ["Hithaeglir"]},
+      {"canonical": "Anduin", "aliases": ["Great River"]},
+      {"canonical": "Fangorn Forest", "aliases": ["Fangorn", "Entwood"]},
+      {"canonical": "Dead Marshes", "aliases": []},
+      {"canonical": "Paths of the Dead", "aliases": ["Dimholt"]},
+      {"canonical": "Old Forest", "aliases": []},
+      {"canonical": "Emyn Muil", "aliases": []},
+      {"canonical": "Pelennor Fields", "aliases": ["Battle of Pelennor", "Pelennor"]},
+      {"canonical": "Amon Hen", "aliases": ["Hill of the Eye", "Hill of Sight", "Seat of Seeing"]},
+      {"canonical": "Sammath Naur", "aliases": ["Chambers of Fire", "Crack of Doom", "Cracks of Doom"]},
+      {"canonical": "Gladden Fields", "aliases": ["Gladden"]},
+      {"canonical": "Two Trees of Valinor", "aliases": ["Two Trees", "Telperion", "Laurelin", "Trees of Valinor"]}
+    ]
+  },
+  "factions_and_races": [
+    {"canonical": "Elves", "aliases": ["Elf", "Elven", "Elvish", "Eldar", "Firstborn", "Noldor", "Sindar", "Silvan"]},
+    {"canonical": "Dwarves", "aliases": ["Dwarf", "Dwarven", "Khazad", "Longbeards"]},
+    {"canonical": "Hobbits", "aliases": ["Hobbit", "Halfling", "Halflings", "Periannath", "Shire-folk"]},
+    {"canonical": "Men", "aliases": ["Mankind", "Race of Men", "Secondborn", "Edain", "Dúnedain", "Dunedain"]},
+    {"canonical": "Orcs", "aliases": ["Orc", "Orcish", "Goblins", "Goblin"]},
+    {"canonical": "Uruk-hai", "aliases": ["Uruks", "Uruk", "Fighting Uruk-hai"]},
+    {"canonical": "Trolls", "aliases": ["Troll", "Olog-hai", "Cave-troll"]},
+    {"canonical": "Ents", "aliases": ["Ent", "Tree-herders", "Onodrim", "Shepherds of the Trees"]},
+    {"canonical": "Nazgûl", "aliases": ["Nazgul", "Ringwraiths", "Ringwraith", "Black Riders", "Nine", "The Nine", "Nazg"]},
+    {"canonical": "Eagles", "aliases": ["Great Eagles", "Eagles of Manwe"]},
+    {"canonical": "Rohirrim", "aliases": ["Riders of Rohan", "Eorlingas", "Horse-lords"]},
+    {"canonical": "Rangers", "aliases": ["Rangers of the North", "Dúnedain Rangers"]},
+    {"canonical": "Haradrim", "aliases": ["Southrons", "Men of Harad"]},
+    {"canonical": "Easterlings", "aliases": ["Men of Rhûn", "Men of Rhun"]},
+    {"canonical": "Gondorians", "aliases": ["Men of Gondor", "Soldiers of Gondor"]},
+    {"canonical": "Istari", "aliases": ["Wizards", "Order of Wizards", "Wizard"]},
+    {"canonical": "Maiar", "aliases": ["Maia"]},
+    {"canonical": "Valar", "aliases": ["Vala", "Powers", "Lords of the West"]},
+    {"canonical": "Ainur", "aliases": []},
+    {"canonical": "Wargs", "aliases": ["Warg"]},
+    {"canonical": "Númenóreans", "aliases": ["Numenoreans", "Men of Númenor", "Men of Numenor"]},
+    {"canonical": "High Elves", "aliases": ["Calaquendi", "Elves of the Light"]},
+    {"canonical": "Free Peoples", "aliases": ["Free People of Middle-earth"]}
+  ],
+  "artifacts_and_objects": [
+    {"canonical": "One Ring", "aliases": ["The Ring", "Ruling Ring", "Ring of Power", "Isildur's Bane", "The Precious", "Master Ring", "Great Ring", "Master-ring"]},
+    {"canonical": "Rings of Power", "aliases": ["Three Rings", "Seven Rings", "Nine Rings", "Great Rings", "Elven Rings"]},
+    {"canonical": "Silmarils", "aliases": ["Silmaril", "Great Jewels"]},
+    {"canonical": "Palantír", "aliases": ["Palantir", "Palantíri", "Seeing-stones", "Seeing Stone"]},
+    {"canonical": "Sting", "aliases": []},
+    {"canonical": "Andúril", "aliases": ["Anduril", "Flame of the West", "Narsil", "Sword that was Broken"]},
+    {"canonical": "Glamdring", "aliases": ["Foe-hammer"]},
+    {"canonical": "Orcrist", "aliases": ["Goblin-cleaver"]},
+    {"canonical": "Mithril", "aliases": ["Mithril coat", "Mithril shirt", "True-silver"]},
+    {"canonical": "Phial of Galadriel", "aliases": ["Star-glass", "Light of Earendil"]},
+    {"canonical": "Evenstar", "aliases": ["Arwen's pendant"]},
+    {"canonical": "Horn of Gondor", "aliases": ["Boromir's horn"]},
+    {"canonical": "Morgul-blade", "aliases": ["Morgul blade", "Morgul knife"]},
+    {"canonical": "Lembas", "aliases": ["Waybread", "Elven bread"]},
+    {"canonical": "Arkenstone", "aliases": ["Heart of the Mountain", "King's Jewel"]}
+  ],
+  "concepts_and_themes": [
+    {"canonical": "Fellowship of the Ring", "aliases": ["Fellowship", "Nine Walkers", "Company of the Ring"]},
+    {"canonical": "War of the Ring", "aliases": ["The War"]},
+    {"canonical": "Battle of Five Armies", "aliases": ["Five Armies"]},
+    {"canonical": "Last Alliance", "aliases": ["Last Alliance of Elves and Men"]},
+    {"canonical": "Council of Elrond", "aliases": ["The Council"]},
+    {"canonical": "Scouring of the Shire", "aliases": []},
+    {"canonical": "Fall of Gondolin", "aliases": []},
+    {"canonical": "Siege of Gondor", "aliases": []},
+    {"canonical": "Quest of Erebor", "aliases": []},
+    {"canonical": "Ainulindalë", "aliases": ["Ainulindale", "Music of the Ainur", "Great Music"]},
+    {"canonical": "Akallabêth", "aliases": ["Akallabeth", "Downfall of Numenor"]},
+    {"canonical": "First Age", "aliases": ["Elder Days"]},
+    {"canonical": "Second Age", "aliases": []},
+    {"canonical": "Third Age", "aliases": []},
+    {"canonical": "Fourth Age", "aliases": []},
+    {"canonical": "White Council", "aliases": ["Council of the Wise"]},
+    {"canonical": "Black Speech", "aliases": ["Language of Mordor", "Dark Tongue"]},
+    {"canonical": "Red Book of Westmarch", "aliases": ["Red Book"]}
+  ],
+  "media_properties": [
+    {"canonical": "The Lord of the Rings (books)", "aliases": ["LOTR books", "Tolkien's books", "the novels", "the trilogy"]},
+    {"canonical": "The Hobbit (book)", "aliases": ["Hobbit book", "There and Back Again"]},
+    {"canonical": "The Silmarillion", "aliases": ["Silmarillion", "Silm"]},
+    {"canonical": "Unfinished Tales", "aliases": ["Unfinished Tales of Númenor and Middle-earth"]},
+    {"canonical": "Peter Jackson films", "aliases": ["PJ films", "PJ trilogy", "Jackson trilogy", "the movies", "the films"]},
+    {"canonical": "The Rings of Power", "aliases": ["RoP", "Rings of Power", "Amazon show", "Prime show", "TROP"]},
+    {"canonical": "The War of the Rohirrim", "aliases": ["Rohirrim movie", "anime movie"]},
+    {"canonical": "The Hobbit films", "aliases": ["Hobbit trilogy", "Hobbit movies"]}
+  ]
+}

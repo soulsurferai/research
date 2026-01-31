@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tales of the Shire: Community Insights | Noetheca Research</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-cream: #FAFAF8;
+      --bg-white: #FFFFFF;
+      --text-primary: #1A1A1A;
+      --text-secondary: #4A4A4A;
+      --text-tertiary: #6B6B6B;
+      --border-light: #E5E5E3;
+      --accent-blue: #6B9AC4;
+      --accent-navy: #1E3A5F;
+      --positive: #059669;
+      --negative: #DC2626;
+      --sidebar-width: 220px;
+      --content-max-width: 680px;
+    }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: var(--bg-cream);
+      color: var(--text-primary);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Header */
+    .site-header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 60px;
+      background: var(--bg-cream);
+      border-bottom: 1px solid var(--border-light);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      z-index: 1000;
+    }
+    .logo { font-weight: 700; font-size: 1.1rem; letter-spacing: -0.02em; }
+    .header-nav { display: flex; gap: 32px; }
+    .header-nav a { color: var(--text-primary); text-decoration: none; font-size: 0.9rem; }
+
+    /* Layout */
+    .page-wrapper { display: flex; padding-top: 60px; min-height: 100vh; }
+
+    /* Sidebar */
+    .sidebar {
+      position: fixed;
+      top: 60px; left: 0;
+      width: var(--sidebar-width);
+      height: calc(100vh - 60px);
+      padding: 40px 24px 40px 40px;
+      overflow-y: auto;
+    }
+    .sidebar-nav { list-style: none; }
+    .sidebar-nav li { margin-bottom: 8px; }
+    .sidebar-nav a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.9rem;
+      display: block;
+      padding: 6px 0;
+      border-top: 1px solid var(--border-light);
+    }
+    .sidebar-nav li:first-child a { border-top: none; }
+    .sidebar-nav a:hover, .sidebar-nav a.active { color: var(--text-primary); }
+    .sidebar-nav a.active { font-weight: 500; }
+
+    /* Main content */
+    .main-content {
+      margin-left: var(--sidebar-width);
+      flex: 1;
+      padding: 60px 60px 120px;
+      max-width: calc(var(--content-max-width) + var(--sidebar-width) + 120px);
+    }
+    .content-column { max-width: var(--content-max-width); }
+
+    /* Hero */
+    .hero { margin-bottom: 48px; }
+    .category-label { font-size: 0.85rem; color: var(--text-tertiary); margin-bottom: 16px; text-align: center; }
+    .hero-title {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.15;
+      text-align: center;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }
+    .hero-date { text-align: center; color: var(--text-tertiary); font-size: 0.9rem; margin-bottom: 32px; }
+    .hero-image {
+      width: 100%;
+      height: 200px;
+      background: var(--accent-blue);
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 48px;
+    }
+    .hero-image svg { width: 280px; height: 140px; }
+
+    /* Summary */
+    .summary-box {
+      font-style: italic;
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 48px;
+      padding: 24px;
+      background: var(--bg-white);
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+
+    /* Sections */
+    .section { margin-bottom: 64px; }
+    h2 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 2rem;
+      font-weight: 400;
+      margin-bottom: 24px;
+    }
+    h3 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.4rem;
+      font-weight: 400;
+      margin-top: 40px;
+      margin-bottom: 16px;
+    }
+    p { margin-bottom: 20px; font-size: 1.05rem; }
+
+    /* Stat row */
+    .stat-row { display: flex; gap: 40px; margin: 32px 0; }
+    .stat-item { flex: 1; text-align: center; }
+    .stat-number { font-family: Georgia, serif; font-size: 2.5rem; font-weight: 400; color: var(--accent-navy); margin-bottom: 4px; }
+    .stat-label { font-size: 0.9rem; color: var(--text-tertiary); }
+
+    /* Inline quote */
+    .inline-quote {
+      margin: 24px 0 24px 0;
+      padding: 16px 20px;
+      border-left: 3px solid var(--accent-navy);
+      background: var(--bg-white);
+      color: var(--text-secondary);
+      font-style: italic;
+      border-radius: 0 4px 4px 0;
+    }
+    .inline-quote .score {
+      font-size: 0.85rem;
+      color: var(--text-tertiary);
+      font-style: normal;
+      margin-top: 8px;
+    }
+
+    /* Data table */
+    .data-table { width: 100%; border-collapse: collapse; margin: 32px 0; font-size: 0.95rem; }
+    .data-table thead th {
+      text-align: left;
+      padding: 12px 16px;
+      border-bottom: 2px solid var(--text-primary);
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .data-table thead th:not(:first-child) { text-align: right; }
+    .data-table tbody td { padding: 12px 16px; border-bottom: 1px solid var(--border-light); }
+    .data-table tbody td:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+    .data-table .positive { color: var(--positive); }
+    .data-table .negative { color: var(--negative); }
+    .data-table .stable { color: var(--text-tertiary); }
+
+    /* Findings list */
+    ul.findings-list { list-style: none; margin: 24px 0; }
+    ul.findings-list li { position: relative; padding-left: 20px; margin-bottom: 16px; }
+    ul.findings-list li::before { content: "•"; position: absolute; left: 0; color: var(--accent-navy); }
+    ul.findings-list strong { font-weight: 600; }
+
+    /* Recommendations */
+    .recommendations {
+      background: var(--bg-white);
+      border-radius: 4px;
+      padding: 24px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .recommendations ol {
+      margin: 0;
+      padding-left: 24px;
+    }
+    .recommendations li {
+      margin-bottom: 16px;
+    }
+    .recommendations li:last-child {
+      margin-bottom: 0;
+    }
+    .recommendations strong {
+      color: var(--accent-navy);
+    }
+
+    /* Footer */
+    .site-footer {
+      margin-top: 80px;
+      padding-top: 40px;
+      border-top: 1px solid var(--border-light);
+      color: var(--text-tertiary);
+      font-size: 0.85rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .sidebar { display: none; }
+      .main-content { margin-left: 0; padding: 40px 24px; }
+      .stat-row { flex-direction: column; gap: 24px; }
+      .hero-title { font-size: 2rem; }
+    }
+
+    @media print {
+      .sidebar, .site-header { display: none; }
+      .main-content { margin-left: 0; padding: 0; }
+      .page-wrapper { display: block; padding-top: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">NOETHECA</div>
+  </header>
+
+  <div class="page-wrapper">
+    <aside class="sidebar">
+      <ul class="sidebar-nav">
+        <li><a href="#approach">Approach</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#what-players-want">What Players Want</a></li>
+        <li><a href="#whats-working">What's Working</a></li>
+        <li><a href="#validation">Validation</a></li>
+        <li><a href="#recommendations">Recommendations</a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <div class="content-column">
+
+        <!-- HERO -->
+        <div class="hero">
+          <p class="category-label">Reddit Community Analysis</p>
+          <h1 class="hero-title">Tales of the Shire: Community Insights</h1>
+          <p class="hero-date">January 2026</p>
+          <div class="hero-image">
+            <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+              <!-- Hobbit hole door -->
+              <circle cx="100" cy="60" r="35" fill="none" stroke="#1E3A5F" stroke-width="2"/>
+              <circle cx="100" cy="60" r="30" fill="none" stroke="#1E3A5F" stroke-width="1.5"/>
+              <circle cx="115" cy="60" r="3" fill="#1E3A5F"/>
+              <!-- Rolling hills -->
+              <path d="M0,85 Q30,70 60,80 Q90,90 120,75 Q150,60 180,70 Q200,80 200,100 L0,100 Z" fill="none" stroke="#1E3A5F" stroke-width="1.5"/>
+              <!-- Smoke from chimney -->
+              <path d="M140,45 Q145,35 140,25 Q135,15 140,5" fill="none" stroke="#1E3A5F" stroke-width="1.5" stroke-linecap="round"/>
+              <!-- Small flowers/garden -->
+              <circle cx="50" cy="78" r="2" fill="#1E3A5F"/>
+              <circle cx="55" cy="82" r="2" fill="#1E3A5F"/>
+              <circle cx="45" cy="81" r="2" fill="#1E3A5F"/>
+              <circle cx="150" cy="72" r="2" fill="#1E3A5F"/>
+              <circle cx="155" cy="68" r="2" fill="#1E3A5F"/>
+            </svg>
+          </div>
+        </div>
+
+        <!-- APPROACH -->
+        <section class="section" id="approach">
+          <h2>Approach</h2>
+          <p>We analyzed 10,751 comments from 2,160 unique authors in r/TalesofTheShiregamers spanning July 2025 to January 2026. Natural language processing identified 234 comments containing explicit feature requests, which we categorized into six themes.</p>
+          
+          <div class="stat-row">
+            <div class="stat-item">
+              <div class="stat-number">10,751</div>
+              <div class="stat-label">Comments Analyzed</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">2,160</div>
+              <div class="stat-label">Unique Authors</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">27</div>
+              <div class="stat-label">Weeks of Data</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- SUMMARY -->
+        <section class="section" id="summary">
+          <h2>Summary</h2>
+          <div class="summary-box">
+            The most requested features are not new content but basic interactions with existing content. Players want to sit on furniture they've already placed, pet animals they already own, receive dinner invitations from NPCs they already know, and celebrate birthdays with gift-giving (a core Hobbit tradition in the source material). Six themes emerged, in order of frequency: furniture interaction, animal interaction, NPC relationships, events and celebrations, quality of life improvements, and world expansion. Only the last requires net-new content development.
+          </div>
+        </section>
+
+        <!-- WHAT PLAYERS WANT -->
+        <section class="section" id="what-players-want">
+          <h2>What Players Want</h2>
+
+          <h3>1. Furniture and Home Interaction</h3>
+          <p>Players would like to sit on furniture and interact with items in their hobbit holes. The game features detailed interior decorating, and players want to use what they've built.</p>
+          
+          <div class="inline-quote">
+            "LETTING ME SIT DOWN ON ANY OF MY MULTIPLE CHAIRS/BENCHES!!!!!"
+            <div class="score">score: 24</div>
+          </div>
+          
+          <div class="inline-quote">
+            "I'm baffled that you can't actually interact with the majority of the things in your own house. There could be at least some cute animations of your Hobbit sitting in a chair and sipping cup of tea/coffee, reading a book or writing a letter."
+            <div class="score">score: 32</div>
+          </div>
+          
+          <div class="inline-quote">
+            "The main thing missing for me is being able to sit on my furniture and look around my hobbit hole in 1st person."
+            <div class="score">score: 17</div>
+          </div>
+          
+          <div class="inline-quote">
+            "I'd love to be able to 'use' a chair in my house to drink tea and read a book by the window while the rain fell."
+            <div class="score">score: 32</div>
+          </div>
+
+          <h3>2. Animal Interaction</h3>
+          <p>Players would like deeper relationships with their animals. The game includes chickens and other creatures, and players want to pet, name, and carry them.</p>
+          
+          <div class="inline-quote">
+            "I. Want. To. Pet. The. ANIMALS."
+            <div class="score">score: 33</div>
+          </div>
+          
+          <div class="inline-quote">
+            "Unable to name, pet, or greet our chickens. I want to carry my little chicken around and show her my gardens or take her on adventures foraging."
+            <div class="score">score: 41</div>
+          </div>
+          
+          <div class="inline-quote">
+            "I was immensely disappointed it stopped at chickens, all that space just for veggies?"
+            <div class="score">score: 33</div>
+          </div>
+
+          <h3>3. NPC Relationships</h3>
+          <p>Players would like more reciprocal social interactions. The game includes a meal-sharing system, and players want NPCs to invite them over rather than always being the host.</p>
+          
+          <div class="inline-quote">
+            "Have people invite you for dinner - why am I the only one doing it?? Makes no sense."
+            <div class="score">score: 17</div>
+          </div>
+          
+          <div class="inline-quote">
+            "I want them to be able to go into other hobbit's houses and have more casual dialogue options with the NPC hobbits."
+            <div class="score">score: 31</div>
+          </div>
+          
+          <div class="inline-quote">
+            "On the one hand, it's great that there are actually a bunch of hobbits populating Bywater. It makes the place feel alive. On the other hand, they might as well be rocks."
+            <div class="score">score: 37</div>
+          </div>
+
+          <h3>4. Events and Celebrations</h3>
+          <p>Players would like birthday parties and seasonal events. Birthday gift-giving is central to Hobbit culture in the source material, and players see this as a natural fit.</p>
+          
+          <div class="inline-quote">
+            "Birthday parties. Giving out birthday presents is a big part of Hobbit culture, and it would add a new set of activities and ways to build relationships in the game. Get a gift at one birthday, and regift it at yours (as the books say Hobbits often do)."
+            <div class="score">score: 60</div>
+          </div>
+          
+          <div class="inline-quote">
+            "The biggest thing missing from this game: Birthday parties. Hobbits love Birthday parties, and giving gifts. How this was overlooked, I don't know."
+            <div class="score">score: 22</div>
+          </div>
+
+          <h3>5. Quality of Life</h3>
+          <p>Players would like improved inventory management. The game includes extensive foraging and cooking systems, and players want smoother workflows.</p>
+          
+          <div class="inline-quote">
+            "A chest to store non-food items."
+            <div class="score">score: 32</div>
+          </div>
+          
+          <div class="inline-quote">
+            "I would like to see a 'deposit all' button for the pantry."
+            <div class="score">score: 24</div>
+          </div>
+          
+          <div class="inline-quote">
+            "And sell excess furniture!"
+            <div class="score">score: 20</div>
+          </div>
+
+          <h3>6. World Expansion</h3>
+          <p>Players would like new areas to explore. The game's map includes roads and locked doors that suggest future content, and players have specific ideas.</p>
+          
+          <div class="inline-quote">
+            "The road towards Delphi's has potential to lead to a new town/forest/cave/mountain etc. Whatever the locked door is for in our house, I want it."
+            <div class="score">score: 58</div>
+          </div>
+          
+          <div class="inline-quote">
+            "If they're doing expansions, I would really like more nearby areas of the Shire with new stories. Not far to the east of Bywater is a little village called Frogmorton."
+            <div class="score">score: 26</div>
+          </div>
+        </section>
+
+        <!-- WHAT'S WORKING -->
+        <section class="section" id="whats-working">
+          <h2>What's Working</h2>
+          <p>1,155 comments expressed strong positive sentiment. Common themes:</p>
+
+          <h3>Lore Authenticity</h3>
+          <p>Players appreciate how the game captures Hobbit culture and includes details from the source material.</p>
+          
+          <div class="inline-quote">
+            "I don't think the average person understands hobbits enough to get how wonderful this game captures being one!"
+            <div class="score">score: 123</div>
+          </div>
+          
+          <div class="inline-quote">
+            "It was really lovely as a long time LOTR fan!! I've read the trilogy countless times, and absolutely loved all the history tidbits sprinkled through Tales of the Shire."
+            <div class="score">score: 77</div>
+          </div>
+
+          <h3>Slow Pace and Low Stakes</h3>
+          <p>Players enjoy the relaxed gameplay without pressure or urgency.</p>
+          
+          <div class="inline-quote">
+            "I love how low stakes and slow paced everything seems. I'm just fiddling around and that's great."
+            <div class="score">score: 52</div>
+          </div>
+
+          <h3>Small Immersive Details</h3>
+          <p>Players notice and appreciate small touches that make the world feel lived-in.</p>
+          
+          <div class="inline-quote">
+            "I like running out to my mailbox, little things like that makes me feel like I'm living in the world."
+            <div class="score">score: 51</div>
+          </div>
+          
+          <div class="inline-quote">
+            "That's the way to write patch notes and keep people in a game!!!! It's not written like a non-player, sitting at a desk bored. No, it's all in on the lore and environment."
+            <div class="score">score: 76</div>
+          </div>
+
+          <h3>Value Proposition</h3>
+          <p>Players feel the game delivers good value without exploitative monetization.</p>
+          
+          <div class="inline-quote">
+            "For a $30 game it's amazing! No loot boxes or pay to win bs. Just good clean fun."
+            <div class="score">score: 53</div>
+          </div>
+        </section>
+
+        <!-- VALIDATION -->
+        <section class="section" id="validation">
+          <h2>Validation</h2>
+          <p>To confirm these themes reflect broader community sentiment, we searched the full corpus excluding the posts with feature requests.</p>
+
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Theme</th>
+                <th>Mentions in General Discussion</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Furniture/sitting</td>
+                <td>199</td>
+              </tr>
+              <tr>
+                <td>Animals</td>
+                <td>165</td>
+              </tr>
+              <tr>
+                <td>NPC/social</td>
+                <td>194</td>
+              </tr>
+              <tr>
+                <td>Birthday/events</td>
+                <td>66</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <p>Temporal analysis across 27 weeks shows how player desire for these features changed from launch to January 2026.</p>
+
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Theme</th>
+                <th>Desire Over 27 Weeks (July 2025 - January 2026)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Furniture/sitting</td>
+                <td class="positive">↑ Increasing (+27%)</td>
+              </tr>
+              <tr>
+                <td>Animals</td>
+                <td class="stable">→ Stable</td>
+              </tr>
+              <tr>
+                <td>NPC/social</td>
+                <td class="negative">↓ Declining (-23%)</td>
+              </tr>
+              <tr>
+                <td>Birthday/events</td>
+                <td class="stable">→ Stable</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <p>Furniture interaction requests increased 27% from launch to January 2026. Animal and event requests remained stable throughout. NPC relationship mentions declined 23%, possibly indicating player adaptation or attrition.</p>
+        </section>
+
+        <!-- RECOMMENDATIONS -->
+        <section class="section" id="recommendations">
+          <h2>Recommendations</h2>
+          <div class="recommendations">
+            <ol>
+              <li><strong>Furniture interaction</strong> - Enable sitting animations on chairs, benches, and couches. High frequency, increasing over time.</li>
+              <li><strong>Animal interaction</strong> - Add pet/greet interactions for chickens and other animals.</li>
+              <li><strong>Social reciprocity</strong> - Implement NPC dinner invitations so players are guests, not only hosts.</li>
+              <li><strong>Birthday system</strong> - Add birthday events with gift-giving mechanics. Strong alignment with source material. Also an opportunity to capture player birth dates for personalized engagement and annual return hooks.</li>
+            </ol>
+          </div>
+        </section>
+
+        <footer class="site-footer">
+          <p>© 2026 Noetheca Research. Analysis based on publicly available Reddit data.</p>
+        </footer>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // Sidebar scroll highlighting
+    const sections = document.querySelectorAll('section[id]');
+    const navLinks = document.querySelectorAll('.sidebar-nav a');
+    window.addEventListener('scroll', () => {
+      let current = '';
+      sections.forEach(section => {
+        if (scrollY >= section.offsetTop - 100) current = section.getAttribute('id');
+      });
+      navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href') === `#${current}`) link.classList.add('active');
+      });
+    });
+  </script>
+</body>
+</html>
