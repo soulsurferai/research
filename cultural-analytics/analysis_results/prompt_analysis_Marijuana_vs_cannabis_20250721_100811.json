@@ -1,0 +1,54 @@
+# Subreddit Worldview Analysis Results
+
+## Task: Interpret the semantic differences between r/Marijuana and r/cannabis
+
+I've analyzed the semantic embeddings and language patterns of two subreddits using vector similarity and NLP techniques. Below are the key findings. Please provide a thoughtful interpretation of what these results reveal about the worldviews, values, and communication patterns of these communities.
+
+### Key Metrics:
+- Jensen-Shannon Distance: 0.24530203185507873
+- Cosine Similarity: 0.8773529135029072
+
+### Distinctive Concepts for r/Marijuana:
+terpenes, edible, resin, pressure, jar, panic, pen, cold, attack, generally, chs, rate, buzz, mild, withdrawal
+
+### Distinctive Concepts for r/cannabis:
+election, justice, substances, enforcement, dumb, shrine, rights, huge, list, production, message, amendment, subject, voted, reschedule
+
+### Common Concepts:
+
+
+### Lexical Emotional Profile Comparison:
+- Top emotions in r/Marijuana: cognitive (0.165), uncertainty (0.103), moral (0.102), certainty (0.092), anger (0.054)
+- Top emotions in r/cannabis: cognitive (0.167), moral (0.119), certainty (0.079), uncertainty (0.073), anger (0.050)
+
+### Embedding-Based Emotional Profile:
+- Dominant emotions in r/Marijuana: fear (0.152), confusion (0.147), guilt (0.143), joy (0.141), contentment (0.138)
+- Dominant emotions in r/cannabis: anger (0.141), disgust (0.123), joy (0.120), surprise (0.119), fear (0.119)
+
+### Largest Emotional Differences:
+contentment (0.043 higher in r/Marijuana), empathy (0.036 higher in r/Marijuana), confusion (0.035 higher in r/Marijuana), shame (0.035 higher in r/Marijuana), fear (0.033 higher in r/Marijuana)
+
+### Emotional Bridges (Shared Emotions):
+
+
+### Sample Comment from r/Marijuana:
+"Hmmm not so sure...."
+
+### Sample Comment from r/cannabis:
+"Gotcha, yeah just based on the flavor improvement alone I would never switch back to smoking. I sometimes experience what you describe as far as the extra throat and lung irritation (although not as s..."
+
+### Potential Bridge Comments (High Cross-Community Similarity):
+1. r/Marijuana: "I run daily, and my stoned runs are easily my most enjoyable!..."
+   r/cannabis: "I enjoy getting high before working out. Feels amazing coupled with the runner’s high...."
+
+### Thematic Bridges:
+have, just, cannabis, dont, weed
+
+## Questions for interpretation:
+1. What are the defining characteristics of each community's worldview?
+2. How do these communities differ in their emotional and cognitive approaches?
+3. What potential bridges exist for communication between these communities?
+4. What underlying values or assumptions might explain these semantic differences?
+5. How might these differences influence how members of each community interpret the same information?
+
+Please provide a thoughtful analysis that could help understand the perspective gaps between these communities and potential approaches to bridge them.
