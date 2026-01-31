@@ -1,0 +1,1274 @@
+{
+  "metadata": {
+    "export_date": "2025-12-13 21:01:51",
+    "analyst": "James Root",
+    "notebooks": [
+      "youtube_analysis_v1.ipynb",
+      "nyfa_mentions_analysis.ipynb"
+    ],
+    "data_sources": [
+      "filmcourage_12132025.csv",
+      "newyorkfilmacademy_12132025.csv"
+    ]
+  },
+  "channel_performance": {
+    "nyfa": {
+      "total_videos": 1135,
+      "total_views": 10391812,
+      "median_vpd": 0.35,
+      "mean_vpd": 7.3758061674008815,
+      "engagement_rate_median": 1.29,
+      "median_duration_min": 4.866666666666666,
+      "median_views": 1048,
+      "date_range": "2007-2025"
+    },
+    "film_courage_all": {
+      "total_videos": 6383,
+      "total_views": 104359405,
+      "median_vpd": 1.63,
+      "mean_vpd": 10.91106376312079,
+      "engagement_rate_median": 3.3,
+      "median_duration_min": 7.366666666666666,
+      "median_views": 3568,
+      "date_range": "2009-2025"
+    },
+    "film_courage_nyfa_mentions": {
+      "total_videos": 52,
+      "total_views": 450640,
+      "median_vpd": 12.754999999999999,
+      "mean_vpd": 21.424038461538455,
+      "engagement_rate_median": 4.45,
+      "median_duration_min": 11.866666666666667,
+      "avg_views_per_video": 8666,
+      "median_views": 4098,
+      "total_likes": 16483,
+      "total_comments": 1359,
+      "date_range": "2016-2025"
+    },
+    "film_courage_non_nyfa": {
+      "total_videos": 6331,
+      "median_vpd": 1.59,
+      "engagement_rate_median": 3.29,
+      "median_duration_min": 7.283333333333333
+    }
+  },
+  "performance_ratios": {
+    "fc_vs_nyfa_efficiency": 4.66,
+    "fc_nyfa_mentions_vs_fc_baseline": 8.02,
+    "fc_nyfa_mentions_vs_nyfa_channel": 36.44,
+    "fc_engagement_vs_nyfa": 2.56
+  },
+  "nyfa_mentions_timeline": {
+    "2016": 2,
+    "2020": 3,
+    "2021": 11,
+    "2024": 6,
+    "2025": 30
+  },
+  "revenue_estimates": {
+    "total_views_nyfa_mentions": 450640,
+    "cpm_low": 2,
+    "cpm_high": 10,
+    "revenue_low_estimate": 901.28,
+    "revenue_high_estimate": 4506.4
+  },
+  "title_analysis": {
+    "fc_nyfa_mentions": {
+      "median_title_length": 71.5,
+      "question_titles_pct": 7.69,
+      "how_in_titles_pct": 21.15,
+      "all_caps_pct": 21.15
+    },
+    "fc_non_nyfa": {
+      "median_title_length": 66.0,
+      "question_titles_pct": 9.57,
+      "how_in_titles_pct": 16.0,
+      "all_caps_pct": 18.48
+    },
+    "nyfa_channel": {
+      "median_title_length": 49.0,
+      "question_titles_pct": 0.88,
+      "how_in_titles_pct": 1.23,
+      "all_caps_pct": 58.5
+    }
+  },
+  "bigram_analysis": {
+    "fc_nyfa_mentions_top_20": [
+      "van ditthavong: 14",
+      "craig caton: 10",
+      "caton largent: 10",
+      "andrew zinnes: 9",
+      "eric conner: 7",
+      "suki medencevic: 7",
+      "full interview: 5",
+      "how to: 4",
+      "lynda goodfriend: 3",
+      "movie business: 3",
+      "business craig: 3",
+      "to learn: 3",
+      "pro cinematographer: 3",
+      "cinematography suki: 3",
+      "to write: 3",
+      "truth about: 3",
+      "a production: 3",
+      "production company: 3",
+      "what does: 2",
+      "does conflict: 2"
+    ],
+    "fc_non_nyfa_top_20": [
+      "full interview: 377",
+      "how to: 362",
+      "a movie: 346",
+      "a screenplay: 241",
+      "don t: 182",
+      "a filmmaker: 172",
+      "a screenwriter: 172",
+      "to be: 142",
+      "to make: 139",
+      "to write: 131",
+      "an actor: 120",
+      "a writer: 120",
+      "of a: 113",
+      "writing a: 112",
+      "movie by: 111",
+      "how i: 109",
+      "make a: 100",
+      "by michael: 98",
+      "in hollywood: 97",
+      "it s: 90"
+    ],
+    "nyfa_channel_top_20": [
+      "academy nyfa: 157",
+      "guest speaker: 97",
+      "speaker series: 90",
+      "nyfa guest: 82",
+      "20 20: 80",
+      "20 series: 80",
+      "directed by: 79",
+      "academy student: 79",
+      "at academy: 78",
+      "q a: 69",
+      "school nyfa: 56",
+      "guest lecture: 53",
+      "nyfa s: 46",
+      "student project: 42",
+      "part 2: 37",
+      "part 1: 36",
+      "1 academy: 33",
+      "s q: 30",
+      "a list: 30",
+      "tova laiter: 30"
+    ]
+  },
+  "all_nyfa_mention_videos": [
+    {
+      "title": "What Does Conflict In Every Scene REALLY Mean? - Eric Conner [FULL INTERVIEW]",
+      "published": "2025-11-08",
+      "year": 2025,
+      "views": 4627,
+      "likes": 152,
+      "comments": 4,
+      "views_per_day": 132.2,
+      "engagement_rate": 3.37,
+      "duration_min": 85.5,
+      "url": "https://youtube.com/watch?v=BrrBWgI8cec",
+      "nyfa_mention_contexts": [
+        "Why You're Never Too Young To Write A Movie 1:14:53 - 5 Tips For Making A Short Film  Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS I've Been Teaching Writing For 25 Years... Avoid These Mis",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS I've Been Teaching Writing For 25 Years... Avoid These Mistakes - https://y",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS I've Been Teaching Writing For 25 Years... Avoid These Mistakes - https://youtu.be/LxCQfyWK0Ds T",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS I've Been Teaching Writing For 25 Years... Avoid These Mistakes - https://youtu.be/LxCQfyWK0Ds The Idea: The Seven"
+      ]
+    },
+    {
+      "title": "Most New Writers Have A Hard Time Learning This - Andrew Zinnes",
+      "published": "2024-12-11",
+      "year": 2024,
+      "views": 41485,
+      "likes": 1478,
+      "comments": 94,
+      "views_per_day": 113.04,
+      "engagement_rate": 3.79,
+      "duration_min": 11.7,
+      "url": "https://youtube.com/watch?v=XOkJPDGmxkQ",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  MORE FILM COURAG"
+      ]
+    },
+    {
+      "title": "Where Most New Writers Go Wrong - Andrew Zinnes [FULL INTERVIEW]",
+      "published": "2025-09-23",
+      "year": 2025,
+      "views": 8000,
+      "likes": 234,
+      "comments": 15,
+      "views_per_day": 98.77,
+      "engagement_rate": 3.11,
+      "duration_min": 95.1,
+      "url": "https://youtube.com/watch?v=cBeQrRARRtU",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  BUY THE BOOK - S"
+      ]
+    },
+    {
+      "title": "Acting Is 99% Text Analysis - Lynda Goodfriend",
+      "published": "2025-11-04",
+      "year": 2025,
+      "views": 2452,
+      "likes": 163,
+      "comments": 14,
+      "views_per_day": 62.87,
+      "engagement_rate": 7.22,
+      "duration_min": 11.1,
+      "url": "https://youtube.com/watch?v=Uu2OgGd9iHU",
+      "nyfa_mention_contexts": [
+        "thanks to Christopher Pettoni for his work behind the scenes to make this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasbur",
+        "ettoni for his work behind the scenes to make this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasburg and ",
+        "also worked in talent management, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New Yo",
+        "gement, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) pro",
+        "w.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "Biggest Difference Between Bad Cinematography and Great Cinematography - Suki Medencevic",
+      "published": "2025-05-25",
+      "year": 2025,
+      "views": 9404,
+      "likes": 420,
+      "comments": 20,
+      "views_per_day": 46.55,
+      "engagement_rate": 4.68,
+      "duration_min": 8.5,
+      "url": "https://youtube.com/watch?v=4Z7EThdU4Ao",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COUR",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANN",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DP",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DPN37  PERSONALLY SP"
+      ]
+    },
+    {
+      "title": "How One Person Can Start A Production Company - Van Ditthavong",
+      "published": "2021-02-01",
+      "year": 2021,
+      "views": 74144,
+      "likes": 2504,
+      "comments": 99,
+      "views_per_day": 41.75,
+      "engagement_rate": 3.51,
+      "duration_min": 15.9,
+      "url": "https://youtube.com/watch?v=91pyaqUjMbk",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "Big Reason Why Many People Quit The Movie Business - Craig Caton-Largent",
+      "published": "2025-07-14",
+      "year": 2025,
+      "views": 5436,
+      "likes": 191,
+      "comments": 49,
+      "views_per_day": 35.76,
+      "engagement_rate": 4.42,
+      "duration_min": 8.9,
+      "url": "https://youtube.com/watch?v=sMAV8USktt4",
+      "nyfa_mention_contexts": [
+        "ZGd  With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "How To Know You Have A Good Story Idea - Andrew Zinnes",
+      "published": "2025-02-11",
+      "year": 2025,
+      "views": 10284,
+      "likes": 369,
+      "comments": 42,
+      "views_per_day": 33.72,
+      "engagement_rate": 4.0,
+      "duration_min": 15.6,
+      "url": "https://youtube.com/watch?v=6hVXQUuH5q8",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  BUY THE BOOK - S"
+      ]
+    },
+    {
+      "title": "How To Know If A Screenplay Has Been Written Too Fast - Andrew Zinnes",
+      "published": "2024-11-20",
+      "year": 2024,
+      "views": 12544,
+      "likes": 377,
+      "comments": 26,
+      "views_per_day": 32.33,
+      "engagement_rate": 3.21,
+      "duration_min": 13.4,
+      "url": "https://youtube.com/watch?v=kUGYoohMGKs",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  MORE FILM COURAG"
+      ]
+    },
+    {
+      "title": "Best Movies To Watch To Learn The Craft Of Filmmaking - Craig Caton-Largent",
+      "published": "2025-08-05",
+      "year": 2025,
+      "views": 3918,
+      "likes": 183,
+      "comments": 18,
+      "views_per_day": 30.14,
+      "engagement_rate": 5.13,
+      "duration_min": 10.0,
+      "url": "https://youtube.com/watch?v=xCfUo2Hj1zA",
+      "nyfa_mention_contexts": [
+        " https://payhip.com/b/ZTvq9 and  17 Steps To Writing A Great Main Character - https://payhip.com/b/kCZGd  In this interview, Film Courage speaks with New York Film Academy visual effects artist and  current Chair of 3D Animation & VFX Craig Caton-Largent on movies filmmakers should watch. We also share thoughts from Fil",
+        "rs.  With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "How A Daydreamer Started A Production Company & Became A Filmmaker - Van Ditthavong [FULL INTERVIEW]",
+      "published": "2021-12-05",
+      "year": 2021,
+      "views": 42578,
+      "likes": 1050,
+      "comments": 38,
+      "views_per_day": 28.98,
+      "engagement_rate": 2.56,
+      "duration_min": 197.9,
+      "url": "https://youtube.com/watch?v=U577Y0LHGy8",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "What Does Conflict In Every Scene ACTUALLY Mean? - Eric Conner",
+      "published": "2025-01-30",
+      "year": 2025,
+      "views": 7557,
+      "likes": 327,
+      "comments": 38,
+      "views_per_day": 23.84,
+      "engagement_rate": 4.83,
+      "duration_min": 14.6,
+      "url": "https://youtube.com/watch?v=LntSEJiv5ew",
+      "nyfa_mention_contexts": [
+        "Eric has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "ic has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Most New Writers Struggle With Conflict - https://youtu.be",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Most New Writers Struggle With Conflict - https://youtu.be/AzYfoZ8nFn0 What",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Most New Writers Struggle With Conflict - https://youtu.be/AzYfoZ8nFn0 What Screenwriters Get Wr",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Most New Writers Struggle With Conflict - https://youtu.be/AzYfoZ8nFn0 What Screenwriters Get Wrong About Meaningf"
+      ]
+    },
+    {
+      "title": "If You Want A Better Acting Performance Focus On These Two Things - Lynda Goodfriend",
+      "published": "2025-08-21",
+      "year": 2025,
+      "views": 2700,
+      "likes": 169,
+      "comments": 9,
+      "views_per_day": 23.68,
+      "engagement_rate": 6.59,
+      "duration_min": 11.5,
+      "url": "https://youtube.com/watch?v=fTLt2eNVKNw",
+      "nyfa_mention_contexts": [
+        "nks to Christopher Pettoni for his work behind the scenes and making this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasbur",
+        "oni for his work behind the scenes and making this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasburg and ",
+        "also worked in talent management, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New Yo",
+        "gement, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) pro",
+        "w.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "Filmmakers Can Make A Lot Of Mistakes But This Is Probably The Worst One - Andrew Zinnes",
+      "published": "2025-03-11",
+      "year": 2025,
+      "views": 6189,
+      "likes": 226,
+      "comments": 21,
+      "views_per_day": 22.34,
+      "engagement_rate": 3.99,
+      "duration_min": 12.4,
+      "url": "https://youtube.com/watch?v=CzSFN62-JeA",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  BUY THE BOOK - S"
+      ]
+    },
+    {
+      "title": "If You Know The Ending... You Know The Beginning (Writing Advice) - Andrew Zinnes",
+      "published": "2024-11-07",
+      "year": 2024,
+      "views": 8812,
+      "likes": 360,
+      "comments": 20,
+      "views_per_day": 21.98,
+      "engagement_rate": 4.31,
+      "duration_min": 8.7,
+      "url": "https://youtube.com/watch?v=szBV1ViITLU",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  MORE FILM COURAG"
+      ]
+    },
+    {
+      "title": "Pro Cinematographer On The Best Way To Learn Lighting - Suki Medencevic",
+      "published": "2025-06-23",
+      "year": 2025,
+      "views": 3706,
+      "likes": 167,
+      "comments": 15,
+      "views_per_day": 21.42,
+      "engagement_rate": 4.91,
+      "duration_min": 8.9,
+      "url": "https://youtube.com/watch?v=EwB72hU-NlM",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE T",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way T",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way To Be A Cinematogra"
+      ]
+    },
+    {
+      "title": "Proven Strategies To Help Writers Generate Story Ideas - Eric Conner",
+      "published": "2025-02-20",
+      "year": 2025,
+      "views": 6165,
+      "likes": 247,
+      "comments": 18,
+      "views_per_day": 20.83,
+      "engagement_rate": 4.3,
+      "duration_min": 12.0,
+      "url": "https://youtube.com/watch?v=dkcWXL62hcc",
+      "nyfa_mention_contexts": [
+        "ESTIONS: How To Unlock Your Story One Question At A Time https://payhip.com/b/ZTvq9   Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://y",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew The Idea: The Seve",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew The Idea: The Seven Elements of a Vi"
+      ]
+    },
+    {
+      "title": "5 Tips For Making A Short Film - Eric Conner",
+      "published": "2025-05-23",
+      "year": 2025,
+      "views": 4160,
+      "likes": 173,
+      "comments": 27,
+      "views_per_day": 20.39,
+      "engagement_rate": 4.81,
+      "duration_min": 10.8,
+      "url": "https://youtube.com/watch?v=wzMhnUKeC5A",
+      "nyfa_mention_contexts": [
+        "/ZTvq9 and  17 Steps To Writing A Great Main Character -  https://payhip.com/b/kCZGd  Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://y",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew 5 Tips For Writing",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew 5 Tips For Writing A Short Film - ht"
+      ]
+    },
+    {
+      "title": "Truth About Writing A Great Scene - Eric Conner",
+      "published": "2025-03-27",
+      "year": 2025,
+      "views": 5178,
+      "likes": 191,
+      "comments": 9,
+      "views_per_day": 19.84,
+      "engagement_rate": 3.86,
+      "duration_min": 12.2,
+      "url": "https://youtube.com/watch?v=IB5Zahubb3M",
+      "nyfa_mention_contexts": [
+        "ESTIONS: How To Unlock Your Story One Question At A Time https://payhip.com/b/ZTvq9   Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS ON THIS TOPIC What Does Conflict In Every Scene REALLY Mean? - https",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS ON THIS TOPIC What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS ON THIS TOPIC What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew How To Write A",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS ON THIS TOPIC What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew How To Write A Great Scene - htt"
+      ]
+    },
+    {
+      "title": "9 Truths About The Movie Business - Craig Caton-Largent [FULL INTERVIEW]",
+      "published": "2025-09-20",
+      "year": 2025,
+      "views": 1610,
+      "likes": 52,
+      "comments": 10,
+      "views_per_day": 19.17,
+      "engagement_rate": 3.85,
+      "duration_min": 119.9,
+      "url": "https://youtube.com/watch?v=RrmKkDlprnI",
+      "nyfa_mention_contexts": [
+        "ing  With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "Film School Professor Comments On Whether Students Should Use AI - Eric Conner",
+      "published": "2025-05-03",
+      "year": 2025,
+      "views": 4153,
+      "likes": 151,
+      "comments": 72,
+      "views_per_day": 18.54,
+      "engagement_rate": 5.37,
+      "duration_min": 9.5,
+      "url": "https://youtube.com/watch?v=gNey0dEExbc",
+      "nyfa_mention_contexts": [
+        "ESTIONS: How To Unlock Your Story One Question At A Time https://payhip.com/b/ZTvq9   Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://y",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew This Is Why Writer",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS What Does Conflict In Every Scene REALLY Mean? - https://youtu.be/LntSEJiv5ew This Is Why Writers Shouldn't Worry "
+      ]
+    },
+    {
+      "title": "Former Script Reader Shares 3 Lessons On Breaking Into The Film Industry - Andrew Zinnes",
+      "published": "2025-07-24",
+      "year": 2025,
+      "views": 2573,
+      "likes": 102,
+      "comments": 5,
+      "views_per_day": 18.12,
+      "engagement_rate": 4.16,
+      "duration_min": 10.0,
+      "url": "https://youtube.com/watch?v=cAENr1fruXc",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  BUY THE BOOK - S"
+      ]
+    },
+    {
+      "title": "Pro Cinematographer Reveals 6 Truths About Cinematography - Suki Medencevic [FULL INTERVIEW]",
+      "published": "2025-07-20",
+      "year": 2025,
+      "views": 2484,
+      "likes": 95,
+      "comments": 6,
+      "views_per_day": 17.01,
+      "engagement_rate": 4.07,
+      "duration_min": 59.3,
+      "url": "https://youtube.com/watch?v=nMIFINOXhto",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE T",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way T",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way To Be A Cinematogra"
+      ]
+    },
+    {
+      "title": "If You Can't Tell Your Story Succinctly... Then You Don't Know It - Andrew Zinnes",
+      "published": "2025-04-08",
+      "year": 2025,
+      "views": 3535,
+      "likes": 132,
+      "comments": 6,
+      "views_per_day": 14.2,
+      "engagement_rate": 3.9,
+      "duration_min": 10.8,
+      "url": "https://youtube.com/watch?v=1PbfOJ0VSrA",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  BUY THE BOOK - S"
+      ]
+    },
+    {
+      "title": "If You Want To Be A Cinematographer This Is A Great Lesson - Suki Medencevic",
+      "published": "2025-07-04",
+      "year": 2025,
+      "views": 2276,
+      "likes": 91,
+      "comments": 11,
+      "views_per_day": 14.05,
+      "engagement_rate": 4.48,
+      "duration_min": 11.9,
+      "url": "https://youtube.com/watch?v=FSochcoR2zo",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE T",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way T",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way To Be A Cinematogra"
+      ]
+    },
+    {
+      "title": "What I Wish I Knew Before Moving To Los Angeles by Actor Lucas Zaffari",
+      "published": "2016-08-01",
+      "year": 2016,
+      "views": 43964,
+      "likes": 1260,
+      "comments": 86,
+      "views_per_day": 12.85,
+      "engagement_rate": 3.06,
+      "duration_min": 5.2,
+      "url": "https://youtube.com/watch?v=CPAzCedyqK0",
+      "nyfa_mention_contexts": [
+        "  In 2014, Brazilian born Lucas Zaffari moved to Hollywood to pursue his career in acting. He completed a one-year acting conservatory program at the New York Film Academy. Aside from being an actor, Zaffari performs as a voice over artist and interpreter. Fluent in Portuguese, English and Spanish, Zaffari landed his fi"
+      ]
+    },
+    {
+      "title": "How To Develop A Movie Idea In 10 Minutes - Van Ditthavong",
+      "published": "2021-01-08",
+      "year": 2021,
+      "views": 22792,
+      "likes": 896,
+      "comments": 52,
+      "views_per_day": 12.66,
+      "engagement_rate": 4.16,
+      "duration_min": 13.6,
+      "url": "https://youtube.com/watch?v=KUHrOKo05gg",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "What Do Managers Look For In An Actor? - Lynda Goodfriend",
+      "published": "2025-08-07",
+      "year": 2025,
+      "views": 1585,
+      "likes": 67,
+      "comments": 10,
+      "views_per_day": 12.38,
+      "engagement_rate": 4.86,
+      "duration_min": 12.8,
+      "url": "https://youtube.com/watch?v=DEiknY36eoU",
+      "nyfa_mention_contexts": [
+        " To Writing A Great Main Character - https://payhip.com/b/kCZGd  In this interview, Film Courage speaks with Creative Director for Acting for Film at New York Film Academy Los Angeles Lynda Goodfriend about what talent managers want.  Our gratitude to Anthony Leone for crafting this set!  And a special thanks to Christo",
+        "nks to Christopher Pettoni for his work behind the scenes and making this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasbur",
+        "oni for his work behind the scenes and making this possible!  Lynda Goodfriend is the Creative Director for Acting for Film at New York Film Academy (NYFA) Los Angeles  Lynda Goodfriend received her BFA from Southern Methodist University and did her acting study with legendary masters Lee Strasburg and ",
+        "also worked in talent management, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New Yo",
+        "gement, even opening her own firm, and has directed several television projects.  CONNECT WITH LYNDA GOODFRIEND https://www.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) pro",
+        "w.nyfa.edu/film-school-blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "blog/nyfa-acting-for-film-faculty-lynda-goodfriend https://www.imdb.com/name/nm0328898  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "99% Of Screenplays Are Not Garbage - Andrew Zinnes",
+      "published": "2025-01-16",
+      "year": 2025,
+      "views": 3918,
+      "likes": 133,
+      "comments": 32,
+      "views_per_day": 11.84,
+      "engagement_rate": 4.21,
+      "duration_min": 12.4,
+      "url": "https://youtube.com/watch?v=r14ZlGkYA9A",
+      "nyfa_mention_contexts": [
+        "ng his documentary filmmaking experience, Andrew was the perfect co-author for The Documentary Film Makers Handbook. He has taught documentary at the NY Film Academy and has lectured on filmmaking at schools and colleges around the US. He is a founding partner of the film company Crazee Pictures.  MORE FILM COURAG"
+      ]
+    },
+    {
+      "title": "How Telling The Truth... Led To A 20 Year Job With Steven Spielberg - Craig Caton-Largent",
+      "published": "2025-01-02",
+      "year": 2025,
+      "views": 4043,
+      "likes": 194,
+      "comments": 21,
+      "views_per_day": 11.72,
+      "engagement_rate": 5.32,
+      "duration_min": 10.9,
+      "url": "https://youtube.com/watch?v=nEjxadWZAIs",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://ww",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmco",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmcourage https://www."
+      ]
+    },
+    {
+      "title": "Pro Cinematographer Reveals The Truth About Cinematography - Suki Medencevic, ASC",
+      "published": "2025-04-12",
+      "year": 2025,
+      "views": 2593,
+      "likes": 107,
+      "comments": 11,
+      "views_per_day": 10.58,
+      "engagement_rate": 4.55,
+      "duration_min": 11.1,
+      "url": "https://youtube.com/watch?v=6A6Dl8kKFHI",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COUR",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANN",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DP",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DPN37  PERSONALLY SP"
+      ]
+    },
+    {
+      "title": "What Beginning Cinematographers Should Know As They Get Started - Suki Medencevic, ASC",
+      "published": "2025-03-13",
+      "year": 2025,
+      "views": 2745,
+      "likes": 120,
+      "comments": 7,
+      "views_per_day": 9.98,
+      "engagement_rate": 4.63,
+      "duration_min": 10.2,
+      "url": "https://youtube.com/watch?v=cq5Di9TvQBk",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COUR",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANN",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DP",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL http://bit.ly/18DPN37  PERSONALLY SP"
+      ]
+    },
+    {
+      "title": "Most Common Mistake That New Cinematographers Make - Suki Medencevic",
+      "published": "2025-06-06",
+      "year": 2025,
+      "views": 1861,
+      "likes": 76,
+      "comments": 10,
+      "views_per_day": 9.79,
+      "engagement_rate": 4.62,
+      "duration_min": 9.1,
+      "url": "https://youtube.com/watch?v=rzs4T-2ak_o",
+      "nyfa_mention_contexts": [
+        "I MEDENCEVIC https://www.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "w.sukiasc.com https://www.imdb.com/name/nm0575530 https://www.instagram.com/sukimedeni  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE T",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way T",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS Best Way To Learn Cinematography Right Now - https://youtu.be/RnxkxlCjYNE There\u2019s Only One Way To Be A Cinematogra"
+      ]
+    },
+    {
+      "title": "Why You're Never Too Young To Write A Movie - Eric Conner",
+      "published": "2025-06-13",
+      "year": 2025,
+      "views": 1600,
+      "likes": 62,
+      "comments": 5,
+      "views_per_day": 8.74,
+      "engagement_rate": 4.19,
+      "duration_min": 11.8,
+      "url": "https://youtube.com/watch?v=8dNQIyhFHqQ",
+      "nyfa_mention_contexts": [
+        "/ZTvq9 and  17 Steps To Writing A Great Main Character -  https://payhip.com/b/kCZGd  Eric Conner has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Djang",
+        "er has taught hundreds of aspiring storytellers at the New York Film Academy (LA), the Writer\u2019s Store, the Animation Guild and Starcoach \u2013 China.  At NYFA, he\u2019s interviewed dozens of entertainment professionals including Django Unchained producer Reginald Hudlin and John Wick director Chad Stahelski and",
+        "ONNECT WITH ERIC CONNER https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        " https://www.imdb.com/name/nm1289127 https://www.linkedin.com/in/eric-conner-57370771   Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS 5 Tips For Making A Short Film - https://youtu.be/wzMhnUKe",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS 5 Tips For Making A Short Film - https://youtu.be/wzMhnUKeC5A How A 23 Year",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS 5 Tips For Making A Short Film - https://youtu.be/wzMhnUKeC5A How A 23 Year Old Writer Sells The",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  MORE VIDEOS LIKE THIS 5 Tips For Making A Short Film - https://youtu.be/wzMhnUKeC5A How A 23 Year Old Writer Sells Their Screenplay To H"
+      ]
+    },
+    {
+      "title": "Day I Realized That CGI Was Taking Over Hollywood - Craig Caton-Largent",
+      "published": "2025-01-21",
+      "year": 2025,
+      "views": 2540,
+      "likes": 106,
+      "comments": 19,
+      "views_per_day": 7.79,
+      "engagement_rate": 4.92,
+      "duration_min": 14.7,
+      "url": "https://youtube.com/watch?v=dnch0qn3li4",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://ww",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmco",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmcourage https://www."
+      ]
+    },
+    {
+      "title": "First Screenplay Took Years To Write, Now It Takes 4 Months - Van Ditthavong",
+      "published": "2021-07-26",
+      "year": 2021,
+      "views": 12211,
+      "likes": 484,
+      "comments": 55,
+      "views_per_day": 7.63,
+      "engagement_rate": 4.41,
+      "duration_min": 8.5,
+      "url": "https://youtube.com/watch?v=DRsoJRCzX6I",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "How Filmmaking Is Better Today Than It Was 30 Years Ago - Craig Caton-Largent",
+      "published": "2025-02-17",
+      "year": 2025,
+      "views": 2252,
+      "likes": 98,
+      "comments": 33,
+      "views_per_day": 7.53,
+      "engagement_rate": 5.82,
+      "duration_min": 12.9,
+      "url": "https://youtube.com/watch?v=iWdcduc37II",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "Only Motivation A Writer Needs - Van Ditthavong",
+      "published": "2021-03-26",
+      "year": 2021,
+      "views": 12002,
+      "likes": 556,
+      "comments": 53,
+      "views_per_day": 6.97,
+      "engagement_rate": 5.07,
+      "duration_min": 8.1,
+      "url": "https://youtube.com/watch?v=ckyIEr8deaw",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "How The Dinosaurs In Jurassic Park Were Created - Craig Caton-Largent",
+      "published": "2024-11-14",
+      "year": 2024,
+      "views": 2624,
+      "likes": 119,
+      "comments": 20,
+      "views_per_day": 6.66,
+      "engagement_rate": 5.3,
+      "duration_min": 11.1,
+      "url": "https://youtube.com/watch?v=cMotsWIM1uE",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://ww",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmco",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmcourage https://www."
+      ]
+    },
+    {
+      "title": "I Didn't Know Anything About Screenwriting Or Filmmaking When I Started - Van Ditthavong",
+      "published": "2021-05-22",
+      "year": 2021,
+      "views": 10346,
+      "likes": 442,
+      "comments": 31,
+      "views_per_day": 6.21,
+      "engagement_rate": 4.57,
+      "duration_min": 15.1,
+      "url": "https://youtube.com/watch?v=hgexyqZtGNk",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "The Truth About Finding Work In The Movie Business - Craig Caton-Largent",
+      "published": "2024-12-13",
+      "year": 2024,
+      "views": 2257,
+      "likes": 84,
+      "comments": 23,
+      "views_per_day": 6.18,
+      "engagement_rate": 4.74,
+      "duration_min": 13.6,
+      "url": "https://youtube.com/watch?v=JgULCYQeF_o",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://ww",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmco",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmcourage https://www."
+      ]
+    },
+    {
+      "title": "12 Principles Of Animation (According To Disney) - Craig Caton-Largent",
+      "published": "2024-11-26",
+      "year": 2024,
+      "views": 2187,
+      "likes": 114,
+      "comments": 9,
+      "views_per_day": 5.73,
+      "engagement_rate": 5.62,
+      "duration_min": 29.3,
+      "url": "https://youtube.com/watch?v=7mI_YmG4mDI",
+      "nyfa_mention_contexts": [
+        "With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://ww",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmco",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage https://www.facebook.com/filmcourage https://www."
+      ]
+    },
+    {
+      "title": "NYFA Motion Capture Class Audit (Old Technology Vs. New) - Craig Caton-Largent [FULL CLASS]",
+      "published": "2025-03-31",
+      "year": 2025,
+      "views": 1272,
+      "likes": 46,
+      "comments": 3,
+      "views_per_day": 4.95,
+      "engagement_rate": 3.85,
+      "duration_min": 56.1,
+      "url": "https://youtube.com/watch?v=ayizVCXSpzE",
+      "nyfa_mention_contexts": [
+        "We'd like to thank Christopher Pettoni at NYFA for all his work behind the scenes (including camera work) that made this video possible.  We'd also like to thank NYFA and Craig Caton-Largent for p",
+        " thank Christopher Pettoni at NYFA for all his work behind the scenes (including camera work) that made this video possible.  We'd also like to thank NYFA and Craig Caton-Largent for presenting us with this opportunity and opening up their classroom for us.  And of course we'd like to thank the wonderfu",
+        "nd Craig Caton-Largent for presenting us with this opportunity and opening up their classroom for us.  And of course we'd like to thank the wonderful NYFA students who brought this video to life.  Craig Caton-Largent - Instructor at New York Film Academy Nazym Dabyrtay - motion capture technical Anel Be",
+        " classroom for us.  And of course we'd like to thank the wonderful NYFA students who brought this video to life.  Craig Caton-Largent - Instructor at New York Film Academy Nazym Dabyrtay - motion capture technical Anel Belgibayeva - motion capture actress Justin Robinson - radical supervisor Diana Anpilohova - radical a",
+        "ech  With over 40 years in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (",
+        " in the film industry, Craig Caton-Largent is a legendary visual effects artist and the current Chair of 3D Animation & VFX at New York Film Academy (NYFA) Los Angeles. He has worked on over 100 films, creating some of Hollywood's most iconic creatures, including the Slimer ghost in Ghostbusters (1984),",
+        "loped groundbreaking VFX software like Animservo, used by top studios and theme parks. As the Chair of the Visual Effects and Animation Department at NYFA, Craig is dedicated to helping his students develop animation and storytelling skills that will lead to success in the industry. Craig is also a soug",
+        " also a sought-after speaker on motion capture technology at film festivals and universities worldwide.  CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessib",
+        "CONNECT WITH CRAIG CATON-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more access",
+        "N-LARGENT https://www.nyfa.edu/3d-animation-school https://www.imdb.com/name/nm0146253  Founded in 1992 by Jerry Sherlock, the New York Film Academy (NYFA) provides an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible t",
+        "des an accessible, hands-on education in filmmaking, media, and the performing arts. With a mission to make the film industry more accessible to all, NYFA empowers students from diverse backgrounds to tell powerful stories through a project-based, immersive curriculum. Students work closely with industr",
+        "ly with industry professionals, gaining invaluable mentorship and real-world experience while building creative, technical, and collaborative skills. NYFA's global community includes students from over 160 countries, fostering a network of passionate storytellers. From day one, students dive into creati",
+        "o creating projects that refine their craft and prepare them for successful careers. With a focus on practical experience and individualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu h",
+        "ndividualized support, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmC",
+        "port, NYFA equips students with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE",
+        "dents with the tools and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE ",
+        "ls and confidence to excel in the competitive world of filmmaking and the arts.  CONNECT WITH NYFA https://www.nyfa.edu https://www.nyfa.edu/location/nyfa-los-angeles  CONNECT WITH FILM COURAGE http://www.FilmCourage.com http://twitter.com/#!/FilmCourage  SUBSCRIBE TO THE FILM COURAGE YOUTUBE CHANNEL ht"
+      ]
+    },
+    {
+      "title": "Every Artist Needs To Learn Empathy - Van Ditthavong",
+      "published": "2021-08-16",
+      "year": 2021,
+      "views": 6161,
+      "likes": 326,
+      "comments": 26,
+      "views_per_day": 3.9,
+      "engagement_rate": 5.71,
+      "duration_min": 13.9,
+      "url": "https://youtube.com/watch?v=wgYg3YuRIFA",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "How Daydreaming Makes You A Better Writer - Van Ditthavong",
+      "published": "2020-12-21",
+      "year": 2020,
+      "views": 5828,
+      "likes": 309,
+      "comments": 38,
+      "views_per_day": 3.21,
+      "engagement_rate": 5.95,
+      "duration_min": 19.7,
+      "url": "https://youtube.com/watch?v=Vj2cqH6teAg",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "Write Because You Love It Not Because You Need Validation - Van Ditthavong",
+      "published": "2021-07-03",
+      "year": 2021,
+      "views": 4694,
+      "likes": 285,
+      "comments": 23,
+      "views_per_day": 2.89,
+      "engagement_rate": 6.56,
+      "duration_min": 9.1,
+      "url": "https://youtube.com/watch?v=Okoj0sDLTNQ",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "How Much Of The Ending Should A Screenwriter Know Before They Start Writing? - Van Ditthavong",
+      "published": "2020-11-26",
+      "year": 2020,
+      "views": 4294,
+      "likes": 168,
+      "comments": 27,
+      "views_per_day": 2.33,
+      "engagement_rate": 4.54,
+      "duration_min": 6.1,
+      "url": "https://youtube.com/watch?v=Ppkd4gKoIKg",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "Shopping A Screenplay In Hollywood Until Someone Buys It - Van Ditthavong",
+      "published": "2021-02-23",
+      "year": 2021,
+      "views": 3698,
+      "likes": 144,
+      "comments": 11,
+      "views_per_day": 2.11,
+      "engagement_rate": 4.19,
+      "duration_min": 16.9,
+      "url": "https://youtube.com/watch?v=dnaOwQnX9LA",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "A Different Writing Process For Every Story - Van Ditthavong",
+      "published": "2021-06-07",
+      "year": 2021,
+      "views": 3458,
+      "likes": 146,
+      "comments": 7,
+      "views_per_day": 2.1,
+      "engagement_rate": 4.42,
+      "duration_min": 10.2,
+      "url": "https://youtube.com/watch?v=4N7j2iG_S8U",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "10 Things Foreign Actors Should Know About Moving To Los Angeles - Alison Balnar",
+      "published": "2016-07-22",
+      "year": 2016,
+      "views": 7097,
+      "likes": 243,
+      "comments": 31,
+      "views_per_day": 2.07,
+      "engagement_rate": 3.86,
+      "duration_min": 3.7,
+      "url": "https://youtube.com/watch?v=p7opHhmjUtc",
+      "nyfa_mention_contexts": [
+        "he moved from Guelph, Ontario to Los Angeles to pursue her passion for acting in 2014 and she completed a one-year acting conservatory program at the New York Film Academy.  Balnar\u2019s first acting role in Hollywood was as \u2018Grace' in the short film \u201cDirector\u2019s Choice.\u201d She quickly landed her second role as \u2018Diane\u2019 in the "
+      ]
+    },
+    {
+      "title": "Building The Culture Of A Production Company - Van Ditthavong",
+      "published": "2021-04-12",
+      "year": 2021,
+      "views": 3228,
+      "likes": 131,
+      "comments": 10,
+      "views_per_day": 1.89,
+      "engagement_rate": 4.37,
+      "duration_min": 15.7,
+      "url": "https://youtube.com/watch?v=_UashxJvXqo",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    },
+    {
+      "title": "How To Write Suspense - Van Ditthavong",
+      "published": "2020-11-14",
+      "year": 2020,
+      "views": 3420,
+      "likes": 163,
+      "comments": 20,
+      "views_per_day": 1.84,
+      "engagement_rate": 5.35,
+      "duration_min": 3.5,
+      "url": "https://youtube.com/watch?v=pXWYZW7vnMk",
+      "nyfa_mention_contexts": [
+        "Van Ditthavong\u00a0is the founding partner and executive producer of goPOP FILMS \u2013 a creative content studio and production company. He has taught at the New York Film Academy (Los Angeles) and UCLA Extension \u2013 where he received the 2015 Outstanding Instructor of the Year honor for the Visual Arts Department. His latest pro"
+      ]
+    }
+  ],
+  "key_insights": [
+    "Film Courage publishes 13.3\u00d7 more frequently than NYFA",
+    "FC NYFA-mention videos get 8.0\u00d7 more views/day than FC baseline",
+    "FC NYFA-mention videos get 36.4\u00d7 more views/day than NYFA's own content",
+    "NYFA uses ALL CAPS in 58.5% of titles",
+    "FC NYFA-mention videos are 2.4\u00d7 longer than NYFA videos",
+    "Film Courage has increased NYFA mentions from 2-11/year (2016-2024) to 30 in 2025",
+    "Film Courage titles use named experts; NYFA titles use institutional branding",
+    "52 FC NYFA-mention videos represent 4.3% of NYFA's total channel views"
+  ],
+  "strategic_recommendations": [
+    "Adopt 10-15 minute expert interview format (not 5 min promotional clips)",
+    "Title pattern: \"[Instructor Name] on [Topic]\" not \"NYFA Guest Speaker Series\"",
+    "Remove \"NYFA\" from most titles, reduce ALL CAPS from 58.5% to <20%",
+    "Increase publishing from 1.7 to 4-8 videos/month minimum",
+    "Use educational framing: 21% of titles should include \"How\" (currently 1.2%)",
+    "Reduce question marks in titles from 0.9% to 7-10%",
+    "Either negotiate reciprocal promotion from FC or reduce faculty availability",
+    "Implement conversion tracking: YouTube views to enrollment pipeline"
+  ],
+  "files_generated": {
+    "notebooks": [
+      "/Users/USER/Desktop/JAMES/Noetheca/youtube/notebooks/youtube_analysis_v1.ipynb",
+      "/Users/USER/Desktop/JAMES/Noetheca/youtube/notebooks/nyfa_mentions_analysis.ipynb"
+    ],
+    "outputs": [
+      "./output/analysis_20251213.md",
+      "./output/insights_20251213.json",
+      "./output/nyfa_mentions_summary.json",
+      "./output/nyfa_mentions_full_list.csv",
+      "./output/complete_analysis_results.json"
+    ],
+    "charts": [
+      "./output/channel_comparison_20251213.png",
+      "./output/duration_vs_performance_20251213.png",
+      "./output/publishing_velocity_20251213.png",
+      "./output/vpd_distribution_20251213.png",
+      "./output/nyfa_mentions_timeline.png"
+    ],
+    "html_report": "nyfa_filmcourage_youtube_intelligence_report.html"
+  }
+}
