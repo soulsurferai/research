@@ -1,0 +1,334 @@
+{
+  "subreddit": "weedstocks",
+  "n_documents": 538,
+  "n_topics": 18,
+  "extraction_method": "BM25",
+  "avg_coherence": 0.6481741053728055,
+  "noise_ratio": 0.1412639405204461,
+  "topics": [
+    {
+      "id": 15,
+      "label": "Industry News: Cannabis",
+      "size": 81,
+      "coherence": 0.15656846119099013,
+      "words": [
+        "cannabis",
+        "don",
+        "msos",
+        "stock",
+        "companies",
+        "money",
+        "marijuana",
+        "didn",
+        "thought",
+        "dea"
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Industry News: Market",
+      "size": 76,
+      "coherence": 0.1999404360957041,
+      "words": [
+        "market",
+        "cannabis",
+        "marijuana",
+        "money",
+        "stocks",
+        "trump",
+        "weed",
+        "company",
+        "msos",
+        "medical"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Stock Market: Marijuana",
+      "size": 42,
+      "coherence": 0.3809788151675544,
+      "words": [
+        "marijuana",
+        "don",
+        "green",
+        "senate",
+        "msos",
+        "state",
+        "sure",
+        "cannabis",
+        "long",
+        "market"
+      ]
+    },
+    {
+      "id": 14,
+      "label": "Political Landscape: Cannabis",
+      "size": 33,
+      "coherence": 0.30151388953079844,
+      "words": [
+        "cannabis",
+        "companies",
+        "sell",
+        "biden",
+        "pass",
+        "trump",
+        "state",
+        "market",
+        "doing",
+        "believe"
+      ]
+    },
+    {
+      "id": 16,
+      "label": "Political Landscape: Yeah",
+      "size": 24,
+      "coherence": 0.3204505362448236,
+      "words": [
+        "yeah",
+        "point",
+        "don",
+        "market",
+        "trump",
+        "cannabis",
+        "issue",
+        "works",
+        "money",
+        "sector"
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Industry News: Money",
+      "size": 24,
+      "coherence": 0.47157208682034757,
+      "words": [
+        "money",
+        "marijuana",
+        "taking",
+        "use",
+        "company",
+        "sector",
+        "law",
+        "tomorrow",
+        "dea",
+        "board"
+      ]
+    },
+    {
+      "id": 9,
+      "label": "Federal Rescheduling: Hemp",
+      "size": 23,
+      "coherence": 0.6840598404378191,
+      "words": [
+        "hemp",
+        "medical",
+        "companies",
+        "dea",
+        "right",
+        "patients",
+        "medical cannabis",
+        "product",
+        "company",
+        "market"
+      ]
+    },
+    {
+      "id": 10,
+      "label": "Political Landscape",
+      "size": 23,
+      "coherence": 0.7626850781723571,
+      "words": [
+        "trump",
+        "new",
+        "sales",
+        "marijuana",
+        "says",
+        "haven",
+        "dea",
+        "today",
+        "billion",
+        "aren"
+      ]
+    },
+    {
+      "id": 12,
+      "label": "Industry News: Position",
+      "size": 19,
+      "coherence": 0.8635438360311254,
+      "words": [
+        "position",
+        "new",
+        "doesn",
+        "cash",
+        "company",
+        "village farms",
+        "village",
+        "farms",
+        "state",
+        "open"
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Legalization Movement",
+      "size": 18,
+      "coherence": 0.8483671032310403,
+      "words": [
+        "company",
+        "don",
+        "legal",
+        "worth",
+        "doesn",
+        "legalizing",
+        "sectors",
+        "medical",
+        "state",
+        "voters"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Stock Market",
+      "size": 15,
+      "coherence": 0.5741261431103969,
+      "words": [
+        "sector",
+        "fl",
+        "election",
+        "cannabis stocks",
+        "stocks",
+        "industry",
+        "support",
+        "taking",
+        "don",
+        "canada"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Industry News",
+      "size": 14,
+      "coherence": 0.7403319723572555,
+      "words": [
+        "cannabis",
+        "chance",
+        "market",
+        "debt",
+        "tilray",
+        "marijuana",
+        "hearing",
+        "judge",
+        "rescheduling",
+        "additional"
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Cannabinoid Science",
+      "size": 14,
+      "coherence": 0.7339416688156853,
+      "words": [
+        "new",
+        "sales",
+        "feel",
+        "thc",
+        "pay",
+        "ago",
+        "list",
+        "cole",
+        "current",
+        "company"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "State Politics",
+      "size": 12,
+      "coherence": 0.6460032906965933,
+      "words": [
+        "record",
+        "florida",
+        "trump",
+        "market",
+        "did",
+        "vote",
+        "sndl",
+        "hemp",
+        "company",
+        "harris"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Federal Rescheduling",
+      "size": 12,
+      "coherence": 0.841062806349558,
+      "words": [
+        "dea",
+        "companies",
+        "medical cannabis",
+        "medical",
+        "week",
+        "legalization",
+        "end",
+        "federal",
+        "list",
+        "needs"
+      ]
+    },
+    {
+      "id": 13,
+      "label": "Current Wellness",
+      "size": 11,
+      "coherence": 0.9375213919639043,
+      "words": [
+        "current",
+        "wellness",
+        "government",
+        "gop",
+        "price",
+        "marijuana",
+        "ayr",
+        "cresco",
+        "believe",
+        "run"
+      ]
+    },
+    {
+      "id": 17,
+      "label": "Stock Market: Msos",
+      "size": 11,
+      "coherence": 1.1858914433730385,
+      "words": [
+        "msos",
+        "hiti",
+        "germany",
+        "hemp",
+        "brought",
+        "news",
+        "thc",
+        "fuck",
+        "big",
+        "stocks"
+      ]
+    },
+    {
+      "id": 8,
+      "label": "Cannabinoid Science: Marijuana",
+      "size": 10,
+      "coherence": 1.0185750971215068,
+      "words": [
+        "marijuana",
+        "thc",
+        "hemp",
+        "products",
+        "gti",
+        "msos",
+        "green thumb",
+        "green",
+        "thumb",
+        "new"
+      ]
+    }
+  ]
+}

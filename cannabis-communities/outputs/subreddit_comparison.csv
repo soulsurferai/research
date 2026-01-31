@@ -1,0 +1,7 @@
+subreddit,n_topics,n_documents,avg_coherence,method,top_topics
+cannabis,6,402,0.5846936908548669,MMR,"['Cannabis Don', 'Political Landscape', 'Legalization Movement']"
+weed,12,761,0.3885205990666831,BM25,"['Smoking Culture: High', 'Smoking Culture: Weed', 'Smoking Culture: High']"
+trees,6,796,0.42893853298569745,BM25,"['Smoking Culture: Weed', 'Smoking Culture', 'Smoking Culture: Weed']"
+Marijuana,12,664,0.6996516267624763,BM25,"['Cannabinoid Science: Marijuana', 'Smoking Culture: High', 'Cannabinoid Science']"
+weedstocks,18,538,0.6481741053728055,BM25,"['Industry News: Cannabis', 'Industry News: Market', 'Stock Market: Marijuana']"
+weedbiz,6,1083,0.2723061113129186,BM25,"['Retail Operations', 'Retail Operations: Cannabis', 'Retail Operations: Weed']"

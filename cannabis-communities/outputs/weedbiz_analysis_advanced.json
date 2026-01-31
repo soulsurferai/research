@@ -1,0 +1,118 @@
+{
+  "subreddit": "weedbiz",
+  "n_documents": 1083,
+  "n_topics": 6,
+  "extraction_method": "BM25",
+  "avg_coherence": 0.2723061113129186,
+  "noise_ratio": 0.0,
+  "topics": [
+    {
+      "id": 1,
+      "label": "Retail Operations",
+      "size": 273,
+      "coherence": 0.24210559410365148,
+      "words": [
+        "industry",
+        "business",
+        "new",
+        "help",
+        "don",
+        "work",
+        "market",
+        "dispensary",
+        "state",
+        "high"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Retail Operations: Cannabis",
+      "size": 265,
+      "coherence": 0.1932176357918733,
+      "words": [
+        "cannabis",
+        "industry",
+        "don",
+        "business",
+        "dispensary",
+        "weed",
+        "work",
+        "market",
+        "state",
+        "new"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Retail Operations: Weed",
+      "size": 211,
+      "coherence": 0.21790828963484077,
+      "words": [
+        "weed",
+        "industry",
+        "don",
+        "business",
+        "work",
+        "cannabis",
+        "dispensary",
+        "legal",
+        "use",
+        "dispensaries"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Retail Operations: Work",
+      "size": 199,
+      "coherence": 0.24995969487410644,
+      "words": [
+        "work",
+        "industry",
+        "don",
+        "job",
+        "business",
+        "weed",
+        "cannabis",
+        "new",
+        "market",
+        "company"
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Retail Operations: Weed",
+      "size": 109,
+      "coherence": 0.2599770702552208,
+      "words": [
+        "weed",
+        "cannabis",
+        "business",
+        "product",
+        "work",
+        "industry",
+        "help",
+        "sell",
+        "company",
+        "new"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "Industry News",
+      "size": 26,
+      "coherence": 0.47066838321781873,
+      "words": [
+        "don",
+        "seeds",
+        "say",
+        "start",
+        "cannabis industry",
+        "advice",
+        "industry",
+        "work",
+        "trying",
+        "hear"
+      ]
+    }
+  ]
+}

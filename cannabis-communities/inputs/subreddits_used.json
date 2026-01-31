@@ -1,0 +1,14 @@
+{
+  "source": "subreddit_comparison.csv",
+  "columns": [
+    "subreddit"
+  ],
+  "subreddits": [
+    "Marijuana",
+    "cannabis",
+    "trees",
+    "weed",
+    "weedbiz",
+    "weedstocks"
+  ]
+}

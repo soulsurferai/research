@@ -1,0 +1,118 @@
+{
+  "subreddit": "cannabis",
+  "n_documents": 402,
+  "n_topics": 6,
+  "extraction_method": "MMR",
+  "avg_coherence": 0.5846936908548669,
+  "noise_ratio": 0.0,
+  "topics": [
+    {
+      "id": 5,
+      "label": "Cannabis Don",
+      "size": 108,
+      "coherence": 0.38641277991748074,
+      "words": [
+        "cannabis",
+        "don",
+        "weed",
+        "use",
+        "alcohol",
+        "marijuana",
+        "effects",
+        "cause",
+        "feel",
+        "smoke"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Political Landscape",
+      "size": 96,
+      "coherence": 0.5615120009869808,
+      "words": [
+        "marijuana",
+        "trump",
+        "cannabis",
+        "biden",
+        "don",
+        "legalization",
+        "president",
+        "state",
+        "actually",
+        "states"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Legalization Movement",
+      "size": 66,
+      "coherence": 0.40405870839173924,
+      "words": [
+        "dea",
+        "weed",
+        "legal",
+        "cannabis",
+        "money",
+        "marijuana",
+        "war",
+        "don",
+        "let",
+        "medical"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Legalization Movement: Cannabis",
+      "size": 63,
+      "coherence": 0.7206412634292458,
+      "words": [
+        "cannabis",
+        "grow",
+        "thc",
+        "legal",
+        "plant",
+        "market",
+        "experience",
+        "weed",
+        "started",
+        "dispensaries"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Financial Health",
+      "size": 49,
+      "coherence": 0.15922046508361154,
+      "words": [
+        "marijuana",
+        "weed",
+        "cannabis",
+        "government",
+        "money",
+        "drug",
+        "say",
+        "way",
+        "yeah",
+        "medical"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "State Politics",
+      "size": 20,
+      "coherence": 1.2763169273201431,
+      "words": [
+        "texas",
+        "stop",
+        "better",
+        "plant",
+        "pay",
+        "anxiety",
+        "thc",
+        "pissing",
+        "cannabis right",
+        "maybe"
+      ]
+    }
+  ]
+}

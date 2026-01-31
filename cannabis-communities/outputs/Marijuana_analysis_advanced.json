@@ -1,0 +1,226 @@
+{
+  "subreddit": "Marijuana",
+  "n_documents": 664,
+  "n_topics": 12,
+  "extraction_method": "BM25",
+  "avg_coherence": 0.6996516267624763,
+  "noise_ratio": 0.17319277108433734,
+  "topics": [
+    {
+      "id": 7,
+      "label": "Cannabinoid Science: Marijuana",
+      "size": 128,
+      "coherence": 0.36867704325731315,
+      "words": [
+        "marijuana",
+        "cannabis",
+        "weed",
+        "don",
+        "thc",
+        "legal",
+        "use",
+        "new",
+        "hemp",
+        "smoking"
+      ]
+    },
+    {
+      "id": 8,
+      "label": "Smoking Culture: High",
+      "size": 80,
+      "coherence": 0.7448238799856657,
+      "words": [
+        "high",
+        "smoking",
+        "smoke",
+        "smoked",
+        "felt",
+        "happened",
+        "thing",
+        "body",
+        "experience",
+        "friend"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Cannabinoid Science",
+      "size": 60,
+      "coherence": 0.4296635926342616,
+      "words": [
+        "oil",
+        "gummies",
+        "weed",
+        "thc",
+        "use",
+        "better",
+        "tried",
+        "tincture",
+        "smoke",
+        "rso"
+      ]
+    },
+    {
+      "id": 11,
+      "label": "Smoking Culture: Chs",
+      "size": 51,
+      "coherence": 0.39613366934534294,
+      "words": [
+        "chs",
+        "heart",
+        "smoked",
+        "does",
+        "lot",
+        "high",
+        "throw",
+        "don",
+        "help",
+        "thc"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "Smoking Culture",
+      "size": 50,
+      "coherence": 0.2865123986278502,
+      "words": [
+        "vape",
+        "bong",
+        "smoke",
+        "pen",
+        "cart",
+        "don",
+        "does",
+        "high",
+        "weed",
+        "better"
+      ]
+    },
+    {
+      "id": 5,
+      "label": "Cannabinoid Science: Indica",
+      "size": 50,
+      "coherence": 0.7784918154333766,
+      "words": [
+        "indica",
+        "strains",
+        "sativa",
+        "thc",
+        "strain",
+        "smoke",
+        "best",
+        "anxiety",
+        "recommendations",
+        "tried"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Smoking Culture: Don",
+      "size": 39,
+      "coherence": 0.3925956087991654,
+      "words": [
+        "don",
+        "high",
+        "weed",
+        "smoked",
+        "try",
+        "break",
+        "week",
+        "thing",
+        "old",
+        "used"
+      ]
+    },
+    {
+      "id": 10,
+      "label": "Advice & Support",
+      "size": 23,
+      "coherence": 0.5154331177999568,
+      "words": [
+        "help",
+        "used",
+        "stop",
+        "indica",
+        "life",
+        "bad",
+        "smoking weed",
+        "week",
+        "paranoid",
+        "high"
+      ]
+    },
+    {
+      "id": 9,
+      "label": "Tolerance & Testing",
+      "size": 22,
+      "coherence": 1.1368277513057388,
+      "words": [
+        "quit",
+        "cold turkey",
+        "cold",
+        "turkey",
+        "test",
+        "sleep",
+        "ago",
+        "anxiety",
+        "weeks",
+        "symptoms"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Room Plastic",
+      "size": 18,
+      "coherence": 0.9397353989443418,
+      "words": [
+        "room",
+        "plastic",
+        "window",
+        "work",
+        "apartment",
+        "real",
+        "cover",
+        "try",
+        "advice",
+        "stop"
+      ]
+    },
+    {
+      "id": 6,
+      "label": "Cultivation",
+      "size": 15,
+      "coherence": 0.6449557701769608,
+      "words": [
+        "old",
+        "grow",
+        "best",
+        "grown",
+        "grower",
+        "don",
+        "dead",
+        "new",
+        "weed",
+        "help"
+      ]
+    },
+    {
+      "id": 0,
+      "label": "Graft Gum Graft",
+      "size": 13,
+      "coherence": 1.7619694748397403,
+      "words": [
+        "graft",
+        "gum graft",
+        "gum",
+        "hurts",
+        "hit",
+        "wait",
+        "period",
+        "point",
+        "week",
+        "surgery"
+      ]
+    }
+  ]
+}
