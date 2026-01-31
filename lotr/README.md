@@ -1,6 +1,6 @@
 # LOTR Reddit Signal Extraction
 
-Computational analysis of Lord of the Rings fan discourse on Reddit, extracting actionable signals for game development strategy. Built for Embracer Group / Eidos consideration.
+Computational analysis of Lord of the Rings fan discourse on Reddit, extracting actionable signals for game development strategy.
 
 ## What This Is
 
@@ -52,7 +52,7 @@ See `slides/` for visual summaries.
 ├── output/
 │   ├── lotr_comments_69k.csv                    # Source: 69,037 Reddit comments
 │   ├── lotr_posts_5k.csv                        # Source: 5,308 Reddit posts
-│   ├── Embracer_Reddit_Signals_MASTER_v1.csv    # 1,881 extracted signals
+│   ├── Reddit_Signals.csv                       # 1,881 extracted signals
 │   ├── wishlist_signals.csv                     # Wishlist intent subset
 │   ├── praise_signals.csv                       # Praise intent subset
 │   ├── external_sub_comments.csv                # Cross-subreddit mentions
@@ -76,12 +76,6 @@ Comments and posts collected from Reddit via automated pipeline into Supabase Po
 - **NLP:** spaCy, custom EntityRuler patterns, NLTK
 - **Embeddings:** OpenAI text-embedding-3-large (1536 dimensions)
 - **Notebooks:** Jupyter (localhost)
-
-## Author
-
-**James Root** — [Noetheca](https://github.com/soulsurferai/noetheca)
-
-Digital marketing and data analytics professional. 30+ years experience at Microsoft, Electronic Arts, and 20th Century Studios. Now focused on applying enterprise-scale analytical tools to cultural and civic research.
 
 ## License
 
