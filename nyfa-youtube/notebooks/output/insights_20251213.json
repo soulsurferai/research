@@ -1,0 +1,29 @@
+{
+  "analysis_date": "2025-12-13",
+  "channels_analyzed": [
+    "newyorkfilmacademy",
+    "filmcourage"
+  ],
+  "key_metrics": {
+    "newyorkfilmacademy": {
+      "total_videos": 1135,
+      "median_vpd": 0.34,
+      "engagement_rate": 1.28,
+      "recent_publishing_velocity": 0.8333333333333334,
+      "median_duration_minutes": 4.866666666666666,
+      "top_10pct_avg_vpd": 20.645575221238936
+    },
+    "filmcourage": {
+      "total_videos": 6383,
+      "median_vpd": 1.62,
+      "engagement_rate": 3.3,
+      "recent_publishing_velocity": 24.5,
+      "median_duration_minutes": 7.366666666666666,
+      "top_10pct_avg_vpd": 72.85221350078494
+    }
+  },
+  "comparative_insights": [
+    "filmcourage is 4.8x more efficient than NYFA (median views/day)"
+  ],
+  "recommendations": []
+}
