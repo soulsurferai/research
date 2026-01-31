@@ -1,0 +1,1742 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-26T13:06:54.047417",
+    "source_file": "video_game_entities.json",
+    "curation_version": "2.1-patched-gaps",
+    "total_entities": 85,
+    "lotr_related_count": 52,
+    "mods_count": 6,
+    "tier_1_count": 63,
+    "tier_2_count": 20,
+    "tier_3_count": 0,
+    "curation_rules": {
+      "min_rating_general": 100,
+      "min_rating_dlc": 50,
+      "editions_collapsed": true,
+      "noise_filtered": true,
+      "lotr_preserved": true
+    }
+  },
+  "games": [
+    {
+      "igdb_id": 3025,
+      "canonical_name": "Middle-earth: Shadow of Mordor",
+      "slug": "middle-earth-shadow-of-mordor",
+      "aliases": [
+        "Shadow of Mordor",
+        "Middle-earth Shadow of Mordor",
+        "La Terre du Milieu : L'Ombre du Mordor",
+        "Mittelerde: Mordors Schatten",
+        "La Terra Di Mezzo: L'Ombra Di Mordor",
+        "Middle Earth: Shadow Of Mordor"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor|Shadow\\s+of\\s+Mordor|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+Mordor|La\\s+Terre\\s+du\\s+Milieu\\s+:\\s+L'Ombre\\s+du\\s+Mordor|Mittelerde:\\s+Mordors\\s+Schatten|La\\s+Terra\\s+Di\\s+Mezzo:\\s+L'Ombra\\s+Di\\s+Mordor|Middle\\s+Earth:\\s+Shadow\\s+Of\\s+Mordor)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": 82.01187258266225,
+      "rating_count": 1348,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 27421,
+      "canonical_name": "Middle-earth: Shadow of War",
+      "slug": "middle-earth-shadow-of-war",
+      "aliases": [
+        "La Terra Di Mezzo: L'Ombra Della Guerra",
+        "Shadow of War",
+        "Middle-earth Shadow of War",
+        "La Terre du Milieu : L'Ombre de la Guerre"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War|La\\s+Terra\\s+Di\\s+Mezzo:\\s+L'Ombra\\s+Della\\s+Guerra|Shadow\\s+of\\s+War|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War|La\\s+Terre\\s+du\\s+Milieu\\s+:\\s+L'Ombre\\s+de\\s+la\\s+Guerre)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": 82.26697374368786,
+      "rating_count": 460,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 3155,
+      "canonical_name": "The Lord of the Rings: The Battle for Middle-earth II",
+      "slug": "the-lord-of-the-rings-the-battle-for-middle-earth-ii",
+      "aliases": [
+        "The Lord of the Rings The Battle for Middle-earth II",
+        "Ringenes Herre: Kampen om Midgard II",
+        "Le Seigneur des Anneaux: La Bataille pour la Terre du Milieu II",
+        "Il Signore degli Anelli: La battaglia per la Terra di Mezzo 2",
+        "The Lord of the Rings: The Battle for Middle Earth 2",
+        "Lord of the Rings: The Battle for Middle-earth II",
+        "BFME2",
+        "Der Herr der Ringe: Die Schlacht um Mittelerde II"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II|Ringenes\\s+Herre:\\s+Kampen\\s+om\\s+Midgard\\s+II|Le\\s+Seigneur\\s+des\\s+Anneaux:\\s+La\\s+Bataille\\s+pour\\s+la\\s+Terre\\s+du\\s+Milieu\\s+II|Il\\s+Signore\\s+degli\\s+Anelli:\\s+La\\s+battaglia\\s+per\\s+la\\s+Terra\\s+di\\s+Mezzo\\s+2|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle\\s+Earth\\s+2|Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II|BFME\\s*2|Der\\s+Herr\\s+der\\s+Ringe:\\s+Die\\s+Schlacht\\s+um\\s+Mittelerde\\s+II)\\b",
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "release_year": 2006,
+      "total_rating": 81.38923283422318,
+      "rating_count": 247,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 3154,
+      "canonical_name": "The Lord of the Rings: The Battle for Middle-earth",
+      "slug": "the-lord-of-the-rings-the-battle-for-middle-earth",
+      "aliases": [
+        "Ringenes Herre: Kampen om Midgard",
+        "Der Herr der Ringe: Die Schlacht um Mittelerde",
+        "Le Seigneur des Anneaux: La Bataille pour la Terre du Milieu",
+        "The Lord of the Rings The Battle for Middle-earth",
+        "Lord of the Rings: The Battle for Middle-earth",
+        "BFME"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth|Ringenes\\s+Herre:\\s+Kampen\\s+om\\s+Midgard|Der\\s+Herr\\s+der\\s+Ringe:\\s+Die\\s+Schlacht\\s+um\\s+Mittelerde|Le\\s+Seigneur\\s+des\\s+Anneaux:\\s+La\\s+Bataille\\s+pour\\s+la\\s+Terre\\s+du\\s+Milieu|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth|Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth|BFME)\\b",
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "release_year": 2004,
+      "total_rating": 82.90544525623093,
+      "rating_count": 237,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 1052,
+      "canonical_name": "The Lord of the Rings: War in the North",
+      "slug": "the-lord-of-the-rings-war-in-the-north",
+      "aliases": [
+        "Lord of the Rings: War in the North",
+        "Le Seigneur des Anneaux: La Guerre du Nord",
+        "LotR: WitN",
+        "LotR: War in the North",
+        "The Lord of the Rings War in the North",
+        "Lord of the Rings War in the North"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+War\\s+in\\s+the\\s+North|Lord\\s+of\\s+the\\s+Rings:\\s+War\\s+in\\s+the\\s+North|Le\\s+Seigneur\\s+des\\s+Anneaux:\\s+La\\s+Guerre\\s+du\\s+Nord|LotR:\\s+WitN|LotR:\\s+War\\s+in\\s+the\\s+North|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+War\\s+in\\s+the\\s+North|Lord\\s+of\\s+the\\s+Rings\\s+War\\s+in\\s+the\\s+North)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "release_year": 2011,
+      "total_rating": 68.36473278296063,
+      "rating_count": 156,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 3092,
+      "canonical_name": "The Lord of the Rings Online",
+      "slug": "the-lord-of-the-rings-online",
+      "aliases": [
+        "The Lord of the Rings Online: Mines of Moria",
+        "The Lord of the Rings Online: The Siege of Mirkwood",
+        "LotRO",
+        "Lord of the Rings Online",
+        "The Lord of the Rings Online: Rise of Isengard",
+        "The Lord of the Rings Online: Helm's Deep",
+        "Der Herr der Ringe Online",
+        "The Lord of the Rings Online: Shadows of Angmar",
+        "The Lord of the Rings Online: Riders of Rohan",
+        "LOTRO"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mines\\s+of\\s+Moria|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+The\\s+Siege\\s+of\\s+Mirkwood|LotRO|Lord\\s+of\\s+the\\s+Rings\\s+Online|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Rise\\s+of\\s+Isengard|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Helm's\\s+Deep|Der\\s+Herr\\s+der\\s+Ringe\\s+Online|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Shadows\\s+of\\s+Angmar|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan|LOTRO)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2007,
+      "total_rating": 82.47343539788766,
+      "rating_count": 124,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 3156,
+      "canonical_name": "The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king",
+      "slug": "the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king",
+      "aliases": [
+        "Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king",
+        "The Lord of the Rings: The Battle for Middle-earth 2 - The Rise of the Witch-king",
+        "Ringenes Herre: Kampen om Midgard II: Heksekongen",
+        "The Lord of the Rings: The Battle for Middle-earth II The Rise of the Witch-king",
+        "The Lord of the Rings: The Battle for Middle-Earth 2 - The Rise of the Witch-King",
+        "Le Seigneur Des Anneaux: La Bataille Pour La Terre Du Milieu II: L'Avenement Du Roi Sorcier",
+        "The Lord of the Rings The Battle for Middle-earth II - The Rise of the Witch-king"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II\\s+[\\s-]*\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*king|Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II\\s+[\\s-]*\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*king|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+2\\s+[\\s-]*\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*king|Ringenes\\s+Herre:\\s+Kampen\\s+om\\s+Midgard\\s+II:\\s+Heksekongen|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*king|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*Earth\\s+2\\s+[\\s-]*\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*King|Le\\s+Seigneur\\s+Des\\s+Anneaux:\\s+La\\s+Bataille\\s+Pour\\s+La\\s+Terre\\s+Du\\s+Milieu\\s+II:\\s+L'Avenement\\s+Du\\s+Roi\\s+Sorcier|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+II\\s+[\\s-]*\\s+The\\s+Rise\\s+of\\s+the\\s+Witch[\\s-]*king)\\b",
+      "genres": [
+        "Fighting",
+        "Real Time Strategy (RTS)",
+        "Strategy",
+        "Adventure"
+      ],
+      "release_year": 2006,
+      "total_rating": 84.74684988186118,
+      "rating_count": 90,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 204460,
+      "canonical_name": "The Lord of the Rings: Return to Moria",
+      "slug": "the-lord-of-the-rings-return-to-moria",
+      "aliases": [
+        "Return to Moria",
+        "The Lord of the Rings Return to Moria",
+        "Lord of the Rings: Return to Moria"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria|Return\\s+to\\s+Moria|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Return\\s+to\\s+Moria|Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2023,
+      "total_rating": 69.8400759182229,
+      "rating_count": 29,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 21596,
+      "canonical_name": "Middle-earth: Shadow of Mordor - The Bright Lord",
+      "slug": "middle-earth-shadow-of-mordor-the-bright-lord",
+      "aliases": [
+        "Middle-earth Shadow of Mordor - The Bright Lord",
+        "Middle-earth: Shadow of Mordor The Bright Lord"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+The\\s+Bright\\s+Lord|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+The\\s+Bright\\s+Lord|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+The\\s+Bright\\s+Lord)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2015,
+      "total_rating": 75.96874166191746,
+      "rating_count": 26,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 774,
+      "canonical_name": "The Lord of the Rings Online: Mines of Moria",
+      "slug": "the-lord-of-the-rings-online-mines-of-moria",
+      "aliases": [
+        "Moria",
+        "Lord of the Rings Online: Mines of Moria",
+        "The Lord of the Rings Online Mines of Moria"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mines\\s+of\\s+Moria|Moria|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mines\\s+of\\s+Moria|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Mines\\s+of\\s+Moria)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2008,
+      "total_rating": 83.20807238847792,
+      "rating_count": 19,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 53360,
+      "canonical_name": "Middle-earth: Shadow of Mordor - Lord of the Hunt",
+      "slug": "middle-earth-shadow-of-mordor-lord-of-the-hunt",
+      "aliases": [
+        "Middle-earth: Shadow of Mordor Lord of the Hunt",
+        "Middle-earth Shadow of Mordor - Lord of the Hunt"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+Lord\\s+of\\s+the\\s+Hunt|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+Lord\\s+of\\s+the\\s+Hunt|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+Lord\\s+of\\s+the\\s+Hunt)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": 61.8072748646304,
+      "rating_count": 15,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 4978,
+      "canonical_name": "The Lord of the Rings: Aragorn's Quest",
+      "slug": "the-lord-of-the-rings-aragorn-s-quest",
+      "aliases": [
+        "Il Signore degli Anelli: L'Avventura di Aragorn",
+        "The Lord of the Rings Aragorn's Quest",
+        "The Lord of the Rings: Aragorns Quest",
+        "Der Herr der Ringe: Die Abenteuer von Aragorn",
+        "In de Ban van de Ring: Aragorns Avontuur",
+        "Aragorn's Quest",
+        "Lord of the Rings: Aragorn's Quest"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Aragorn's\\s+Quest|Il\\s+Signore\\s+degli\\s+Anelli:\\s+L'Avventura\\s+di\\s+Aragorn|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Aragorn's\\s+Quest|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Aragorns\\s+Quest|Der\\s+Herr\\s+der\\s+Ringe:\\s+Die\\s+Abenteuer\\s+von\\s+Aragorn|In\\s+de\\s+Ban\\s+van\\s+de\\s+Ring:\\s+Aragorns\\s+Avontuur|Aragorn's\\s+Quest|Lord\\s+of\\s+the\\s+Rings:\\s+Aragorn's\\s+Quest)\\b",
+      "genres": [
+        "Adventure"
+      ],
+      "release_year": 2010,
+      "total_rating": 62.28435160363756,
+      "rating_count": 15,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 164812,
+      "canonical_name": "Middle-earth: Shadow of War - Desolation of Mordor",
+      "slug": "middle-earth-shadow-of-war-desolation-of-mordor",
+      "aliases": [
+        "Middle-earth: Shadow of War Desolation of Mordor",
+        "Middle-earth Shadow of War - Desolation of Mordor"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Desolation\\s+of\\s+Mordor|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Desolation\\s+of\\s+Mordor|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Desolation\\s+of\\s+Mordor)\\b",
+      "genres": [
+        "Adventure"
+      ],
+      "release_year": 2018,
+      "total_rating": 72.49037678446282,
+      "rating_count": 8,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 164734,
+      "canonical_name": "Middle-earth: Shadow of War - Blade of Galadriel",
+      "slug": "middle-earth-shadow-of-war-blade-of-galadriel",
+      "aliases": [
+        "Middle-earth Shadow of War - Blade of Galadriel",
+        "The Blade of Galadriel Story Expansion",
+        "Middle-earth: Shadow of War Blade of Galadriel"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Blade\\s+of\\s+Galadriel|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Blade\\s+of\\s+Galadriel|The\\s+Blade\\s+of\\s+Galadriel\\s+Story\\s+Expansion|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Blade\\s+of\\s+Galadriel)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2018,
+      "total_rating": 61.12328054663818,
+      "rating_count": 7,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 51193,
+      "canonical_name": "The Lord of the Rings Online: Shadows of Angmar",
+      "slug": "the-lord-of-the-rings-online-shadows-of-angmar",
+      "aliases": [
+        "Lotro",
+        "The Lord of the Rings Online Shadows of Angmar",
+        "Lord of the Rings Online: Shadows of Angmar",
+        "LotRo: SoA",
+        "LotRo: SoALotro"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Shadows\\s+of\\s+Angmar|Lotro|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Shadows\\s+of\\s+Angmar|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Shadows\\s+of\\s+Angmar|LotRo:\\s+SoA|LotRo:\\s+SoALotro)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2007,
+      "total_rating": 70.01283866227256,
+      "rating_count": 7,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 21155,
+      "canonical_name": "The Lord of the Rings Online: Siege of Mirkwood",
+      "slug": "the-lord-of-the-rings-online-siege-of-mirkwood",
+      "aliases": [
+        "The Lord of the Rings Online Siege of Mirkwood",
+        "Mirkwood",
+        "Lord of the Rings Online: Siege of Mirkwood"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Siege\\s+of\\s+Mirkwood|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Siege\\s+of\\s+Mirkwood|Mirkwood|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Siege\\s+of\\s+Mirkwood)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2009,
+      "total_rating": 80.0,
+      "rating_count": 1,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 70055,
+      "canonical_name": "The Shadows of Mordor",
+      "slug": "the-shadows-of-mordor",
+      "aliases": [
+        "Lord of the Rings: Game 2 - Shadows of Mordor",
+        "Lord of the Rings: Game II - Shadows of Mordor",
+        "Shadows of Mordor",
+        "Shadows of Mordor: Game Two of Lord of the Rings"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Shadows\\s+of\\s+Mordor|Lord\\s+of\\s+the\\s+Rings:\\s+Game\\s+2\\s+[\\s-]*\\s+Shadows\\s+of\\s+Mordor|Lord\\s+of\\s+the\\s+Rings:\\s+Game\\s+II\\s+[\\s-]*\\s+Shadows\\s+of\\s+Mordor|Shadows\\s+of\\s+Mordor|Shadows\\s+of\\s+Mordor:\\s+Game\\s+Two\\s+of\\s+Lord\\s+of\\s+the\\s+Rings)\\b",
+      "genres": [
+        "Adventure"
+      ],
+      "release_year": 1987,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 289015,
+      "canonical_name": "Middle-earth: Shadow of Mordor - The Power of Shadow",
+      "slug": "middle-earth-shadow-of-mordor-the-power-of-shadow",
+      "aliases": [
+        "Middle-earth Shadow of Mordor - The Power of Shadow",
+        "Middle-earth: Shadow of Mordor The Power of Shadow"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+The\\s+Power\\s+of\\s+Shadow|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+The\\s+Power\\s+of\\s+Shadow|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+The\\s+Power\\s+of\\s+Shadow)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 117985,
+      "canonical_name": "Middle-earth: Shadow of Mordor - Legion Edition",
+      "slug": "middle-earth-shadow-of-mordor-legion-edition",
+      "aliases": [
+        "Middle-earth Shadow of Mordor - Legion Edition",
+        "Middle-earth: Shadow of Mordor Legion Edition"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+Legion\\s+Edition|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+Mordor\\s+[\\s-]*\\s+Legion\\s+Edition|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+Mordor\\s+Legion\\s+Edition)\\b",
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 10799,
+      "canonical_name": "Shadows of Mordor: Game two of Lord of the Rings",
+      "slug": "shadows-of-mordor-game-two-of-lord-of-the-rings",
+      "aliases": [
+        "Shadows of Mordor Game two of Lord of the Rings"
+      ],
+      "regex_pattern": "(?i)\\b(Shadows\\s+of\\s+Mordor:\\s+Game\\s+two\\s+of\\s+Lord\\s+of\\s+the\\s+Rings|Shadows\\s+of\\s+Mordor\\s+Game\\s+two\\s+of\\s+Lord\\s+of\\s+the\\s+Rings)\\b",
+      "genres": [
+        "Adventure"
+      ],
+      "release_year": 1987,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 52198,
+      "canonical_name": "Middle-earth: Shadow of War Mobile",
+      "slug": "middle-earth-shadow-of-war-mobile",
+      "aliases": [
+        " Middle-earth: Shadow of War - The Mobile Game",
+        " Middle-earth: Shadow of War The Mobile Game",
+        " Middle-earth: Shadow of War - Mobile",
+        "Middle-earth Shadow of War Mobile"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Mobile|\\s+Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+The\\s+Mobile\\s+Game|\\s+Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+The\\s+Mobile\\s+Game|\\s+Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Mobile|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+Mobile)\\b",
+      "genres": [
+        "Strategy",
+        "Tactical"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 53358,
+      "canonical_name": "Middle-earth: Shadow of War - Silver Edition",
+      "slug": "middle-earth-shadow-of-war-silver-edition",
+      "aliases": [
+        "Middle-earth Shadow of War - Silver Edition",
+        "Middle-earth: Shadow of War Silver Edition"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Silver\\s+Edition|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Silver\\s+Edition|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Silver\\s+Edition)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 36986,
+      "canonical_name": "Middle-earth: Shadow of War - Mithril Edition",
+      "slug": "middle-earth-shadow-of-war-mithril-edition",
+      "aliases": [
+        "Middle-earth Shadow of War - Mithril Edition",
+        "Middle-earth: Shadow of War Mithril Edition"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Mithril\\s+Edition|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Mithril\\s+Edition|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Mithril\\s+Edition)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 68381,
+      "canonical_name": "Middle-earth: Shadow of War - Forthog Orcslayer",
+      "slug": "middle-earth-shadow-of-war-forthog-orcslayer",
+      "aliases": [
+        "Middle-earth: Shadow of War Forthog Orcslayer",
+        "Middle-earth Shadow of War - Forthog Orcslayer"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Forthog\\s+Orcslayer|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Forthog\\s+Orcslayer|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Forthog\\s+Orcslayer)\\b",
+      "genres": [],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 164808,
+      "canonical_name": "Middle-earth: Shadow of War - Outlaw Tribe Nemesis",
+      "slug": "middle-earth-shadow-of-war-outlaw-tribe-nemesis",
+      "aliases": [
+        "Middle-earth: Shadow of War Outlaw Tribe Nemesis",
+        "Middle-earth Shadow of War - Outlaw Tribe Nemesis"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Outlaw\\s+Tribe\\s+Nemesis|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Outlaw\\s+Tribe\\s+Nemesis|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Outlaw\\s+Tribe\\s+Nemesis)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 164839,
+      "canonical_name": "Middle-earth: Shadow of War - Slaughter Tribe Nemesis",
+      "slug": "middle-earth-shadow-of-war-slaughter-tribe-nemesis",
+      "aliases": [
+        "Middle-earth: Shadow of War Slaughter Tribe Nemesis",
+        "Middle-earth Shadow of War - Slaughter Tribe Nemesis"
+      ],
+      "regex_pattern": "(?i)\\b(Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Slaughter\\s+Tribe\\s+Nemesis|Middle[\\s-]*earth:\\s+Shadow\\s+of\\s+War\\s+Slaughter\\s+Tribe\\s+Nemesis|Middle[\\s-]*earth\\s+Shadow\\s+of\\s+War\\s+[\\s-]*\\s+Slaughter\\s+Tribe\\s+Nemesis)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 260701,
+      "canonical_name": "The Lord of the Rings: The Battle for Middle-earth Anthology",
+      "slug": "the-lord-of-the-rings-the-battle-for-middle-earth-anthology",
+      "aliases": [
+        "The Lord of the Rings The Battle for Middle-earth Anthology",
+        "Lord of the Rings: The Battle for Middle-earth Anthology",
+        "BFME"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+Anthology|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+Anthology|Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Battle\\s+for\\s+Middle[\\s-]*earth\\s+Anthology|BFME)\\b",
+      "genres": [],
+      "release_year": 2007,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 336898,
+      "canonical_name": "The Lord of the Rings: Return to Moria - Ent-craft Pack",
+      "slug": "the-lord-of-the-rings-return-to-moria-ent-craft-pack",
+      "aliases": [
+        "The Lord of the Rings Return to Moria - Ent-craft Pack",
+        "The Lord of the Rings: Return to Moria Ent-craft Pack",
+        "Lord of the Rings: Return to Moria - Ent-craft Pack"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Ent[\\s-]*craft\\s+Pack|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Ent[\\s-]*craft\\s+Pack|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+Ent[\\s-]*craft\\s+Pack|Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Ent[\\s-]*craft\\s+Pack)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2025,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 357520,
+      "canonical_name": "The Lord of the Rings: Return to Moria - Durin's Folk Expansion",
+      "slug": "the-lord-of-the-rings-return-to-moria-durins-folk-expansion",
+      "aliases": [
+        "The Lord of the Rings Return to Moria - Durin's Folk Expansion",
+        "Lord of the Rings: Return to Moria - Durin's Folk Expansion",
+        "The Lord of the Rings: Return to Moria - Durins Folk Expansion",
+        "The Lord of the Rings: Return to Moria Durin's Folk Expansion"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Durin's\\s+Folk\\s+Expansion|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Durin's\\s+Folk\\s+Expansion|Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Durin's\\s+Folk\\s+Expansion|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+[\\s-]*\\s+Durins\\s+Folk\\s+Expansion|The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Return\\s+to\\s+Moria\\s+Durin's\\s+Folk\\s+Expansion)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2025,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 23603,
+      "canonical_name": "Lotro Helms Deep",
+      "slug": "lotro-helms-deep",
+      "aliases": [],
+      "regex_pattern": "(?i)\\b(Lotro\\s+Helms\\s+Deep)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 46778,
+      "canonical_name": "The Lord of the Rings Online: Mordor",
+      "slug": "the-lord-of-the-rings-online-mordor",
+      "aliases": [
+        "Lord of the Rings Online: Mordor",
+        "The Lord of the Rings Online Mordor"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mordor|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mordor|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Mordor)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 19098,
+      "canonical_name": "The Lord of the Rings Online: Riders of Rohan",
+      "slug": "the-lord-of-the-rings-online-riders-of-rohan",
+      "aliases": [
+        "Rohan",
+        "Lord of the Rings Online: Riders of Rohan",
+        "The Lord of the Rings Online Riders of Rohan"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan|Rohan|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Riders\\s+of\\s+Rohan)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2012,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 24290,
+      "canonical_name": "The Lord of the Rings Online: Rise of Isengard",
+      "slug": "the-lord-of-the-rings-online-rise-of-isengard",
+      "aliases": [
+        "The Lord of the Rings Online Rise of Isengard",
+        "Lord of the Rings Online: Rise of Isengard"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Rise\\s+of\\s+Isengard|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Rise\\s+of\\s+Isengard|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Rise\\s+of\\s+Isengard)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2011,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 169321,
+      "canonical_name": "The Lord of the Rings Online: Quad Pack",
+      "slug": "the-lord-of-the-rings-online-quad-pack",
+      "aliases": [
+        "Lord of the Rings Online: Quad Pack",
+        "The Lord of the Rings Online Quad Pack"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Quad\\s+Pack|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Quad\\s+Pack|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Quad\\s+Pack)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2014,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 275924,
+      "canonical_name": "The Lord of the Rings Online: Minas Morgul",
+      "slug": "the-lord-of-the-rings-online-minas-morgul",
+      "aliases": [
+        "The Lord of the Rings Online Minas Morgul",
+        "Lord of the Rings Online: Minas Morgul"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Minas\\s+Morgul|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Minas\\s+Morgul|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Minas\\s+Morgul)\\b",
+      "genres": [],
+      "release_year": 2019,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 27918,
+      "canonical_name": "The Lord of the Rings Online: Helm's Deep",
+      "slug": "the-lord-of-the-rings-online-helms-deep",
+      "aliases": [
+        "The Lord of the Rings Online Helm's Deep",
+        "The Lord of the Rings Online: Helms Deep",
+        "Lord of the Rings Online: Helm's Deep"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Helm's\\s+Deep|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Helm's\\s+Deep|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Helms\\s+Deep|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Helm's\\s+Deep)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2013,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 376581,
+      "canonical_name": "The Lord of the Rings Online: Legacy of Morgoth",
+      "slug": "the-lord-of-the-rings-online-legacy-of-morgoth--1",
+      "aliases": [
+        "The Lord of the Rings Online Legacy of Morgoth",
+        "Lord of the Rings Online: Legacy of Morgoth"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Legacy\\s+of\\s+Morgoth|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Legacy\\s+of\\s+Morgoth|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Legacy\\s+of\\s+Morgoth)\\b",
+      "genres": [],
+      "release_year": 2024,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 275926,
+      "canonical_name": "The Lord of the Rings Online: Fate of Gundabad",
+      "slug": "the-lord-of-the-rings-online-fate-of-gundabad",
+      "aliases": [
+        "Lord of the Rings Online: Fate of Gundabad",
+        "The Lord of the Rings Online Fate of Gundabad"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Fate\\s+of\\s+Gundabad|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Fate\\s+of\\s+Gundabad|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Fate\\s+of\\s+Gundabad)\\b",
+      "genres": [],
+      "release_year": 2021,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 380534,
+      "canonical_name": "The Lord of the Rings Online: Kingdoms of Harad",
+      "slug": "the-lord-of-the-rings-online-kingdoms-of-harad",
+      "aliases": [
+        "Lord of the Rings Online: Kingdoms of Harad",
+        "The Lord of the Rings Online Kingdoms of Harad"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Kingdoms\\s+of\\s+Harad|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Kingdoms\\s+of\\s+Harad|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Kingdoms\\s+of\\s+Harad)\\b",
+      "genres": [],
+      "release_year": 2025,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 275925,
+      "canonical_name": "The Lord of the Rings Online: War of Three Peaks",
+      "slug": "the-lord-of-the-rings-online-war-of-three-peaks",
+      "aliases": [
+        "The Lord of the Rings Online War of Three Peaks",
+        "Lord of the Rings Online: War of Three Peaks"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+War\\s+of\\s+Three\\s+Peaks|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+War\\s+of\\s+Three\\s+Peaks|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+War\\s+of\\s+Three\\s+Peaks)\\b",
+      "genres": [],
+      "release_year": 2020,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 275927,
+      "canonical_name": "The Lord of the Rings Online: Before the Shadow",
+      "slug": "the-lord-of-the-rings-online-before-the-shadow",
+      "aliases": [
+        "Lord of the Rings Online: Before the Shadow",
+        "The Lord of the Rings Online Before the Shadow"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Before\\s+the\\s+Shadow|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Before\\s+the\\s+Shadow|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Before\\s+the\\s+Shadow)\\b",
+      "genres": [],
+      "release_year": 2022,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 131347,
+      "canonical_name": "The Lord of the Rings Online Trading Card Game",
+      "slug": "the-lord-of-the-rings-online-trading-card-game",
+      "aliases": [
+        "Lord of the Rings Online Trading Card Game"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Trading\\s+Card\\s+Game|Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Trading\\s+Card\\s+Game)\\b",
+      "genres": [
+        "Card & Board Game"
+      ],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 275928,
+      "canonical_name": "The Lord of the Rings Online: Corsairs of Umbar",
+      "slug": "the-lord-of-the-rings-online-corsairs-of-umbar",
+      "aliases": [
+        "The Lord of the Rings Online Corsairs of Umbar",
+        "Lord of the Rings Online: Corsairs of Umbar"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Corsairs\\s+of\\s+Umbar|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Corsairs\\s+of\\s+Umbar|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Corsairs\\s+of\\s+Umbar)\\b",
+      "genres": [],
+      "release_year": 2023,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 207000,
+      "canonical_name": "The Lord of the Rings Online: Mithril Edition",
+      "slug": "the-lord-of-the-rings-online-mithril-edition",
+      "aliases": [
+        "Lord of the Rings Online: Mithril Edition",
+        "The Lord of the Rings Online Mithril Edition"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mithril\\s+Edition|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Mithril\\s+Edition|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Mithril\\s+Edition)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2011,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 95570,
+      "canonical_name": "The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live",
+      "slug": "the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live",
+      "aliases": [
+        "Lord of the Rings Online: Riders of Rohan - Heroic Edition Live",
+        "The Lord of the Rings Online: Riders of Rohan Heroic Edition Live",
+        "The Lord of the Rings Online Riders of Rohan - Heroic Edition Live"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan\\s+[\\s-]*\\s+Heroic\\s+Edition\\s+Live|Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan\\s+[\\s-]*\\s+Heroic\\s+Edition\\s+Live|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online:\\s+Riders\\s+of\\s+Rohan\\s+Heroic\\s+Edition\\s+Live|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+Online\\s+Riders\\s+of\\s+Rohan\\s+[\\s-]*\\s+Heroic\\s+Edition\\s+Live)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2012,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 127953,
+      "canonical_name": "The Lord of the Rings: The Third Age",
+      "slug": "the-lord-of-the-rings-the-third-age--1",
+      "aliases": [
+        "Le Seigneur des Anneaux: Le Tiers Age",
+        "Der Herr der Ringe: Das dritte Zeitalter",
+        "LotR: 3rd Age GBA",
+        "The Lord of the Rings The Third Age",
+        "Lord of the Rings: The Third Age"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Third\\s+Age|Le\\s+Seigneur\\s+des\\s+Anneaux:\\s+Le\\s+Tiers\\s+Age|Der\\s+Herr\\s+der\\s+Ringe:\\s+Das\\s+dritte\\s+Zeitalter|LotR:\\s+3rd\\s+Age\\s+GBA|The\\s+Lord\\s+of\\s+the\\s+Rings\\s+The\\s+Third\\s+Age|Lord\\s+of\\s+the\\s+Rings:\\s+The\\s+Third\\s+Age)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "release_year": 2004,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "Third Age: Total War",
+      "slug": "third-age-total-war-mod",
+      "aliases": [
+        "Third Age Total War"
+      ],
+      "regex_pattern": "(?i)\\b(Third\\s+Age:\\s+Total\\s+War|Third\\s+Age\\s+Total\\s+War)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Medieval II: Total War"
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "Divide and Conquer",
+      "slug": "divide-and-conquer-mod",
+      "aliases": [
+        "DaC submod"
+      ],
+      "regex_pattern": "(?i)\\b(Divide\\s+and\\s+Conquer|DaC\\s+submod)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Third Age: Total War"
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "Realms in Exile",
+      "slug": "realms-in-exile-mod",
+      "aliases": [
+        "CK3 LOTR mod",
+        "Realms in Exile CK3"
+      ],
+      "regex_pattern": "(?i)\\b(Realms\\s+in\\s+Exile|CK3\\s+LOTR\\s+mod|Realms\\s+in\\s+Exile\\s+CK3)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Crusader Kings III"
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "The Last Days of the Third Age",
+      "slug": "last-days-third-age-mod",
+      "aliases": [
+        "TLD mod",
+        "Last Days mod"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Last\\s+Days\\s+of\\s+the\\s+Third\\s+Age|TLD\\s+mod|Last\\s+Days\\s+mod)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Mount & Blade: Warband"
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "Age of the Ring",
+      "slug": "age-of-the-ring-mod",
+      "aliases": [
+        "Age of the Ring mod"
+      ],
+      "regex_pattern": "(?i)\\b(Age\\s+of\\s+the\\s+Ring|Age\\s+of\\s+the\\s+Ring\\s+mod)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Battle for Middle-earth II"
+    },
+    {
+      "igdb_id": null,
+      "canonical_name": "Edain Mod",
+      "slug": "edain-mod",
+      "aliases": [
+        "Edain"
+      ],
+      "regex_pattern": "(?i)\\b(Edain\\s+Mod|Edain)\\b",
+      "genres": [],
+      "release_year": null,
+      "total_rating": null,
+      "rating_count": null,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": true,
+      "base_game": "Battle for Middle-earth II"
+    },
+    {
+      "igdb_id": 1942,
+      "canonical_name": "The Witcher 3: Wild Hunt",
+      "slug": "the-witcher-3-wild-hunt",
+      "aliases": [
+        "The Witcher 3 Wild Hunt",
+        "Witcher III",
+        "Witcher 3",
+        "The Witcher III: Wild Hunt",
+        "Witcher 3: Wild Hunt"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Witcher\\s+3:\\s+Wild\\s+Hunt|The\\s+Witcher\\s+3\\s+Wild\\s+Hunt|Witcher\\s+III|Witcher\\s+3|The\\s+Witcher\\s+III:\\s+Wild\\s+Hunt|Witcher\\s+3:\\s+Wild\\s+Hunt)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2015,
+      "total_rating": 92.82744671539679,
+      "rating_count": 5037,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 472,
+      "canonical_name": "The Elder Scrolls V: Skyrim",
+      "slug": "the-elder-scrolls-v-skyrim",
+      "aliases": [
+        "Skyrim",
+        "Elder Scrolls V: Skyrim",
+        "TES Skyrim",
+        "TESV: Skyrim",
+        "The Elder Scrolls 5: Skyrim",
+        "The Elder Scrolls V Skyrim"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Elder\\s+Scrolls\\s+V:\\s+Skyrim|Skyrim|Elder\\s+Scrolls\\s+V:\\s+Skyrim|TES\\s+Skyrim|TESV:\\s+Skyrim|The\\s+Elder\\s+Scrolls\\s+5:\\s+Skyrim|The\\s+Elder\\s+Scrolls\\s+V\\s+Skyrim)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2011,
+      "total_rating": 83.76040514320218,
+      "rating_count": 4060,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 119133,
+      "canonical_name": "Elden Ring",
+      "slug": "elden-ring",
+      "aliases": [
+        "Great Rune"
+      ],
+      "regex_pattern": "(?i)\\b(Elden\\s+Ring|Great\\s+Rune)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2022,
+      "total_rating": 95.51188964577439,
+      "rating_count": 1916,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 11133,
+      "canonical_name": "Dark Souls III",
+      "slug": "dark-souls-iii",
+      "aliases": [
+        "Dark Souls 3"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls\\s+III|Dark\\s+Souls\\s+3)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2016,
+      "total_rating": 86.68448463071644,
+      "rating_count": 1818,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 2155,
+      "canonical_name": "Dark Souls",
+      "slug": "dark-souls",
+      "aliases": [
+        "Project Dark"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls|Project\\s+Dark)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2011,
+      "total_rating": 89.1355102300151,
+      "rating_count": 1598,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 119171,
+      "canonical_name": "Baldur's Gate III",
+      "slug": "baldurs-gate-iii",
+      "aliases": [
+        "BGIII",
+        "Baldurs Gate 3",
+        "Baldur's Gate 3",
+        "Baldurs Gate III"
+      ],
+      "regex_pattern": "(?i)\\b(Baldur's\\s+Gate\\s+III|BGIII|Baldurs\\s+Gate\\s+3|Baldur's\\s+Gate\\s+3|Baldurs\\s+Gate\\s+III)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "release_year": 2023,
+      "total_rating": 95.25159091237731,
+      "rating_count": 1258,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 1887,
+      "canonical_name": "Dragon Age: Inquisition",
+      "slug": "dragon-age-inquisition",
+      "aliases": [
+        "Dragon Age Inquisition",
+        "Dragon Age: Inkwizycja",
+        "Dragon Age III"
+      ],
+      "regex_pattern": "(?i)\\b(Dragon\\s+Age:\\s+Inquisition|Dragon\\s+Age\\s+Inquisition|Dragon\\s+Age:\\s+Inkwizycja|Dragon\\s+Age\\s+III)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": 85.3024581117354,
+      "rating_count": 1051,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 123,
+      "canonical_name": "World of Warcraft",
+      "slug": "world-of-warcraft",
+      "aliases": [],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2004,
+      "total_rating": 85.13997639199538,
+      "rating_count": 854,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 2368,
+      "canonical_name": "Dark Souls II",
+      "slug": "dark-souls-ii",
+      "aliases": [
+        "Dark Souls 2"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls\\s+II|Dark\\s+Souls\\s+2)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": 84.74313961918143,
+      "rating_count": 824,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 12503,
+      "canonical_name": "The Witcher 3: Wild Hunt - Hearts of Stone",
+      "slug": "the-witcher-3-wild-hunt-hearts-of-stone",
+      "aliases": [
+        "The Witcher 3: Wild Hunt Hearts of Stone",
+        "The Witcher 3 Wild Hunt - Hearts of Stone",
+        "Witcher 3: Wild Hunt - Hearts of Stone"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Witcher\\s+3:\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Hearts\\s+of\\s+Stone|The\\s+Witcher\\s+3:\\s+Wild\\s+Hunt\\s+Hearts\\s+of\\s+Stone|The\\s+Witcher\\s+3\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Hearts\\s+of\\s+Stone|Witcher\\s+3:\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Hearts\\s+of\\s+Stone)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2015,
+      "total_rating": 91.86357880176745,
+      "rating_count": 543,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 81085,
+      "canonical_name": "Dark Souls: Remastered",
+      "slug": "dark-souls-remastered",
+      "aliases": [
+        "Dark Souls Remastered"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls:\\s+Remastered|Dark\\s+Souls\\s+Remastered)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2018,
+      "total_rating": 86.92113185992342,
+      "rating_count": 525,
+      "lotr_related": false,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 13166,
+      "canonical_name": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "slug": "the-witcher-3-wild-hunt-blood-and-wine",
+      "aliases": [
+        "The Witcher 3 Wild Hunt - Blood and Wine",
+        "Witcher 3: Wild Hunt - Blood and Wine",
+        "The Witcher 3: Wild Hunt Blood and Wine"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Witcher\\s+3:\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Blood\\s+and\\s+Wine|The\\s+Witcher\\s+3\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Blood\\s+and\\s+Wine|Witcher\\s+3:\\s+Wild\\s+Hunt\\s+[\\s-]*\\s+Blood\\s+and\\s+Wine|The\\s+Witcher\\s+3:\\s+Wild\\s+Hunt\\s+Blood\\s+and\\s+Wine)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2016,
+      "total_rating": 94.14742484310754,
+      "rating_count": 469,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 11800,
+      "canonical_name": "Divinity: Original Sin II",
+      "slug": "divinity-original-sin-ii",
+      "aliases": [
+        "Divinity Original Sin II",
+        "Divinity: Original Sin 2",
+        "Divindade: Pecado Original II"
+      ],
+      "regex_pattern": "(?i)\\b(Divinity:\\s+Original\\s+Sin\\s+II|Divinity\\s+Original\\s+Sin\\s+II|Divinity:\\s+Original\\s+Sin\\s+2|Divindade:\\s+Pecado\\s+Original\\s+II)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": 89.35080213530512,
+      "rating_count": 432,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 8222,
+      "canonical_name": "Dark Souls II: Scholar of the First Sin",
+      "slug": "dark-souls-ii-scholar-of-the-first-sin",
+      "aliases": [
+        "Dark Souls II SotFS",
+        "Dark Souls 2: Scholar of the First Sin",
+        "Dark Souls II Scholar of the First Sin"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls\\s+II:\\s+Scholar\\s+of\\s+the\\s+First\\s+Sin|Dark\\s+Souls\\s+II\\s+SotFS|Dark\\s+Souls\\s+2:\\s+Scholar\\s+of\\s+the\\s+First\\s+Sin|Dark\\s+Souls\\s+II\\s+Scholar\\s+of\\s+the\\s+First\\s+Sin)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2015,
+      "total_rating": 85.16872813578621,
+      "rating_count": 427,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 125165,
+      "canonical_name": "Diablo IV",
+      "slug": "diablo-iv",
+      "aliases": [
+        "Diablo 4"
+      ],
+      "regex_pattern": "(?i)\\b(Diablo\\s+IV|Diablo\\s+4)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
+      ],
+      "release_year": 2023,
+      "total_rating": 83.30253100758668,
+      "rating_count": 341,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 1593,
+      "canonical_name": "Pillars of Eternity",
+      "slug": "pillars-of-eternity",
+      "aliases": [
+        "Project Eternity"
+      ],
+      "regex_pattern": "(?i)\\b(Pillars\\s+of\\s+Eternity|Project\\s+Eternity)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "release_year": 2015,
+      "total_rating": 80.56723463683372,
+      "rating_count": 314,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 228,
+      "canonical_name": "World of Warcraft: Wrath of the Lich King",
+      "slug": "world-of-warcraft-wrath-of-the-lich-king",
+      "aliases": [
+        "WoW: Wrath of the Lich King",
+        "wotlk",
+        "wrath",
+        "World of Warcraft Wrath of the Lich King",
+        "WoW: WotLK"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Wrath\\s+of\\s+the\\s+Lich\\s+King|WoW:\\s+Wrath\\s+of\\s+the\\s+Lich\\s+King|wotlk|wrath|World\\s+of\\s+Warcraft\\s+Wrath\\s+of\\s+the\\s+Lich\\s+King|WoW:\\s+WotLK)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2008,
+      "total_rating": 93.52127692065346,
+      "rating_count": 284,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 227,
+      "canonical_name": "World of Warcraft: The Burning Crusade",
+      "slug": "world-of-warcraft-the-burning-crusade",
+      "aliases": [
+        "WoW TBC",
+        "World of Warcraft The Burning Crusade",
+        "WoW: The Burning Crusade"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+The\\s+Burning\\s+Crusade|WoW\\s+TBC|World\\s+of\\s+Warcraft\\s+The\\s+Burning\\s+Crusade|WoW:\\s+The\\s+Burning\\s+Crusade)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2007,
+      "total_rating": 82.91790854622168,
+      "rating_count": 270,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 229,
+      "canonical_name": "World of Warcraft: Cataclysm",
+      "slug": "world-of-warcraft-cataclysm",
+      "aliases": [
+        "World of Warcraft Cataclysm",
+        "WoW: Cataclysm"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Cataclysm|World\\s+of\\s+Warcraft\\s+Cataclysm|WoW:\\s+Cataclysm)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2010,
+      "total_rating": 83.09421096788057,
+      "rating_count": 207,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 1332,
+      "canonical_name": "World of Warcraft: Mists of Pandaria",
+      "slug": "world-of-warcraft-mists-of-pandaria",
+      "aliases": [
+        "WoW MoP",
+        "WoW: Mists of Pandaria",
+        "WoW: MoP",
+        "World of Warcraft Mists of Pandaria"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Mists\\s+of\\s+Pandaria|WoW\\s+MoP|WoW:\\s+Mists\\s+of\\s+Pandaria|WoW:\\s+MoP|World\\s+of\\s+Warcraft\\s+Mists\\s+of\\s+Pandaria)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2012,
+      "total_rating": 80.51393688154761,
+      "rating_count": 182,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 3157,
+      "canonical_name": "World of Warcraft: Warlords of Draenor",
+      "slug": "world-of-warcraft-warlords-of-draenor",
+      "aliases": [
+        "Warlords",
+        "World of Warcraft Warlords of Draenor",
+        "WoW: WoD"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Warlords\\s+of\\s+Draenor|Warlords|World\\s+of\\s+Warcraft\\s+Warlords\\s+of\\s+Draenor|WoW:\\s+WoD)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "release_year": 2014,
+      "total_rating": 79.8681861724417,
+      "rating_count": 158,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 11593,
+      "canonical_name": "World of Warcraft: Legion",
+      "slug": "world-of-warcraft-legion",
+      "aliases": [
+        "World of Warcraft Legion",
+        "WoW: Legion"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Legion|World\\s+of\\s+Warcraft\\s+Legion|WoW:\\s+Legion)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2016,
+      "total_rating": 86.11196890794398,
+      "rating_count": 154,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 9898,
+      "canonical_name": "Total War: Warhammer",
+      "slug": "total-war-warhammer",
+      "aliases": [
+        "Total War Warhammer"
+      ],
+      "regex_pattern": "(?i)\\b(Total\\s+War:\\s+Warhammer|Total\\s+War\\s+Warhammer)\\b",
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "release_year": 2016,
+      "total_rating": 85.17821492938857,
+      "rating_count": 132,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 6069,
+      "canonical_name": "The Elder Scrolls V: Skyrim - Dragonborn",
+      "slug": "the-elder-scrolls-v-skyrim-dragonborn",
+      "aliases": [
+        "The Elder Scrolls V Skyrim - Dragonborn",
+        "The Elder Scrolls V: Skyrim Dragonborn",
+        "Elder Scrolls V: Skyrim - Dragonborn",
+        "The Elder Scrolls 5: Skyrim - Dragonborn"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+[\\s-]*\\s+Dragonborn|The\\s+Elder\\s+Scrolls\\s+V\\s+Skyrim\\s+[\\s-]*\\s+Dragonborn|The\\s+Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+Dragonborn|Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+[\\s-]*\\s+Dragonborn|The\\s+Elder\\s+Scrolls\\s+5:\\s+Skyrim\\s+[\\s-]*\\s+Dragonborn)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2012,
+      "total_rating": 83.4943560500582,
+      "rating_count": 124,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 240009,
+      "canonical_name": "Elden Ring: Shadow of the Erdtree",
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "aliases": [
+        "Elden Ring Shadow of the Erdtree"
+      ],
+      "regex_pattern": "(?i)\\b(Elden\\s+Ring:\\s+Shadow\\s+of\\s+the\\s+Erdtree|Elden\\s+Ring\\s+Shadow\\s+of\\s+the\\s+Erdtree)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2024,
+      "total_rating": 91.56394421113689,
+      "rating_count": 120,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 2992,
+      "canonical_name": "The Elder Scrolls V: Skyrim - Dawnguard",
+      "slug": "the-elder-scrolls-v-skyrim-dawnguard",
+      "aliases": [
+        "The Elder Scrolls V: Skyrim Dawnguard",
+        "Elder Scrolls V: Skyrim - Dawnguard",
+        "The Elder Scrolls V Skyrim - Dawnguard",
+        "The Elder Scrolls 5: Skyrim - Dawnguard"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+[\\s-]*\\s+Dawnguard|The\\s+Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+Dawnguard|Elder\\s+Scrolls\\s+V:\\s+Skyrim\\s+[\\s-]*\\s+Dawnguard|The\\s+Elder\\s+Scrolls\\s+V\\s+Skyrim\\s+[\\s-]*\\s+Dawnguard|The\\s+Elder\\s+Scrolls\\s+5:\\s+Skyrim\\s+[\\s-]*\\s+Dawnguard)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2012,
+      "total_rating": 74.40323312752066,
+      "rating_count": 115,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 75380,
+      "canonical_name": "World of Warcraft: Battle for Azeroth",
+      "slug": "world-of-warcraft-battle-for-azeroth",
+      "aliases": [
+        "World of Warcraft Battle for Azeroth",
+        "WoW: BFA"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft:\\s+Battle\\s+for\\s+Azeroth|World\\s+of\\s+Warcraft\\s+Battle\\s+for\\s+Azeroth|WoW:\\s+BFA)\\b",
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "release_year": 2018,
+      "total_rating": 74.93166290167767,
+      "rating_count": 113,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 26951,
+      "canonical_name": "Pillars of Eternity II: Deadfire",
+      "slug": "pillars-of-eternity-ii-deadfire",
+      "aliases": [
+        "Pillars of Eternity 2: Deadfire",
+        "Pillars of Eternity II Deadfire",
+        "Pillars of Eternity 2"
+      ],
+      "regex_pattern": "(?i)\\b(Pillars\\s+of\\s+Eternity\\s+II:\\s+Deadfire|Pillars\\s+of\\s+Eternity\\s+2:\\s+Deadfire|Pillars\\s+of\\s+Eternity\\s+II\\s+Deadfire|Pillars\\s+of\\s+Eternity\\s+2)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2018,
+      "total_rating": 83.57610797827618,
+      "rating_count": 112,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 26916,
+      "canonical_name": "Dark Souls III: The Ringed City",
+      "slug": "dark-souls-iii-the-ringed-city",
+      "aliases": [
+        "Dark Souls III The Ringed City",
+        "Dark Souls 3: The Ringed City"
+      ],
+      "regex_pattern": "(?i)\\b(Dark\\s+Souls\\s+III:\\s+The\\s+Ringed\\s+City|Dark\\s+Souls\\s+III\\s+The\\s+Ringed\\s+City|Dark\\s+Souls\\s+3:\\s+The\\s+Ringed\\s+City)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2017,
+      "total_rating": 87.47353631189253,
+      "rating_count": 111,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 75379,
+      "canonical_name": "World of Warcraft Classic",
+      "slug": "world-of-warcraft-classic",
+      "aliases": [
+        "WoW Classic"
+      ],
+      "regex_pattern": "(?i)\\b(World\\s+of\\s+Warcraft\\s+Classic|WoW\\s+Classic)\\b",
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "release_year": 2019,
+      "total_rating": 80.47213127839812,
+      "rating_count": 104,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 28028,
+      "canonical_name": "Total War: Warhammer II",
+      "slug": "total-war-warhammer-ii",
+      "aliases": [
+        "Total War: Warhammer 2",
+        "Total War Warhammer II"
+      ],
+      "regex_pattern": "(?i)\\b(Total\\s+War:\\s+Warhammer\\s+II|Total\\s+War:\\s+Warhammer\\s+2|Total\\s+War\\s+Warhammer\\s+II)\\b",
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "release_year": 2017,
+      "total_rating": 85.92106536682451,
+      "rating_count": 104,
+      "lotr_related": false,
+      "priority_tier": 2,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 90001,
+      "canonical_name": "Tales of the Shire: A The Lord of the Rings Game",
+      "slug": "tales-of-the-shire",
+      "aliases": [
+        "Tales of the Shire",
+        "Shire game"
+      ],
+      "regex_pattern": "(?i)\\b(Tales\\s+of\\s+the\\s+Shire)\\b",
+      "genres": [
+        "Simulation",
+        "Adventure",
+        "Cozy"
+      ],
+      "release_year": 2024,
+      "total_rating": null,
+      "rating_count": 0,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    },
+    {
+      "igdb_id": 90002,
+      "canonical_name": "The Lord of the Rings: Gollum",
+      "slug": "the-lord-of-the-rings-gollum",
+      "aliases": [
+        "Gollum game",
+        "LOTR Gollum"
+      ],
+      "regex_pattern": "(?i)\\b(The\\s+Lord\\s+of\\s+the\\s+Rings:\\s+Gollum|Gollum\\s+game)\\b",
+      "genres": [
+        "Adventure",
+        "Stealth"
+      ],
+      "release_year": 2023,
+      "total_rating": 35.0,
+      "rating_count": 100,
+      "lotr_related": true,
+      "priority_tier": 1,
+      "is_mod": false
+    }
+  ]
+}

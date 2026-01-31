@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What LOTR Fans Actually Want in a Game | Noetheca Research</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-cream: #FAFAF8;
+      --bg-white: #FFFFFF;
+      --text-primary: #1A1A1A;
+      --text-secondary: #4A4A4A;
+      --text-tertiary: #6B6B6B;
+      --border-light: #E5E5E3;
+      --accent-blue: #6B9AC4;
+      --accent-navy: #1E3A5F;
+      --positive: #059669;
+      --negative: #DC2626;
+      --sidebar-width: 220px;
+      --content-max-width: 680px;
+    }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: var(--bg-cream);
+      color: var(--text-primary);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .site-header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 60px;
+      background: var(--bg-cream);
+      border-bottom: 1px solid var(--border-light);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      z-index: 1000;
+    }
+    .logo { font-weight: 700; font-size: 1.1rem; letter-spacing: -0.02em; }
+    .header-nav { display: flex; gap: 32px; }
+    .header-nav a { color: var(--text-primary); text-decoration: none; font-size: 0.9rem; }
+
+    .page-wrapper { display: flex; padding-top: 60px; min-height: 100vh; }
+
+    .sidebar {
+      position: fixed;
+      top: 60px; left: 0;
+      width: var(--sidebar-width);
+      height: calc(100vh - 60px);
+      padding: 40px 24px 40px 40px;
+      overflow-y: auto;
+    }
+    .sidebar-nav { list-style: none; }
+    .sidebar-nav li { margin-bottom: 8px; }
+    .sidebar-nav a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.9rem;
+      display: block;
+      padding: 6px 0;
+      border-top: 1px solid var(--border-light);
+    }
+    .sidebar-nav li:first-child a { border-top: none; }
+    .sidebar-nav a:hover, .sidebar-nav a.active { color: var(--text-primary); }
+    .sidebar-nav a.active { font-weight: 500; }
+
+    .main-content {
+      margin-left: var(--sidebar-width);
+      flex: 1;
+      padding: 60px 60px 120px;
+      max-width: calc(var(--content-max-width) + var(--sidebar-width) + 120px);
+    }
+    .content-column { max-width: var(--content-max-width); }
+
+    .hero { margin-bottom: 48px; }
+    .category-label { font-size: 0.85rem; color: var(--text-tertiary); margin-bottom: 16px; text-align: center; }
+    .hero-title {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.15;
+      text-align: center;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }
+    .hero-date { text-align: center; color: var(--text-tertiary); font-size: 0.9rem; margin-bottom: 32px; }
+    .hero-image {
+      width: 100%;
+      height: 280px;
+      background: linear-gradient(135deg, #1E3A5F 0%, #2D5A87 50%, #6B9AC4 100%);
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 48px;
+    }
+    .hero-image svg { width: 140px; height: 140px; stroke: #FAFAF8; stroke-width: 1.5; fill: none; opacity: 0.9; }
+
+    .summary-box {
+      font-style: italic;
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+      line-height: 1.8;
+      margin-bottom: 48px;
+    }
+
+    .section { margin-bottom: 64px; }
+    h2 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 2rem;
+      font-weight: 400;
+      margin-bottom: 24px;
+    }
+    h3 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.4rem;
+      font-weight: 400;
+      margin-top: 40px;
+      margin-bottom: 16px;
+    }
+    p { margin-bottom: 20px; font-size: 1.05rem; }
+
+    .pull-quote {
+      margin: 56px 0;
+      padding: 40px 0;
+      border-top: 1px solid var(--border-light);
+      border-bottom: 1px solid var(--border-light);
+      text-align: center;
+    }
+    .pull-quote-mark {
+      font-family: Georgia, serif;
+      font-size: 4rem;
+      color: var(--text-tertiary);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+    .pull-quote-text {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.4;
+      max-width: 600px;
+      margin: 0 auto 16px;
+    }
+    .pull-quote-attribution {
+      font-size: 0.9rem;
+      color: var(--text-tertiary);
+    }
+
+    .inline-quote {
+      margin: 24px 0 24px 24px;
+      padding-left: 20px;
+      border-left: 2px solid var(--border-light);
+      color: var(--text-secondary);
+      font-style: italic;
+    }
+    .quote-attribution { font-size: 0.85rem; color: var(--text-tertiary); font-style: normal; margin-top: 8px; }
+
+    .data-table { width: 100%; border-collapse: collapse; margin: 32px 0; font-size: 0.95rem; }
+    .data-table thead th {
+      text-align: left;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--text-primary);
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .data-table thead th:not(:first-child) { text-align: right; }
+    .data-table tbody td { padding: 12px 16px; border-bottom: 1px solid var(--border-light); }
+    .data-table tbody td:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+    .data-table .positive { color: var(--positive); }
+    .data-table .negative { color: var(--negative); }
+    .table-caption { font-size: 0.85rem; color: var(--text-tertiary); margin-top: 12px; font-style: italic; }
+
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 32px 0;
+      background: var(--bg-white);
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .comparison-table thead th { padding: 16px 20px; text-align: left; font-weight: 500; font-size: 0.9rem; background: #F5F5F3; }
+    .comparison-table tbody td { padding: 20px; vertical-align: top; width: 50%; border-bottom: 1px solid var(--border-light); }
+    .comparison-table tbody tr:last-child td { border-bottom: none; }
+    .topic-label { font-weight: 600; margin-bottom: 8px; }
+    .topic-quote { color: var(--text-secondary); font-size: 0.95rem; line-height: 1.6; }
+
+    .chart-container {
+      margin: 40px 0;
+      background: var(--bg-white);
+      border-radius: 4px;
+      padding: 24px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .chart-title { font-family: Georgia, serif; font-size: 1.3rem; font-weight: 400; margin-bottom: 24px; }
+
+    .stat-row { display: flex; gap: 40px; margin: 32px 0; flex-wrap: wrap; }
+    .stat-item { flex: 1; min-width: 120px; }
+    .stat-number { font-family: Georgia, serif; font-size: 2.5rem; font-weight: 400; color: var(--accent-navy); margin-bottom: 4px; }
+    .stat-label { font-size: 0.9rem; color: var(--text-tertiary); }
+
+    ul.findings-list { list-style: none; margin: 24px 0; }
+    ul.findings-list li { position: relative; padding-left: 20px; margin-bottom: 16px; }
+    ul.findings-list li::before { content: "•"; position: absolute; left: 0; color: var(--text-tertiary); }
+    ul.findings-list strong { font-weight: 600; }
+
+    .evidence-box {
+      background: var(--bg-white);
+      border-radius: 4px;
+      padding: 20px;
+      margin: 24px 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .evidence-box .quote-text {
+      font-style: italic;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      line-height: 1.6;
+    }
+    .evidence-box .quote-meta {
+      font-size: 0.8rem;
+      color: var(--text-tertiary);
+    }
+
+    .site-footer {
+      margin-top: 80px;
+      padding-top: 40px;
+      border-top: 1px solid var(--border-light);
+      color: var(--text-tertiary);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 900px) {
+      .sidebar { display: none; }
+      .main-content { margin-left: 0; padding: 40px 24px; }
+      .hero-title { font-size: 2rem; }
+      .stat-row { flex-direction: column; gap: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">NOETHECA</div>
+  </header>
+
+  <div class="page-wrapper">
+    <aside class="sidebar">
+      <ul class="sidebar-nav">
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#method">Method</a></li>
+        <li><a href="#results">Results</a></li>
+        <li><a href="#finding-books">Books Over Movies</a></li>
+        <li><a href="#finding-strategy">Strategy Games</a></li>
+        <li><a href="#finding-hogwarts">Hogwarts Skepticism</a></li>
+        <li><a href="#finding-lotro">LOTRO as Benchmark</a></li>
+        <li><a href="#implications">Implications</a></li>
+        <li><a href="#limitations">Limitations</a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <div class="content-column">
+
+        <!-- HERO -->
+        <div class="hero">
+          <p class="category-label">REDDIT DISCOURSE ANALYSIS</p>
+          <h1 class="hero-title">What Lord of the Rings Fans Actually Want in a Video Game</h1>
+          <p class="hero-date">January 2026</p>
+          <div class="hero-image">
+            <svg viewBox="0 0 100 100">
+              <circle cx="50" cy="50" r="35" />
+              <circle cx="50" cy="50" r="25" />
+              <circle cx="50" cy="50" r="15" />
+              <path d="M50,15 L50,5 M50,85 L50,95 M15,50 L5,50 M85,50 L95,50" />
+            </svg>
+          </div>
+        </div>
+
+        <!-- SUMMARY -->
+        <p class="summary-box">
+          Upvote counts show which comments are popular. This analysis reveals what LOTR fans actually want when they discuss games, and they reject the obvious answers. Across 409 comments from 272 unique authors, the community's highest-rated voices consistently favor book-faithful content over movie adaptations, express skepticism toward open-world formulas, and point to a 19-year-old MMO as the gold standard for Middle-earth authenticity.
+        </p>
+
+        <!-- INTRODUCTION -->
+        <section class="section" id="introduction">
+          <h2>Introduction</h2>
+          <p>Embracer Group holds the video game adaptation rights to The Lord of the Rings and The Hobbit. The strategic question is straightforward: what kind of game should they make next?</p>
+          <p>Traditional market research can survey stated preferences, but stated preferences often diverge from revealed preferences. Reddit offers a different signal: unprompted, organic discussions where fans debate among themselves what they actually want—and the community's voting system surfaces which opinions resonate most.</p>
+          <p>This analysis examines LOTR game discussions on Reddit to identify patterns in what fans request, what they criticize, and which positions earn community approval. The goal is not to replace survey research but to supplement it with behavioral evidence of preference.</p>
+        </section>
+
+        <!-- METHOD -->
+        <section class="section" id="method">
+          <h2>Method</h2>
+          <p>We identified posts in LOTR-focused subreddits that explicitly discussed video games, then extracted all comments from threads with substantial engagement. Comments were filtered to include only verified human authors (accounts active across 2+ subreddits for 30+ days with consistent posting patterns).</p>
+          
+          <h3>Corpus Composition</h3>
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Source Post</th>
+                <th>Comments</th>
+                <th>Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>"Imagine a Lord of the Rings game with the combat mechanics of For Honor"</td>
+                <td>269</td>
+                <td>4,707</td>
+              </tr>
+              <tr>
+                <td>"What is favorite LOTR video game?"</td>
+                <td>406</td>
+                <td>570</td>
+              </tr>
+              <tr>
+                <td>"Can we please get a proper AAA Lord of the Rings game again"</td>
+                <td>195</td>
+                <td>444</td>
+              </tr>
+              <tr>
+                <td>"We need a LOTR game similar to Hogwarts Legacy"</td>
+                <td>89</td>
+                <td>338</td>
+              </tr>
+              <tr>
+                <td>"LoTR Video Game Discussion"</td>
+                <td>78</td>
+                <td>160</td>
+              </tr>
+              <tr>
+                <td>12 additional game-focused posts</td>
+                <td>—</td>
+                <td>—</td>
+              </tr>
+            </tbody>
+          </table>
+          <p class="table-caption">Primary corpus: 17 posts, 409 comments from verified human authors (filtered from 1,037 total), 272 unique authors. Date range: March 2025 – January 2026.</p>
+
+          <p>Comments were analyzed for thematic patterns using keyword detection, then validated through manual review. Community approval was measured by upvote score, allowing comparison between theme prevalence and theme endorsement.</p>
+        </section>
+
+        <!-- RESULTS -->
+        <section class="section" id="results">
+          <h2>Results</h2>
+          <p>Six thematic categories emerged from the corpus. Four showed statistically meaningful signals: comments in these categories received higher average scores than the corpus baseline, suggesting the community actively endorses these positions.</p>
+
+          <div class="stat-row">
+            <div class="stat-item">
+              <div class="stat-number">409</div>
+              <div class="stat-label">Comments analyzed</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">272</div>
+              <div class="stat-label">Unique authors</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">5.9</div>
+              <div class="stat-label">Avg comment score</div>
+            </div>
+          </div>
+
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Theme</th>
+                <th>Mentions</th>
+                <th>% of Corpus</th>
+                <th>Avg Score</th>
+                <th>vs Baseline</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Book content preference</td>
+                <td>40</td>
+                <td>9.8%</td>
+                <td>14.3</td>
+                <td class="positive">2.4×</td>
+              </tr>
+              <tr>
+                <td>LOTRO references</td>
+                <td>32</td>
+                <td>7.8%</td>
+                <td>12.4</td>
+                <td class="positive">2.1×</td>
+              </tr>
+              <tr>
+                <td>Strategy game requests</td>
+                <td>59</td>
+                <td>14.4%</td>
+                <td>10.8</td>
+                <td class="positive">1.8×</td>
+              </tr>
+              <tr>
+                <td>Open world discussion</td>
+                <td>34</td>
+                <td>8.3%</td>
+                <td>8.4</td>
+                <td class="positive">1.4×</td>
+              </tr>
+              <tr>
+                <td>AAA quality demands</td>
+                <td>73</td>
+                <td>17.8%</td>
+                <td>6.2</td>
+                <td>1.1×</td>
+              </tr>
+              <tr>
+                <td>Nemesis system</td>
+                <td>20</td>
+                <td>4.9%</td>
+                <td>3.6</td>
+                <td class="negative">0.6×</td>
+              </tr>
+            </tbody>
+          </table>
+          <p class="table-caption">Score multiplier indicates average comment score relative to corpus baseline (5.9). Values above 1.5× suggest strong community endorsement.</p>
+        </section>
+
+        <!-- FINDING 1: BOOKS OVER MOVIES -->
+        <section class="section" id="finding-books">
+          <h3>Finding 1: Book Content Over Movie Retreads</h3>
+          <p>The highest-scoring theme in the corpus (2.4× baseline) was explicit preference for book-based content over adaptations of the Peter Jackson films. This appeared in 9.8% of comments (n=40) from 32 unique authors.</p>
+
+          <div class="pull-quote">
+            <div class="pull-quote-mark">"</div>
+            <p class="pull-quote-text">I'd much rather see something that we only hear about in the books than something that I can just watch the movies or read the books to see.</p>
+            <p class="pull-quote-attribution">— u/tgalvin1999, 186 pts, r/lotr, June 2025</p>
+          </div>
+
+          <p>This comment, the highest-scored in the theme, articulates a key insight: fans see diminishing returns in re-experiencing familiar content. A game covering Frodo's journey or Helm's Deep competes against films they already love. But events mentioned in LOTR that were never shown on screen—the fall of Arnor, the Kin-strife of Gondor, Aragorn's years as a Ranger—offer stories fans can't get elsewhere.</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"If we did ever get a grand, expansive AAA LOTR game, my #1 hope is that it'd pull a lot more from the books than the PJ films. I don't just mean giving us Tom Bombadil, the Barrow-wight, or the scouring of the Shire; I'd wanna see a radically different visual interpretation of Middle Earth."</p>
+            <p class="quote-meta">— u/nerdyfella2 | 58 pts | r/lotr | June 11, 2025</p>
+          </div>
+
+          <p>The call for "radically different visual interpretation" suggests fatigue with the Jackson aesthetic specifically, not just the plot points. This represents both a creative opportunity and a risk: deviation from the established look of Middle-earth could alienate casual fans even as it energizes hardcore readers.</p>
+        </section>
+
+        <!-- FINDING 2: STRATEGY GAMES -->
+        <section class="section" id="finding-strategy">
+          <h3>Finding 2: Strong Demand for Strategy Genre</h3>
+          <p>Strategy games represented the most frequently discussed genre (14.4% of corpus, n=59), with average scores 1.8× the baseline. Battle for Middle Earth was the most-cited specific title, with multiple commenters explicitly requesting a sequel or spiritual successor.</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"I think if they brought out a game like Battle for Middle earth 3 with updated factions, and more sophisticated upgrade pathways, and adding an online component, it would be incredibly successful."</p>
+            <p class="quote-meta">— u/Nuancedchaos97 | 79 pts | r/lotr | March 1, 2025</p>
+          </div>
+
+          <div class="evidence-box">
+            <p class="quote-text">"I want a grand strategy LOTR game. That's all."</p>
+            <p class="quote-meta">— u/greenmerica | 75 pts | r/lotr | June 11, 2025</p>
+          </div>
+
+          <p>The persistence of BFME nostalgia, for a game whose servers shut down in 2010, indicates unmet demand. No comparable LOTR strategy title has filled this gap in 16 years.</p>
+
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>Genre Requested</th>
+                <th>Evidence</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <p class="topic-label">Real-Time Strategy</p>
+                  <p class="topic-quote">"Battle for Middle Earth 2: War of the Ring mode." (29 pts)</p>
+                </td>
+                <td>
+                  <p class="topic-label">Grand Strategy</p>
+                  <p class="topic-quote">"I want a grand strategy LOTR game. That's all." (75 pts)</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+
+        <!-- FINDING 3: HOGWARTS SKEPTICISM -->
+        <section class="section" id="finding-hogwarts">
+          <h3>Finding 3: Skepticism Toward Open-World Formulas</h3>
+          <p>The post "We need a LOTR game similar to Hogwarts Legacy" provided a natural experiment: the title proposes an open-world action-RPG approach, and comments either endorsed or rejected this framing. The results suggest significant skepticism.</p>
+
+          <p>The top-voted comment (155 pts) explicitly rejected the Hogwarts comparison:</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"We need a LOTR game similar to Kingdom Come Deliverance."</p>
+            <p class="quote-meta">— 155 pts | r/lotr | March 1, 2025</p>
+          </div>
+
+          <p>Kingdom Come Deliverance emphasizes historical realism, slow-paced immersion, and minimal fantasy elements—a stark contrast to Hogwarts Legacy's colorful action-adventure approach. The community's preference for KCD as a reference point suggests appetite for grounded, simulation-style gameplay.</p>
+
+          <p>The third-highest comment (74 pts) was overtly critical:</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"&gt;similar to hogwarts legacy<br><br>so 20 minutes of content in important locations and 40 hours of solving 3 variations of dwarven door puzzle somewhere in the wilderness"</p>
+            <p class="quote-meta">— u/Tz33ntch | 74 pts | r/lotr | March 1, 2025</p>
+          </div>
+
+          <p>This criticism—that Hogwarts Legacy prioritized quantity of content over meaningful engagement with its source material—directly connects to Finding 1. Fans appear to want depth over breadth, lore fidelity over open-world scale.</p>
+        </section>
+
+        <!-- FINDING 4: LOTRO AS BENCHMARK -->
+        <section class="section" id="finding-lotro">
+          <h3>Finding 4: LOTRO as the Authenticity Benchmark</h3>
+          <p>Lord of the Rings Online, a 19-year-old MMO, was referenced in 7.8% of comments (n=32) with an average score 2.1× baseline. Comments citing LOTRO tended to use it as a standard for lore fidelity and world-building.</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"It's why I enjoy LOTRO so much. You do a lot of events you only hear about in the series while still also intersecting at points."</p>
+            <p class="quote-meta">— u/tgalvin1999 | 186 pts | r/lotr | June 11, 2025</p>
+          </div>
+
+          <p>The same commenter who posted the highest-scoring "books over movies" comment also cited LOTRO as the model. This suggests a coherent preference profile: fans who want unexplored lore see LOTRO as having delivered on that promise.</p>
+
+          <p>However, LOTRO also drew criticism for dated gameplay:</p>
+
+          <div class="evidence-box">
+            <p class="quote-text">"I've tried to play that four times over my life and it just never really felt good playing. What we need is a modern mmo for it."</p>
+            <p class="quote-meta">— u/Lord_Ryu | 30 pts | r/lotr | March 1, 2025</p>
+          </div>
+
+          <p>This tension, respect for LOTRO's content alongside frustration with its mechanics, suggests an opportunity for a game that captures LOTRO's world-building approach with modern production values.</p>
+        </section>
+
+        <!-- IMPLICATIONS -->
+        <section class="section" id="implications">
+          <h2>Implications</h2>
+          
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>For Game Development</th>
+                <th>For Marketing</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <p class="topic-label">Genre Selection</p>
+                  <p class="topic-quote">Strategy games have demonstrated demand with no major competitor since BFME. This represents a lower-risk opportunity than crowded action-RPG market.</p>
+                </td>
+                <td>
+                  <p class="topic-label">Positioning</p>
+                  <p class="topic-quote">Emphasize book-faithful content and lore depth over movie tie-ins. The hardcore fan base—most likely to drive word-of-mouth—actively rejects Jackson-retread framing.</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p class="topic-label">Content Scope</p>
+                  <p class="topic-quote">The Hogwarts skepticism suggests "fewer locations, deeper content" may resonate better than sprawling open worlds. Consider smaller scope with higher fidelity.</p>
+                </td>
+                <td>
+                  <p class="topic-label">Reference Points</p>
+                  <p class="topic-quote">Kingdom Come Deliverance emerged as preferred comparison. LOTRO's world-building is respected. Shadow of Mordor's Nemesis system is valued but does not drive purchase intent.</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+          <p>The overall pattern suggests a fan base that prioritizes authenticity to Tolkien's broader work over accessibility or action-oriented gameplay. This may represent a vocal minority rather than the mass market, but it likely represents the core audience that drives early adoption and community building.</p>
+        </section>
+
+        <!-- LIMITATIONS -->
+        <section class="section" id="limitations">
+          <h2>Limitations</h2>
+          <p>This analysis has meaningful constraints that should inform how findings are weighted:</p>
+          <ul class="findings-list">
+            <li><strong>Sample size:</strong> 409 comments from 272 authors represents an engaged subset of LOTR fans, not the broader gaming market. Findings indicate hardcore fan preference, not mass-market demand.</li>
+            <li><strong>Selection bias:</strong> Users who participate in game discussion threads are more likely to be active gamers with strong opinions. Casual fans and non-gamers are underrepresented.</li>
+            <li><strong>Platform bias:</strong> Reddit skews younger, male, and more tech-literate than the general population. Preferences may not generalize to console-primary or mobile audiences.</li>
+            <li><strong>Temporal scope:</strong> Data spans March 2025 – January 2026. Gaming preferences shift; these findings reflect current sentiment, not durable preferences.</li>
+            <li><strong>Licensing constraints:</strong> As one commenter noted, Embracer's rights do not extend to The Silmarillion. Some expressed preferences (deeper lore exploration) may be legally difficult to implement.</li>
+          </ul>
+        </section>
+
+        <footer class="site-footer">
+          <p>© 2026 Noetheca Research. Analysis conducted for Eidos Interactive / Embracer Group. Methodology documentation available on request.</p>
+        </footer>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Sidebar scroll highlighting
+      const sections = document.querySelectorAll('section[id]');
+      const navLinks = document.querySelectorAll('.sidebar-nav a');
+      window.addEventListener('scroll', () => {
+        let current = '';
+        sections.forEach(section => {
+          if (scrollY >= section.offsetTop - 100) current = section.getAttribute('id');
+        });
+        navLinks.forEach(link => {
+          link.classList.remove('active');
+          if (link.getAttribute('href') === `#${current}`) link.classList.add('active');
+        });
+      });
+    });
+  </script>
+</body>
+</html>

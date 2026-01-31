@@ -1,0 +1,22 @@
+# Database
+supabase
+psycopg2-binary
+python-dotenv
+
+# Data analysis
+pandas
+numpy
+
+# NLP / Text processing
+spacy
+nltk
+textstat
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyterlab
+ipykernel

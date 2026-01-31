@@ -1,0 +1,96 @@
+{
+  "label": "TECH",
+  "entities": [
+    {
+      "canonical": "Steam Deck",
+      "aliases": [
+        "deck verified",
+        "handheld PC",
+        "linux support"
+      ]
+    },
+    {
+      "canonical": "PC",
+      "aliases": [
+        "steam",
+        "desktop",
+        "mouse and keyboard",
+        "mnk",
+        "pc port"
+      ]
+    },
+    {
+      "canonical": "Console",
+      "aliases": [
+        "ps5",
+        "xbox",
+        "series x",
+        "playstation",
+        "controller support"
+      ]
+    },
+    {
+      "canonical": "Optimization",
+      "aliases": [
+        "optimized",
+        "performance",
+        "fps drops",
+        "runs well"
+      ]
+    },
+    {
+      "canonical": "Framerate",
+      "aliases": [
+        "60fps",
+        "144fps",
+        "30fps",
+        "fps cap",
+        "high refresh"
+      ]
+    },
+    {
+      "canonical": "Stuttering",
+      "aliases": [
+        "micro-stutter",
+        "lag spikes",
+        "frame pacing",
+        "shader compilation"
+      ]
+    },
+    {
+      "canonical": "Bugs",
+      "aliases": [
+        "glitch",
+        "crash",
+        "buggy",
+        "broken",
+        "unplayable"
+      ]
+    },
+    {
+      "canonical": "Denuvo",
+      "aliases": [
+        "drm",
+        "anti-tamper",
+        "performance cost"
+      ]
+    },
+    {
+      "canonical": "Anti-Cheat",
+      "aliases": [
+        "kernel level",
+        "vanguard",
+        "easy anti cheat",
+        "rootkit"
+      ]
+    },
+    {
+      "canonical": "Always Online",
+      "aliases": [
+        "always-online",
+        "server connection required",
+        "no offline mode"
+      ]
+    }
+  ]
+}
