@@ -10022,7 +10022,7 @@
       "datascience",
       "datascience"
     ],
-    "plot_path": "/Users/jamesroot/Desktop/JAMES/Noetheca/WorldviewV2/analysis_results/worldview_comparison_DataHoarder_vs_datascience_20250717_120933.png",
+    "plot_path": "WorldviewV2/analysis_results/worldview_comparison_DataHoarder_vs_datascience_20250717_120933.png",
     "dimensionality_reduction": {
       "pca_components": 50,
       "pca_explained_variance": [
@@ -10402,7 +10402,7 @@
   "worldview_bridges": {
     "bridge_candidates": [
       {
-        "comment_a": "Hey i had a similar need to track website updates without apis or constant checking built an app called Feedsy to solve it - maybe it can help you too. I\u2019d be happy to sort you out with a free trail to power your product, if you would like?\n\nCheck out the site https://feedsy.xyz and drop me a DM to chat about the free trial \ud83d\ude42",
+        "comment_a": "Hey i had a similar need to track website updates without apis or constant checking built an app called Feedsy to solve it - maybe it can help you too. I’d be happy to sort you out with a free trail to power your product, if you would like?\n\nCheck out the site https://feedsy.xyz and drop me a DM to chat about the free trial 🙂",
         "comment_b": "I did this in Excel + VBA 10 years ago, it was the only tool I knew at the time as an analyst. It scraped 20 similar products, from every international site, so I had global prices. \n\nIt was marginally useful at the time and then we just subscribed to a service. Neither of which was still used 1 year later and since that job I have never done anything like that again",
         "similarity": 0.5467569277652746
       },
@@ -10413,7 +10413,7 @@
       },
       {
         "comment_a": "He will need a lot more than that.\n\n1. Fuckload of GPUs with tons of memory OR a unified memory architecture\n\n2. Vector database for embeddings and RAG.\n\n3. Full ETL/ELT pipeline to maintain",
-        "comment_b": "At Teradata we have a free learning site that has over 200 Jupyter notebooks in AI ML and advanced analytics. They\u2019re complete with code, sample data, business scenario and step by step instructions. You can filter by generative AI or the specific LLM . \n\n[Clearscape Analytics Experience](https://www.teradata.com/getting-started/demos/clearscape-analytics?utm_campaign=gbl-clearscape-analytics-devrel&amp;utm_content=demo&amp;utm_id=7016R000001n3bCQAQ)",
+        "comment_b": "At Teradata we have a free learning site that has over 200 Jupyter notebooks in AI ML and advanced analytics. They’re complete with code, sample data, business scenario and step by step instructions. You can filter by generative AI or the specific LLM . \n\n[Clearscape Analytics Experience](https://www.teradata.com/getting-started/demos/clearscape-analytics?utm_campaign=gbl-clearscape-analytics-devrel&amp;utm_content=demo&amp;utm_id=7016R000001n3bCQAQ)",
         "similarity": 0.5328762401975472
       },
       {
@@ -10422,7 +10422,7 @@
         "similarity": 0.5316870098088555
       },
       {
-        "comment_a": "We offer enterprise-scale APIs for X/Twitter and Instagram data. You can grab a free trial at [scrapegg](https://scrapegg.com) or DM me if you need help getting started. Would love to hear what data you\u2019re most interested in!",
+        "comment_a": "We offer enterprise-scale APIs for X/Twitter and Instagram data. You can grab a free trial at [scrapegg](https://scrapegg.com) or DM me if you need help getting started. Would love to hear what data you’re most interested in!",
         "comment_b": "I did this in Excel + VBA 10 years ago, it was the only tool I knew at the time as an analyst. It scraped 20 similar products, from every international site, so I had global prices. \n\nIt was marginally useful at the time and then we just subscribed to a service. Neither of which was still used 1 year later and since that job I have never done anything like that again",
         "similarity": 0.5256333672414543
       }
@@ -10463,7 +10463,7 @@
           "You can do 4 bays with mostly any PC from the trash. Most likely just by chance you'd be getting a much better CPU than the \"coke machine class\" they put in these NASes and SURELY more than the 2GBs DS423+ comes with by default. If it's anything since Skylake and it doesn't have a discrete GPU it will also idle at relatively low power levels too."
         ],
         "examples_b": [
-          "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it\u2019s quite basic but in reality I haven\u2019t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it\u2019s pretty rare",
+          "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it’s quite basic but in reality I haven’t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it’s pretty rare",
           "Recently there's a lack of investment. We aren't building new tools or new capabilities. There's a restriction on Capital projects. Our team's current leadership is very much like a waiter at a restaurant, they just take orders from finance or marketing or operations. Our prior leader came from one of the consulting firms and literally any projects we got his first instinct was to take back to the consulting firm to do, despite us having a team. New dashboard? I'll call Praneeth at Accenture. New forecasting model? Lisa's group at Accenture did a lot of those. So it's like the idea of doing ML in-house is just not something we do anymore."
         ]
       },
@@ -10490,7 +10490,7 @@
         ],
         "examples_b": [
           "I will second that; the ability to get useful ML ideas into a SQL query you share with non-technical stakeholders is a very, very helpful skill in those contexts. It also often requires a deeper understanding of the underlying math that set-piece modeling problems where the work is more around getting things to and from a model you got from a library.",
-          "I just think I\u2019d enjoy it more than what I\u2019m doing now. When I work with data at my current job it scratches the itch in my brain I guess. I like manipulating and crunching tons of data whenever I can."
+          "I just think I’d enjoy it more than what I’m doing now. When I work with data at my current job it scratches the itch in my brain I guess. I like manipulating and crunching tons of data whenever I can."
         ]
       },
       {
@@ -10502,7 +10502,7 @@
           "since synology announced that even their consumer unit will only work with vendor locked drives, I would stay faaaar away from them unless you already have a unit that is pre 2025"
         ],
         "examples_b": [
-          "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it\u2019s quite basic but in reality I haven\u2019t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it\u2019s pretty rare",
+          "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it’s quite basic but in reality I haven’t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it’s pretty rare",
           "I certainly agree with your concern and thank you for the references you shared, but I would not be so hypercritical against Kaggle. It is a right tool to build something and openly see what are the performances that other people are obtaining, or which concerns/comments they raised. \n\nIf you work alone \"on some data\" (which is what I do almost every Saturday morning) may not be the best way to learn from the community how many different ideas and approaches (not just better performance) can sparkle from other practitioners.\n\nI think the best would be to combine both Kaggle and the references you proposed as a complete gym to deepen data science skills."
         ]
       },
@@ -10529,7 +10529,7 @@
         ],
         "examples_b": [
           "Understand that non-technical recruiters and semi-technical recruiters' weight work-related things higher because it has a company name behind it and their job is on the line if they don't have solid backing for moving you on. When you get to the fully technical rounds, your personal projects will likely have a pretty decent weight to them if they are related to the job.",
-          "I am a bad cop. I tell my engineers that they need to work more on stuff that don\u2019t excite them, and I tell my customers that we will deliver a different thing than what they asked for and it will be delayed."
+          "I am a bad cop. I tell my engineers that they need to work more on stuff that don’t excite them, and I tell my customers that we will deliver a different thing than what they asked for and it will be delayed."
         ]
       },
       {
@@ -10554,7 +10554,7 @@
           "\nHello /u/rawaka! Thank you for posting in r/DataHoarder. \n\nPlease remember to read our [Rules](https://www.reddit.com/r/DataHoarder/wiki/index/rules) and [Wiki](https://www.reddit.com/r/DataHoarder/wiki/index).\n\nPlease note that your post will be removed if you just post a box/speed/server post. Please give background information on your server pictures. \n\nThis subreddit will ***NOT*** help you find or exchange that Movie/TV show/Nuclear Launch Manual, visit r/DHExchange instead.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DataHoarder) if you have any questions or concerns.*"
         ],
         "examples_b": [
-          "If anyone has a book on how to deal with non (data science) technical stakeholders that try to make suggestions on low level implementation and methodology please let me know \ud83e\udd74",
+          "If anyone has a book on how to deal with non (data science) technical stakeholders that try to make suggestions on low level implementation and methodology please let me know 🥴",
           "I'll make up an example but it's standard fare -\n\n&gt;Here is a commercial agreement with a vendor Here are 3 past invoices from this vendor. Here is an invoice from another vendor, that is close to the one we're evaluating. Please give me an estimated final cost for work matching the following description:\n\nSo long as you have robust evaluation and validation in place, a model is a model. LLMs can be a shortcut that trades off some performance for  basically zero time or even expertise required to set up."
         ]
       }
@@ -10565,7 +10565,7 @@
       "\nHello /u/OrneryWhelpfruit! Thank you for posting in r/DataHoarder. \n\nPlease remember to read our [Rules](https://www.reddit.com/r/DataHoarder/wiki/index/rules) and [Wiki](https://www.reddit.com/r/DataHoarder/wiki/index).\n\nPlease note that your post will be removed if you just post a box/speed/server post. Please give background information on your server pictures. \n\nThis subreddit will ***NOT*** help you find or exchange that Movie/TV show/Nuclear Launch Manual, visit r/DHExchange instead.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DataHoarder) if you have any questions or concerns.*",
       "You can do 4 bays with mostly any PC from the trash. Most likely just by chance you'd be getting a much better CPU than the \"coke machine class\" they put in these NASes and SURELY more than the 2GBs DS423+ comes with by default. If it's anything since Skylake and it doesn't have a discrete GPU it will also idle at relatively low power levels too.",
       "Wait, how do you use the wrong cables? Aren't they all keyed?",
-      "\u201cAccidentally\u201d unreadable. Looks like a fax scene from Fargo (the original movie)",
+      "“Accidentally” unreadable. Looks like a fax scene from Fargo (the original movie)",
       "Bro. I am the dumb and late one. These people have been thinking of this kind of stuff for generations.",
       "This is probably a stupid question but how do I connect audio to the ATI?",
       "WD red and the Sabrent rocket 4+ also have similar endurance if you're going for regular M.2s, more options if you use u.2.\n\nAlso the *speed* of sata might be okay for you, but check if the port you're using is actually capable of SATA.",
@@ -10576,7 +10576,7 @@
     "r/datascience_samples": [
       "it is always now in my opinion - you may find value here [https://github.com/l-mds/local-data-stack/](https://github.com/l-mds/local-data-stack/) and [https://georgheiler.com/post/learning-data-engineering/](https://georgheiler.com/post/learning-data-engineering/) may be valuable for you",
       "Feasible AI startups are cool. The issue is when they try to tackle a problem that is too hard for the team.",
-      "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it\u2019s quite basic but in reality I haven\u2019t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it\u2019s pretty rare",
+      "Tbh i would probably fumble sql in an interview setting. Maybe not that question as it’s quite basic but in reality I haven’t had any need to do any sql beyond just basic-intermediate stuff, anything that gets even a little complicated I just learn on the fly but it’s pretty rare",
       "I will second that; the ability to get useful ML ideas into a SQL query you share with non-technical stakeholders is a very, very helpful skill in those contexts. It also often requires a deeper understanding of the underlying math that set-piece modeling problems where the work is more around getting things to and from a model you got from a library.",
       "Apple makes mistakes literally all of the time.",
       "So great, thanks !",
